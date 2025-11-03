@@ -1,0 +1,2794 @@
+﻿Symbol,Company Name,Exchange,Sector
+ETR:NVD,NVIDIA Corporation,Deutsche Börse Xetra,Technology
+FRA:NVD,NVIDIA Corporation,Frankfurt Stock Exchange,Technology
+ETR:MSF,Microsoft Corporation,Deutsche Börse Xetra,Technology
+FRA:MSF,Microsoft Corporation,Frankfurt Stock Exchange,Technology
+FRA:APC,Apple Inc.,Frankfurt Stock Exchange,Technology
+ETR:APC,Apple Inc.,Deutsche Börse Xetra,Technology
+ETR:AMZ,"Amazon.com, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:AMZ,"Amazon.com, Inc.",Frankfurt Stock Exchange,
+FRA:ABEC,Alphabet Inc.,Frankfurt Stock Exchange,Communication Services
+ETR:ABEA,Alphabet Inc.,Deutsche Börse Xetra,Communication Services
+ETR:ABEC,Alphabet Inc.,Deutsche Börse Xetra,Communication Services
+ETR:FB2A,"Meta Platforms, Inc.",Deutsche Börse Xetra,Communication Services
+FRA:FB2A,"Meta Platforms, Inc.",Frankfurt Stock Exchange,Communication Services
+FRA:1YD,Broadcom Inc.,Frankfurt Stock Exchange,
+ETR:1YD,Broadcom Inc.,Deutsche Börse Xetra,Technology
+ETR:BRYN,Berkshire Hathaway Inc.,Deutsche Börse Xetra,Financials
+FRA:TL0,"Tesla, Inc.",Frankfurt Stock Exchange,
+ETR:TL0,"Tesla, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+ETR:WMT,Walmart Inc.,Deutsche Börse Xetra,Consumer Staples
+FRA:WMT,Walmart Inc.,Frankfurt Stock Exchange,
+ETR:CMC,JPMorgan Chase & Co.,Deutsche Börse Xetra,Financials
+FRA:CMC,JPMorgan Chase & Co.,Frankfurt Stock Exchange,
+ETR:LLY,Eli Lilly and Company,Deutsche Börse Xetra,Healthcare
+FRA:LLY,Eli Lilly and Company,Frankfurt Stock Exchange,
+ETR:3V64,Visa Inc.,Deutsche Börse Xetra,Financials
+FRA:3V64,Visa Inc.,Frankfurt Stock Exchange,
+FRA:NNND,Tencent Holdings Limited,Frankfurt Stock Exchange,Communication Services
+ETR:M4I,Mastercard Incorporated,Deutsche Börse Xetra,Financials
+FRA:M4I,Mastercard Incorporated,Frankfurt Stock Exchange,
+FRA:NFC,"Netflix, Inc.",Frankfurt Stock Exchange,
+ETR:NFC,"Netflix, Inc.",Deutsche Börse Xetra,Communication Services
+ETR:ORC,Oracle Corporation,Deutsche Börse Xetra,Technology
+FRA:ORC,Oracle Corporation,Frankfurt Stock Exchange,
+ETR:XONA,Exxon Mobil Corporation,Deutsche Börse Xetra,Energy
+FRA:XONA,Exxon Mobil Corporation,Frankfurt Stock Exchange,
+ETR:CTO,Costco Wholesale Corporation,Deutsche Börse Xetra,
+FRA:CTO,Costco Wholesale Corporation,Frankfurt Stock Exchange,
+ETR:PRG,The Procter & Gamble Company,Deutsche Börse Xetra,Consumer Staples
+FRA:PRG,The Procter & Gamble Company,Frankfurt Stock Exchange,
+ETR:JNJ,Johnson & Johnson,Deutsche Börse Xetra,Healthcare
+FRA:JNJ,Johnson & Johnson,Frankfurt Stock Exchange,
+ETR:HDI,"The Home Depot, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:HDI,"The Home Depot, Inc.",Frankfurt Stock Exchange,
+ETR:SAP,SAP SE,Deutsche Börse Xetra,Technology
+FRA:SAP,SAP SE,Frankfurt Stock Exchange,
+ETR:NOV,Novo Nordisk A/S,Deutsche Börse Xetra,Healthcare
+FRA:NOV,Novo Nordisk A/S,Frankfurt Stock Exchange,
+ETR:NCB,Bank of America Corporation,Deutsche Börse Xetra,Financials
+FRA:NCB,Bank of America Corporation,Frankfurt Stock Exchange,
+ETR:4AB,AbbVie Inc.,Deutsche Börse Xetra,Healthcare
+FRA:4AB,AbbVie Inc.,Frankfurt Stock Exchange,
+FRA:PTX,Palantir Technologies Inc.,Frankfurt Stock Exchange,Technology
+ETR:PTX,Palantir Technologies Inc.,Deutsche Börse Xetra,Technology
+FRA:CCC3,The Coca-Cola Company,Frankfurt Stock Exchange,
+ETR:CCC3,The Coca-Cola Company,Deutsche Börse Xetra,Consumer Staples
+ETR:ASME,ASML Holding N.V.,Deutsche Börse Xetra,Technology
+FRA:ASME,ASML Holding N.V.,Frankfurt Stock Exchange,
+ETR:HMI,Hermès International Société en commandite par actions,Deutsche Börse Xetra,Consumer Discretionary
+FRA:HMI,Hermès International Société en commandite par actions,Frankfurt Stock Exchange,
+ETR:4I1,Philip Morris International Inc.,Deutsche Börse Xetra,Consumer Staples
+FRA:4I1,Philip Morris International Inc.,Frankfurt Stock Exchange,
+ETR:AHLA,Alibaba Group Holding Limited,Deutsche Börse Xetra,Consumer Discretionary
+ETR:UNH,UnitedHealth Group Incorporated,Deutsche Börse Xetra,Healthcare
+FRA:UNH,UnitedHealth Group Incorporated,Frankfurt Stock Exchange,
+ETR:MOH,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",Deutsche Börse Xetra,Consumer Discretionary
+FRA:MOH,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",Frankfurt Stock Exchange,
+FRA:TM5,"T-Mobile US, Inc.",Frankfurt Stock Exchange,
+FRA:NESM,Nestlé S.A.,Frankfurt Stock Exchange,
+ETR:NESR,Nestlé S.A.,Deutsche Börse Xetra,Consumer Staples
+ETR:TM5,"T-Mobile US, Inc.",Deutsche Börse Xetra,Communication Services
+ETR:GCP,General Electric Company,Deutsche Börse Xetra,Industrials
+ETR:RHO,Roche Holding AG,Deutsche Börse Xetra,Healthcare
+FRA:GCP,General Electric Company,Frankfurt Stock Exchange,
+ETR:CIS,"Cisco Systems, Inc.",Deutsche Börse Xetra,Technology
+FRA:CIS,"Cisco Systems, Inc.",Frankfurt Stock Exchange,
+ETR:FOO,"Salesforce, Inc.",Deutsche Börse Xetra,Technology
+FRA:FOO,"Salesforce, Inc.",Frankfurt Stock Exchange,Technology
+ETR:IBM,International Business Machines Corporation,Deutsche Börse Xetra,Technology
+FRA:IBM,International Business Machines Corporation,Frankfurt Stock Exchange,
+ETR:CHV,Chevron Corporation,Deutsche Börse Xetra,Energy
+FRA:CHV,Chevron Corporation,Frankfurt Stock Exchange,
+FRA:NWT,Wells Fargo & Company,Frankfurt Stock Exchange,
+ETR:NWT,Wells Fargo & Company,Deutsche Börse Xetra,Financials
+FRA:TOM,Toyota Motor Corporation,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:ABL,Abbott Laboratories,Frankfurt Stock Exchange,
+ETR:LOR,L'Oréal S.A.,Deutsche Börse Xetra,Consumer Staples
+FRA:LOR,L'Oréal S.A.,Frankfurt Stock Exchange,
+ETR:NOT,Novartis AG,Deutsche Börse Xetra,
+ETR:ABL,Abbott Laboratories,Deutsche Börse Xetra,Healthcare
+ETR:ZEG,AstraZeneca PLC,Deutsche Börse Xetra,Healthcare
+FRA:ZEG,AstraZeneca PLC,Frankfurt Stock Exchange,
+ETR:LIN,Linde plc,Deutsche Börse Xetra,Materials
+FRA:LIN,Linde plc,Frankfurt Stock Exchange,
+ETR:MDO,McDonald's Corporation,Deutsche Börse Xetra,Consumer Discretionary
+FRA:MDO,McDonald's Corporation,Frankfurt Stock Exchange,
+ETR:ITU,Intuit Inc.,Deutsche Börse Xetra,Technology
+FRA:ITU,Intuit Inc.,Frankfurt Stock Exchange,
+ETR:DWD,Morgan Stanley,Deutsche Börse Xetra,Financials
+FRA:DWD,Morgan Stanley,Frankfurt Stock Exchange,
+ETR:AEC1,American Express Company,Deutsche Börse Xetra,Financials
+FRA:AEC1,American Express Company,Frankfurt Stock Exchange,
+ETR:4S0,"ServiceNow, Inc.",Deutsche Börse Xetra,
+FRA:4S0,"ServiceNow, Inc.",Frankfurt Stock Exchange,
+ETR:R6C0,Shell plc,Deutsche Börse Xetra,Energy
+FRA:R6C0,Shell plc,Frankfurt Stock Exchange,
+ETR:WDP,The Walt Disney Company,Deutsche Börse Xetra,Communication Services
+FRA:WDP,The Walt Disney Company,Frankfurt Stock Exchange,Communication Services
+ETR:HBC1,HSBC Holdings plc,Deutsche Börse Xetra,Financials
+FRA:HBC1,HSBC Holdings plc,Frankfurt Stock Exchange,
+ETR:SOBA,AT&T Inc.,Deutsche Börse Xetra,Communication Services
+FRA:SOBA,AT&T Inc.,Frankfurt Stock Exchange,
+ETR:6MK,"Merck & Co., Inc.",Deutsche Börse Xetra,Healthcare
+FRA:6MK,"Merck & Co., Inc.",Frankfurt Stock Exchange,
+ETR:AMD,"Advanced Micro Devices, Inc.",Deutsche Börse Xetra,Technology
+FRA:AMD,"Advanced Micro Devices, Inc.",Frankfurt Stock Exchange,
+ETR:SIE,Siemens Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:SIE,Siemens Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:IUI1,"Intuitive Surgical, Inc.",Deutsche Börse Xetra,
+FRA:IUI1,"Intuitive Surgical, Inc.",Frankfurt Stock Exchange,
+FRA:5UR,RTX Corporation,Frankfurt Stock Exchange,
+ETR:BAC,Verizon Communications Inc.,Deutsche Börse Xetra,Communication Services
+FRA:BAC,Verizon Communications Inc.,Frankfurt Stock Exchange,
+ETR:5UR,RTX Corporation,Deutsche Börse Xetra,Industrials
+ETR:TII,Texas Instruments Incorporated,Deutsche Börse Xetra,Technology
+FRA:DTE,Deutsche Telekom AG,Frankfurt Stock Exchange,
+ETR:DTE,Deutsche Telekom AG,Deutsche Börse Xetra,Communication Services
+ETR:UT8,"Uber Technologies, Inc.",Deutsche Börse Xetra,Technology
+FRA:UT8,"Uber Technologies, Inc.",Frankfurt Stock Exchange,
+FRA:TII,Texas Instruments Incorporated,Frankfurt Stock Exchange,
+ETR:PEP,"PepsiCo, Inc.",Deutsche Börse Xetra,Consumer Staples
+FRA:PEP,"PepsiCo, Inc.",Frankfurt Stock Exchange,
+ETR:PCE1,Booking Holdings Inc.,Deutsche Börse Xetra,
+FRA:PCE1,Booking Holdings Inc.,Frankfurt Stock Exchange,
+ETR:GOS,"The Goldman Sachs Group, Inc.",Deutsche Börse Xetra,Financials
+FRA:GOS,"The Goldman Sachs Group, Inc.",Frankfurt Stock Exchange,
+FRA:RYC,Royal Bank of Canada,Frankfurt Stock Exchange,
+ETR:ADB,Adobe Inc.,Deutsche Börse Xetra,Technology
+FRA:ADB,Adobe Inc.,Frankfurt Stock Exchange,
+ETR:3CP,Xiaomi Corporation,Deutsche Börse Xetra,
+ETR:IXD1,"Industria de Diseño Textil, S.A.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:QCI,QUALCOMM Incorporated,Frankfurt Stock Exchange,
+ETR:QCI,QUALCOMM Incorporated,Deutsche Börse Xetra,Technology
+FRA:CAT1,Caterpillar Inc.,Frankfurt Stock Exchange,
+ETR:CAT1,Caterpillar Inc.,Deutsche Börse Xetra,Industrials
+FRA:BCO,The Boeing Company,Frankfurt Stock Exchange,
+ETR:BCO,The Boeing Company,Deutsche Börse Xetra,Industrials
+FRA:M4B,"China Merchants Bank Co., Ltd.",Frankfurt Stock Exchange,
+ETR:AMG,Amgen Inc.,Deutsche Börse Xetra,Healthcare
+FRA:AMG,Amgen Inc.,Frankfurt Stock Exchange,
+ETR:MHL,S&P Global Inc.,Deutsche Börse Xetra,Financials
+FRA:MHL,S&P Global Inc.,Frankfurt Stock Exchange,
+ETR:UNVB,Unilever PLC,Deutsche Börse Xetra,Consumer Staples
+FRA:UNVB,Unilever PLC,Frankfurt Stock Exchange,
+ETR:TN8,Thermo Fisher Scientific Inc.,Deutsche Börse Xetra,Healthcare
+FRA:TN8,Thermo Fisher Scientific Inc.,Frankfurt Stock Exchange,
+FRA:ALV,Allianz SE,Frankfurt Stock Exchange,
+ETR:ALV,Allianz SE,Deutsche Börse Xetra,Financials
+ETR:UU2,"BlackRock, Inc.",Deutsche Börse Xetra,Financials
+FRA:UU2,"BlackRock, Inc.",Frankfurt Stock Exchange,
+FRA:BY6,BYD Company Limited,Frankfurt Stock Exchange,Consumer Discretionary
+ETR:AIR,Airbus SE,Deutsche Börse Xetra,Industrials
+FRA:AIR,Airbus SE,Frankfurt Stock Exchange,
+ETR:BSX,Boston Scientific Corporation,Deutsche Börse Xetra,
+FRA:BSX,Boston Scientific Corporation,Frankfurt Stock Exchange,Healthcare
+ETR:SND,Schneider Electric S.E.,Deutsche Börse Xetra,Industrials
+FRA:SND,Schneider Electric S.E.,Frankfurt Stock Exchange,
+ETR:TRVC,Citigroup Inc.,Deutsche Börse Xetra,Financials
+ETR:ALD,Honeywell International Inc.,Deutsche Börse Xetra,Industrials
+FRA:TRVC,Citigroup Inc.,Frankfurt Stock Exchange,
+FRA:ALD,Honeywell International Inc.,Frankfurt Stock Exchange,
+FRA:DAP,Danaher Corporation,Frankfurt Stock Exchange,
+ETR:DAP,Danaher Corporation,Deutsche Börse Xetra,Healthcare
+ETR:639,Spotify Technology S.A.,Deutsche Börse Xetra,Communication Services
+FRA:639,Spotify Technology S.A.,Frankfurt Stock Exchange,
+ETR:TJX,"The TJX Companies, Inc.",Deutsche Börse Xetra,
+FRA:TJX,"The TJX Companies, Inc.",Frankfurt Stock Exchange,
+ETR:DCO,Deere & Company,Deutsche Börse Xetra,Industrials
+FRA:DCO,Deere & Company,Frankfurt Stock Exchange,
+ETR:1NBA,Anheuser-Busch InBev SA/NV,Deutsche Börse Xetra,Consumer Staples
+FRA:1NBA,Anheuser-Busch InBev SA/NV,Frankfurt Stock Exchange,
+ETR:AP2,"Applied Materials, Inc.",Deutsche Börse Xetra,Technology
+FRA:AP2,"Applied Materials, Inc.",Frankfurt Stock Exchange,
+ETR:PFE,Pfizer Inc.,Deutsche Börse Xetra,Healthcare
+FRA:PFE,Pfizer Inc.,Frankfurt Stock Exchange,Healthcare
+ETR:GIS,"Gilead Sciences, Inc.",Deutsche Börse Xetra,Healthcare
+FRA:GIS,"Gilead Sciences, Inc.",Frankfurt Stock Exchange,
+FRA:UNP,Union Pacific Corporation,Frankfurt Stock Exchange,
+ETR:TOTB,TotalEnergies SE,Deutsche Börse Xetra,Energy
+FRA:TOTB,TotalEnergies SE,Frankfurt Stock Exchange,
+ETR:UNP,Union Pacific Corporation,Deutsche Börse Xetra,Industrials
+ETR:CTP2,Comcast Corporation,Deutsche Börse Xetra,Communication Services
+FRA:CTP2,Comcast Corporation,Frankfurt Stock Exchange,
+ETR:ESL,EssilorLuxottica Société anonyme,Deutsche Börse Xetra,
+FRA:ESL,EssilorLuxottica Société anonyme,Frankfurt Stock Exchange,
+ETR:5AP,"Palo Alto Networks, Inc.",Deutsche Börse Xetra,
+FRA:5AP,"Palo Alto Networks, Inc.",Frankfurt Stock Exchange,
+FRA:ADP,"Automatic Data Processing, Inc.",Frankfurt Stock Exchange,
+ETR:MTE,"Micron Technology, Inc.",Deutsche Börse Xetra,Technology
+FRA:MTE,"Micron Technology, Inc.",Frankfurt Stock Exchange,
+FRA:3EC,Eaton Corporation plc,Frankfurt Stock Exchange,
+FRA:LWE,"Lowe's Companies, Inc.",Frankfurt Stock Exchange,
+ETR:SEJ1,Safran SA,Deutsche Börse Xetra,
+FRA:SEJ1,Safran SA,Frankfurt Stock Exchange,
+ETR:1TY,Prosus N.V.,Deutsche Börse Xetra,Communication Services
+FRA:1TY,Prosus N.V.,Frankfurt Stock Exchange,
+ETR:SNW,Sanofi,Deutsche Börse Xetra,Healthcare
+FRA:SNW,Sanofi,Frankfurt Stock Exchange,
+ETR:MLB1,"MercadoLibre, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:MLB1,"MercadoLibre, Inc.",Frankfurt Stock Exchange,
+ETR:AIL,L'Air Liquide S.A.,Deutsche Börse Xetra,Materials
+FRA:AIL,L'Air Liquide S.A.,Frankfurt Stock Exchange,
+ETR:BSD2,"Banco Santander, S.A.",Deutsche Börse Xetra,Financials
+ETR:LAR0,Lam Research Corporation,Deutsche Börse Xetra,
+ETR:VX1,Vertex Pharmaceuticals Incorporated,Deutsche Börse Xetra,Healthcare
+FRA:VX1,Vertex Pharmaceuticals Incorporated,Frankfurt Stock Exchange,
+ETR:IBE1,"Iberdrola, S.A.",Deutsche Börse Xetra,Utilities
+ETR:YCP,ConocoPhillips,Deutsche Börse Xetra,Energy
+FRA:YCP,ConocoPhillips,Frankfurt Stock Exchange,
+ETR:KLA,KLA Corporation,Deutsche Börse Xetra,
+FRA:KLA,KLA Corporation,Frankfurt Stock Exchange,
+ETR:2M6,Medtronic plc,Deutsche Börse Xetra,Healthcare
+FRA:2M6,Medtronic plc,Frankfurt Stock Exchange,
+ETR:LOM,Lockheed Martin Corporation,Deutsche Börse Xetra,Industrials
+FRA:LOM,Lockheed Martin Corporation,Frankfurt Stock Exchange,
+FRA:BBN1,Blackstone Inc.,Frankfurt Stock Exchange,Financials
+ETR:ABJ,ABB Ltd,Deutsche Börse Xetra,Industrial Goods
+ETR:AXA,AXA SA,Deutsche Börse Xetra,Financials
+FRA:AXA,AXA SA,Frankfurt Stock Exchange,
+ETR:SRB,Starbucks Corporation,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SRB,Starbucks Corporation,Frankfurt Stock Exchange,
+ETR:BMT,British American Tobacco p.l.c.,Deutsche Börse Xetra,Consumer Staples
+FRA:BMT,British American Tobacco p.l.c.,Frankfurt Stock Exchange,
+FRA:BMTA,British American Tobacco p.l.c.,Frankfurt Stock Exchange,
+FRA:FR7,"Fast Retailing Co., Ltd.",Frankfurt Stock Exchange,
+FRA:BRM,Bristol-Myers Squibb Company,Frankfurt Stock Exchange,
+ETR:CRIN,UniCredit S.p.A.,Deutsche Börse Xetra,Financials
+FRA:CRIN,UniCredit S.p.A.,Frankfurt Stock Exchange,
+FRA:IC2,"Intercontinental Exchange, Inc.",Frankfurt Stock Exchange,
+ETR:RIO1,Rio Tinto Group,Deutsche Börse Xetra,Materials
+FRA:RIO1,Rio Tinto Group,Frankfurt Stock Exchange,
+FRA:KEE,Keyence Corporation,Frankfurt Stock Exchange,
+FRA:EN3,Enbridge Inc.,Frankfurt Stock Exchange,
+ETR:BRM,Bristol-Myers Squibb Company,Deutsche Börse Xetra,Healthcare
+FRA:RRU,Rolls-Royce Holdings plc,Frankfurt Stock Exchange,
+ETR:ZFIN,Zurich Insurance Group AG,Deutsche Börse Xetra,Financials
+ETR:IES,Intesa Sanpaolo S.p.A.,Deutsche Börse Xetra,Financials
+FRA:IES,Intesa Sanpaolo S.p.A.,Frankfurt Stock Exchange,
+ETR:0UB,UBS Group AG,Deutsche Börse Xetra,
+ETR:PHM7,"Altria Group, Inc.",Deutsche Börse Xetra,Consumer Staples
+FRA:PHM7,"Altria Group, Inc.",Frankfurt Stock Exchange,
+FRA:SOT,The Southern Company,Frankfurt Stock Exchange,
+ETR:BNP,BNP Paribas SA,Deutsche Börse Xetra,Financials
+FRA:BNP,BNP Paribas SA,Frankfurt Stock Exchange,
+ETR:RDEB,RELX PLC,Deutsche Börse Xetra,Industrials
+FRA:RDEB,RELX PLC,Frankfurt Stock Exchange,
+ETR:INL,Intel Corporation,Deutsche Börse Xetra,Technology
+ETR:NKE,"NIKE, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:NKE,"NIKE, Inc.",Frankfurt Stock Exchange,
+ETR:UWS,"Waste Management, Inc.",Deutsche Börse Xetra,Industrials
+FRA:UWS,"Waste Management, Inc.",Frankfurt Stock Exchange,
+FRA:2IS,Trane Technologies plc,Frankfurt Stock Exchange,
+FRA:7A2,AIA Group Limited,Frankfurt Stock Exchange,
+ETR:ENL,Enel SpA,Deutsche Börse Xetra,Utilities
+FRA:ENL,Enel SpA,Frankfurt Stock Exchange,
+ETR:DIO,Christian Dior SE,Deutsche Börse Xetra,
+FRA:DIO,Christian Dior SE,Frankfurt Stock Exchange,
+FRA:IVS,Investor AB (publ),Frankfurt Stock Exchange,
+FRA:CIT,Cintas Corporation,Frankfurt Stock Exchange,
+FRA:SJ3,The Sherwin-Williams Company,Frankfurt Stock Exchange,
+FRA:INL,Intel Corporation,Frankfurt Stock Exchange,Technology
+FRA:MCK,McKesson Corporation,Frankfurt Stock Exchange,
+FRA:2BH,"HCA Healthcare, Inc.",Frankfurt Stock Exchange,
+FRA:DUT,Moody's Corporation,Frankfurt Stock Exchange,
+ETR:KTF,"Mondelez International, Inc.",Deutsche Börse Xetra,Consumer Staples
+ETR:2FE,Ferrari N.V.,Deutsche Börse Xetra,Consumer Discretionary
+FRA:2FE,Ferrari N.V.,Frankfurt Stock Exchange,
+BST:RHMB,Rheinmetall AG,Stuttgart Stock Exchange,
+FRA:RHM,Rheinmetall AG,Frankfurt Stock Exchange,
+ETR:RHM,Rheinmetall AG,Deutsche Börse Xetra,Industrials
+ETR:BOY,"Banco Bilbao Vizcaya Argentaria, S.A.",Deutsche Börse Xetra,Financials
+FRA:A58,"Elevance Health, Inc.",Frankfurt Stock Exchange,
+FRA:KTF,"Mondelez International, Inc.",Frankfurt Stock Exchange,
+ETR:PAR,Parker-Hannifin Corporation,Deutsche Börse Xetra,
+FRA:PAR,Parker-Hannifin Corporation,Frankfurt Stock Exchange,
+ETR:6Z1,"Airbnb, Inc.",Deutsche Börse Xetra,
+FRA:6Z1,"Airbnb, Inc.",Frankfurt Stock Exchange,
+FRA:CGN,The Cigna Group,Frankfurt Stock Exchange,
+ETR:MUV2,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Deutsche Börse Xetra,Financials
+FRA:MUV2,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Frankfurt Stock Exchange,
+ETR:GS71,GSK plc,Deutsche Börse Xetra,Healthcare
+FRA:GS71,GSK plc,Frankfurt Stock Exchange,
+ETR:CVS,CVS Health Corporation,Deutsche Börse Xetra,Healthcare
+FRA:CVS,CVS Health Corporation,Frankfurt Stock Exchange,
+ETR:BPE5,BP p.l.c.,Deutsche Börse Xetra,Energy
+FRA:BPE5,BP p.l.c.,Frankfurt Stock Exchange,
+FRA:PCU,Southern Copper Corporation,Frankfurt Stock Exchange,
+ETR:SYP,"Synopsys, Inc.",Deutsche Börse Xetra,
+ETR:SQU,Vinci SA,Deutsche Börse Xetra,Industrials
+FRA:SQU,Vinci SA,Frankfurt Stock Exchange,
+FRA:MMM,3M Company,Frankfurt Stock Exchange,
+FRA:BZZ,Bank of Montreal,Frankfurt Stock Exchange,
+ETR:MMM,3M Company,Deutsche Börse Xetra,Industrials
+FRA:RPU,"Republic Services, Inc.",Frankfurt Stock Exchange,
+ETR:12DA,Dell Technologies Inc.,Deutsche Börse Xetra,Technology
+FRA:12DA,Dell Technologies Inc.,Frankfurt Stock Exchange,
+FRA:ACO4,Atlas Copco AB (publ),Frankfurt Stock Exchange,
+ETR:CFX,Capital One Financial Corporation,Deutsche Börse Xetra,
+FRA:CFX,Capital One Financial Corporation,Frankfurt Stock Exchange,
+FRA:SYP,"Synopsys, Inc.",Frankfurt Stock Exchange,
+FRA:4VK,Aon plc,Frankfurt Stock Exchange,
+ETR:BSP,BAE Systems plc,Deutsche Börse Xetra,Industrials
+FRA:BSP,BAE Systems plc,Frankfurt Stock Exchange,
+FRA:X88,Canadian Pacific Kansas City Limited,Frankfurt Stock Exchange,
+ETR:ENR,Siemens Energy AG,Deutsche Börse Xetra,Industrials
+FRA:ENR,Siemens Energy AG,Frankfurt Stock Exchange,
+ETR:CPA,Colgate-Palmolive Company,Deutsche Börse Xetra,Consumer Staples
+FRA:CPA,Colgate-Palmolive Company,Frankfurt Stock Exchange,
+ETR:ZOE,Zoetis Inc.,Deutsche Börse Xetra,Healthcare
+FRA:ZOE,Zoetis Inc.,Frankfurt Stock Exchange,
+ETR:GDX,General Dynamics Corporation,Deutsche Börse Xetra,Industrials
+FRA:GDX,General Dynamics Corporation,Frankfurt Stock Exchange,
+FRA:MBI,Mitsubishi Corporation,Frankfurt Stock Exchange,
+ETR:ILT,Illinois Tool Works Inc.,Deutsche Börse Xetra,
+FRA:WMB,"The Williams Companies, Inc.",Frankfurt Stock Exchange,
+ETR:2PP,"PayPal Holdings, Inc.",Deutsche Börse Xetra,Financials
+FRA:2PP,"PayPal Holdings, Inc.",Frankfurt Stock Exchange,Financials
+FRA:ILT,Illinois Tool Works Inc.,Frankfurt Stock Exchange,
+FRA:UB5,U.S. Bancorp,Frankfurt Stock Exchange,
+ETR:NTH,Northrop Grumman Corporation,Deutsche Börse Xetra,Industrials
+FRA:NTH,Northrop Grumman Corporation,Frankfurt Stock Exchange,
+ETR:5Q5,Snowflake Inc.,Deutsche Börse Xetra,
+FRA:5Q5,Snowflake Inc.,Frankfurt Stock Exchange,
+ETR:NNGF,National Grid plc,Deutsche Börse Xetra,Utilities
+FRA:NNGF,National Grid plc,Frankfurt Stock Exchange,
+FRA:48Z,Howmet Aerospace Inc.,Frankfurt Stock Exchange,
+FRA:DNQ,Equinor ASA,Frankfurt Stock Exchange,
+ETR:1QZ,"Coinbase Global, Inc.",Deutsche Börse Xetra,Financials
+FRA:1QZ,"Coinbase Global, Inc.",Frankfurt Stock Exchange,
+ETR:HLBN,Holcim AG,Deutsche Börse Xetra,Materials
+FRA:BN9,The Bank of New York Mellon Corporation,Frankfurt Stock Exchange,
+ETR:INN1,ING Groep N.V.,Deutsche Börse Xetra,Financials
+FRA:INN1,ING Groep N.V.,Frankfurt Stock Exchange,
+ETR:1N8,Adyen N.V.,Deutsche Börse Xetra,Technology
+FRA:1N8,Adyen N.V.,Frankfurt Stock Exchange,
+ETR:AP3,"Air Products and Chemicals, Inc.",Deutsche Börse Xetra,
+FRA:AP3,"Air Products and Chemicals, Inc.",Frankfurt Stock Exchange,
+ETR:BCY,Barclays PLC,Deutsche Börse Xetra,Financials
+FRA:BCY,Barclays PLC,Frankfurt Stock Exchange,
+FRA:4PN,Carrier Global Corporation,Frankfurt Stock Exchange,
+FRA:2KD,"Kinder Morgan, Inc.",Frankfurt Stock Exchange,
+ETR:LLD,Lloyds Banking Group plc,Deutsche Börse Xetra,Financials
+FRA:LLD,Lloyds Banking Group plc,Frankfurt Stock Exchange,
+ETR:FPMB,Freeport-McMoRan Inc.,Deutsche Börse Xetra,Materials
+FRA:FPMB,Freeport-McMoRan Inc.,Frankfurt Stock Exchange,
+ETR:GUI,Diageo plc,Deutsche Börse Xetra,Consumer Staples
+FRA:GUI,Diageo plc,Frankfurt Stock Exchange,
+ETR:XGR2,Compass Group PLC,Deutsche Börse Xetra,Consumer Discretionary
+FRA:XGR2,Compass Group PLC,Frankfurt Stock Exchange,
+ETR:SHL,Siemens Healthineers AG,Deutsche Börse Xetra,Healthcare
+FRA:SHL,Siemens Healthineers AG,Frankfurt Stock Exchange,
+FRA:PA9,"The Travelers Companies, Inc.",Frankfurt Stock Exchange,
+FRA:AE9,Agnico Eagle Mines Limited,Frankfurt Stock Exchange,
+FRA:CSF,Thales S.A.,Frankfurt Stock Exchange,
+ETR:DB1,Deutsche Börse AG,Deutsche Börse Xetra,Financials
+FRA:DB1,Deutsche Börse AG,Frankfurt Stock Exchange,
+ETR:NMM,Newmont Corporation,Deutsche Börse Xetra,Materials
+FRA:NMM,Newmont Corporation,Frankfurt Stock Exchange,
+FRA:MRK,Merck KGaA,Frankfurt Stock Exchange,
+ETR:MRK,Merck KGaA,Deutsche Börse Xetra,Healthcare
+FRA:MBG,Mercedes-Benz Group AG,Frankfurt Stock Exchange,
+ETR:MBG,Mercedes-Benz Group AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:OCBA,Oversea-Chinese Banking Corporation Limited,Frankfurt Stock Exchange,
+ETR:GOB,Compagnie de Saint-Gobain S.A.,Deutsche Börse Xetra,Industrials
+FRA:GOB,Compagnie de Saint-Gobain S.A.,Frankfurt Stock Exchange,
+FRA:7NF,"Nongfu Spring Co., Ltd.",Frankfurt Stock Exchange,
+FRA:RYSD,NatWest Group plc,Frankfurt Stock Exchange,
+ETR:RYS1,NatWest Group plc,Deutsche Börse Xetra,Financials
+FRA:RGO,"Regeneron Pharmaceuticals, Inc.",Frankfurt Stock Exchange,
+ETR:AFL,Aflac Incorporated,Deutsche Börse Xetra,Financials
+FRA:AFL,Aflac Incorporated,Frankfurt Stock Exchange,
+ETR:XCA,Crédit Agricole S.A.,Deutsche Börse Xetra,Financials
+FRA:XCA,Crédit Agricole S.A.,Frankfurt Stock Exchange,
+FRA:BMW,Bayerische Motoren Werke Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:BMW,Bayerische Motoren Werke Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+ETR:IFX,Infineon Technologies AG,Deutsche Börse Xetra,Technology
+FRA:IFX,Infineon Technologies AG,Frankfurt Stock Exchange,
+ETR:ASG,Assicurazioni Generali S.p.A.,Deutsche Börse Xetra,Financials
+FRA:ASG,Assicurazioni Generali S.p.A.,Frankfurt Stock Exchange,
+ETR:FDX,FedEx Corporation,Deutsche Börse Xetra,Industrials
+FRA:FDX,FedEx Corporation,Frankfurt Stock Exchange,
+FRA:AEP,"American Electric Power Company, Inc.",Frankfurt Stock Exchange,
+ETR:BSN,Danone S.A.,Deutsche Börse Xetra,Consumer Staples
+FRA:BSN,Danone S.A.,Frankfurt Stock Exchange,
+ETR:DBK,Deutsche Bank Aktiengesellschaft,Deutsche Börse Xetra,Financials
+FRA:DBK,Deutsche Bank Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:JAT,Japan Tobacco Inc.,Frankfurt Stock Exchange,
+ETR:VOW,Volkswagen AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:VOW3,Volkswagen AG,Frankfurt Stock Exchange,
+FRA:VOW,Volkswagen AG,Frankfurt Stock Exchange,
+ETR:DHL,Deutsche Post AG,Deutsche Börse Xetra,Industrials
+FRA:DHL,Deutsche Post AG,Frankfurt Stock Exchange,
+FRA:BBK,Truist Financial Corporation,Frankfurt Stock Exchange,
+ETR:GZF,Engie SA,Deutsche Börse Xetra,Utilities
+FRA:GZF,Engie SA,Frankfurt Stock Exchange,
+FRA:RY6,Realty Income Corporation,Frankfurt Stock Exchange,
+ETR:ONK,"ONEOK, Inc.",Deutsche Börse Xetra,
+FRA:ONK,"ONEOK, Inc.",Frankfurt Stock Exchange,
+FRA:HNK1,Heineken N.V.,Frankfurt Stock Exchange,
+FRA:CHQ1,"Cheniere Energy, Inc.",Frankfurt Stock Exchange,
+ETR:BOX,"Becton, Dickinson and Company",Deutsche Börse Xetra,
+FRA:BOX,"Becton, Dickinson and Company",Frankfurt Stock Exchange,
+ETR:04Q,Nordea Bank Abp,Deutsche Börse Xetra,Financials
+FRA:04Q,Nordea Bank Abp,Frankfurt Stock Exchange,
+FRA:PAE,PACCAR Inc,Frankfurt Stock Exchange,
+ETR:LO3,Lonza Group AG,Deutsche Börse Xetra,
+ETR:NAQ,"Nasdaq, Inc.",Deutsche Börse Xetra,
+FRA:NAQ,"Nasdaq, Inc.",Frankfurt Stock Exchange,
+FRA:BZ4,TE Connectivity plc,Frankfurt Stock Exchange,
+FRA:A4S,"Ameriprise Financial, Inc.",Frankfurt Stock Exchange,
+FRA:FAS,Fastenal Company,Frankfurt Stock Exchange,
+FRA:UI51,"Waste Connections, Inc.",Frankfurt Stock Exchange,
+FRA:DSYA,Dassault Systèmes SE,Frankfurt Stock Exchange,
+ETR:AINN,"American International Group, Inc.",Deutsche Börse Xetra,Financials
+FRA:AINN,"American International Group, Inc.",Frankfurt Stock Exchange,
+FRA:R66,Phillips 66,Frankfurt Stock Exchange,
+ETR:H6D0,Haleon plc,Deutsche Börse Xetra,
+FRA:H6D0,Haleon plc,Frankfurt Stock Exchange,
+ETR:3RB,Reckitt Benckiser Group plc,Deutsche Börse Xetra,Consumer Staples
+FRA:3RB,Reckitt Benckiser Group plc,Frankfurt Stock Exchange,
+ETR:8GM,General Motors Company,Deutsche Börse Xetra,Consumer Discretionary
+FRA:8GM,General Motors Company,Frankfurt Stock Exchange,
+FRA:TKD,Takeda Pharmaceutical Company Limited,Frankfurt Stock Exchange,
+ETR:GIN,Givaudan SA,Deutsche Börse Xetra,
+FRA:8GC,Glencore plc,Frankfurt Stock Exchange,
+FRA:UR3,"United Rentals, Inc.",Frankfurt Stock Exchange,
+FRA:VEE,Veeva Systems Inc.,Frankfurt Stock Exchange,
+ETR:0ZC,"Zscaler, Inc.",Deutsche Börse Xetra,
+FRA:HRS,"L3Harris Technologies, Inc.",Frankfurt Stock Exchange,
+ETR:ENI,Eni S.p.A.,Deutsche Börse Xetra,Energy
+FRA:ENI,Eni S.p.A.,Frankfurt Stock Exchange,Energy
+ETR:DYH,Target Corporation,Deutsche Börse Xetra,Consumer Staples
+FRA:DYH,Target Corporation,Frankfurt Stock Exchange,
+FRA:UOB,United Overseas Bank Limited,Frankfurt Stock Exchange,
+ETR:EOAN,E.ON SE,Deutsche Börse Xetra,Utilities
+FRA:EOAN,E.ON SE,Frankfurt Stock Exchange,
+ETR:EWL,Edwards Lifesciences Corporation,Deutsche Börse Xetra,
+FRA:EWL,Edwards Lifesciences Corporation,Frankfurt Stock Exchange,
+FRA:P911,Dr. Ing. h.c. F. Porsche AG,Frankfurt Stock Exchange,
+ETR:BAS,BASF SE,Deutsche Börse Xetra,Materials
+FRA:BAS,BASF SE,Frankfurt Stock Exchange,Materials
+ETR:KMY,Kimberly-Clark Corporation,Deutsche Börse Xetra,Consumer Staples
+FRA:KMY,Kimberly-Clark Corporation,Frankfurt Stock Exchange,
+ETR:2U3,Alcon Inc.,Deutsche Börse Xetra,
+FRA:735,Pop Mart International Group Limited,Frankfurt Stock Exchange,
+FRA:KOG,The Kroger Co.,Frankfurt Stock Exchange,
+BST:ADS1,adidas AG,Stuttgart Stock Exchange,
+ETR:ADS,adidas AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ADS,adidas AG,Frankfurt Stock Exchange,Consumer Discretionary
+ETR:GLW,Corning Incorporated,Deutsche Börse Xetra,Technology
+FRA:GLW,Corning Incorporated,Frankfurt Stock Exchange,
+FRA:PEO,Exelon Corporation,Frankfurt Stock Exchange,
+ETR:OPC,Occidental Petroleum Corporation,Deutsche Börse Xetra,Energy
+FRA:OPC,Occidental Petroleum Corporation,Frankfurt Stock Exchange,
+ETR:SIKA,Sika AG,Deutsche Börse Xetra,
+ETR:3HM,MSCI Inc.,Deutsche Börse Xetra,
+FRA:3HM,MSCI Inc.,Frankfurt Stock Exchange,
+ETR:SGE,Société Générale Société anonyme,Deutsche Börse Xetra,Financials
+FRA:SGE,Société Générale Société anonyme,Frankfurt Stock Exchange,Financials
+FRA:FMC1,Ford Motor Company,Frankfurt Stock Exchange,
+FRA:3QD,"Datadog, Inc.",Frankfurt Stock Exchange,
+ETR:3QD,"Datadog, Inc.",Deutsche Börse Xetra,
+ETR:FMC1,Ford Motor Company,Deutsche Börse Xetra,Consumer Discretionary
+FRA:J4D,Kenvue Inc.,Frankfurt Stock Exchange,
+FRA:WOSB,Wolters Kluwer N.V.,Frankfurt Stock Exchange,
+ETR:WOSB,Wolters Kluwer N.V.,Deutsche Börse Xetra,Industrials
+FRA:D1NC,DNB Bank ASA,Frankfurt Stock Exchange,
+FRA:CLV,Trip.com Group Limited,Frankfurt Stock Exchange,
+FRA:SII,Wheaton Precious Metals Corp.,Frankfurt Stock Exchange,
+ETR:SQ3,"Block, Inc.",Deutsche Börse Xetra,Technology
+ETR:SII,Wheaton Precious Metals Corp.,Deutsche Börse Xetra,Materials
+FRA:TGR,"Yum! Brands, Inc.",Frankfurt Stock Exchange,
+FRA:CPF,CITIC Limited,Frankfurt Stock Exchange,
+ETR:TGR,"Yum! Brands, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:PSE,Public Service Enterprise Group Incorporated,Frankfurt Stock Exchange,
+FRA:SQ3,"Block, Inc.",Frankfurt Stock Exchange,Technology
+FRA:KDB,KBC Group NV,Frankfurt Stock Exchange,
+ETR:68V,Baker Hughes Company,Deutsche Börse Xetra,Energy
+ETR:SHR,Schindler Holding AG,Deutsche Börse Xetra,
+ETR:FTE,Orange S.A.,Deutsche Börse Xetra,Communication Services
+FRA:FTE,Orange S.A.,Frankfurt Stock Exchange,
+ETR:HNR1,Hannover Rück SE,Deutsche Börse Xetra,Financials
+FRA:HNR1,Hannover Rück SE,Frankfurt Stock Exchange,
+ETR:AHOG,Koninklijke Ahold Delhaize N.V.,Deutsche Börse Xetra,Consumer Staples
+FRA:AHOG,Koninklijke Ahold Delhaize N.V.,Frankfurt Stock Exchange,
+ETR:AI3A,"Amadeus IT Group, S.A.",Deutsche Börse Xetra,
+FRA:HO2,"D.R. Horton, Inc.",Frankfurt Stock Exchange,
+FRA:4PG,Otis Worldwide Corporation,Frankfurt Stock Exchange,
+ETR:CBK,Commerzbank AG,Deutsche Börse Xetra,Financials
+BST:ZZMS,Commerzbank AG,Stuttgart Stock Exchange,
+FRA:CBK,Commerzbank AG,Frankfurt Stock Exchange,
+FRA:RME,ResMed Inc.,Frankfurt Stock Exchange,
+ETR:ERT,Electronic Arts Inc.,Deutsche Börse Xetra,Communication Services
+FRA:ERT,Electronic Arts Inc.,Frankfurt Stock Exchange,
+FRA:EDC,"Consolidated Edison, Inc.",Frankfurt Stock Exchange,
+FRA:SYY,Sysco Corporation,Frankfurt Stock Exchange,
+ETR:SYY,Sysco Corporation,Deutsche Börse Xetra,
+ETR:EBA,eBay Inc.,Deutsche Börse Xetra,Consumer Discretionary
+FRA:EBA,eBay Inc.,Frankfurt Stock Exchange,
+ETR:HEI,Heidelberg Materials AG,Deutsche Börse Xetra,Materials
+FRA:HEI,Heidelberg Materials AG,Frankfurt Stock Exchange,
+FRA:ALZC,ASSA ABLOY AB (publ),Frankfurt Stock Exchange,
+FRA:UNC,UCB SA,Frankfurt Stock Exchange,
+FRA:ETY,Entergy Corporation,Frankfurt Stock Exchange,
+FRA:TT8,"The Trade Desk, Inc.",Frankfurt Stock Exchange,
+FRA:TAR,Targa Resources Corp.,Frankfurt Stock Exchange,
+ETR:SWJ,Swisscom AG,Deutsche Börse Xetra,Communication Services
+ETR:TT8,"The Trade Desk, Inc.",Deutsche Börse Xetra,
+FRA:AS7,ANTA Sports Products Limited,Frankfurt Stock Exchange,
+ETR:NGL0,Anglo American plc,Deutsche Börse Xetra,
+FRA:6EQ,EQT AB (publ),Frankfurt Stock Exchange,
+ETR:ABR0,Barrick Mining Corporation,Deutsche Börse Xetra,
+ETR:TCO0,Tesco PLC,Deutsche Börse Xetra,Consumer Staples
+FRA:TCO0,Tesco PLC,Frankfurt Stock Exchange,
+FRA:HSY,The Hershey Company,Frankfurt Stock Exchange,
+ETR:P2H,Partners Group Holding AG,Deutsche Börse Xetra,
+FRA:EFX,Equifax Inc.,Frankfurt Stock Exchange,
+ETR:DTG,Daimler Truck Holding AG,Deutsche Börse Xetra,Industrials
+FRA:DTG,Daimler Truck Holding AG,Frankfurt Stock Exchange,
+FRA:5GD,Ingersoll Rand Inc.,Frankfurt Stock Exchange,
+FRA:WIC,"WEC Energy Group, Inc.",Frankfurt Stock Exchange,
+ETR:DC4,"DexCom, Inc.",Deutsche Börse Xetra,
+FRA:DC4,"DexCom, Inc.",Frankfurt Stock Exchange,
+ETR:TLX,Talanx AG,Deutsche Börse Xetra,Financials
+FRA:TLX,Talanx AG,Frankfurt Stock Exchange,
+FRA:L0T,GE HealthCare Technologies Inc.,Frankfurt Stock Exchange,
+FRA:LRC,Legrand SA,Frankfurt Stock Exchange,
+FRA:EQ6,EQT Corporation,Frankfurt Stock Exchange,
+FRA:FMNB,Leonardo S.p.a.,Frankfurt Stock Exchange,
+ETR:POH1,Carnival Corporation & plc,Deutsche Börse Xetra,
+FRA:POH1,Carnival Corporation & plc,Frankfurt Stock Exchange,
+ETR:EBO,Erste Group Bank AG,Deutsche Börse Xetra,Financials
+ETR:KHNZ,The Kraft Heinz Company,Deutsche Börse Xetra,Consumer Staples
+FRA:KHNZ,The Kraft Heinz Company,Frankfurt Stock Exchange,
+BST:HENE,Henkel AG & Co. KGaA,Stuttgart Stock Exchange,
+ETR:HEN,Henkel AG & Co. KGaA,Deutsche Börse Xetra,Consumer Staples
+FRA:HEN3,Henkel AG & Co. KGaA,Frankfurt Stock Exchange,Consumer Staples
+FRA:HEN,Henkel AG & Co. KGaA,Frankfurt Stock Exchange,
+ETR:ITB,Imperial Brands PLC,Deutsche Börse Xetra,Consumer Staples
+FRA:ITB,Imperial Brands PLC,Frankfurt Stock Exchange,
+ETR:XY6,Xylem Inc.,Deutsche Börse Xetra,Industrials
+FRA:XY6,Xylem Inc.,Frankfurt Stock Exchange,
+ETR:33L,lululemon athletica inc.,Deutsche Börse Xetra,
+FRA:33L,lululemon athletica inc.,Frankfurt Stock Exchange,
+FRA:690D,"Haier Smart Home Co., Ltd.",Frankfurt Stock Exchange,
+ETR:690D,"Haier Smart Home Co., Ltd.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:SUMA,Sumitomo Corporation,Frankfurt Stock Exchange,
+FRA:CB1A,"Constellation Brands, Inc.",Frankfurt Stock Exchange,
+FRA:NRA,"NRG Energy, Inc.",Frankfurt Stock Exchange,
+ETR:BEI,Beiersdorf Aktiengesellschaft,Deutsche Börse Xetra,Consumer Staples
+FRA:BEI,Beiersdorf Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:8TI,Stellantis N.V.,Deutsche Börse Xetra,Consumer Discretionary
+FRA:8TI,Stellantis N.V.,Frankfurt Stock Exchange,
+FRA:LCR,Las Vegas Sands Corp.,Frankfurt Stock Exchange,
+ETR:BAYN,Bayer Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:BAYN,Bayer Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:CGM,Capgemini SE,Deutsche Börse Xetra,
+FRA:CGM,Capgemini SE,Frankfurt Stock Exchange,
+ETR:TNE5,"Telefónica, S.A.",Deutsche Börse Xetra,Communication Services
+ETR:AVS,ASM International NV,Deutsche Börse Xetra,
+ETR:GRM,"General Mills, Inc.",Deutsche Börse Xetra,Consumer Staples
+FRA:GRM,"General Mills, Inc.",Frankfurt Stock Exchange,
+FRA:LNN,Lennar Corporation,Frankfurt Stock Exchange,
+ETR:RY4C,Ryanair Holdings plc,Deutsche Börse Xetra,Industrials
+FRA:ZX6,DSM-Firmenich AG,Frankfurt Stock Exchange,
+FRA:RY4C,Ryanair Holdings plc,Frankfurt Stock Exchange,
+ETR:6D81,"DuPont de Nemours, Inc.",Deutsche Börse Xetra,Materials
+FRA:AVS,ASM International NV,Frankfurt Stock Exchange,
+ETR:HLAG,Hapag-Lloyd Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:HLAG,Hapag-Lloyd Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:NOA3,Nokia Oyj,Deutsche Börse Xetra,Technology
+FRA:NOA3,Nokia Oyj,Frankfurt Stock Exchange,
+FRA:6D81,"DuPont de Nemours, Inc.",Frankfurt Stock Exchange,
+ETR:ERCB,Telefonaktiebolaget LM Ericsson (publ),Deutsche Börse Xetra,Technology
+ETR:ERCG,Telefonaktiebolaget LM Ericsson (publ),Deutsche Börse Xetra,Technology
+FRA:ERCG,Telefonaktiebolaget LM Ericsson (publ),Frankfurt Stock Exchange,
+ETR:SLW,Swiss Life Holding AG,Deutsche Börse Xetra,
+ETR:RWE,RWE Aktiengesellschaft,Deutsche Börse Xetra,Utilities
+FRA:RWE,RWE Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:FRE,Fresenius SE & Co. KGaA,Frankfurt Stock Exchange,
+ETR:FRE,Fresenius SE & Co. KGaA,Deutsche Börse Xetra,Healthcare
+ETR:ZYA,State Street Corporation,Deutsche Börse Xetra,
+ETR:KEL,Kellanova,Deutsche Börse Xetra,Consumer Staples
+FRA:KEL,Kellanova,Frankfurt Stock Exchange,
+FRA:ZYA,State Street Corporation,Frankfurt Stock Exchange,
+ETR:DP4B,A.P. Møller - Mærsk A/S,Deutsche Börse Xetra,Industrials
+ETR:DP4A,A.P. Møller - Mærsk A/S,Deutsche Börse Xetra,Industrials
+FRA:DP4A,A.P. Møller - Mærsk A/S,Frankfurt Stock Exchange,
+FRA:DP4H,A.P. Møller - Mærsk A/S,Frankfurt Stock Exchange,
+FRA:7PI,Poste Italiane S.p.A.,Frankfurt Stock Exchange,
+FRA:SVKB,Sandvik AB (publ),Frankfurt Stock Exchange,
+FRA:HUM,Humana Inc.,Frankfurt Stock Exchange,
+FRA:BGT,Bridgestone Corporation,Frankfurt Stock Exchange,
+FRA:PU4,Publicis Groupe S.A.,Frankfurt Stock Exchange,
+FRA:RLS,"Rollins, Inc.",Frankfurt Stock Exchange,
+ETR:VNA,Vonovia SE,Deutsche Börse Xetra,Real Estate
+FRA:VNA,Vonovia SE,Frankfurt Stock Exchange,Real Estate
+ETR:AWC,"American Water Works Company, Inc.",Deutsche Börse Xetra,Utilities
+FRA:HXG,Hexagon AB (publ),Frankfurt Stock Exchange,
+FRA:CS1,Expand Energy Corporation,Frankfurt Stock Exchange,
+FRA:AWC,"American Water Works Company, Inc.",Frankfurt Stock Exchange,
+FRA:UAL1,"United Airlines Holdings, Inc.",Frankfurt Stock Exchange,
+ETR:KNIA,Kuehne + Nagel International AG,Deutsche Börse Xetra,Industrials
+ETR:UAL1,"United Airlines Holdings, Inc.",Deutsche Börse Xetra,
+FRA:847,Seagate Technology Holdings plc,Frankfurt Stock Exchange,
+FRA:CNN1,Canon Inc.,Frankfurt Stock Exchange,
+FRA:OS1,"Otsuka Holdings Co., Ltd.",Frankfurt Stock Exchange,
+FRA:MCHA,Compagnie Générale des Établissements Michelin Société en commandite par actions,Frankfurt Stock Exchange,
+ETR:SGM,STMicroelectronics N.V.,Deutsche Börse Xetra,Technology
+FRA:SGM,STMicroelectronics N.V.,Frankfurt Stock Exchange,
+FRA:DAU0,Dassault Aviation société anonyme,Frankfurt Stock Exchange,
+ETR:GBRA,Geberit AG,Deutsche Börse Xetra,Industrials
+ETR:PER,Pernod Ricard SA,Deutsche Börse Xetra,Consumer Staples
+FRA:PER,Pernod Ricard SA,Frankfurt Stock Exchange,
+FRA:3AD1,Epiroc AB (publ),Frankfurt Stock Exchange,
+FRA:PPQ,"PPG Industries, Inc.",Frankfurt Stock Exchange,
+FRA:2Y11,China Tower Corporation Limited,Frankfurt Stock Exchange,
+ETR:OEWA,VERBUND AG,Deutsche Börse Xetra,Utilities
+ETR:22UA,BioNTech SE,Deutsche Börse Xetra,Healthcare
+ETR:MS51,"Super Micro Computer, Inc.",Deutsche Börse Xetra,
+FRA:MS51,"Super Micro Computer, Inc.",Frankfurt Stock Exchange,
+ETR:PPX,Kering SA,Deutsche Börse Xetra,Consumer Discretionary
+ETR:VVD,Veolia Environnement SA,Deutsche Börse Xetra,Industrials
+FRA:VVD,Veolia Environnement SA,Frankfurt Stock Exchange,
+ETR:INP,International Paper Company,Deutsche Börse Xetra,Consumer Discretionary
+FRA:INP,International Paper Company,Frankfurt Stock Exchange,
+FRA:PPX,Kering SA,Frankfurt Stock Exchange,
+FRA:J5A,"Warner Bros. Discovery, Inc.",Frankfurt Stock Exchange,
+FRA:F03,Fortive Corporation,Frankfurt Stock Exchange,
+FRA:FUC,Fanuc Corporation,Frankfurt Stock Exchange,
+FRA:CHZ,China Resources Land Limited,Frankfurt Stock Exchange,
+ETR:VODI,Vodafone Group Public Limited Company,Deutsche Börse Xetra,Communication Services
+FRA:VODI,Vodafone Group Public Limited Company,Frankfurt Stock Exchange,
+FRA:FC6A,"First Citizens BancShares, Inc.",Frankfurt Stock Exchange,
+FRA:CJ5A,CGI Inc.,Frankfurt Stock Exchange,
+ETR:2HP,Hewlett Packard Enterprise Company,Deutsche Börse Xetra,Technology
+FRA:2HP,Hewlett Packard Enterprise Company,Frankfurt Stock Exchange,
+ETR:5ZM,Zoom Communications Inc.,Deutsche Börse Xetra,
+FRA:5ZM,Zoom Communications Inc.,Frankfurt Stock Exchange,Technology
+FRA:7HP,HP Inc.,Frankfurt Stock Exchange,
+FRA:SDV1,Saab AB (publ),Frankfurt Stock Exchange,
+FRA:HOU,"CenterPoint Energy, Inc.",Frankfurt Stock Exchange,
+FRA:12F,Fortis Inc.,Frankfurt Stock Exchange,
+FRA:HU3,Huntington Bancshares Incorporated,Frankfurt Stock Exchange,
+ETR:7HP,HP Inc.,Deutsche Börse Xetra,Technology
+ETR:J5A,"Warner Bros. Discovery, Inc.",Deutsche Börse Xetra,
+ETR:ADM,Archer-Daniels-Midland Company,Deutsche Börse Xetra,Consumer Staples
+ETR:ARRD,ArcelorMittal S.A.,Deutsche Börse Xetra,Materials
+FRA:ARRD,ArcelorMittal S.A.,Frankfurt Stock Exchange,
+ETR:HMSB,H & M Hennes & Mauritz AB (publ),Deutsche Börse Xetra,Consumer Discretionary
+FRA:HMSB,H & M Hennes & Mauritz AB (publ),Frankfurt Stock Exchange,
+FRA:SFE,Synchrony Financial,Frankfurt Stock Exchange,
+FRA:ADM,Archer-Daniels-Midland Company,Frankfurt Stock Exchange,
+FRA:FE7,FirstEnergy Corp.,Frankfurt Stock Exchange,
+ETR:PHI1,Koninklijke Philips N.V.,Deutsche Börse Xetra,Healthcare
+FRA:PHI1,Koninklijke Philips N.V.,Frankfurt Stock Exchange,
+FRA:GRU,Geely Automobile Holdings Limited,Frankfurt Stock Exchange,
+ETR:XS4,ON Semiconductor Corporation,Deutsche Börse Xetra,
+FRA:XS4,ON Semiconductor Corporation,Frankfurt Stock Exchange,
+FRA:2CK,CK Hutchison Holdings Limited,Frankfurt Stock Exchange,
+FRA:E3X1,"Expedia Group, Inc.",Frankfurt Stock Exchange,
+FRA:4H5,Heineken Holding N.V.,Frankfurt Stock Exchange,
+FRA:KY6,"Interactive Brokers Group, Inc.",Frankfurt Stock Exchange,
+FRA:BZLA,Banco do Brasil S.A.,Frankfurt Stock Exchange,
+FRA:MRI,MTR Corporation Limited,Frankfurt Stock Exchange,
+ETR:56S1,Sartorius Stedim Biotech S.A.,Deutsche Börse Xetra,
+FRA:56S1,Sartorius Stedim Biotech S.A.,Frankfurt Stock Exchange,
+ETR:CBHD,Coloplast A/S,Deutsche Börse Xetra,Healthcare
+FRA:3KY,Hansoh Pharmaceutical Group Company Limited,Frankfurt Stock Exchange,
+FRA:KAO,Kao Corporation,Frankfurt Stock Exchange,
+HAM:VTWR,Vantage Towers AG,Hamburg Stock Exchange,
+FRA:CBHD,Coloplast A/S,Frankfurt Stock Exchange,
+FRA:N6B,Labcorp Holdings Inc.,Frankfurt Stock Exchange,
+ETR:2OY,Dow Inc.,Deutsche Börse Xetra,Materials
+FRA:2OY,Dow Inc.,Frankfurt Stock Exchange,
+ETR:EBK,EnBW Energie Baden-Württemberg AG,Deutsche Börse Xetra,Utilities
+FRA:EBK,EnBW Energie Baden-Württemberg AG,Frankfurt Stock Exchange,
+ETR:INR,International Consolidated Airlines Group S.A.,Deutsche Börse Xetra,Industrials
+ETR:DY6,Devon Energy Corporation,Deutsche Börse Xetra,
+FRA:INR,International Consolidated Airlines Group S.A.,Frankfurt Stock Exchange,
+BST:MTX1,MTU Aero Engines AG,Stuttgart Stock Exchange,
+ETR:MTX,MTU Aero Engines AG,Deutsche Börse Xetra,Industrials
+FRA:MTX,MTU Aero Engines AG,Frankfurt Stock Exchange,
+FRA:TIB1,Techtronic Industries Company Limited,Frankfurt Stock Exchange,
+ETR:TR1,"T. Rowe Price Group, Inc.",Deutsche Börse Xetra,Financials
+ETR:EYX,Exor N.V.,Deutsche Börse Xetra,Industrials
+FRA:CSG,CMS Energy Corporation,Frankfurt Stock Exchange,
+FRA:HUEC,Hubbell Incorporated,Frankfurt Stock Exchange,
+FRA:TR1,"T. Rowe Price Group, Inc.",Frankfurt Stock Exchange,
+FRA:TEQ,Telenor ASA,Frankfurt Stock Exchange,
+FRA:EYX,Exor N.V.,Frankfurt Stock Exchange,
+FRA:206G,"Huatai Securities Co., Ltd.",Frankfurt Stock Exchange,
+ETR:SUV,SGS SA,Deutsche Börse Xetra,
+FRA:LGI,Legal & General Group Plc,Frankfurt Stock Exchange,
+ETR:IDP,Biogen Inc.,Deutsche Börse Xetra,Healthcare
+FRA:AFO1,Associated British Foods plc,Frankfurt Stock Exchange,
+FRA:LXI,Lennox International Inc.,Frankfurt Stock Exchange,
+FRA:TF7A,"Tyson Foods, Inc.",Frankfurt Stock Exchange,
+FRA:NXG,NEXT plc,Frankfurt Stock Exchange,
+FRA:ABW,"Asahi Group Holdings, Ltd.",Frankfurt Stock Exchange,
+FRA:TEKB,Teck Resources Limited,Frankfurt Stock Exchange,
+FRA:TW10,Tenaris S.A.,Frankfurt Stock Exchange,
+FRA:QJE,Pan Pacific International Holdings Corporation,Frankfurt Stock Exchange,
+FRA:C0Q,Coca-Cola HBC AG,Frankfurt Stock Exchange,
+ETR:UN0,Uniper SE,Deutsche Börse Xetra,Utilities
+FRA:UN0,Uniper SE,Frankfurt Stock Exchange,
+FRA:SJX,Singapore Technologies Engineering Ltd,Frankfurt Stock Exchange,
+FRA:AEU,Prysmian S.p.A.,Frankfurt Stock Exchange,
+FRA:JBL,Jabil Inc.,Frankfurt Stock Exchange,
+FRA:1L30,Lifco AB (publ),Frankfurt Stock Exchange,
+FRA:EI2,Erie Indemnity Company,Frankfurt Stock Exchange,
+FRA:CPP,China Overseas Land & Investment Limited,Frankfurt Stock Exchange,
+ETR:PHBN,Sonova Holding AG,Deutsche Börse Xetra,
+ETR:HAL,Halliburton Company,Deutsche Börse Xetra,Energy
+FRA:HAL,Halliburton Company,Frankfurt Stock Exchange,
+FRA:NOU,NiSource Inc.,Frankfurt Stock Exchange,
+FRA:36E,GFL Environmental Inc.,Frankfurt Stock Exchange,
+FRA:NI7,"Nippon Paint Holdings Co., Ltd.",Frankfurt Stock Exchange,
+ETR:KIN2,Kinross Gold Corporation,Deutsche Börse Xetra,Materials
+FRA:KIN2,Kinross Gold Corporation,Frankfurt Stock Exchange,
+FRA:KW9A,Galaxy Entertainment Group Limited,Frankfurt Stock Exchange,
+FRA:1C5,"Citizens Financial Group, Inc.",Frankfurt Stock Exchange,
+FRA:CS2,"Casey's General Stores, Inc.",Frankfurt Stock Exchange,
+FRA:H0Q,China Hongqiao Group Limited,Frankfurt Stock Exchange,
+FRA:AA9,Alfa Laval AB (publ),Frankfurt Stock Exchange,
+ETR:D2G,Ørsted A/S,Deutsche Börse Xetra,Utilities
+FRA:D2G,Ørsted A/S,Frankfurt Stock Exchange,
+ETR:F3A,"First Solar, Inc.",Deutsche Börse Xetra,Technology
+FRA:F3A,"First Solar, Inc.",Frankfurt Stock Exchange,
+ETR:CON,Continental Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+FRA:CON,Continental Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:GPT,Genuine Parts Company,Frankfurt Stock Exchange,
+FRA:ANI,Amundi S.A.,Frankfurt Stock Exchange,
+FRA:ASI1,ASICS Corporation,Frankfurt Stock Exchange,
+FRA:PG4,"Principal Financial Group, Inc.",Frankfurt Stock Exchange,
+FRA:BOP,Bolloré SE,Frankfurt Stock Exchange,
+FRA:BDSB,"Banco de Sabadell, S.A.",Frankfurt Stock Exchange,
+ETR:2NN,NN Group N.V.,Deutsche Börse Xetra,
+ETR:8TRA,Traton SE,Deutsche Börse Xetra,Industrials
+ETR:VWSB,Vestas Wind Systems A/S,Deutsche Börse Xetra,Industrials
+FRA:VWSB,Vestas Wind Systems A/S,Frankfurt Stock Exchange,
+FRA:62M,Metro Inc.,Frankfurt Stock Exchange,
+ETR:FME,Fresenius Medical Care AG,Deutsche Börse Xetra,Healthcare
+FRA:FME,Fresenius Medical Care AG,Frankfurt Stock Exchange,
+FRA:MOV,Moncler S.p.A.,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:EDP,"EDP, S.A.",Frankfurt Stock Exchange,
+FRA:8TRA,Traton SE,Frankfurt Stock Exchange,
+ETR:NEM,Nemetschek SE,Deutsche Börse Xetra,Technology
+FRA:NEM,Nemetschek SE,Frankfurt Stock Exchange,
+FRA:I8U,Inpex Corporation,Frankfurt Stock Exchange,
+BST:SYIEY,Symrise AG,Stuttgart Stock Exchange,
+ETR:SY1,Symrise AG,Deutsche Börse Xetra,Materials
+FRA:SY1,Symrise AG,Frankfurt Stock Exchange,
+FRA:CHH,CK Infrastructure Holdings Limited,Frankfurt Stock Exchange,
+FRA:0YU,"Yum China Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:BYG,Bouygues SA,Frankfurt Stock Exchange,
+FRA:PRP,Prada S.p.A.,Frankfurt Stock Exchange,
+FRA:RS6,"Reliance, Inc.",Frankfurt Stock Exchange,
+FRA:WPS,"West Pharmaceutical Services, Inc.",Frankfurt Stock Exchange,
+FRA:EYWN,bioMérieux S.A.,Frankfurt Stock Exchange,
+ETR:ANI,Amundi S.A.,Deutsche Börse Xetra,
+ETR:REP,"Repsol, S.A.",Deutsche Börse Xetra,Energy
+FRA:FA1,FactSet Research Systems Inc.,Frankfurt Stock Exchange,
+ETR:OMV,OMV Aktiengesellschaft,Deutsche Börse Xetra,Energy
+FRA:37C,CNH Industrial N.V.,Frankfurt Stock Exchange,
+ETR:KBX,Knorr-Bremse AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:KBX,Knorr-Bremse AG,Frankfurt Stock Exchange,
+FRA:EZV,"Domino's Pizza, Inc.",Frankfurt Stock Exchange,
+FRA:HCG,The Hong Kong and China Gas Company Limited,Frankfurt Stock Exchange,
+FRA:CXX,The Clorox Company,Frankfurt Stock Exchange,
+FRA:AY1,Alliant Energy Corporation,Frankfurt Stock Exchange,
+FRA:HLD,Henderson Land Development Company Limited,Frankfurt Stock Exchange,
+FRA:4BV,Bureau Veritas SA,Frankfurt Stock Exchange,
+FRA:TLS,Telia Company AB (publ),Frankfurt Stock Exchange,
+FRA:RCI,Rogers Communications Inc.,Frankfurt Stock Exchange,
+FRA:5VD,Vodacom Group Limited,Frankfurt Stock Exchange,
+ETR:SRT,Sartorius Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+ETR:SRT3,Sartorius Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:SRT,Sartorius Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:RTHA,Wilmar International Limited,Frankfurt Stock Exchange,
+FRA:1CK,CK Asset Holdings Limited,Frankfurt Stock Exchange,
+FRA:7NX,"NEXON Co., Ltd.",Frankfurt Stock Exchange,
+FRA:4BB,Budweiser Brewing Company APAC Limited,Frankfurt Stock Exchange,
+FRA:RPL,UPM-Kymmene Oyj,Frankfurt Stock Exchange,
+FRA:6WX,China Longyuan Power Group Corporation Limited,Frankfurt Stock Exchange,
+FRA:JB1,"J.B. Hunt Transport Services, Inc.",Frankfurt Stock Exchange,
+ETR:1SI,Snap Inc.,Deutsche Börse Xetra,Communication Services
+FRA:1SI,Snap Inc.,Frankfurt Stock Exchange,
+FRA:RPD,Royalty Pharma plc,Frankfurt Stock Exchange,
+FRA:IEA,Informa plc,Frankfurt Stock Exchange,
+FRA:E3G1,Evolution AB (publ),Frankfurt Stock Exchange,
+FRA:CRP,China Resources Power Holdings Company Limited,Frankfurt Stock Exchange,
+ETR:ILU,"Illumina, Inc.",Deutsche Börse Xetra,Healthcare
+FRA:ILU,"Illumina, Inc.",Frankfurt Stock Exchange,
+FRA:UN4,Unicharm Corporation,Frankfurt Stock Exchange,
+FRA:HEH,Power Assets Holdings Limited,Frankfurt Stock Exchange,
+ETR:RNL,Renault SA,Deutsche Börse Xetra,Consumer Discretionary
+FRA:RNL,Renault SA,Frankfurt Stock Exchange,
+FRA:BIRG,Bank of Ireland Group plc,Frankfurt Stock Exchange,
+FRA:1T1,TechnipFMC plc,Frankfurt Stock Exchange,
+ETR:1BR1,Unibail-Rodamco-Westfield SE,Deutsche Börse Xetra,
+ETR:HOT,HOCHTIEF Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:HOT,HOCHTIEF Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:UUM,Unum Group,Frankfurt Stock Exchange,
+FRA:WW1,"Woodward, Inc.",Frankfurt Stock Exchange,
+ETR:BIRG,Bank of Ireland Group plc,Deutsche Börse Xetra,Financials
+FRA:GS2C,GameStop Corp.,Frankfurt Stock Exchange,
+FRA:FLN,Admiral Group plc,Frankfurt Stock Exchange,
+ETR:GS2C,GameStop Corp.,Deutsche Börse Xetra,
+ETR:JDE,JDE Peet's N.V.,Deutsche Börse Xetra,Consumer Staples
+FRA:JDE,JDE Peet's N.V.,Frankfurt Stock Exchange,
+FRA:CVG,CSPC Pharmaceutical Group Limited,Frankfurt Stock Exchange,
+FRA:C61,Emera Incorporated,Frankfurt Stock Exchange,
+ETR:JGE,Julius Bär Gruppe AG,Deutsche Börse Xetra,
+FRA:EW2,"East West Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:SHM,Shimano Inc.,Frankfurt Stock Exchange,
+FRA:MRS,"Morningstar, Inc.",Frankfurt Stock Exchange,
+FRA:1COV,Covestro AG,Frankfurt Stock Exchange,Materials
+ETR:1COV,Covestro AG,Deutsche Börse Xetra,Materials
+ETR:1CO,Covestro AG,Deutsche Börse Xetra,
+ETR:LTEC,Logitech International S.A.,Deutsche Börse Xetra,
+FRA:KUO1,Kubota Corporation,Frankfurt Stock Exchange,
+FRA:HA4,HAL Trust,Frankfurt Stock Exchange,
+ETR:ACR,Accor SA,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ACR,Accor SA,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:W7L,Aeroports de Paris SA,Frankfurt Stock Exchange,
+FRA:FO4N,ageas SA/NV,Frankfurt Stock Exchange,
+FRA:4BE,BPER Banca SpA,Frankfurt Stock Exchange,
+ETR:19V,VAT Group AG,Deutsche Börse Xetra,
+ETR:HVXA,Helvetia Holding AG,Deutsche Börse Xetra,
+FRA:XTY,Carpenter Technology Corporation,Frankfurt Stock Exchange,
+FRA:0WH,WH Group Limited,Frankfurt Stock Exchange,
+FRA:27S,"Albertsons Companies, Inc.",Frankfurt Stock Exchange,
+ETR:USX1,United States Steel Corporation,Deutsche Börse Xetra,Materials
+FRA:USX1,United States Steel Corporation,Frankfurt Stock Exchange,
+FRA:KHE,"Kawasaki Heavy Industries, Ltd.",Frankfurt Stock Exchange,
+BST:PAHA,Porsche Automobil Holding SE,Stuttgart Stock Exchange,
+FRA:ME1,Banca Mediolanum S.p.A.,Frankfurt Stock Exchange,
+ETR:ESF0,Eurofins Scientific SE,Deutsche Börse Xetra,
+FRA:ESF0,Eurofins Scientific SE,Frankfurt Stock Exchange,
+FRA:ENQ,"Entegris, Inc.",Frankfurt Stock Exchange,
+FRA:60A,Allegion plc,Frankfurt Stock Exchange,
+ETR:HAG,Hensoldt AG,Deutsche Börse Xetra,Industrials
+FRA:HAG,Hensoldt AG,Frankfurt Stock Exchange,
+ETR:8RJ,BELIMO Holding AG,Deutsche Börse Xetra,
+FRA:JM2,The J. M. Smucker Company,Frankfurt Stock Exchange,
+FRA:AKU1,Akzo Nobel N.V.,Frankfurt Stock Exchange,
+FRA:RPHA,Valterra Platinum Limited,Frankfurt Stock Exchange,
+FRA:CMAB,"Mapfre, S.A.",Frankfurt Stock Exchange,
+BST:EVD0,CTS Eventim AG & Co. KGaA,Stuttgart Stock Exchange,
+ETR:EVD,CTS Eventim AG & Co. KGaA,Deutsche Börse Xetra,Communication Services
+FRA:EVD,CTS Eventim AG & Co. KGaA,Frankfurt Stock Exchange,
+FRA:KIR,"Kirin Holdings Company, Limited",Frankfurt Stock Exchange,
+FRA:MILA,"Mitsui O.S.K. Lines, Ltd.",Frankfurt Stock Exchange,
+FRA:DWS,DWS Group GmbH & Co. KGaA,Frankfurt Stock Exchange,
+ETR:DWS,DWS Group GmbH & Co. KGaA,Deutsche Börse Xetra,Financials
+FRA:J060,Aegon Ltd.,Frankfurt Stock Exchange,
+ETR:SU1N,Swiss Prime Site AG,Deutsche Börse Xetra,
+FRA:PKN,"Revvity, Inc.",Frankfurt Stock Exchange,
+FRA:OKL,Orkla ASA,Frankfurt Stock Exchange,
+FRA:LNE,"Lincoln Electric Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:GMZ,Ally Financial Inc.,Frankfurt Stock Exchange,
+FRA:3RK,"Ryohin Keikaku Co., Ltd.",Frankfurt Stock Exchange,
+FRA:NSY,NICE Ltd.,Frankfurt Stock Exchange,
+FRA:8HI,Haidilao International Holding Ltd.,Frankfurt Stock Exchange,
+BST:HLEA,HELLA GmbH & Co. KGaA,Stuttgart Stock Exchange,
+ETR:HLE,HELLA GmbH & Co. KGaA,Deutsche Börse Xetra,Consumer Discretionary
+FRA:HLE,HELLA GmbH & Co. KGaA,Frankfurt Stock Exchange,
+FRA:LN3,Jefferies Financial Group Inc.,Frankfurt Stock Exchange,
+FRA:WI8,Infrastrutture Wireless Italiane S.p.A.,Frankfurt Stock Exchange,
+FRA:02M,The Mosaic Company,Frankfurt Stock Exchange,
+ETR:G1A,GEA Group Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:G1A,GEA Group Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:BSI,BE Semiconductor Industries N.V.,Deutsche Börse Xetra,
+FRA:BSI,BE Semiconductor Industries N.V.,Frankfurt Stock Exchange,
+FRA:4HK,HKT Trust and HKT Limited,Frankfurt Stock Exchange,
+FRA:NOH1,Norsk Hydro ASA,Frankfurt Stock Exchange,
+FRA:SMZ1,Sino Biopharmaceutical Limited,Frankfurt Stock Exchange,
+FRA:ORI1,Orient Overseas (International) Limited,Frankfurt Stock Exchange,
+FRA:A2A,"Essential Utilities, Inc.",Frankfurt Stock Exchange,
+FRA:0ZQ,National Atomic Company Kazatomprom JSC,Frankfurt Stock Exchange,Energy
+FRA:CAO,"Conagra Brands, Inc.",Frankfurt Stock Exchange,
+ETR:0QF,"Moderna, Inc.",Deutsche Börse Xetra,Healthcare
+FRA:0QF,"Moderna, Inc.",Frankfurt Stock Exchange,Healthcare
+FRA:PWC,Pinnacle West Capital Corporation,Frankfurt Stock Exchange,
+FRA:VIA,Viatris Inc.,Frankfurt Stock Exchange,
+ETR:DWNI,Deutsche Wohnen SE,Deutsche Börse Xetra,Real Estate
+FRA:DWNI,Deutsche Wohnen SE,Frankfurt Stock Exchange,
+ETR:BLON,Baloise Holding AG,Deutsche Börse Xetra,
+FRA:CENB,Centrica plc,Frankfurt Stock Exchange,
+FRA:S6L,Shenzhou International Group Holdings Limited,Frankfurt Stock Exchange,
+ETR:XD4,Strabag SE,Deutsche Börse Xetra,Industrials
+FRA:XD4,Strabag SE,Frankfurt Stock Exchange,
+ETR:CAR,Carrefour SA,Deutsche Börse Xetra,Consumer Staples
+FRA:CAR,Carrefour SA,Frankfurt Stock Exchange,
+FRA:MPI0,Banca Monte dei Paschi di Siena S.p.A.,Frankfurt Stock Exchange,
+FRA:M6Q,Metso Oyj,Frankfurt Stock Exchange,
+ETR:VIA,Viatris Inc.,Deutsche Börse Xetra,Healthcare
+FRA:7PV,Birkenstock Holding plc,Frankfurt Stock Exchange,
+ETR:EVK,Evonik Industries AG,Deutsche Börse Xetra,Materials
+FRA:EVK,Evonik Industries AG,Frankfurt Stock Exchange,
+FRA:FT2,First Horizon Corporation,Frankfurt Stock Exchange,
+FRA:BUZ1,Bunzl plc,Frankfurt Stock Exchange,
+ETR:BNR,Brenntag SE,Deutsche Börse Xetra,Materials
+FRA:BNR,Brenntag SE,Frankfurt Stock Exchange,
+FRA:LKQ1,LKQ Corporation,Frankfurt Stock Exchange,
+FRA:KEP1,Keppel Ltd.,Frankfurt Stock Exchange,
+FRA:AGT,"AptarGroup, Inc.",Frankfurt Stock Exchange,
+ETR:LHA,Deutsche Lufthansa AG,Deutsche Börse Xetra,Industrials
+FRA:LHA,Deutsche Lufthansa AG,Frankfurt Stock Exchange,
+FRA:5NU,CapitaLand Investment Limited,Frankfurt Stock Exchange,
+ETR:QIA,Qiagen N.V.,Deutsche Börse Xetra,Healthcare
+FRA:QIA,Qiagen N.V.,Frankfurt Stock Exchange,
+FRA:TNU3,Getlink SE,Frankfurt Stock Exchange,
+FRA:7SN,Suntory Beverage & Food Limited,Frankfurt Stock Exchange,
+FRA:EAI,Groupe Bruxelles Lambert SA,Frankfurt Stock Exchange,
+ETR:AOMD,Alstom SA,Deutsche Börse Xetra,Industrials
+ETR:RAW,Raiffeisen Bank International AG,Deutsche Börse Xetra,Financials
+FRA:TMJ,Globe Life Inc.,Frankfurt Stock Exchange,
+FRA:AOMD,Alstom SA,Frankfurt Stock Exchange,
+FRA:I7G,Ipsen S.A.,Frankfurt Stock Exchange,
+ETR:W8A,"Walgreens Boots Alliance, Inc.",Deutsche Börse Xetra,Healthcare
+ETR:G24,Scout24 SE,Deutsche Börse Xetra,Communication Services
+FRA:G24,Scout24 SE,Frankfurt Stock Exchange,
+FRA:PES,Pearson plc,Frankfurt Stock Exchange,
+FRA:HAS,"Hasbro, Inc.",Frankfurt Stock Exchange,
+ETR:0B2,BAWAG Group AG,Deutsche Börse Xetra,Financials
+FRA:CC5,"Coca-Cola Consolidated, Inc.",Frankfurt Stock Exchange,
+ETR:PES,Pearson plc,Deutsche Börse Xetra,Communication Services
+FRA:RB8,Regal Rexnord Corporation,Frankfurt Stock Exchange,
+FRA:4OQ1,AGNC Investment Corp.,Frankfurt Stock Exchange,Real Estate
+ETR:RAA,RATIONAL Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:RAA,RATIONAL Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:UCM,Buzzi S.p.A.,Frankfurt Stock Exchange,
+FRA:SBOA,Sembcorp Industries Ltd,Frankfurt Stock Exchange,
+FRA:TYG,Tingyi (Cayman Islands) Holding Corp.,Frankfurt Stock Exchange,
+FRA:3SM,A. O. Smith Corporation,Frankfurt Stock Exchange,
+FRA:3YZ,CTP N.V.,Frankfurt Stock Exchange,
+FRA:IU2,Yara International ASA,Frankfurt Stock Exchange,
+FRA:ZVL,Zhaojin Mining Industry Company Limited,Frankfurt Stock Exchange,
+FRA:FJ5,SouthState Corporation,Frankfurt Stock Exchange,
+FRA:4BY,BYD Electronic (International) Company Limited,Frankfurt Stock Exchange,
+FRA:XGH,ENN Energy Holdings Limited,Frankfurt Stock Exchange,
+FRA:SXC,Sunny Optical Technology (Group) Company Limited,Frankfurt Stock Exchange,
+FRA:EZQ,China Mengniu Dairy Company Limited,Frankfurt Stock Exchange,
+ETR:UHR,The Swatch Group AG,Deutsche Börse Xetra,Services
+FRA:KY4,"Kyowa Kirin Co., Ltd.",Frankfurt Stock Exchange,
+FRA:7S8,SITC International Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:KONN,"Komercní banka, a.s.",Frankfurt Stock Exchange,
+FRA:LMO,"Lithia Motors, Inc.",Frankfurt Stock Exchange,
+ETR:ZAL,Zalando SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ZAL,Zalando SE,Frankfurt Stock Exchange,
+FRA:RLF,Longfor Group Holdings Limited,Frankfurt Stock Exchange,
+FRA:5711,Antero Midstream Corporation,Frankfurt Stock Exchange,
+FRA:SUY1,J Sainsbury plc,Frankfurt Stock Exchange,
+ETR:1SQ,Swissquote Group Holding Ltd,Deutsche Börse Xetra,
+FRA:E7V,Rexel S.A.,Frankfurt Stock Exchange,
+FRA:4SP,SPIE SA,Frankfurt Stock Exchange,
+FRA:N3IA,NIO Inc.,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:EIA,Elisa Oyj,Frankfurt Stock Exchange,
+FRA:S7MB,Securitas AB (publ),Frankfurt Stock Exchange,
+FRA:CB5,"Commerce Bancshares, Inc.",Frankfurt Stock Exchange,
+FRA:TLLB,Trelleborg AB (publ),Frankfurt Stock Exchange,
+FRA:AU61,Absa Group Limited,Frankfurt Stock Exchange,
+FRA:3AL,Ayvens,Frankfurt Stock Exchange,
+FRA:PFZ,"Pinnacle Financial Partners, Inc.",Frankfurt Stock Exchange,
+FRA:EAM,A2A S.p.A.,Frankfurt Stock Exchange,
+FRA:2NF,Syensqo SA/NV,Frankfurt Stock Exchange,
+FRA:WF2,Wintrust Financial Corporation,Frankfurt Stock Exchange,
+FRA:INX,IMCD N.V.,Frankfurt Stock Exchange,
+FRA:3JDA,Rightmove plc,Frankfurt Stock Exchange,
+FRA:AES,The AES Corporation,Frankfurt Stock Exchange,
+FRA:0WP,WPP plc,Frankfurt Stock Exchange,
+FRA:OTE,Hellenic Telecommunications Organization S.A.,Frankfurt Stock Exchange,
+FRA:58H,Davide Campari-Milano N.V.,Frankfurt Stock Exchange,
+ETR:O5G,CPI Property Group,Deutsche Börse Xetra,Real Estate
+FRA:O5G,CPI Property Group,Frankfurt Stock Exchange,
+FRA:KLH,Københavns Lufthavne A/S,Frankfurt Stock Exchange,
+FRA:J6I,Whitecap Resources Inc.,Frankfurt Stock Exchange,
+FRA:8BU,Brunello Cucinelli S.p.A.,Frankfurt Stock Exchange,
+FRA:ENUA,Stora Enso Oyj,Frankfurt Stock Exchange,Materials
+ETR:DHER,Delivery Hero SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:DHER,Delivery Hero SE,Frankfurt Stock Exchange,
+FRA:0L5,"Lamb Weston Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:BRZ0,Beijer Ref AB (publ),Frankfurt Stock Exchange,
+ETR:A1G,American Airlines Group Inc.,Deutsche Börse Xetra,Industrials
+FRA:J4V,Vår Energi AS,Frankfurt Stock Exchange,
+FRA:R3NK,RENK Group AG,Frankfurt Stock Exchange,Industrials
+ETR:R3NK,RENK Group AG,Deutsche Börse Xetra,Industrials
+ETR:1YQA,SIG Group AG,Deutsche Börse Xetra,
+FRA:A1G,American Airlines Group Inc.,Frankfurt Stock Exchange,
+FRA:OTK,Otsuka Corporation,Frankfurt Stock Exchange,
+FRA:CPM,China Merchants Port Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:87W,"Hulic Co., Ltd.",Frankfurt Stock Exchange,
+FRA:AGJ,AGCO Corporation,Frankfurt Stock Exchange,
+FRA:XPG,Vend Marketplaces ASA,Frankfurt Stock Exchange,
+HAM:O2D,Telefónica Deutschland Holding AG,Hamburg Stock Exchange,
+FRA:X2S,Sinopharm Group Co. Ltd.,Frankfurt Stock Exchange,
+FRA:AMC,Albemarle Corporation,Frankfurt Stock Exchange,
+ETR:AMC,Albemarle Corporation,Deutsche Börse Xetra,
+FRA:CUD,Canadian Utilities Limited,Frankfurt Stock Exchange,
+ETR:185,Alcoa Corporation,Deutsche Börse Xetra,Materials
+FRA:185,Alcoa Corporation,Frankfurt Stock Exchange,
+ETR:RDO,Sirius XM Holdings Inc.,Deutsche Börse Xetra,
+FRA:3HY,Sirius XM Holdings Inc.,Frankfurt Stock Exchange,
+FRA:CYC,Jardine Cycle & Carriage Limited,Frankfurt Stock Exchange,
+FRA:5BP,"Corporación Acciona Energías Renovables, S.A.",Frankfurt Stock Exchange,
+FRA:WHF4,Whitbread plc,Frankfurt Stock Exchange,
+FRA:33B,"Badger Meter, Inc.",Frankfurt Stock Exchange,
+FRA:6AA0,AAK AB (publ.),Frankfurt Stock Exchange,
+FRA:YMA,"Yamaha Motor Co., Ltd.",Frankfurt Stock Exchange,
+FRA:EAR,Ebara Corporation,Frankfurt Stock Exchange,
+FRA:83B,3SBio Inc.,Frankfurt Stock Exchange,
+FRA:QSV,Edenred SE,Frankfurt Stock Exchange,
+FRA:OK3,Oshkosh Corporation,Frankfurt Stock Exchange,
+FRA:TA1,Telekom Austria AG,Frankfurt Stock Exchange,
+ETR:TA1,Telekom Austria AG,Deutsche Börse Xetra,Communication Services
+FRA:2PI,Pirelli & C. S.p.A.,Frankfurt Stock Exchange,
+FRA:B8O,Yangzijiang Shipbuilding (Holdings) Ltd.,Frankfurt Stock Exchange,
+FRA:4SK,Sinotruk (Hong Kong) Limited,Frankfurt Stock Exchange,
+FRA:2S3,APA Corporation,Frankfurt Stock Exchange,
+FRA:SHD,"Shiseido Company, Limited",Frankfurt Stock Exchange,
+FRA:LV2B,Levi Strauss & Co.,Frankfurt Stock Exchange,
+FRA:HE9,Hera S.p.A.,Frankfurt Stock Exchange,
+FRA:9TG,Gaztransport & Technigaz SA,Frankfurt Stock Exchange,
+ETR:AZ2,Andritz AG,Deutsche Börse Xetra,Industrials
+FRA:1WE,FDJ United,Frankfurt Stock Exchange,
+FRA:PPY,"Prosperity Bancshares, Inc.",Frankfurt Stock Exchange,
+FRA:B4M1,SpareBank 1 Sør-Norge ASA,Frankfurt Stock Exchange,
+FRA:91A,"Armstrong World Industries, Inc.",Frankfurt Stock Exchange,
+ETR:FRA,Fraport AG,Deutsche Börse Xetra,Industrials
+FRA:FRA,Fraport AG,Frankfurt Stock Exchange,
+FRA:36T,Genting Singapore Limited,Frankfurt Stock Exchange,
+FRA:B7A,Banca Generali S.p.A.,Frankfurt Stock Exchange,
+FRA:SM1,SLM Corporation,Frankfurt Stock Exchange,
+FRA:3IW,Invesco Ltd.,Frankfurt Stock Exchange,
+ETR:LY0,"Lyft, Inc.",Deutsche Börse Xetra,Technology
+FRA:LY0,"Lyft, Inc.",Frankfurt Stock Exchange,
+ETR:IOS,IONOS Group SE,Deutsche Börse Xetra,Technology
+FRA:IOS,IONOS Group SE,Frankfurt Stock Exchange,
+FRA:V0Y,"Voya Financial, Inc.",Frankfurt Stock Exchange,
+FRA:I56,Lottomatica Group S.p.A.,Frankfurt Stock Exchange,
+ETR:KGX,KION GROUP AG,Deutsche Börse Xetra,Industrials
+ETR:KFI1,Kingfisher plc,Deutsche Börse Xetra,Consumer Discretionary
+FRA:KFI1,Kingfisher plc,Frankfurt Stock Exchange,
+FRA:WSV2,Vienna Insurance Group AG,Frankfurt Stock Exchange,
+ETR:FPE,Fuchs SE,Deutsche Börse Xetra,Materials
+FRA:REJA,Reply S.p.A.,Frankfurt Stock Exchange,
+FRA:TEM,Tongcheng Travel Holdings Limited,Frankfurt Stock Exchange,
+FRA:3E2,"Etsy, Inc.",Frankfurt Stock Exchange,Consumer Discretionary
+ETR:RCF,Teleperformance SE,Deutsche Börse Xetra,
+FRA:RCF,Teleperformance SE,Frankfurt Stock Exchange,
+ETR:LEG,LEG Immobilien SE,Deutsche Börse Xetra,Real Estate
+FRA:LEG,LEG Immobilien SE,Frankfurt Stock Exchange,
+ETR:2FB,"Fortune Brands Innovations, Inc.",Deutsche Börse Xetra,Industrials
+FRA:LGX1,China Resources Gas Group Limited,Frankfurt Stock Exchange,
+FRA:0S1,"OneMain Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:7EL,Elis SA,Frankfurt Stock Exchange,
+FRA:JEP,SalMar ASA,Frankfurt Stock Exchange,
+FRA:SHJ,AGC Inc.,Frankfurt Stock Exchange,
+ETR:AG1,AUTO1 Group SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:AG1,AUTO1 Group SE,Frankfurt Stock Exchange,
+FRA:MGC,MGIC Investment Corporation,Frankfurt Stock Exchange,
+FRA:DG3,Celanese Corporation,Frankfurt Stock Exchange,
+FRA:IDJ,"IDACORP, Inc.",Frankfurt Stock Exchange,
+FRA:5F6,"Sumitomo Forestry Co., Ltd.",Frankfurt Stock Exchange,
+FRA:SKWA,SSAB AB (publ),Frankfurt Stock Exchange,
+FRA:AXL1,Axfood AB (publ),Frankfurt Stock Exchange,
+FRA:UG9,NewMarket Corporation,Frankfurt Stock Exchange,
+FRA:FSG,Federal Signal Corporation,Frankfurt Stock Exchange,
+ETR:AFX,Carl Zeiss Meditec AG,Deutsche Börse Xetra,Healthcare
+FRA:AFX,Carl Zeiss Meditec AG,Frankfurt Stock Exchange,
+FRA:HIUC,China Taiping Insurance Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:7MR,Matador Resources Company,Frankfurt Stock Exchange,
+FRA:H2X3,Hiscox Ltd,Frankfurt Stock Exchange,
+ETR:TKA,thyssenkrupp AG,Deutsche Börse Xetra,Industrials
+BST:TKA1,thyssenkrupp AG,Stuttgart Stock Exchange,
+FRA:TKA,thyssenkrupp AG,Frankfurt Stock Exchange,
+FRA:1LNB,Spirax Group plc,Frankfurt Stock Exchange,
+FRA:OHP,Persimmon Plc,Frankfurt Stock Exchange,
+FRA:EJT1,easyJet plc,Frankfurt Stock Exchange,
+FRA:CDM1,"Coeur Mining, Inc.",Frankfurt Stock Exchange,
+ETR:RZ8G,SNGN Romgaz SA,Deutsche Börse Xetra,
+FRA:UF3,"UFP Industries, Inc.",Frankfurt Stock Exchange,
+FRA:SDRC,SCOR SE,Frankfurt Stock Exchange,
+ETR:E0P,"Enphase Energy, Inc.",Deutsche Börse Xetra,
+FRA:E0P,"Enphase Energy, Inc.",Frankfurt Stock Exchange,
+ETR:CDM1,"Coeur Mining, Inc.",Deutsche Börse Xetra,Materials
+FRA:BTO0,Cadence Bank,Frankfurt Stock Exchange,
+ETR:SDRC,SCOR SE,Deutsche Börse Xetra,
+FRA:FF60,"FirstCash Holdings, Inc.",Frankfurt Stock Exchange,
+ETR:RRTL,RTL Group S.A.,Deutsche Börse Xetra,Communication Services
+FRA:RRTL,RTL Group S.A.,Frankfurt Stock Exchange,
+FRA:A2XN,AAC Technologies Holdings Inc.,Frankfurt Stock Exchange,
+FRA:M44,"MARA Holdings, Inc.",Frankfurt Stock Exchange,
+ETR:LU2,Lumentum Holdings Inc.,Deutsche Börse Xetra,Industrials
+ETR:BC8,Bechtle AG,Deutsche Börse Xetra,Technology
+FRA:BC8,Bechtle AG,Frankfurt Stock Exchange,
+FRA:8BO,BOC Aviation Limited,Frankfurt Stock Exchange,
+FRA:58U,Uni-President China Holdings Ltd,Frankfurt Stock Exchange,
+FRA:SOC,Subsea 7 S.A.,Frankfurt Stock Exchange,
+FRA:GUG,Guangdong Investment Limited,Frankfurt Stock Exchange,
+FRA:FMQ,FMC Corporation,Frankfurt Stock Exchange,
+ETR:AHYQ,Amundi Index Solutions - Amundi Msci World III,Deutsche Börse Xetra,Financials
+ETR:TE8N,Temenos AG,Deutsche Börse Xetra,
+HAM:OSR,OSRAM Licht AG,Hamburg Stock Exchange,
+FRA:V1S,Arkema S.A.,Frankfurt Stock Exchange,
+FRA:GTN,Getinge AB (publ),Frankfurt Stock Exchange,
+FRA:FLW1,Flughafen Wien Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:DCA,ACEA S.p.A.,Frankfurt Stock Exchange,
+FRA:GRB,SEB SA,Frankfurt Stock Exchange,
+FRA:1JJA,Avanza Bank Holding AB (publ),Frankfurt Stock Exchange,
+FRA:98P,"TXNM Energy, Inc.",Frankfurt Stock Exchange,
+ETR:FIE,Fielmann Group AG,Deutsche Börse Xetra,Healthcare
+FRA:FIE,Fielmann Group AG,Frankfurt Stock Exchange,
+FRA:M04,MGM China Holdings Limited,Frankfurt Stock Exchange,
+FRA:UCI,"CSW Industrials, Inc.",Frankfurt Stock Exchange,
+FRA:LNLB,Li Ning Company Limited,Frankfurt Stock Exchange,
+FRA:SV2,"Selective Insurance Group, Inc.",Frankfurt Stock Exchange,
+ETR:NXS,Nexans S.A.,Deutsche Börse Xetra,
+FRA:NXS,Nexans S.A.,Frankfurt Stock Exchange,
+FRA:SZR,"Southwest Gas Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:R3D,Iveco Group N.V.,Frankfurt Stock Exchange,
+FRA:HS0,Hoshizaki Corporation,Frankfurt Stock Exchange,
+FRA:KRN,Krones AG,Frankfurt Stock Exchange,
+ETR:KRN,Krones AG,Deutsche Börse Xetra,Industrials
+FRA:1SXP,SCHOTT Pharma AG & Co. KGaA,Frankfurt Stock Exchange,Healthcare
+ETR:1SXP,SCHOTT Pharma AG & Co. KGaA,Deutsche Börse Xetra,Healthcare
+FRA:TH3B,PCCW Limited,Frankfurt Stock Exchange,
+ETR:VFP,V.F. Corporation,Deutsche Börse Xetra,Consumer Discretionary
+FRA:VFP,V.F. Corporation,Frankfurt Stock Exchange,
+FRA:ZHJ,"Zhejiang Expressway Co., Ltd.",Frankfurt Stock Exchange,
+FRA:SKX,"Skylark Holdings Co., Ltd.",Frankfurt Stock Exchange,
+FRA:HPD,China Power International Development Limited,Frankfurt Stock Exchange,
+FRA:QC10,"Flagstar Financial, Inc.",Frankfurt Stock Exchange,
+FRA:1AC,"PennyMac Financial Services, Inc.",Frankfurt Stock Exchange,
+FRA:EVN,EVN AG,Frankfurt Stock Exchange,
+FRA:EUQ,Eurazeo SE,Frankfurt Stock Exchange,
+FRA:WHR,Whirlpool Corporation,Frankfurt Stock Exchange,
+ETR:UTDI,United Internet AG,Deutsche Börse Xetra,Communication Services
+FRA:FNI,Fosun International Limited,Frankfurt Stock Exchange,
+FRA:UTY,PT United Tractors Tbk,Frankfurt Stock Exchange,
+ETR:ADI1,Adecco Group AG,Deutsche Börse Xetra,
+FRA:CM2,"Cal-Maine Foods, Inc.",Frankfurt Stock Exchange,
+FRA:AVX,"Advanced Energy Industries, Inc.",Frankfurt Stock Exchange,
+DUSE:9HF,HB Holding N.V.,Dusseldorf Stock Exchange,
+FRA:UTDI,United Internet AG,Frankfurt Stock Exchange,
+FRA:NDX1,Nordex SE,Frankfurt Stock Exchange,
+FRA:HH1,Hancock Whitney Corporation,Frankfurt Stock Exchange,
+ETR:SPG,Springer Nature AG & Co. KGaA,Deutsche Börse Xetra,
+FRA:SPG,Springer Nature AG & Co. KGaA,Frankfurt Stock Exchange,Industrials
+FRA:HSZ,PT Hanjaya Mandala Sampoerna Tbk,Frankfurt Stock Exchange,
+ETR:NDX1,Nordex SE,Deutsche Börse Xetra,Industrials
+FRA:FKM,Aker ASA,Frankfurt Stock Exchange,
+FRA:TMRA,Tomra Systems ASA,Frankfurt Stock Exchange,
+HAM:GIB,GSW Immobilien AG,Hamburg Stock Exchange,
+DUSE:MGYA,Magyar Telekom Távközlési Nyilvánosan Müködö Részvénytársaság,Dusseldorf Stock Exchange,
+FRA:41B,Bellway p.l.c.,Frankfurt Stock Exchange,
+FRA:3ZT,Reynolds Consumer Products Inc.,Frankfurt Stock Exchange,
+FRA:85V1,Noble Corporation plc,Frankfurt Stock Exchange,
+FRA:HXL,Hexcel Corporation,Frankfurt Stock Exchange,
+FRA:49P,Portland General Electric Company,Frankfurt Stock Exchange,
+FRA:SNS,Sonoco Products Company,Frankfurt Stock Exchange,
+ETR:SHA0,Schaeffler AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SHA0,Schaeffler AG,Frankfurt Stock Exchange,
+FRA:NJ1,New Jersey Resources Corporation,Frankfurt Stock Exchange,
+FRA:OR8,Sopra Steria Group SA,Frankfurt Stock Exchange,
+FRA:UN9,UNIQA Insurance Group AG,Frankfurt Stock Exchange,
+ETR:UN9,UNIQA Insurance Group AG,Deutsche Börse Xetra,Financials
+ETR:JUN3,Jungheinrich Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:JUN3,Jungheinrich Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:VAS,Voestalpine AG,Deutsche Börse Xetra,Materials
+FRA:5JB,Jumbo S.A.,Frankfurt Stock Exchange,
+FRA:T5W,Just Eat Takeaway.com N.V.,Frankfurt Stock Exchange,
+ETR:T5W,Just Eat Takeaway.com N.V.,Deutsche Börse Xetra,
+FRA:LGR,Spire Inc.,Frankfurt Stock Exchange,
+FRA:54E,"Archrock, Inc.",Frankfurt Stock Exchange,
+FRA:6XT,"Asahi Intecc Co., Ltd.",Frankfurt Stock Exchange,
+FRA:8IG,Interpump Group S.p.A.,Frankfurt Stock Exchange,
+FRA:M5U,"Meitu, Inc.",Frankfurt Stock Exchange,
+FRA:640,China Resources Pharmaceutical Group Limited,Frankfurt Stock Exchange,
+FRA:FA9,Spectris plc,Frankfurt Stock Exchange,
+FRA:0R1,Royal Unibrew A/S,Frankfurt Stock Exchange,
+FRA:17M,Moelis & Company,Frankfurt Stock Exchange,
+ETR:TUI1,TUI AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:TUI1,TUI AG,Frankfurt Stock Exchange,
+FRA:WI0,Wanguo Gold Group Limited,Frankfurt Stock Exchange,
+FRA:3OY1,Maire S.p.A.,Frankfurt Stock Exchange,Industrials
+FRA:WIS,Wendel,Frankfurt Stock Exchange,
+FRA:8A6,ATCO Ltd.,Frankfurt Stock Exchange,
+FRA:6UY,Allfunds Group plc,Frankfurt Stock Exchange,
+FRA:BHI,Black Hills Corporation,Frankfurt Stock Exchange,
+FRA:S94,Sensata Technologies Holding plc,Frankfurt Stock Exchange,
+ETR:GIL,DMG MORI AKTIENGESELLSCHAFT,Deutsche Börse Xetra,Industrials
+FRA:GIL,DMG MORI AKTIENGESELLSCHAFT,Frankfurt Stock Exchange,
+FRA:SSF,Sensient Technologies Corporation,Frankfurt Stock Exchange,
+FRA:AVT,AviChina Industry & Technology Company Limited,Frankfurt Stock Exchange,
+ETR:WIB,Wienerberger AG,Deutsche Börse Xetra,Materials
+FRA:IPJ1,Webuild S.p.A.,Frankfurt Stock Exchange,
+FRA:U1O,UOL Group Limited,Frankfurt Stock Exchange,
+ETR:FMV,First Majestic Silver Corp.,Deutsche Börse Xetra,Materials
+FRA:CMW,China Communications Services Corporation Limited,Frankfurt Stock Exchange,
+FRA:1NR,Northland Power Inc.,Frankfurt Stock Exchange,
+FRA:FMV,First Majestic Silver Corp.,Frankfurt Stock Exchange,
+FRA:MT0,DEME Group NV,Frankfurt Stock Exchange,
+FRA:MMY,"Maximus, Inc.",Frankfurt Stock Exchange,
+FRA:69Q,"Lazard, Inc.",Frankfurt Stock Exchange,
+FRA:KUY,"Kuraray Co., Ltd.",Frankfurt Stock Exchange,
+ETR:NDA,Aurubis AG,Deutsche Börse Xetra,Industrials
+FRA:NDA,Aurubis AG,Frankfurt Stock Exchange,
+FRA:AOP,Hang Lung Properties Limited,Frankfurt Stock Exchange,
+FRA:2R7,Azelis Group NV,Frankfurt Stock Exchange,
+FRA:FE4,"Franklin Electric Co., Inc.",Frankfurt Stock Exchange,
+FRA:KBH,KB Home,Frankfurt Stock Exchange,
+FRA:KLN,Kingboard Laminates Holdings Limited,Frankfurt Stock Exchange,
+FRA:FNTN,freenet AG,Frankfurt Stock Exchange,
+FRA:HCL,Hecla Mining Company,Frankfurt Stock Exchange,
+ETR:SIX2,Sixt SE,Deutsche Börse Xetra,Industrials
+ETR:SIX3,Sixt SE,Deutsche Börse Xetra,Industrials
+FRA:SIX2,Sixt SE,Frankfurt Stock Exchange,
+FRA:5Z0,Zhongsheng Group Holdings Limited,Frankfurt Stock Exchange,
+ETR:PUM,PUMA SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:PUM,PUMA SE,Frankfurt Stock Exchange,
+FRA:S2P,Simcere Pharmaceutical Group Limited,Frankfurt Stock Exchange,
+ETR:FNTN,freenet AG,Deutsche Börse Xetra,Communication Services
+ETR:HCL,Hecla Mining Company,Deutsche Börse Xetra,Materials
+FRA:3KO,"Kontoor Brands, Inc.",Frankfurt Stock Exchange,
+FRA:YRB,"The Yokohama Rubber Company, Limited",Frankfurt Stock Exchange,
+FRA:AEBA,"ALLETE, Inc.",Frankfurt Stock Exchange,
+FRA:1VRA,Verallia Société Anonyme,Frankfurt Stock Exchange,
+FRA:SCQA,The Scotts Miracle-Gro Company,Frankfurt Stock Exchange,
+FRA:5M0B,Medicover AB (publ),Frankfurt Stock Exchange,
+FRA:7TI,Tikehau Capital,Frankfurt Stock Exchange,
+FRA:68M,"Matson, Inc.",Frankfurt Stock Exchange,
+ETR:AT1,Aroundtown SA,Deutsche Börse Xetra,Real Estate
+FRA:AT1,Aroundtown SA,Frankfurt Stock Exchange,Real Estate
+FRA:0WE,Weatherford International plc,Frankfurt Stock Exchange,
+FRA:T6R,"Tokyo Tatemono Co., Ltd.",Frankfurt Stock Exchange,
+FRA:UNJ,The United Laboratories International Holdings Limited,Frankfurt Stock Exchange,
+ETR:1U1,1&1 AG,Deutsche Börse Xetra,Communication Services
+FRA:1U1,1&1 AG,Frankfurt Stock Exchange,
+FRA:COUD,Computacenter plc,Frankfurt Stock Exchange,
+FRA:PG81,"Plains GP Holdings, L.P.",Frankfurt Stock Exchange,
+ETR:WCH,Wacker Chemie AG,Deutsche Börse Xetra,Materials
+ETR:CLRN,Clariant AG,Deutsche Börse Xetra,Materials
+FRA:CDE,City Developments Limited,Frankfurt Stock Exchange,
+FRA:CO8,Concentrix Corporation,Frankfurt Stock Exchange,
+FRA:SOL,Solvay SA,Frankfurt Stock Exchange,
+FRA:U1N,UniFirst Corporation,Frankfurt Stock Exchange,
+FRA:TPA1,Orange Polska S.A.,Frankfurt Stock Exchange,
+FRA:I93A,Indorama Ventures Public Company Limited,Frankfurt Stock Exchange,
+FRA:IJCA,Inchcape plc,Frankfurt Stock Exchange,
+FRA:D1Y,China National Building Material Company Limited,Frankfurt Stock Exchange,
+FRA:BXZ,Bank of Queensland Limited,Frankfurt Stock Exchange,
+FRA:KEM,Kemira Oyj,Frankfurt Stock Exchange,
+FRA:1T5,TAURON Polska Energia S.A.,Frankfurt Stock Exchange,
+FRA:SFB1,Asseco Poland S.A.,Frankfurt Stock Exchange,
+FRA:UK2,Shandong Weigao Group Medical Polymer Company Limited,Frankfurt Stock Exchange,
+FRA:MM0,"MONETA Money Bank, a.s.",Frankfurt Stock Exchange,
+FRA:RN6,Renasant Corporation,Frankfurt Stock Exchange,
+FRA:724,"C3.ai, Inc.",Frankfurt Stock Exchange,
+ETR:724,"C3.ai, Inc.",Deutsche Börse Xetra,
+FRA:P55,Plus500 Ltd.,Frankfurt Stock Exchange,
+FRA:TCJ,Titan S.A.,Frankfurt Stock Exchange,
+FRA:2M7C,China Medical System Holdings Limited,Frankfurt Stock Exchange,
+FRA:BIH,Balfour Beatty plc,Frankfurt Stock Exchange,
+FRA:8XW,Bridgepoint Group plc,Frankfurt Stock Exchange,
+FRA:LR6,TBC Bank Group PLC,Frankfurt Stock Exchange,
+ETR:SAX,Ströer SE & Co. KGaA,Deutsche Börse Xetra,Communication Services
+FRA:SAX,Ströer SE & Co. KGaA,Frankfurt Stock Exchange,
+FRA:PR4,Protector Forsikring ASA,Frankfurt Stock Exchange,
+ETR:NVJP,Umicore SA,Deutsche Börse Xetra,Industrials
+FRA:NVJP,Umicore SA,Frankfurt Stock Exchange,
+FRA:SZ2,Signet Jewelers Limited,Frankfurt Stock Exchange,
+ETR:VVU,Vivendi SE,Deutsche Börse Xetra,Communication Services
+FRA:VVU,Vivendi SE,Frankfurt Stock Exchange,
+FRA:MUQ,Murphy Oil Corporation,Frankfurt Stock Exchange,
+FRA:LAG,Lagardere SA,Frankfurt Stock Exchange,
+FRA:1NS,"SINOPEC Engineering (Group) Co., Ltd.",Frankfurt Stock Exchange,
+FRA:GBF,Bilfinger SE,Frankfurt Stock Exchange,
+ETR:GBF,Bilfinger SE,Deutsche Börse Xetra,Industrials
+FRA:OLWN,First BanCorp.,Frankfurt Stock Exchange,
+FRA:PS8,"PriceSmart, Inc.",Frankfurt Stock Exchange,
+FRA:VIS,"Viscofan, S.A.",Frankfurt Stock Exchange,
+FRA:HGNC,Hengan International Group Company Limited,Frankfurt Stock Exchange,
+FRA:4QT1,HEXPOL AB (publ),Frankfurt Stock Exchange,
+ETR:SDF,K+S Aktiengesellschaft,Deutsche Börse Xetra,Materials
+FRA:TYR,Toyo Tire Corporation,Frankfurt Stock Exchange,
+FRA:WAE,Wallenstam AB (publ),Frankfurt Stock Exchange,
+FRA:QPJ,Kewpie Corporation,Frankfurt Stock Exchange,
+FRA:3KC,"Federated Hermes, Inc.",Frankfurt Stock Exchange,
+FRA:HUN2,Beijing Enterprises Water Group Limited,Frankfurt Stock Exchange,
+FRA:P8Q,"Crane NXT, Co.",Frankfurt Stock Exchange,
+FRA:D9F2,Drax Group plc,Frankfurt Stock Exchange,
+FRA:BOSS,Hugo Boss AG,Frankfurt Stock Exchange,
+ETR:BOSS,Hugo Boss AG,Deutsche Börse Xetra,Consumer Discretionary
+ETR:G14,Signify N.V.,Deutsche Börse Xetra,
+FRA:G14,Signify N.V.,Frankfurt Stock Exchange,
+FRA:ER9,ERG S.p.A.,Frankfurt Stock Exchange,
+FRA:G7C,Greentown China Holdings Limited,Frankfurt Stock Exchange,
+FRA:TC2A,TCL Electronics Holdings Limited,Frankfurt Stock Exchange,
+FRA:TU0,Thule Group AB (publ),Frankfurt Stock Exchange,
+FRA:HB1,H.B. Fuller Company,Frankfurt Stock Exchange,
+ETR:HAR,"Harley-Davidson, Inc.",Deutsche Börse Xetra,Consumer Discretionary
+FRA:HAR,"Harley-Davidson, Inc.",Frankfurt Stock Exchange,
+FRA:TZ1,TransAlta Corporation,Frankfurt Stock Exchange,
+FRA:ACE1,"Acerinox, S.A.",Frankfurt Stock Exchange,
+FRA:ACE,"Acerinox, S.A.",Frankfurt Stock Exchange,
+FRA:EB0,"Eastern Bankshares, Inc.",Frankfurt Stock Exchange,
+FRA:FPC,First Pacific Company Limited,Frankfurt Stock Exchange,
+HAM:RKET,Rocket Internet SE,Hamburg Stock Exchange,
+FRA:1HI,"First Hawaiian, Inc.",Frankfurt Stock Exchange,
+FRA:WTH,"Worthington Enterprises, Inc.",Frankfurt Stock Exchange,
+FRA:108,"Sumitomo Rubber Industries, Ltd.",Frankfurt Stock Exchange,
+ETR:TEG,TAG Immobilien AG,Deutsche Börse Xetra,Real Estate
+FRA:TEG,TAG Immobilien AG,Frankfurt Stock Exchange,
+FRA:01H,"HORIBA, Ltd.",Frankfurt Stock Exchange,
+FRA:0MO,"DMG Mori Co., Ltd.",Frankfurt Stock Exchange,
+FRA:ISW,Dentsu Soken Inc.,Frankfurt Stock Exchange,
+FRA:LOC,Lion Corporation,Frankfurt Stock Exchange,
+FRA:Q41,"Kodiak Gas Services, Inc.",Frankfurt Stock Exchange,
+ETR:U6Z,Uranium Energy Corp.,Deutsche Börse Xetra,Energy
+FRA:IMO1,CPI Europe AG,Frankfurt Stock Exchange,
+FRA:4LT1,"Northern Oil and Gas, Inc.",Frankfurt Stock Exchange,
+DUSE:84U,Driven Brands Holdings Inc.,Dusseldorf Stock Exchange,
+FRA:D7V,PT Mayora Indah Tbk,Frankfurt Stock Exchange,
+FRA:4HM,Vicat S.A.,Frankfurt Stock Exchange,
+FRA:KOY,"Kobayashi Pharmaceutical Co., Ltd.",Frankfurt Stock Exchange,
+FRA:30T,"TechnoPro Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:1AW,"Argan, Inc.",Frankfurt Stock Exchange,
+FRA:8QV,Hemnet Group AB (publ),Frankfurt Stock Exchange,
+FRA:LEC,Lechwerke AG,Frankfurt Stock Exchange,
+FRA:TN2,Technogym S.p.A.,Frankfurt Stock Exchange,
+FRA:PXK,Peyto Exploration & Development Corp.,Frankfurt Stock Exchange,
+FRA:Y8O,Brembo N.V.,Frankfurt Stock Exchange,
+FRA:TIE,Taiheiyo Cement Corporation,Frankfurt Stock Exchange,
+ETR:FTK,flatexDEGIRO AG,Deutsche Börse Xetra,Financials
+FRA:IWG,International Workplace Group plc,Frankfurt Stock Exchange,
+ETR:AFR0,Air France-KLM SA,Deutsche Börse Xetra,
+FRA:AFR0,Air France-KLM SA,Frankfurt Stock Exchange,
+FRA:IY4,Imerys S.A.,Frankfurt Stock Exchange,
+FRA:WT5,California Water Service Group,Frankfurt Stock Exchange,
+FRA:LH6,ZJLD Group Inc,Frankfurt Stock Exchange,
+FRA:BX7,Proximus PLC,Frankfurt Stock Exchange,
+FRA:6BF,P/F Bakkafrost,Frankfurt Stock Exchange,
+FRA:8IL,Olav Thon Eiendomsselskap ASA,Frankfurt Stock Exchange,
+FRA:BNF,Billerud AB (publ),Frankfurt Stock Exchange,
+FRA:CCW,Coca-Cola Bottlers Japan Holdings Inc.,Frankfurt Stock Exchange,
+FRA:AI7,AZZ Inc.,Frankfurt Stock Exchange,
+FRA:U6Z,Uranium Energy Corp.,Frankfurt Stock Exchange,
+FRA:K25,Olam Group Limited,Frankfurt Stock Exchange,
+FRA:41G1,Greggs plc,Frankfurt Stock Exchange,
+FRA:PIV,Bank of Hawaii Corporation,Frankfurt Stock Exchange,
+ETR:LXS,LANXESS Aktiengesellschaft,Deutsche Börse Xetra,Materials
+FRA:K900,Loomis AB (publ),Frankfurt Stock Exchange,
+FRA:BJ6,"Beijing Jingneng Clean Energy Co., Limited",Frankfurt Stock Exchange,
+FRA:MNV6,Mainova AG,Frankfurt Stock Exchange,
+FRA:WILC,Fabege AB (publ),Frankfurt Stock Exchange,
+ETR:TEN,Tecan Group AG,Deutsche Börse Xetra,
+FRA:BZY,CA Immobilien Anlagen AG,Frankfurt Stock Exchange,
+FRA:LXS,LANXESS Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:SZU,Südzucker AG,Deutsche Börse Xetra,Consumer Staples
+FRA:SZU,Südzucker AG,Frankfurt Stock Exchange,
+FRA:ENV,ENAV S.p.A.,Frankfurt Stock Exchange,
+FRA:SA8A,"Sonic Automotive, Inc.",Frankfurt Stock Exchange,
+ETR:1SO,Samsonite Group S.A.,Deutsche Börse Xetra,
+FRA:1MS,Munters Group AB (publ),Frankfurt Stock Exchange,
+FRA:RE0,Hafnia Limited,Frankfurt Stock Exchange,
+FRA:WJ4,"Warrior Met Coal, Inc.",Frankfurt Stock Exchange,
+FRA:YXS,Sany Heavy Equipment International Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:4DH,Dana Incorporated,Frankfurt Stock Exchange,
+FRA:KOK,"Kokuyo Co., Ltd.",Frankfurt Stock Exchange,
+FRA:VSA2,Valeo SE,Frankfurt Stock Exchange,
+FRA:VEM,Venture Corporation Limited,Frankfurt Stock Exchange,
+FRA:AOF,ATOSS Software SE,Frankfurt Stock Exchange,
+ETR:AOF,ATOSS Software SE,Deutsche Börse Xetra,Technology
+FRA:3PC,Cementir Holding N.V.,Frankfurt Stock Exchange,
+FRA:7JZ,Ardagh Metal Packaging S.A.,Frankfurt Stock Exchange,
+FRA:T2G,Tradegate AG Wertpapierhandelsbank,Frankfurt Stock Exchange,
+FRA:4G3A,Golden Agri-Resources Ltd,Frankfurt Stock Exchange,
+FRA:1AD1,AddLife AB (publ),Frankfurt Stock Exchange,
+FRA:CP9,Cyfrowy Polsat S.A.,Frankfurt Stock Exchange,
+FRA:E5F,PT XLSMART Telecom Sejahtera Tbk,Frankfurt Stock Exchange,
+FRA:PEKB,Peab AB (publ),Frankfurt Stock Exchange,
+FRA:SSM1,"Sumitomo Heavy Industries, Ltd.",Frankfurt Stock Exchange,
+FRA:0KN,Morgan Sindall Group plc,Frankfurt Stock Exchange,
+FRA:VZ1,ComfortDelGro Corporation Limited,Frankfurt Stock Exchange,
+FRA:S3X,Sumco Corporation,Frankfurt Stock Exchange,
+FRA:LID,"Bread Financial Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:PE1,"Patterson-UTI Energy, Inc.",Frankfurt Stock Exchange,
+FRA:AOA,Atkore Inc.,Frankfurt Stock Exchange,
+HAM:HBM,HORNBACH Baumarkt AG,Hamburg Stock Exchange,
+ETR:O3P,Österreichische Post AG,Deutsche Börse Xetra,Industrials
+ETR:RDC,Redcare Pharmacy NV,Deutsche Börse Xetra,Healthcare
+FRA:RDC,Redcare Pharmacy NV,Frankfurt Stock Exchange,
+FRA:PMV,"NOS, S.G.P.S., S.A.",Frankfurt Stock Exchange,
+ETR:DMP,Dermapharm Holding SE,Deutsche Börse Xetra,Healthcare
+FRA:MVV1,MVV Energie AG,Frankfurt Stock Exchange,
+ETR:MVV1,MVV Energie AG,Deutsche Börse Xetra,Utilities
+FRA:7AA,Aperam S.A.,Frankfurt Stock Exchange,
+FRA:SXYA,Shenzhen International Holdings Limited,Frankfurt Stock Exchange,
+FRA:SBG1,Seacoast Banking Corporation of Florida,Frankfurt Stock Exchange,
+ETR:GYC,Grand City Properties S.A.,Deutsche Börse Xetra,Real Estate
+FRA:GYC,Grand City Properties S.A.,Frankfurt Stock Exchange,
+FRA:MX5,Methanex Corporation,Frankfurt Stock Exchange,
+HAM:ZO1,zooplus SE,Hamburg Stock Exchange,
+FRA:FFO1,Fufeng Group Limited,Frankfurt Stock Exchange,
+FRA:DMP,Dermapharm Holding SE,Frankfurt Stock Exchange,
+FRA:KWS,KWS SAAT SE & Co. KGaA,Frankfurt Stock Exchange,
+ETR:KWS,KWS SAAT SE & Co. KGaA,Deutsche Börse Xetra,Materials
+FRA:PQ3,"Provident Financial Services, Inc.",Frankfurt Stock Exchange,
+FRA:TTEB,TietoEVRY Oyj,Frankfurt Stock Exchange,
+FRA:IPZ,Ipsos SA,Frankfurt Stock Exchange,
+FRA:VTFN,Vitrolife AB (publ),Frankfurt Stock Exchange,
+FRA:VBO,CGN Mining Company Limited,Frankfurt Stock Exchange,
+FRA:68C,China Conch Venture Holdings Limited,Frankfurt Stock Exchange,
+FRA:0ON,Exchange Income Corporation,Frankfurt Stock Exchange,
+FRA:124,Anima Holding SpA,Frankfurt Stock Exchange,
+FRA:ETA,Paradox Interactive AB (publ),Frankfurt Stock Exchange,
+FRA:TT4,Trustmark Corporation,Frankfurt Stock Exchange,
+FRA:M46,Alleima AB (publ),Frankfurt Stock Exchange,
+FRA:WWG,Gelsenwasser AG,Frankfurt Stock Exchange,
+FRA:COG,Cogeco Communications Inc.,Frankfurt Stock Exchange,
+FRA:VK4,Veidekke ASA,Frankfurt Stock Exchange,
+FRA:LCQ,Exxaro Resources Limited,Frankfurt Stock Exchange,
+FRA:8PO,Pola Orbis Holdings Inc.,Frankfurt Stock Exchange,
+FRA:4D3,Dongyue Group Limited,Frankfurt Stock Exchange,
+FRA:MNL,Moltiply Group S.p.A.,Frankfurt Stock Exchange,
+FRA:0VK,Storskogen Group AB (publ),Frankfurt Stock Exchange,
+FRA:SQE,"Strategic Education, Inc.",Frankfurt Stock Exchange,
+FRA:5EJ,"Ezaki Glico Co., Ltd.",Frankfurt Stock Exchange,
+FRA:ORW,OneSpaWorld Holdings Limited,Frankfurt Stock Exchange,
+FRA:SHN,Shangri-La Asia Limited,Frankfurt Stock Exchange,
+ETR:NB2,Northern Data AG,Deutsche Börse Xetra,Technology
+FRA:GV9,Enterprise Financial Services Corp,Frankfurt Stock Exchange,
+FRA:NB2,Northern Data AG,Frankfurt Stock Exchange,Technology
+FRA:WXF,Hilltop Holdings Inc.,Frankfurt Stock Exchange,
+FRA:4QI,Xtep International Holdings Limited,Frankfurt Stock Exchange,
+FRA:4KK1,Electrolux Professional AB (publ),Frankfurt Stock Exchange,
+FRA:B3Y1,Afry AB,Frankfurt Stock Exchange,
+FRA:SOH1,Soitec SA,Frankfurt Stock Exchange,Technology
+ETR:SOH1,Soitec SA,Deutsche Börse Xetra,Technology
+ETR:TMV,TeamViewer SE,Deutsche Börse Xetra,Technology
+FRA:TMV,TeamViewer SE,Frankfurt Stock Exchange,
+FRA:FLQ,Fletcher Building Limited,Frankfurt Stock Exchange,
+FRA:3N8,Nabtesco Corporation,Frankfurt Stock Exchange,
+FRA:7HL,Hill & Smith PLC,Frankfurt Stock Exchange,
+FRA:LNH,Lancashire Holdings Limited,Frankfurt Stock Exchange,
+FRA:2JM,Nyfosa AB (publ),Frankfurt Stock Exchange,
+FRA:DPN,DIC Corporation,Frankfurt Stock Exchange,
+FRA:7VS,Vitec Software Group AB (publ),Frankfurt Stock Exchange,
+ETR:GXI,Gerresheimer AG,Deutsche Börse Xetra,Healthcare
+FRA:GXI,Gerresheimer AG,Frankfurt Stock Exchange,
+FRA:9SI,Standex International Corporation,Frankfurt Stock Exchange,
+FRA:BV0,Bravida Holding AB (publ),Frankfurt Stock Exchange,
+FRA:OFP,OFG Bancorp,Frankfurt Stock Exchange,
+ETR:DUE,Dürr Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+ETR:FAU,Forvia SE,Deutsche Börse Xetra,
+FRA:FAU,Forvia SE,Frankfurt Stock Exchange,
+FRA:NPG,"Nippon Electric Glass Co., Ltd.",Frankfurt Stock Exchange,
+FRA:DUE,Dürr Aktiengesellschaft,Frankfurt Stock Exchange,
+HAM:TLG,TLG Immobilien AG,Hamburg Stock Exchange,
+FRA:EZM,OPmobility SE,Frankfurt Stock Exchange,
+FRA:V94,"Mabuchi Motor Co., Ltd.",Frankfurt Stock Exchange,
+FRA:RHF,RHI Magnesita N.V.,Frankfurt Stock Exchange,
+ETR:RHF,RHI Magnesita N.V.,Deutsche Börse Xetra,
+FRA:134,Seplat Energy Plc,Frankfurt Stock Exchange,
+FRA:4IK,The Bank of N.T. Butterfield & Son Limited,Frankfurt Stock Exchange,
+FRA:WML1,Wilh. Wilhelmsen Holding ASA,Frankfurt Stock Exchange,
+FRA:21Q,WH Smith PLC,Frankfurt Stock Exchange,
+FRA:PSM,ProSiebenSat.1 Media SE,Frankfurt Stock Exchange,
+BST:PSMA,ProSiebenSat.1 Media SE,Stuttgart Stock Exchange,
+ETR:PSM,ProSiebenSat.1 Media SE,Deutsche Börse Xetra,Communication Services
+FRA:1YX,Yixin Group Limited,Frankfurt Stock Exchange,
+FRA:0H5,"HCI Group, Inc.",Frankfurt Stock Exchange,
+ETR:PFV,Pfeiffer Vacuum Technology AG,Deutsche Börse Xetra,Industrials
+FRA:PFV,Pfeiffer Vacuum Technology AG,Frankfurt Stock Exchange,
+FRA:1U3,Bic Camera Inc.,Frankfurt Stock Exchange,
+ETR:OHB,OHB SE,Deutsche Börse Xetra,Industrials
+FRA:OHB,OHB SE,Frankfurt Stock Exchange,
+FRA:KYL,KLN Logistics Group Limited,Frankfurt Stock Exchange,
+FRA:YIR,Yihai International Holding Ltd.,Frankfurt Stock Exchange,
+ETR:WAC,Wacker Neuson SE,Deutsche Börse Xetra,Industrials
+FRA:WAC,Wacker Neuson SE,Frankfurt Stock Exchange,
+FRA:10H,Scandic Hotels Group AB (publ),Frankfurt Stock Exchange,
+FRA:MMT,Métropole Télévision S.A.,Frankfurt Stock Exchange,
+FRA:FU7,Shougang Fushan Resources Group Limited,Frankfurt Stock Exchange,
+ETR:SANT,Kontron AG,Deutsche Börse Xetra,Technology
+FRA:KTN,Kontron AG,Frankfurt Stock Exchange,
+FRA:NWG0,New Wave Group AB (publ),Frankfurt Stock Exchange,
+FRA:GR1,Greentown Service Group Co. Ltd.,Frankfurt Stock Exchange,
+FRA:4TS,Terveystalo Oyj,Frankfurt Stock Exchange,
+FRA:DEQ,Deutsche EuroShop AG,Frankfurt Stock Exchange,
+FRA:SGI,Shanghai Industrial Holdings Limited,Frankfurt Stock Exchange,
+FRA:9TA1,Tamarack Valley Energy Ltd.,Frankfurt Stock Exchange,
+FRA:V02,Höegh Autoliners ASA,Frankfurt Stock Exchange,
+ETR:HFG,HelloFresh SE,Deutsche Börse Xetra,Consumer Discretionary
+ETR:DEQ,Deutsche EuroShop AG,Deutsche Börse Xetra,Real Estate
+FRA:1AKA,Aker Solutions ASA,Frankfurt Stock Exchange,
+ETR:VOS,Vossloh AG,Deutsche Börse Xetra,Industrials
+FRA:VOS,Vossloh AG,Frankfurt Stock Exchange,
+BST:MEOD,Ceconomy AG,Stuttgart Stock Exchange,
+ETR:CEC,Ceconomy AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:CEC,Ceconomy AG,Frankfurt Stock Exchange,
+FRA:OUTA,Outokumpu Oyj,Frankfurt Stock Exchange,
+FRA:MYM,Mayr-Melnhof Karton AG,Frankfurt Stock Exchange,
+ETR:MYM,Mayr-Melnhof Karton AG,Deutsche Börse Xetra,
+ETR:AIXA,AIXTRON SE,Deutsche Börse Xetra,Technology
+FRA:63Z,First National Financial Corporation,Frankfurt Stock Exchange,
+FRA:P2C,PT Avia Avian Tbk,Frankfurt Stock Exchange,
+FRA:WO6,Worldline SA,Frankfurt Stock Exchange,
+ETR:WO6,Worldline SA,Deutsche Börse Xetra,
+FRA:L5E,Lindab International AB (publ),Frankfurt Stock Exchange,
+FRA:FCF,First Commonwealth Financial Corporation,Frankfurt Stock Exchange,
+ETR:HBH,HORNBACH Holding AG & Co. KGaA,Deutsche Börse Xetra,Consumer Discretionary
+FRA:HBH,HORNBACH Holding AG & Co. KGaA,Frankfurt Stock Exchange,
+FRA:5I4,Bakkavor Group plc,Frankfurt Stock Exchange,
+FRA:PGJ,Towngas Smart Energy Company Limited,Frankfurt Stock Exchange,
+FRA:HP6H,Harbin Electric Company Limited,Frankfurt Stock Exchange,
+FRA:NBF,Nolato AB (publ),Frankfurt Stock Exchange,
+FRA:N33,NP3 Fastigheter AB (publ),Frankfurt Stock Exchange,
+FRA:MKL,Atea ASA,Frankfurt Stock Exchange,
+ETR:KSB,KSB SE & Co. KGaA,Deutsche Börse Xetra,Industrials
+ETR:KSB3,KSB SE & Co. KGaA,Deutsche Börse Xetra,Industrials
+FRA:KSB,KSB SE & Co. KGaA,Frankfurt Stock Exchange,
+FRA:AIXA,AIXTRON SE,Frankfurt Stock Exchange,
+FRA:AF8,AF Gruppen ASA,Frankfurt Stock Exchange,
+FRA:NWK,Northwest Natural Holding Company,Frankfurt Stock Exchange,
+FRA:LI3,Lisi S.A.,Frankfurt Stock Exchange,
+FRA:EGG,"Energizer Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:YSN,secunet Security Networks Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:YSN,secunet Security Networks Aktiengesellschaft,Deutsche Börse Xetra,Technology
+FRA:2GP,Alimak Group AB (publ),Frankfurt Stock Exchange,
+ETR:BIO3,Biotest Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+ETR:BIO,Biotest Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:BIO,Biotest Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:EUZ,Eckert & Ziegler SE,Frankfurt Stock Exchange,
+ETR:ER7,ERAMET S.A.,Deutsche Börse Xetra,
+FRA:ER7,ERAMET S.A.,Frankfurt Stock Exchange,
+FRA:E8F,CIMC Enric Holdings Limited,Frankfurt Stock Exchange,
+ETR:HHFA,Hamburger Hafen und Logistik Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:HHFA,Hamburger Hafen und Logistik Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:MOI,"Monarch Casino & Resort, Inc.",Frankfurt Stock Exchange,
+FRA:ICQ,Invisio AB (publ),Frankfurt Stock Exchange,
+ETR:EUZ,Eckert & Ziegler SE,Deutsche Börse Xetra,Healthcare
+FRA:C5H,Cairn Homes plc,Frankfurt Stock Exchange,
+FRA:HYQ,Hypoport SE,Frankfurt Stock Exchange,
+FRA:AD8,Arcos Dorados Holdings Inc.,Frankfurt Stock Exchange,
+FRA:3IB,PT Indo Tambangraya Megah Tbk,Frankfurt Stock Exchange,
+FRA:1O3,iFAST Corporation Ltd.,Frankfurt Stock Exchange,
+ETR:HYQ,Hypoport SE,Deutsche Börse Xetra,Financials
+FRA:AQY,ArcBest Corporation,Frankfurt Stock Exchange,
+FRA:M3D,Industrie De Nora S.p.A.,Frankfurt Stock Exchange,
+FRA:RYTB,StarHub Ltd,Frankfurt Stock Exchange,
+FRA:SHVA,Shoucheng Holdings Limited,Frankfurt Stock Exchange,
+ETR:ELG,Elmos Semiconductor SE,Deutsche Börse Xetra,Technology
+FRA:ELG,Elmos Semiconductor SE,Frankfurt Stock Exchange,
+FRA:31S,Stella International Holdings Limited,Frankfurt Stock Exchange,
+FRA:RY2,Dah Sing Banking Group Limited,Frankfurt Stock Exchange,
+FRA:917,engcon AB (publ),Frankfurt Stock Exchange,
+FRA:1FH,Freehold Royalties Ltd.,Frankfurt Stock Exchange,
+FRA:LMF,Lindsay Corporation,Frankfurt Stock Exchange,
+FRA:9N3,Pigeon Corporation,Frankfurt Stock Exchange,
+FRA:7TC,"Tokai Carbon Co., Ltd.",Frankfurt Stock Exchange,
+FRA:C44,China Resources Building Materials Technology Holdings Limited,Frankfurt Stock Exchange,
+ETR:ACT,AlzChem Group AG,Deutsche Börse Xetra,Materials
+FRA:ACT,AlzChem Group AG,Frankfurt Stock Exchange,
+FRA:F3DC,Fugro N.V.,Frankfurt Stock Exchange,
+FRA:WUW,Wüstenrot & Württembergische AG,Frankfurt Stock Exchange,
+ETR:WUW,Wüstenrot & Württembergische AG,Deutsche Börse Xetra,Financials
+FRA:GAB,"German American Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:G90,"The Greenbrier Companies, Inc.",Frankfurt Stock Exchange,
+ETR:EVT,Evotec SE,Deutsche Börse Xetra,Healthcare
+ETR:NCH2,thyssenkrupp nucera AG & Co. KGaA,Deutsche Börse Xetra,Industrials
+FRA:EVT,Evotec SE,Frankfurt Stock Exchange,
+FRA:1UEN,United Energy Group Limited,Frankfurt Stock Exchange,
+FRA:PLUN,Plug Power Inc.,Frankfurt Stock Exchange,Industrials
+FRA:9GR,Gränges AB (publ),Frankfurt Stock Exchange,
+FRA:9U0,SY Holdings Group Limited,Frankfurt Stock Exchange,
+FRA:AR7,Addnode Group AB (publ),Frankfurt Stock Exchange,
+FRA:01K,Keller Group plc,Frankfurt Stock Exchange,
+ETR:UEN,Ubisoft Entertainment SA,Deutsche Börse Xetra,
+FRA:UEN,Ubisoft Entertainment SA,Frankfurt Stock Exchange,
+FRA:NWC,Norwegian Air Shuttle ASA,Frankfurt Stock Exchange,
+FRA:NXU,Nexus AG,Frankfurt Stock Exchange,
+FRA:1CD,"Cadre Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:NB9,National Bank Holdings Corporation,Frankfurt Stock Exchange,
+FRA:3R2,Richelieu Hardware Ltd.,Frankfurt Stock Exchange,
+FRA:6N5,Cibus Nordic Real Estate AB (publ),Frankfurt Stock Exchange,Real Estate
+FRA:02M1,Raffles Medical Group Ltd,Frankfurt Stock Exchange,
+ETR:DOU,Douglas AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:DOU,Douglas AG,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:1DH,Clarkson PLC,Frankfurt Stock Exchange,
+FRA:5F3,JINS HOLDINGS Inc.,Frankfurt Stock Exchange,
+ETR:DRW8,Drägerwerk AG & Co. KGaA,Deutsche Börse Xetra,Healthcare
+FRA:DRW8,Drägerwerk AG & Co. KGaA,Frankfurt Stock Exchange,
+ETR:NXU,Nexus AG,Deutsche Börse Xetra,Healthcare
+FRA:47Y,"Veritex Holdings, Inc.",Frankfurt Stock Exchange,
+ETR:PLUN,Plug Power Inc.,Deutsche Börse Xetra,Industrials
+FRA:PFI,Palfinger AG,Frankfurt Stock Exchange,
+FRA:CSUA,Corbion N.V.,Frankfurt Stock Exchange,
+FRA:JL80,Norconsult ASA,Frankfurt Stock Exchange,
+FRA:NRB,"Hope Bancorp, Inc.",Frankfurt Stock Exchange,
+ETR:PNE3,PNE AG,Deutsche Börse Xetra,Utilities
+FRA:PNE3,PNE AG,Frankfurt Stock Exchange,
+FRA:YOU,About You Holding SE,Frankfurt Stock Exchange,Consumer Discretionary
+ETR:YOU,About You Holding SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SPB,Sedlmayr Grund und Immobilien AG,Frankfurt Stock Exchange,
+FRA:21T,Bodycote plc,Frankfurt Stock Exchange,
+HAM:CE2,CropEnergies AG,Hamburg Stock Exchange,
+ETR:E3B,Eutelsat Communications S.A.,Deutsche Börse Xetra,
+FRA:E3B,Eutelsat Communications S.A.,Frankfurt Stock Exchange,
+FRA:0P5,Genuit Group plc,Frankfurt Stock Exchange,
+ETR:VH2,Friedrich Vorwerk Group SE,Deutsche Börse Xetra,Industrials
+FRA:VH2,Friedrich Vorwerk Group SE,Frankfurt Stock Exchange,Energy
+FRA:Z2J,"Worthington Steel, Inc.",Frankfurt Stock Exchange,
+FRA:A8X,Fiskars Oyj Abp,Frankfurt Stock Exchange,
+FRA:IMW,4imprint Group plc,Frankfurt Stock Exchange,
+FRA:C41,"CGN New Energy Holdings Co., Ltd.",Frankfurt Stock Exchange,
+ETR:COP,CompuGroup Medical SE & Co. KGaA,Deutsche Börse Xetra,Healthcare
+FRA:COP,CompuGroup Medical SE & Co. KGaA,Frankfurt Stock Exchange,
+FRA:2RG,Europris ASA,Frankfurt Stock Exchange,
+FRA:LP1,"Leggett & Platt, Incorporated",Frankfurt Stock Exchange,
+ETR:WAF,Siltronic AG,Deutsche Börse Xetra,Technology
+FRA:WAF,Siltronic AG,Frankfurt Stock Exchange,
+FRA:GHK,Great Eagle Holdings Limited,Frankfurt Stock Exchange,
+ETR:JEN,Jenoptik AG,Deutsche Börse Xetra,Technology
+FRA:JEN,Jenoptik AG,Frankfurt Stock Exchange,
+FRA:5IW,Inwido AB (publ),Frankfurt Stock Exchange,
+FRA:7M1,Mips AB (publ),Frankfurt Stock Exchange,
+FRA:KLU1,Kaiser Aluminum Corporation,Frankfurt Stock Exchange,
+FRA:96S,Stepan Company,Frankfurt Stock Exchange,
+ETR:BFSA,Befesa S.A.,Deutsche Börse Xetra,Industrials
+FRA:6SZA,Sanlorenzo S.p.A.,Frankfurt Stock Exchange,
+FRA:4NK,Norbit ASA,Frankfurt Stock Exchange,
+ETR:YTSN,Kuros Biosciences AG,Deutsche Börse Xetra,
+FRA:BFSA,Befesa S.A.,Frankfurt Stock Exchange,
+ETR:SZG,Salzgitter AG,Deutsche Börse Xetra,Materials
+FRA:SZG,Salzgitter AG,Frankfurt Stock Exchange,
+FRA:LMP,Lee & Man Paper Manufacturing Limited,Frankfurt Stock Exchange,
+FRA:36L,361 Degrees International Limited,Frankfurt Stock Exchange,
+FRA:E3E,Elementis plc,Frankfurt Stock Exchange,
+FRA:C1P,Consun Pharmaceutical Group Limited,Frankfurt Stock Exchange,
+FRA:44F,"Byline Bancorp, Inc.",Frankfurt Stock Exchange,
+ETR:ADV,Adtran Networks SE,Deutsche Börse Xetra,Technology
+FRA:ADV,Adtran Networks SE,Frankfurt Stock Exchange,
+ETR:ABS2,PORR AG,Deutsche Börse Xetra,Industrials
+FRA:BHJC,Bilia AB (publ),Frankfurt Stock Exchange,
+FRA:V4S,Vesuvius plc,Frankfurt Stock Exchange,
+FRA:9J7,Elopak ASA,Frankfurt Stock Exchange,
+FRA:50J,Kangji Medical Holdings Limited,Frankfurt Stock Exchange,
+FRA:SMS2,PT Semen Indonesia (Persero) Tbk,Frankfurt Stock Exchange,
+FRA:PQX1,Biotage AB (publ),Frankfurt Stock Exchange,
+ETR:LEN,Lenzing Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+FRA:MHR,"MillerKnoll, Inc.",Frankfurt Stock Exchange,
+FRA:LEN,Lenzing Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:3MI,PageGroup plc,Frankfurt Stock Exchange,
+FRA:27R,RaySearch Laboratories AB (publ),Frankfurt Stock Exchange,
+FRA:SFW,Capital Southwest Corporation,Frankfurt Stock Exchange,
+FRA:C43,Cosmo Pharmaceuticals N.V.,Frankfurt Stock Exchange,
+FRA:DG20,Diversified Energy Company PLC,Frankfurt Stock Exchange,
+FRA:DSR,Dah Sing Financial Holdings Limited,Frankfurt Stock Exchange,
+FRA:BJVC,Corem Property Group AB (publ),Frankfurt Stock Exchange,
+FRA:42H,Bank First Corporation,Frankfurt Stock Exchange,
+ETR:CHG,CHAPTERS Group AG,Deutsche Börse Xetra,Technology
+FRA:CHG,CHAPTERS Group AG,Frankfurt Stock Exchange,
+FRA:DEH,"Delek US Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:GGG,PT Gudang Garam Tbk,Frankfurt Stock Exchange,
+ETR:DEZ,DEUTZ Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:DEZ,DEUTZ Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:07M,China Modern Dairy Holdings Ltd.,Frankfurt Stock Exchange,
+FRA:F2P,Gushengtang Holdings Limited,Frankfurt Stock Exchange,
+FRA:S00,Spire Healthcare Group plc,Frankfurt Stock Exchange,
+FRA:H1Q,China BlueChemical Ltd.,Frankfurt Stock Exchange,
+FRA:0NR,Uniphar plc,Frankfurt Stock Exchange,
+FRA:KP5,Kitron ASA,Frankfurt Stock Exchange,
+ETR:ECEA,Societatea Energetica Electrica S.A.,Deutsche Börse Xetra,
+FRA:6LT,Bird Construction Inc.,Frankfurt Stock Exchange,
+FRA:CFH,China Foods Limited,Frankfurt Stock Exchange,
+FRA:0QW,J D Wetherspoon plc,Frankfurt Stock Exchange,
+ETR:TIMA,ZEAL Network SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:MQ1,TriMas Corporation,Frankfurt Stock Exchange,
+FRA:36Z,"Origin Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:TIMA,ZEAL Network SE,Frankfurt Stock Exchange,
+FRA:R9B,DeFi Technologies Inc.,Frankfurt Stock Exchange,
+FRA:C9IB,Lonking Holdings Limited,Frankfurt Stock Exchange,
+FRA:6SN,Nakanishi Inc.,Frankfurt Stock Exchange,
+FRA:B7O,CITIC Telecom International Holdings Limited,Frankfurt Stock Exchange,
+FRA:BGLA,BioGaia AB (publ),Frankfurt Stock Exchange,
+FRA:G1U,Harvia Oyj,Frankfurt Stock Exchange,
+FRA:COK,Cancom SE,Frankfurt Stock Exchange,
+ETR:COK,Cancom SE,Deutsche Börse Xetra,Technology
+FRA:ZWS,"Telia Lietuva, AB",Frankfurt Stock Exchange,
+FRA:PHQ,ME Group International plc,Frankfurt Stock Exchange,
+FRA:F3T1,Ferretti S.p.A.,Frankfurt Stock Exchange,
+FRA:LET,Lectra SA,Frankfurt Stock Exchange,
+ETR:MLP,MLP SE,Deutsche Börse Xetra,Financials
+FRA:MLP,MLP SE,Frankfurt Stock Exchange,
+ETR:MUM,Mensch und Maschine Software SE,Deutsche Börse Xetra,Technology
+FRA:MUM,Mensch und Maschine Software SE,Frankfurt Stock Exchange,
+FRA:KHP,Kohl's Corporation,Frankfurt Stock Exchange,
+FRA:GML0,Global Industrial Company,Frankfurt Stock Exchange,
+FRA:9JO,Guaranty Trust Holding Company Plc,Frankfurt Stock Exchange,
+ETR:SLYG,Shelly Group SE,Deutsche Börse Xetra,
+FRA:FAG,Hilton Food Group plc,Frankfurt Stock Exchange,
+FRA:8BI,Health and Happiness (H&H) International Holdings Limited,Frankfurt Stock Exchange,
+FRA:10I,Kier Group plc,Frankfurt Stock Exchange,
+FRA:WBAH,Wild Bunch AG,Frankfurt Stock Exchange,
+FRA:MBH3,Maschinenfabrik Berthold Hermle AG,Frankfurt Stock Exchange,
+FRA:RLD,"RPC, Inc.",Frankfurt Stock Exchange,
+FRA:2I5,Ibstock plc,Frankfurt Stock Exchange,
+FRA:1S5,Morimatsu International Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:BFV,Berliner Effektengesellschaft AG,Frankfurt Stock Exchange,
+FRA:PHH2,Paul Hartmann AG,Frankfurt Stock Exchange,
+FRA:NRE,Nokian Renkaat Oyj,Frankfurt Stock Exchange,
+FRA:TO5,"artience Co., Ltd.",Frankfurt Stock Exchange,
+ETR:5CV,CureVac N.V.,Deutsche Börse Xetra,Healthcare
+FRA:5CV,CureVac N.V.,Frankfurt Stock Exchange,Healthcare
+ETR:RHK,RHÖN-KLINIKUM Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:S97,Savaria Corporation,Frankfurt Stock Exchange,
+FRA:AM8,AMAG Austria Metall AG,Frankfurt Stock Exchange,
+FRA:BF2A,Bel Fuse Inc.,Frankfurt Stock Exchange,
+FRA:A9F,Alfa Financial Software Holdings PLC,Frankfurt Stock Exchange,
+FRA:NBO,Nisshinbo Holdings Inc.,Frankfurt Stock Exchange,
+FRA:5TOA,Troax Group AB (publ),Frankfurt Stock Exchange,
+FRA:8QA,MilDef Group AB (publ),Frankfurt Stock Exchange,
+FRA:D1F,Diös Fastigheter AB (publ),Frankfurt Stock Exchange,
+FRA:WFG1,West China Cement Limited,Frankfurt Stock Exchange,
+FRA:H0A,"Kasumigaseki Capital Co.,Ltd.",Frankfurt Stock Exchange,
+FRA:A0B0,Amalgamated Financial Corp.,Frankfurt Stock Exchange,
+FRA:V7P,Bonheur ASA,Frankfurt Stock Exchange,
+FRA:V8E,Platzer Fastigheter Holding AB (publ),Frankfurt Stock Exchange,
+HAM:CEV,Centrotec SE,Hamburg Stock Exchange,
+FRA:1QG,Marshalls plc,Frankfurt Stock Exchange,
+FRA:AZ9,Chervon Holdings Limited,Frankfurt Stock Exchange,
+FRA:TQR,Beijing Tong Ren Tang Chinese Medicine Company Limited,Frankfurt Stock Exchange,
+FRA:A39,Arjo AB (publ),Frankfurt Stock Exchange,
+FRA:1JD,Senior plc,Frankfurt Stock Exchange,
+FRA:2HK,HKBN Ltd.,Frankfurt Stock Exchange,
+FRA:BB3,"Brookline Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:3E4,Enghouse Systems Limited,Frankfurt Stock Exchange,
+FRA:ACD,Adecoagro S.A.,Frankfurt Stock Exchange,
+FRA:Z7K,"Maeda Kosen Co., Ltd.",Frankfurt Stock Exchange,
+FRA:XB1,NCAB Group AB (publ),Frankfurt Stock Exchange,
+FRA:AI2,"Astec Industries, Inc.",Frankfurt Stock Exchange,
+FRA:8J0,Tompkins Financial Corporation,Frankfurt Stock Exchange,
+ETR:SMHN,SUSS MicroTec SE,Deutsche Börse Xetra,Technology
+FRA:SMHN,SUSS MicroTec SE,Frankfurt Stock Exchange,
+ETR:MBB,MBB SE,Deutsche Börse Xetra,Industrials
+FRA:MBB,MBB SE,Frankfurt Stock Exchange,
+FRA:1O4,Japfa Ltd.,Frankfurt Stock Exchange,
+FRA:9MU,Mullen Group Ltd.,Frankfurt Stock Exchange,
+FRA:7AT,Attendo AB (publ),Frankfurt Stock Exchange,
+FRA:CBM,"ConnectOne Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:ANP,"Apogee Enterprises, Inc.",Frankfurt Stock Exchange,
+FRA:JST,JOST Werke SE,Frankfurt Stock Exchange,
+ETR:STO3,Sto SE & Co. KGaA,Deutsche Börse Xetra,Industrials
+ETR:JST,JOST Werke SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:5XE,Extendicare Inc.,Frankfurt Stock Exchange,
+FRA:0OV1,OVS S.p.A.,Frankfurt Stock Exchange,
+FRA:ZVB,Zignago Vetro S.p.A.,Frankfurt Stock Exchange,
+FRA:A3I,"AMERISAFE, Inc.",Frankfurt Stock Exchange,
+ETR:AGB2,AGRANA Beteiligungs-Aktiengesellschaft,Deutsche Börse Xetra,Consumer Staples
+ETR:SFQ,SAF-Holland SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SFQ,SAF-Holland SE,Frankfurt Stock Exchange,
+ETR:PBB,Deutsche Pfandbriefbank AG,Deutsche Börse Xetra,Financials
+FRA:PBB,Deutsche Pfandbriefbank AG,Frankfurt Stock Exchange,
+FRA:UVE,Univest Financial Corporation,Frankfurt Stock Exchange,
+ETR:NA9,Nagarro SE,Deutsche Börse Xetra,Technology
+FRA:NA9,Nagarro SE,Frankfurt Stock Exchange,Technology
+FRA:SS1A,"Radius Recycling, Inc.",Frankfurt Stock Exchange,
+FRA:X64,Momentum Group AB (publ),Frankfurt Stock Exchange,
+ETR:TNIE,tonies SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SCB,Séché Environnement SA,Frankfurt Stock Exchange,
+ETR:PAT,PATRIZIA SE,Deutsche Börse Xetra,Real Estate
+FRA:PAT,PATRIZIA SE,Frankfurt Stock Exchange,
+FRA:TNIE,tonies SE,Frankfurt Stock Exchange,
+FRA:OVI,Olvi Oyj,Frankfurt Stock Exchange,
+ETR:MUX,Mutares SE & Co. KGaA,Deutsche Börse Xetra,Financials
+FRA:MUX,Mutares SE & Co. KGaA,Frankfurt Stock Exchange,
+FRA:BV4,Bouvet ASA,Frankfurt Stock Exchange,
+ETR:AUS,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,Deutsche Börse Xetra,Technology
+ETR:TGHN,Logwin AG,Deutsche Börse Xetra,Industrials
+FRA:S92,SMA Solar Technology AG,Frankfurt Stock Exchange,
+ETR:S92,SMA Solar Technology AG,Deutsche Börse Xetra,Technology
+FRA:8AC,Acomo N.V.,Frankfurt Stock Exchange,
+FRA:HA6,"Haitong Unitrust International Financial Leasing Co., Ltd.",Frankfurt Stock Exchange,
+FRA:OSB,"Old Second Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:CWC,CEWE Stiftung & Co. KGaA,Frankfurt Stock Exchange,
+HAM:SLT,Schaltbau Holding AG,Hamburg Stock Exchange,
+FRA:CFW,"Capitol Federal Financial, Inc.",Frankfurt Stock Exchange,
+ETR:CWC,CEWE Stiftung & Co. KGaA,Deutsche Börse Xetra,Consumer Discretionary
+FRA:C0Y,Cardinal Energy Ltd.,Frankfurt Stock Exchange,
+FRA:9ND,"HBT Financial, Inc.",Frankfurt Stock Exchange,
+FRA:C1S,China Shineway Pharmaceutical Group Limited,Frankfurt Stock Exchange,
+FRA:3GH,Kaufman & Broad S.A.,Frankfurt Stock Exchange,
+HAM:FDD,Pilkington Deutschland AG,Hamburg Stock Exchange,
+FRA:8SF,Sligro Food Group N.V.,Frankfurt Stock Exchange,
+FRA:5UI,"Universal Insurance Holdings, Inc.",Frankfurt Stock Exchange,
+FRA:MR9,Midea Real Estate Holding Limited,Frankfurt Stock Exchange,
+FRA:ROF,Kforce Inc.,Frankfurt Stock Exchange,
+FRA:MCS,Mercantile Bank Corporation,Frankfurt Stock Exchange,
+ETR:STM,Stabilus SE,Deutsche Börse Xetra,Industrials
+FRA:0KZA,Amerant Bancorp Inc.,Frankfurt Stock Exchange,
+ETR:KCO,Klöckner & Co SE,Deutsche Börse Xetra,Materials
+FRA:KCO,Klöckner & Co SE,Frankfurt Stock Exchange,
+FRA:UK6A,Harworth Group plc,Frankfurt Stock Exchange,
+FRA:P1I,Piaggio & C. SpA,Frankfurt Stock Exchange,
+FRA:7XY,Swedencare AB (publ),Frankfurt Stock Exchange,
+FRA:P8X,PAX Global Technology Limited,Frankfurt Stock Exchange,
+FRA:9EE,Zinzino AB (publ),Frankfurt Stock Exchange,
+FRA:VBK,Verbio SE,Frankfurt Stock Exchange,
+ETR:VBK,Verbio SE,Deutsche Börse Xetra,Materials
+ETR:FQT,Frequentis AG,Deutsche Börse Xetra,Technology
+FRA:FQT,Frequentis AG,Frankfurt Stock Exchange,
+FRA:7IR,"MetroCity Bankshares, Inc.",Frankfurt Stock Exchange,
+FRA:GLJ,Grenke AG,Frankfurt Stock Exchange,
+ETR:GLJ,Grenke AG,Deutsche Börse Xetra,Financials
+FRA:4IIA,Instalco AB (publ),Frankfurt Stock Exchange,
+FRA:NLM,FRoSTA Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:DIN,Digital China Holdings Limited,Frankfurt Stock Exchange,
+FRA:CJW1,Chow Sang Sang Holdings International Limited,Frankfurt Stock Exchange,
+ETR:EKT,Energiekontor AG,Deutsche Börse Xetra,Utilities
+FRA:ADG,AMG Critical Materials N.V.,Frankfurt Stock Exchange,
+FRA:9FZ,Synsam AB (publ),Frankfurt Stock Exchange,
+FRA:IJ8,ITM Power Plc,Frankfurt Stock Exchange,Industrials
+FRA:CMJ,"Poly Property Group Co., Limited",Frankfurt Stock Exchange,
+ETR:MUB,Mühlbauer Holding AG,Deutsche Börse Xetra,Technology
+ETR:GFT,GFT Technologies SE,Deutsche Börse Xetra,Technology
+FRA:GFT,GFT Technologies SE,Frankfurt Stock Exchange,
+FRA:9MF,MTY Food Group Inc.,Frankfurt Stock Exchange,
+FRA:SSH,Südwestdeutsche Salzwerke AG,Frankfurt Stock Exchange,
+FRA:ZHY,Zhou Hei Ya International Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:OL5,Shui On Land Limited,Frankfurt Stock Exchange,
+ETR:SIS,First Sensor AG,Deutsche Börse Xetra,Technology
+FRA:SIS,First Sensor AG,Frankfurt Stock Exchange,
+FRA:5QR,Nederman Holding AB (publ),Frankfurt Stock Exchange,
+FRA:EKT,Energiekontor AG,Frankfurt Stock Exchange,
+FRA:3B7,Bahnhof AB (publ),Frankfurt Stock Exchange,
+FRA:3TW,CoinShares International Limited,Frankfurt Stock Exchange,
+FRA:2GB,2G Energy AG,Frankfurt Stock Exchange,
+ETR:2GB,2G Energy AG,Deutsche Börse Xetra,Industrials
+FRA:NBG6,NÜRNBERGER Beteiligungs-AG,Frankfurt Stock Exchange,
+ETR:NBG6,NÜRNBERGER Beteiligungs-AG,Deutsche Börse Xetra,Financials
+FRA:Q75,Integral Corporation,Frankfurt Stock Exchange,
+FRA:1OM,Meko AB (publ),Frankfurt Stock Exchange,
+FRA:KU4,VBG Group AB (publ),Frankfurt Stock Exchange,
+FRA:1PH,China Resources Medical Holdings Company Limited,Frankfurt Stock Exchange,
+FRA:BZ1,Assystem S.A.,Frankfurt Stock Exchange,
+FRA:MKS,AS Merko Ehitus,Frankfurt Stock Exchange,
+ETR:QH9,"ADTRAN Holdings, Inc.",Deutsche Börse Xetra,Technology
+ETR:ADN1,adesso SE,Deutsche Börse Xetra,Technology
+FRA:ADN1,adesso SE,Frankfurt Stock Exchange,
+FRA:6UP,Thungela Resources Limited,Frankfurt Stock Exchange,
+ETR:M8G,Verve Group SE,Deutsche Börse Xetra,Technology
+ETR:ALI,Almonty Industries Inc.,Deutsche Börse Xetra,Materials
+FRA:ALI,Almonty Industries Inc.,Frankfurt Stock Exchange,
+ETR:PCZ,ProCredit Holding AG,Deutsche Börse Xetra,Financials
+FRA:PCZ,ProCredit Holding AG,Frankfurt Stock Exchange,
+FRA:3ND,NetDragon Websoft Holdings Limited,Frankfurt Stock Exchange,
+FRA:EG7,FBD Holdings plc,Frankfurt Stock Exchange,
+FRA:WSU,WashTec AG,Frankfurt Stock Exchange,
+FRA:S0A,Scanfil Oyj,Frankfurt Stock Exchange,
+FRA:0SL,Scandi Standard AB (publ),Frankfurt Stock Exchange,
+ETR:INH,INDUS Holding AG,Deutsche Börse Xetra,Industrials
+FRA:INH,INDUS Holding AG,Frankfurt Stock Exchange,
+FRA:S3T,"Shutterstock, Inc.",Frankfurt Stock Exchange,
+ETR:IJ8,ITM Power Plc,Deutsche Börse Xetra,Industrials
+ETR:WSU,WashTec AG,Deutsche Börse Xetra,Industrials
+FRA:97Q,Kid ASA,Frankfurt Stock Exchange,
+FRA:VUL,Vulcan Energy Resources Limited,Frankfurt Stock Exchange,
+ETR:HABA,Hamborner REIT AG,Deutsche Börse Xetra,Real Estate
+FRA:4C6,Hutchison Telecommunications Hong Kong Holdings Limited,Frankfurt Stock Exchange,
+FRA:4W9,Pexip Holding ASA,Frankfurt Stock Exchange,
+FRA:OFR,"Orrstown Financial Services, Inc.",Frankfurt Stock Exchange,
+FRA:4F6,Five Star Bancorp,Frankfurt Stock Exchange,
+FRA:T7U,"Riley Exploration Permian, Inc.",Frankfurt Stock Exchange,
+FRA:4S4,"South Plains Financial, Inc.",Frankfurt Stock Exchange,
+BST:SHF,SNP Schneider-Neureither & Partner SE,Stuttgart Stock Exchange,
+ETR:SHF,SNP Schneider-Neureither & Partner SE,Deutsche Börse Xetra,Technology
+FRA:EUK3,EUROKAI GmbH & Co. KGaA,Frankfurt Stock Exchange,
+HAM:EUK2,EUROKAI GmbH & Co. KGaA,Hamburg Stock Exchange,
+FRA:OUE1,OUE Limited,Frankfurt Stock Exchange,
+FRA:WQ9,Wilson Bayly Holmes-Ovcon Limited,Frankfurt Stock Exchange,
+ETR:FYB,Formycon AG,Deutsche Börse Xetra,Healthcare
+FRA:FYB,Formycon AG,Frankfurt Stock Exchange,
+FRA:CC3,"Cass Information Systems, Inc.",Frankfurt Stock Exchange,
+FRA:7T4,Tinexta S.p.A.,Frankfurt Stock Exchange,
+FRA:F0T,Forterra plc,Frankfurt Stock Exchange,
+FRA:2ZI,"Eagle Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:1PU2,SP Group A/S,Frankfurt Stock Exchange,
+FRA:VZ8,China Aviation Oil (Singapore) Corporation Ltd,Frankfurt Stock Exchange,
+FRA:T5N,AS Tallink Grupp,Frankfurt Stock Exchange,
+FRA:MLI,"Mesa Laboratories, Inc.",Frankfurt Stock Exchange,
+FRA:CBE,Mersen S.A.,Frankfurt Stock Exchange,
+FRA:2ZP,Avio S.p.A.,Frankfurt Stock Exchange,
+FRA:1KS,"Shizuoka Gas Co., Ltd.",Frankfurt Stock Exchange,
+ETR:D6H,DATAGROUP SE,Deutsche Börse Xetra,Technology
+FRA:D6H,DATAGROUP SE,Frankfurt Stock Exchange,
+FRA:V7Y,Heba Fastighets AB (publ),Frankfurt Stock Exchange,
+FRA:3SY,"NIPPON PARKING DEVELOPMENT Co.,Ltd.",Frankfurt Stock Exchange,
+FRA:1CY,China Yongda Automobiles Services Holdings Limited,Frankfurt Stock Exchange,
+FRA:HJ1,Core Laboratories Inc.,Frankfurt Stock Exchange,
+ETR:SLL,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,Deutsche Börse Xetra,Energy
+FRA:HG1,HOMAG Group AG,Frankfurt Stock Exchange,Industrials
+FRA:DR1,Dream International Limited,Frankfurt Stock Exchange,
+FRA:PSAN,PSI Software SE,Frankfurt Stock Exchange,
+ETR:PSAN,PSI Software SE,Deutsche Börse Xetra,Technology
+ETR:HDD,Heidelberger Druckmaschinen Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:HDD,Heidelberger Druckmaschinen Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:NKO,"Nikkiso Co., Ltd.",Frankfurt Stock Exchange,
+FRA:AYJ,Valneva SE,Frankfurt Stock Exchange,
+ETR:AYJ,Valneva SE,Deutsche Börse Xetra,
+ETR:SGL,SGL Carbon SE,Deutsche Börse Xetra,Materials
+FRA:SGL,SGL Carbon SE,Frankfurt Stock Exchange,
+FRA:316,"Capital Bancorp, Inc.",Frankfurt Stock Exchange,
+ETR:VIB3,Villeroy & Boch AG,Deutsche Börse Xetra,Industrials
+FRA:BIU2,China Everbright Water Limited,Frankfurt Stock Exchange,
+FRA:5R02,"Ramaco Resources, Inc.",Frankfurt Stock Exchange,
+FRA:5AO,Anton Oilfield Services Group,Frankfurt Stock Exchange,
+FRA:C6F,cBrain A/S,Frankfurt Stock Exchange,
+FRA:1RQ,Cheerwin Group Limited,Frankfurt Stock Exchange,
+FRA:1J2,Warpaint London PLC,Frankfurt Stock Exchange,
+ETR:TTK,TAKKT AG,Deutsche Börse Xetra,Industrials
+FRA:SL1,Scholastic Corporation,Frankfurt Stock Exchange,
+FRA:W2F,The Straits Trading Company Limited,Frankfurt Stock Exchange,
+FRA:W2B,Magnera Corporation,Frankfurt Stock Exchange,
+ETR:DBAN,Deutsche Beteiligungs AG,Deutsche Börse Xetra,Financials
+FRA:9YM,"Krispy Kreme, Inc.",Frankfurt Stock Exchange,
+FRA:45V,Peapack-Gladstone Financial Corporation,Frankfurt Stock Exchange,
+ETR:NOEJ,NORMA Group SE,Deutsche Börse Xetra,Industrials
+FRA:C26,CellaVision AB (publ),Frankfurt Stock Exchange,
+FRA:O060,Eastnine AB (publ),Frankfurt Stock Exchange,
+FRA:49R,Raksul Inc.,Frankfurt Stock Exchange,
+ETR:AAD,Amadeus FiRe AG,Deutsche Börse Xetra,Industrials
+FRA:AAD,Amadeus FiRe AG,Frankfurt Stock Exchange,
+FRA:2DU,Duni AB (publ),Frankfurt Stock Exchange,
+FRA:B7H,Horizon Construction Development Limited,Frankfurt Stock Exchange,
+FRA:3RE,Rejlers AB (publ),Frankfurt Stock Exchange,
+FRA:B7C0,d'Amico International Shipping S.A.,Frankfurt Stock Exchange,
+ETR:ROI,Rosenbauer International AG,Deutsche Börse Xetra,Industrials
+ETR:BVB,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Deutsche Börse Xetra,Communication Services
+FRA:BVB,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Frankfurt Stock Exchange,
+FRA:MM7,Mears Group plc,Frankfurt Stock Exchange,
+FRA:LS2,LSI Industries Inc.,Frankfurt Stock Exchange,
+FRA:3YU,Jiumaojiu International Holdings Limited,Frankfurt Stock Exchange,
+FRA:RYO1,Ryobi Limited,Frankfurt Stock Exchange,
+ETR:F3C,SFC Energy AG,Deutsche Börse Xetra,Industrials
+FRA:B28,B2 Impact ASA,Frankfurt Stock Exchange,
+ETR:9VC,Atai Life Sciences N.V.,Deutsche Börse Xetra,Healthcare
+FRA:VC3,Columbus McKinnon Corporation,Frankfurt Stock Exchange,
+FRA:FOBK,"kneat.com, inc.",Frankfurt Stock Exchange,
+FRA:9VC,Atai Life Sciences N.V.,Frankfurt Stock Exchange,
+ETR:IXX,init innovation in traffic systems SE,Deutsche Börse Xetra,Technology
+FRA:IXX,init innovation in traffic systems SE,Frankfurt Stock Exchange,
+ETR:INS,Instone Real Estate Group SE,Deutsche Börse Xetra,Real Estate
+FRA:76E,Cogeco Inc.,Frankfurt Stock Exchange,
+FRA:13B,bpost NV/SA,Frankfurt Stock Exchange,
+FRA:6AH,Ausnutria Dairy Corporation Ltd,Frankfurt Stock Exchange,
+FRA:SER1,PetroTal Corp.,Frankfurt Stock Exchange,
+FRA:OIZ,Origin Enterprises plc,Frankfurt Stock Exchange,
+FRA:9BA,ABC arbitrage SA,Frankfurt Stock Exchange,
+BST:4JMA,Jumia Technologies AG,Stuttgart Stock Exchange,
+FRA:317A,Stingray Group Inc.,Frankfurt Stock Exchange,
+FRA:0NY,Linklogis Inc.,Frankfurt Stock Exchange,
+ETR:ZYE1,Addiko Bank AG,Deutsche Börse Xetra,
+FRA:SIM0,SIMONA Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:1W6,Idun Industrier AB (publ),Frankfurt Stock Exchange,
+FRA:SP8,"The Shyft Group, Inc.",Frankfurt Stock Exchange,
+FRA:AJC,Atria Oyj,Frankfurt Stock Exchange,
+ETR:ETG,EnviTec Biogas AG,Deutsche Börse Xetra,Utilities
+FRA:ETG,EnviTec Biogas AG,Frankfurt Stock Exchange,
+ETR:TPE,PVA TePla AG,Deutsche Börse Xetra,Industrials
+FRA:TPE,PVA TePla AG,Frankfurt Stock Exchange,
+FRA:ZYE1,Addiko Bank AG,Frankfurt Stock Exchange,Financials
+ETR:2HQ,"Tilray Brands, Inc.",Deutsche Börse Xetra,Healthcare
+FRA:41Z0,Surge Energy Inc.,Frankfurt Stock Exchange,
+FRA:5FF,ForFarmers N.V.,Frankfurt Stock Exchange,
+FRA:S8T,SThree plc,Frankfurt Stock Exchange,
+FRA:2HQ,"Tilray Brands, Inc.",Frankfurt Stock Exchange,
+FRA:6X8,"Nissha Co., Ltd.",Frankfurt Stock Exchange,
+FRA:7GE,Geo Energy Resources Limited,Frankfurt Stock Exchange,
+FRA:45D,"First Business Financial Services, Inc.",Frankfurt Stock Exchange,
+HAM:HOC,HolidayCheck Group AG,Hamburg Stock Exchange,
+FRA:BIJ,Bijou Brigitte modische Accessoires Aktiengesellschaft,Frankfurt Stock Exchange,
+HAM:VQT,va-Q-tec AG,Hamburg Stock Exchange,
+BST:DWB,Dinkelacker AG,Stuttgart Stock Exchange,
+HAM:AR40,AURELIUS Equity Opportunities SE & Co. KGaA,Hamburg Stock Exchange,
+ETR:BIJ,Bijou Brigitte modische Accessoires Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+FRA:74O,Atrium Mortgage Investment Corporation,Frankfurt Stock Exchange,
+FRA:HOF,Essentra plc,Frankfurt Stock Exchange,
+FRA:AB9,ABO Energy GmbH & Co. KGaA,Frankfurt Stock Exchange,
+HAM:AB9,ABO Energy GmbH & Co. KGaA,Hamburg Stock Exchange,
+ETR:AB9,ABO Energy GmbH & Co. KGaA,Deutsche Börse Xetra,Industrials
+ETR:BYW,BayWa Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+ETR:BYW6,BayWa Aktiengesellschaft,Deutsche Börse Xetra,Industrials
+FRA:BYW,BayWa Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:O4B,OVB Holding AG,Deutsche Börse Xetra,Financials
+FRA:O5P,Far East Orchard Limited,Frankfurt Stock Exchange,
+ETR:PSG,PharmaSGP Holding SE,Deutsche Börse Xetra,Healthcare
+FRA:PSG,PharmaSGP Holding SE,Frankfurt Stock Exchange,
+ETR:CA1,Circus SE,Deutsche Börse Xetra,Technology
+FRA:CA1,Circus SE,Frankfurt Stock Exchange,
+FRA:MD1,Medistim ASA,Frankfurt Stock Exchange,
+FRA:84H,"Sichuan Energy Investment Development Co., Ltd.",Frankfurt Stock Exchange,
+FRA:QJ8,Saratoga Investment Corp.,Frankfurt Stock Exchange,
+ETR:IVU,IVU Traffic Technologies AG,Deutsche Börse Xetra,Technology
+FRA:NR1A,National Research Corporation,Frankfurt Stock Exchange,
+FRA:1ZK,Elmera Group ASA,Frankfurt Stock Exchange,
+HAM:IFA,LS Invest AG,Hamburg Stock Exchange,
+ETR:UZU,Uzin Utz SE,Deutsche Börse Xetra,Materials
+FRA:UZU,Uzin Utz SE,Frankfurt Stock Exchange,
+FRA:IVU,IVU Traffic Technologies AG,Frankfurt Stock Exchange,
+ETR:DHR,"B&G Foods, Inc.",Deutsche Börse Xetra,
+ETR:SBS,Stratec SE,Deutsche Börse Xetra,Healthcare
+FRA:SBS,Stratec SE,Frankfurt Stock Exchange,
+FRA:TW4,Ependion AB,Frankfurt Stock Exchange,
+HAM:KTEK,KATEK SE,Hamburg Stock Exchange,
+FRA:MV4,"Movado Group, Inc.",Frankfurt Stock Exchange,
+FRA:JDC,JDC Group AG,Frankfurt Stock Exchange,
+ETR:JDC,JDC Group AG,Deutsche Börse Xetra,Financials
+FRA:S5L,Standard Lithium Ltd.,Frankfurt Stock Exchange,Materials
+FRA:6U2,"Southern States Bancshares, Inc.",Frankfurt Stock Exchange,
+FRA:9CK,China Kepei Education Group Limited,Frankfurt Stock Exchange,
+ETR:ILM1,Medios AG,Deutsche Börse Xetra,Healthcare
+FRA:ILM1,Medios AG,Frankfurt Stock Exchange,
+FRA:DAB,ABG Sundal Collier Holding ASA,Frankfurt Stock Exchange,
+FRA:169,Aeroporto Guglielmo Marconi di Bologna S.p.A.,Frankfurt Stock Exchange,
+FRA:44Q,"Civista Bancshares, Inc.",Frankfurt Stock Exchange,
+FRA:EIS,Eisen- und Hüttenwerke AG,Frankfurt Stock Exchange,
+FRA:TLJ,Tian Lun Gas Holdings Limited,Frankfurt Stock Exchange,
+ETR:BSL,Basler Aktiengesellschaft,Deutsche Börse Xetra,Technology
+FRA:BSL,Basler Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:1FC,FACC AG,Deutsche Börse Xetra,Industrials
+FRA:TZ0,"Jinmao Property Services Co., Limited",Frankfurt Stock Exchange,
+FRA:ST5,STEICO SE,Frankfurt Stock Exchange,
+FRA:A3B,ACCO Brands Corporation,Frankfurt Stock Exchange,
+ETR:ST5,STEICO SE,Deutsche Börse Xetra,Materials
+FRA:ZVF,Indofood Agri Resources Ltd.,Frankfurt Stock Exchange,
+FRA:74X,Firm Capital Mortgage Investment Corporation,Frankfurt Stock Exchange,
+FRA:JY0,ParTec AG,Frankfurt Stock Exchange,Technology
+ETR:JY0,ParTec AG,Deutsche Börse Xetra,Technology
+HAM:KBU,TAG Colonia-Immobilien AG,Hamburg Stock Exchange,
+FRA:WB3,"West Bancorporation, Inc.",Frankfurt Stock Exchange,
+ETR:ZIL2,ElringKlinger AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ZIL2,ElringKlinger AG,Frankfurt Stock Exchange,
+FRA:P5C,Pou Sheng International (Holdings) Limited,Frankfurt Stock Exchange,
+FRA:PIU0,Proact IT Group AB (publ),Frankfurt Stock Exchange,
+ETR:M12,M1 Kliniken AG,Deutsche Börse Xetra,Healthcare
+FRA:17F,FDM Group (Holdings) plc,Frankfurt Stock Exchange,
+FRA:S2B,Selvaag Bolig ASA,Frankfurt Stock Exchange,
+ETR:SEW,Semperit Aktiengesellschaft Holding,Deutsche Börse Xetra,Industrials
+FRA:BYY,Byggmax Group AB (publ),Frankfurt Stock Exchange,
+HAM:B5A0,BAUER Aktiengesellschaft,Hamburg Stock Exchange,
+FRA:5SZ,RBB Bancorp,Frankfurt Stock Exchange,
+FRA:NWQ,Best Pacific International Holdings Limited,Frankfurt Stock Exchange,
+FRA:3YM,Wee Hur Holdings Ltd.,Frankfurt Stock Exchange,
+FRA:A9W1,SIIC Environment Holdings Ltd.,Frankfurt Stock Exchange,
+FRA:MRR,Reach plc,Frankfurt Stock Exchange,
+ETR:4X0,Steyr Motors AG,Deutsche Börse Xetra,Industrials
+FRA:HVB,ÜSTRA Hannoversche Verkehrsbetriebe Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:93J,Polaris Media ASA,Frankfurt Stock Exchange,
+ETR:HTG,HomeToGo SE,Deutsche Börse Xetra,Communication Services
+FRA:HTG,HomeToGo SE,Frankfurt Stock Exchange,Communication Services
+ETR:A1OS,All for One Group SE,Deutsche Börse Xetra,Technology
+FRA:A1OS,All for One Group SE,Frankfurt Stock Exchange,
+ETR:HAW,Hawesko Holding SE,Deutsche Börse Xetra,Consumer Staples
+FRA:HAW,Hawesko Holding SE,Frankfurt Stock Exchange,
+FRA:SUR,Surteco Group SE,Frankfurt Stock Exchange,
+FRA:Q49,Svedbergs Group AB (publ),Frankfurt Stock Exchange,
+DUSE:REB,Arafura Rare Earths Limited,Dusseldorf Stock Exchange,
+ETR:SUR,Surteco Group SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:GIO,Giordano International Limited,Frankfurt Stock Exchange,
+FRA:QGU,"Quad/Graphics, Inc.",Frankfurt Stock Exchange,
+FRA:DT8A,Datalogic S.p.A.,Frankfurt Stock Exchange,
+ETR:VIH1,VIB Vermögen AG,Deutsche Börse Xetra,Real Estate
+FRA:VIH1,VIB Vermögen AG,Frankfurt Stock Exchange,
+ETR:HXCK,Ernst Russ AG,Deutsche Börse Xetra,Industrials
+FRA:HXCK,Ernst Russ AG,Frankfurt Stock Exchange,
+FRA:703,Alfen N.V.,Frankfurt Stock Exchange,
+ETR:703,Alfen N.V.,Deutsche Börse Xetra,
+FRA:33W,"Bankwell Financial Group, Inc.",Frankfurt Stock Exchange,
+FRA:74R,K-Bro Linen Inc.,Frankfurt Stock Exchange,
+FRA:6H90,Healwell AI Inc.,Frankfurt Stock Exchange,
+ETR:AEIN,Allgeier SE,Deutsche Börse Xetra,Technology
+FRA:XCC,CSE Global Limited,Frankfurt Stock Exchange,
+ETR:0Q3,"Beyond Meat, Inc.",Deutsche Börse Xetra,Consumer Staples
+FRA:0Q3,"Beyond Meat, Inc.",Frankfurt Stock Exchange,Consumer Staples
+FRA:4CM,YesAsia Holdings Limited,Frankfurt Stock Exchange,
+FRA:5K6,Macfarlane Group PLC,Frankfurt Stock Exchange,
+FRA:1O7,Banyan Tree Holdings Limited,Frankfurt Stock Exchange,
+FRA:OKO,Plumas Bancorp,Frankfurt Stock Exchange,
+ETR:BDT,Bertrandt Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+FRA:BDT,Bertrandt Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:A1T,AS Tallinna Vesi,Frankfurt Stock Exchange,
+FRA:6OJ,Stelrad Group PLC,Frankfurt Stock Exchange,
+ETR:BWB,Baader Bank Aktiengesellschaft,Deutsche Börse Xetra,Financials
+FRA:TUS,Tuan Sing Holdings Limited,Frankfurt Stock Exchange,
+ETR:SYV,3D Systems Corporation,Deutsche Börse Xetra,Technology
+FRA:SYV,3D Systems Corporation,Frankfurt Stock Exchange,
+FRA:EUX,EUWAX Aktiengesellschaft,Frankfurt Stock Exchange,Financials
+FRA:BWB,Baader Bank Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:MXHN,MAX Automation SE,Deutsche Börse Xetra,Industrials
+FRA:MXHN,MAX Automation SE,Frankfurt Stock Exchange,
+ETR:LUS1,Lang & Schwarz Aktiengesellschaft,Deutsche Börse Xetra,Financials
+FRA:FEW,Funkwerk AG,Frankfurt Stock Exchange,
+FRA:HPHA,Heidelberg Pharma AG,Frankfurt Stock Exchange,
+ETR:SKB,Koenig & Bauer AG,Deutsche Börse Xetra,Industrials
+FRA:97V,S&U plc,Frankfurt Stock Exchange,
+FRA:LUS1,Lang & Schwarz Aktiengesellschaft,Frankfurt Stock Exchange,Financials
+FRA:TPG,The Platform Group AG,Frankfurt Stock Exchange,
+FRA:XTP,Sino AG,Frankfurt Stock Exchange,Financials
+ETR:TPG,The Platform Group AG,Deutsche Börse Xetra,Technology
+ETR:HPHA,Heidelberg Pharma AG,Deutsche Börse Xetra,Healthcare
+FRA:CB4,CAC Holdings Corporation,Frankfurt Stock Exchange,
+ETR:SB1,Smartbroker Holding AG,Deutsche Börse Xetra,Financials
+ETR:XTP,Sino AG,Deutsche Börse Xetra,Financials
+FRA:SB1,Smartbroker Holding AG,Frankfurt Stock Exchange,
+FRA:2DZ,Bredband2 i Skandinavien AB (publ),Frankfurt Stock Exchange,
+FRA:7P0,"Ichikoh Industries, Ltd.",Frankfurt Stock Exchange,
+FRA:7H80,Primis Financial Corp.,Frankfurt Stock Exchange,
+DUSE:ADE,Bitcoin Group SE,Dusseldorf Stock Exchange,
+ETR:ADE,Bitcoin Group SE,Deutsche Börse Xetra,Financials
+FRA:ADE,Bitcoin Group SE,Frankfurt Stock Exchange,
+FRA:FJV,Concurrent Technologies Plc,Frankfurt Stock Exchange,
+ETR:T9Z,Zumtobel Group AG,Deutsche Börse Xetra,Industrials
+ETR:VVV3,Ökoworld AG,Deutsche Börse Xetra,Financials
+ETR:Z29,029 Group SE,Deutsche Börse Xetra,Financials
+ETR:LPK,LPKF Laser & Electronics SE,Deutsche Börse Xetra,Industrials
+FRA:LPK,LPKF Laser & Electronics SE,Frankfurt Stock Exchange,
+FRA:MPCK,MPC Münchmeyer Petersen Capital AG,Frankfurt Stock Exchange,
+FRA:EA5B,Elanders AB (publ),Frankfurt Stock Exchange,
+FRA:Z29,029 Group SE,Frankfurt Stock Exchange,
+DUSE:MDV,029 Group SE,Dusseldorf Stock Exchange,
+FRA:STG,STINAG Stuttgart Invest AG,Frankfurt Stock Exchange,
+ETR:88Q,4basebio PLC,Deutsche Börse Xetra,Healthcare
+FRA:88Q,4basebio PLC,Frankfurt Stock Exchange,
+FRA:LNSX,Allane SE,Frankfurt Stock Exchange,
+FRA:PD7,"Public Policy Holding Company, Inc.",Frankfurt Stock Exchange,
+ETR:MPCK,MPC Münchmeyer Petersen Capital AG,Deutsche Börse Xetra,Financials
+ETR:NVM,Novem Group S.A.,Deutsche Börse Xetra,Consumer Discretionary
+FRA:NVM,Novem Group S.A.,Frankfurt Stock Exchange,
+ETR:DR0,Deutsche Rohstoff AG,Deutsche Börse Xetra,Energy
+FRA:DR0,Deutsche Rohstoff AG,Frankfurt Stock Exchange,
+ETR:UBK,UmweltBank AG,Deutsche Börse Xetra,Financials
+FRA:UBK,UmweltBank AG,Frankfurt Stock Exchange,
+ETR:GSC1,Gesco SE,Deutsche Börse Xetra,Industrials
+FRA:GSC1,Gesco SE,Frankfurt Stock Exchange,
+ETR:2HRA,H&R GmbH & Co. KGaA,Deutsche Börse Xetra,Materials
+FRA:2HRA,H&R GmbH & Co. KGaA,Frankfurt Stock Exchange,
+ETR:FAA,Fabasoft AG,Deutsche Börse Xetra,Technology
+FRA:FAA,Fabasoft AG,Frankfurt Stock Exchange,
+ETR:AAG,Aumann AG,Deutsche Börse Xetra,Industrials
+FRA:HGR,Ecora Resources PLC,Frankfurt Stock Exchange,
+FRA:P1F,Columbus A/S,Frankfurt Stock Exchange,
+FRA:34Q0,Quantum eMotion Corp.,Frankfurt Stock Exchange,
+ETR:LEI,Leifheit Aktiengesellschaft,Deutsche Börse Xetra,Consumer Staples
+FRA:LEI,Leifheit Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:QB7,Quirin Privatbank AG,Deutsche Börse Xetra,Financials
+FRA:2E3,Epwin Group Plc,Frankfurt Stock Exchange,
+FRA:OEL,ADM Hamburg Aktiengesellschaft,Frankfurt Stock Exchange,
+HAM:BBHK,Deutsche Balaton AG,Hamburg Stock Exchange,
+FRA:HBD1,Philomaxcap AG,Frankfurt Stock Exchange,
+ETR:TTR1,technotrans SE,Deutsche Börse Xetra,Industrials
+FRA:RBW,Robert Walters plc,Frankfurt Stock Exchange,
+FRA:489,"Western New England Bancorp, Inc.",Frankfurt Stock Exchange,
+MUN:PUS,PULSION Medical Systems SE,Munich Stock Exchange,
+FRA:TVJ,TSUKADA GLOBAL HOLDINGS Inc.,Frankfurt Stock Exchange,
+ETR:NP5,Newron Pharmaceuticals S.p.A.,Deutsche Börse Xetra,Healthcare
+FRA:NP5,Newron Pharmaceuticals S.p.A.,Frankfurt Stock Exchange,
+ETR:DIC,Branicks Group AG,Deutsche Börse Xetra,Real Estate
+FRA:MULT,Multitude AG,Frankfurt Stock Exchange,
+FRA:WS7A,Binhai Investment Company Limited,Frankfurt Stock Exchange,
+ETR:MULT,Multitude AG,Deutsche Börse Xetra,Financials
+FRA:BRNK,Branicks Group AG,Frankfurt Stock Exchange,
+FRA:DZR,Avingtrans plc,Frankfurt Stock Exchange,
+FRA:OP3,OP Bancorp,Frankfurt Stock Exchange,
+FRA:N4T,Polaris Renewable Energy Inc.,Frankfurt Stock Exchange,
+ETR:SJJ,Serviceware SE,Deutsche Börse Xetra,Technology
+FRA:SJJ,Serviceware SE,Frankfurt Stock Exchange,
+FRA:4QM,ADF Group Inc.,Frankfurt Stock Exchange,
+FRA:QB7,Quirin Privatbank AG,Frankfurt Stock Exchange,
+FRA:6LY,Wuling Motors Holdings Limited,Frankfurt Stock Exchange,
+FRA:1HQ,Ten Square Games S.A.,Frankfurt Stock Exchange,
+FRA:O1U1,Penguin International Limited,Frankfurt Stock Exchange,
+ETR:BKHT,Brockhaus Technologies AG,Deutsche Börse Xetra,Financials
+FRA:BKHT,Brockhaus Technologies AG,Frankfurt Stock Exchange,
+ETR:HRPK,7C Solarparken AG,Deutsche Börse Xetra,Technology
+FRA:HRPK,7C Solarparken AG,Frankfurt Stock Exchange,
+FRA:WEW,Westwing Group SE,Frankfurt Stock Exchange,
+FRA:KGR,LEWAG Holding Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:FEY,"FuelCell Energy, Inc.",Frankfurt Stock Exchange,
+ETR:WEW,Westwing Group SE,Deutsche Börse Xetra,Consumer Discretionary
+ETR:HMU,HMS Bergbau AG,Deutsche Börse Xetra,Energy
+HAM:MSGL,msg life ag,Hamburg Stock Exchange,
+FRA:9VI,"Tess Holdings Co.,Ltd.",Frankfurt Stock Exchange,
+ETR:ED4,EDAG Engineering Group AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ED4,EDAG Engineering Group AG,Frankfurt Stock Exchange,
+FRA:5GS1,Readly International AB (publ),Frankfurt Stock Exchange,
+FRA:D77,DN Deutsche Nachhaltigkeit AG,Frankfurt Stock Exchange,
+FRA:2DI,Microlise Group plc,Frankfurt Stock Exchange,
+FRA:7PK0,Inspired Plc,Frankfurt Stock Exchange,
+ETR:KTA,Knaus Tabbert AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:KTA,Knaus Tabbert AG,Frankfurt Stock Exchange,
+ETR:MED,MEDICLIN Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:MED,MEDICLIN Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:RCVR,SMG European Recovery SPAC SE,Deutsche Börse Xetra,Financials
+FRA:AGR,AGROB Immobilien AG,Frankfurt Stock Exchange,
+FRA:3YL,Smartoptics Group AS,Frankfurt Stock Exchange,
+MUN:KUL,Kulmbacher Brauerei Aktien-Gesellschaft,Munich Stock Exchange,
+ETR:D77,DN Deutsche Nachhaltigkeit AG,Deutsche Börse Xetra,Financials
+DUSE:D77,DN Deutsche Nachhaltigkeit AG,Dusseldorf Stock Exchange,
+FRA:F3J,Formpipe Software AB (publ),Frankfurt Stock Exchange,
+FRA:9WR,OMER S.p.A.,Frankfurt Stock Exchange,
+ETR:NTG,Nabaltec AG,Deutsche Börse Xetra,Materials
+FRA:NTG,Nabaltec AG,Frankfurt Stock Exchange,
+HAM:ESY,Easy Software AG,Hamburg Stock Exchange,
+FRA:4SM,Magnora ASA,Frankfurt Stock Exchange,
+FRA:WUG,Westag AG,Frankfurt Stock Exchange,
+FRA:MUT,Mineralbrunnen Überkingen-Teinach GmbH & Co. KGaA,Frankfurt Stock Exchange,
+ETR:BST,Bastei Lübbe AG,Deutsche Börse Xetra,Communication Services
+ETR:DEF,DEFAMA Deutsche Fachmarkt AG,Deutsche Börse Xetra,Real Estate
+FRA:DEF,DEFAMA Deutsche Fachmarkt AG,Frankfurt Stock Exchange,
+BST:6BO,Bloober Team SA,Stuttgart Stock Exchange,
+FRA:BST,Bastei Lübbe AG,Frankfurt Stock Exchange,
+FRA:A4W,Arise AB (publ),Frankfurt Stock Exchange,
+HAM:NEP,SLOMAN NEPTUN Schiffahrts-Aktiengesellschaft,Hamburg Stock Exchange,
+FRA:81N,RugVista Group AB (publ),Frankfurt Stock Exchange,
+FRA:MPO,Michelmersh Brick Holdings plc,Frankfurt Stock Exchange,
+FRA:NC91,IAR Systems Group AB (publ),Frankfurt Stock Exchange,
+ETR:RSL2,R. STAHL AG,Deutsche Börse Xetra,Industrials
+FRA:DRE2,Deutsche Real Estate AG,Frankfurt Stock Exchange,
+ETR:A7A,Heliad AG,Deutsche Börse Xetra,Financials
+FRA:A7A,Heliad AG,Frankfurt Stock Exchange,
+ETR:ABO,clearvise AG,Deutsche Börse Xetra,Utilities
+FRA:ABO,clearvise AG,Frankfurt Stock Exchange,
+ETR:FC9,FCR Immobilien AG,Deutsche Börse Xetra,Real Estate
+FRA:FC9,FCR Immobilien AG,Frankfurt Stock Exchange,
+ETR:MZX,Masterflex SE,Deutsche Börse Xetra,Materials
+ETR:MBK,Merkur PrivatBank KgaA,Deutsche Börse Xetra,Financials
+FRA:MBK,Merkur PrivatBank KgaA,Frankfurt Stock Exchange,
+FRA:OA5,Dynacor Group Inc.,Frankfurt Stock Exchange,
+FRA:5L0,"MainStreet Bancshares, Inc.",Frankfurt Stock Exchange,
+FRA:41Y,"BCB Bancorp, Inc.",Frankfurt Stock Exchange,
+FRA:CTNK,centrotherm international AG,Frankfurt Stock Exchange,Technology
+FRA:RE3,"Richardson Electronics, Ltd.",Frankfurt Stock Exchange,
+ETR:SWA,Schloss Wachenheim AG,Deutsche Börse Xetra,Consumer Staples
+FRA:SWA,Schloss Wachenheim AG,Frankfurt Stock Exchange,
+FRA:3FB,Bulten AB (publ),Frankfurt Stock Exchange,
+FRA:8F5,"Eagle Bancorp Montana, Inc.",Frankfurt Stock Exchange,
+BST:GTY,Gateway Real Estate AG,Stuttgart Stock Exchange,
+ETR:GTY,Gateway Real Estate AG,Deutsche Börse Xetra,Real Estate
+FRA:GTY,Gateway Real Estate AG,Frankfurt Stock Exchange,
+FRA:7EVB,Eolus Vind AB (publ),Frankfurt Stock Exchange,
+DUSE:RLV,RheinLand Holding AG,Dusseldorf Stock Exchange,
+FRA:BIKE,Bike24 Holding AG,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:SO0,"Being Holdings Co., Ltd.",Frankfurt Stock Exchange,
+ETR:BIKE,Bike24 Holding AG,Deutsche Börse Xetra,Consumer Discretionary
+ETR:DKG,Deutsche Konsum REIT-AG,Deutsche Börse Xetra,Real Estate
+FRA:I49,Master Drilling Group Limited,Frankfurt Stock Exchange,
+FRA:CEK,CeoTronics AG,Frankfurt Stock Exchange,
+ETR:CEK,CeoTronics AG,Deutsche Börse Xetra,Technology
+ETR:QBY,q.beyond AG,Deutsche Börse Xetra,Technology
+FRA:QBY,q.beyond AG,Frankfurt Stock Exchange,
+FRA:26Q,ABL Group ASA,Frankfurt Stock Exchange,
+FRA:BSS,Beta Systems Software AG,Frankfurt Stock Exchange,Technology
+FRA:9KH,"SB Financial Group, Inc.",Frankfurt Stock Exchange,
+FRA:KI9A,Anpario plc,Frankfurt Stock Exchange,
+HAM:TC1,Tele Columbus AG,Hamburg Stock Exchange,
+ETR:SRAG,Samara Asset Group plc,Deutsche Börse Xetra,
+FRA:SRAG,Samara Asset Group plc,Frankfurt Stock Exchange,
+ETR:GMM,Grammer AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:GMM,Grammer AG,Frankfurt Stock Exchange,
+FRA:R8C,"RACCOON HOLDINGS, Inc.",Frankfurt Stock Exchange,
+FRA:NFN,NFON AG,Frankfurt Stock Exchange,
+ETR:NFN,NFON AG,Deutsche Börse Xetra,Technology
+ETR:APPH,Apontis Pharma AG,Deutsche Börse Xetra,Healthcare
+FRA:APPH,Apontis Pharma AG,Frankfurt Stock Exchange,
+ETR:LIK,LIMES Schlosskliniken AG,Deutsche Börse Xetra,Healthcare
+FRA:LIK,LIMES Schlosskliniken AG,Frankfurt Stock Exchange,
+FRA:PYR,Pyrum Innovations AG,Frankfurt Stock Exchange,
+ETR:PYR,Pyrum Innovations AG,Deutsche Börse Xetra,Industrials
+FRA:AJN,Ajisen (China) Holdings Limited,Frankfurt Stock Exchange,
+FRA:F7Y,Gaush Meditech Ltd,Frankfurt Stock Exchange,
+FRA:7JB,Arla Plast AB,Frankfurt Stock Exchange,
+ETR:7V0,Darwin AG,Deutsche Börse Xetra,
+FRA:7V0,Darwin AG,Frankfurt Stock Exchange,
+FRA:PC9,Decisive Dividend Corporation,Frankfurt Stock Exchange,
+ETR:NF4,Netfonds AG,Deutsche Börse Xetra,Financials
+FRA:NF4,Netfonds AG,Frankfurt Stock Exchange,
+ETR:M7U,Nynomic AG,Deutsche Börse Xetra,Technology
+HAM:CAG0,Clere AG,Hamburg Stock Exchange,
+ETR:HP3A,Ringmetall SE,Deutsche Börse Xetra,Industrials
+FRA:I8D,ISDN Holdings Limited,Frankfurt Stock Exchange,
+ETR:PWO,PWO AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:PWO,PWO AG,Frankfurt Stock Exchange,
+FRA:BG8,Bridgemarq Real Estate Services Inc.,Frankfurt Stock Exchange,
+FRA:59N,NPC Incorporated,Frankfurt Stock Exchange,
+HAM:LOU,DEAG Deutsche Entertainment Aktiengesellschaft,Hamburg Stock Exchange,
+ETR:B7J1,SRV Yhtiöt Oyj,Deutsche Börse Xetra,
+FRA:K6V0,Unidata S.p.A.,Frankfurt Stock Exchange,
+ETR:EDL,Edel SE & Co. KGaA,Deutsche Börse Xetra,Communication Services
+FRA:EDL,Edel SE & Co. KGaA,Frankfurt Stock Exchange,
+FRA:7L4,Elica S.p.A.,Frankfurt Stock Exchange,
+DUSE:AEE1,More Impact AG,Dusseldorf Stock Exchange,
+FRA:U3I,G5 Entertainment AB (publ),Frankfurt Stock Exchange,
+ETR:KWG,KHD Humboldt Wedag International AG,Deutsche Börse Xetra,Industrials
+FRA:SPT6,Sparta AG,Frankfurt Stock Exchange,
+ETR:EXL,Exasol AG,Deutsche Börse Xetra,Technology
+FRA:EXL,Exasol AG,Frankfurt Stock Exchange,
+ETR:IUR,KAP AG,Deutsche Börse Xetra,Industrials
+FRA:IUR,KAP AG,Frankfurt Stock Exchange,
+ETR:93M1,MPH Health Care AG,Deutsche Börse Xetra,Financials
+FRA:W98,Micro Systemation AB (publ),Frankfurt Stock Exchange,
+ETR:LKB,CGRE AG,Deutsche Börse Xetra,
+FRA:CGX,CGRE AG,Frankfurt Stock Exchange,
+ETR:DAM,DATA MODUL Aktiengesellschaft Produktion und Vertrieb von elektronischen Systemen,Deutsche Börse Xetra,Technology
+FRA:DAM,DATA MODUL Aktiengesellschaft Produktion und Vertrieb von elektronischen Systemen,Frankfurt Stock Exchange,
+FRA:0XD,Reconnaissance Energy Africa Ltd.,Frankfurt Stock Exchange,
+FRA:93M1,MPH Health Care AG,Frankfurt Stock Exchange,
+ETR:HIGH,Cantourage Group SE,Deutsche Börse Xetra,Healthcare
+ETR:H2O,Enapter AG,Deutsche Börse Xetra,Industrials
+FRA:H2O,Enapter AG,Frankfurt Stock Exchange,Industrials
+ETR:LQAG,Laiqon AG,Deutsche Börse Xetra,Financials
+FRA:LQAG,Laiqon AG,Frankfurt Stock Exchange,
+ETR:B7E,Blue Cap AG,Deutsche Börse Xetra,Financials
+FRA:B7E,Blue Cap AG,Frankfurt Stock Exchange,
+FRA:04T,Tian Ge Interactive Holdings Limited,Frankfurt Stock Exchange,
+ETR:GFG,Global Fashion Group S.A.,Deutsche Börse Xetra,Consumer Discretionary
+FRA:GFG,Global Fashion Group S.A.,Frankfurt Stock Exchange,
+MUN:MTP,Münchener Tierpark Hellabrunn AG,Munich Stock Exchange,
+ETR:DMRE,DEMIRE Deutsche Mittelstand Real Estate AG,Deutsche Börse Xetra,Real Estate
+FRA:DMRE,DEMIRE Deutsche Mittelstand Real Estate AG,Frankfurt Stock Exchange,
+FRA:WOLF,Meta Wolf AG,Frankfurt Stock Exchange,
+ETR:WOLF,Meta Wolf AG,Deutsche Börse Xetra,Industrials
+ETR:CSH,CENIT Aktiengesellschaft,Deutsche Börse Xetra,Technology
+FRA:CSH,CENIT Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:3DJ,Ultimate Products Plc,Frankfurt Stock Exchange,
+FRA:K13,CombinedX AB (publ),Frankfurt Stock Exchange,
+FRA:VMED,Viromed Medical AG,Frankfurt Stock Exchange,
+ETR:APM,ad pepper media International N.V.,Deutsche Börse Xetra,Communication Services
+FRA:APM,ad pepper media International N.V.,Frankfurt Stock Exchange,
+FRA:4DS,Daldrup & Söhne Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:4DS,Daldrup & Söhne Aktiengesellschaft,Deutsche Börse Xetra,Energy
+FRA:16T,Kreate Group Oyj,Frankfurt Stock Exchange,
+FRA:H2A,H2APEX Group SCA,Frankfurt Stock Exchange,
+ETR:H2A,H2APEX Group SCA,Deutsche Börse Xetra,Materials
+ETR:P4N,Polytec Holding AG,Deutsche Börse Xetra,
+FRA:IRI,Itera ASA,Frankfurt Stock Exchange,
+FRA:V3V,FamiCord AG,Frankfurt Stock Exchange,
+ETR:V3V,FamiCord AG,Deutsche Börse Xetra,Healthcare
+FRA:250,Wall to Wall Group AB,Frankfurt Stock Exchange,
+FRA:TSS,InnoTec TSS AG,Frankfurt Stock Exchange,
+FRA:45P,Playmates Toys Limited,Frankfurt Stock Exchange,
+BST:ABHA,Hasen-Immobilien AG,Stuttgart Stock Exchange,
+FRA:3TT0,Tecnotree Oyj,Frankfurt Stock Exchange,
+ETR:OBS,ORBIS AG,Deutsche Börse Xetra,Technology
+FRA:OBS,ORBIS AG,Frankfurt Stock Exchange,
+FRA:CY1K,SBF AG,Frankfurt Stock Exchange,Industrials
+ETR:2INV,2invest AG,Deutsche Börse Xetra,Financials
+FRA:2INV,2invest AG,Frankfurt Stock Exchange,
+ETR:MWB0,mwb fairtrade Wertpapierhandelsbank AG,Deutsche Börse Xetra,Financials
+FRA:SMB,Schwälbchen Molkerei Jakob Berz AG,Frankfurt Stock Exchange,
+FRA:1GG,Nilörngruppen AB,Frankfurt Stock Exchange,
+FRA:NWX,Nordwest Handel AG,Frankfurt Stock Exchange,
+FRA:RNR,Synectics plc,Frankfurt Stock Exchange,
+FRA:45I,First Northwest Bancorp,Frankfurt Stock Exchange,
+ETR:CEA,FRIWO AG,Deutsche Börse Xetra,Industrials
+ETR:ART,Artnet AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ART,Artnet AG,Frankfurt Stock Exchange,
+ETR:CY1K,SBF AG,Deutsche Börse Xetra,Industrials
+ETR:PZS,Scherzer & Co. AG,Deutsche Börse Xetra,Financials
+MUN:CDZ0,MHP Hotel AG,Munich Stock Exchange,
+ETR:LRND,learnd SE,Deutsche Börse Xetra,Financials
+FRA:LRND,learnd SE,Frankfurt Stock Exchange,
+FRA:PZS,Scherzer & Co. AG,Frankfurt Stock Exchange,
+ETR:AJ91,DocCheck AG,Deutsche Börse Xetra,Healthcare
+FRA:AJ91,DocCheck AG,Frankfurt Stock Exchange,
+FRA:IFS,Infas Holding AG,Frankfurt Stock Exchange,
+ETR:PTP,Pentixapharm Holding AG,Deutsche Börse Xetra,Healthcare
+FRA:PTP,Pentixapharm Holding AG,Frankfurt Stock Exchange,
+FRA:HNL,Dr. Hönle AG,Frankfurt Stock Exchange,
+ETR:HNL,Dr. Hönle AG,Deutsche Börse Xetra,Industrials
+ETR:VBX,Voltabox AG,Deutsche Börse Xetra,Consumer Discretionary
+ETR:HLG,Highlight Communications AG,Deutsche Börse Xetra,Communication Services
+FRA:HLG,Highlight Communications AG,Frankfurt Stock Exchange,
+FRA:MSH,WASGAU Produktions & Handels AG,Frankfurt Stock Exchange,
+ETR:ALG,ALBIS Leasing AG,Deutsche Börse Xetra,Financials
+MUN:ALB,Allgäuer Brauhaus AG,Munich Stock Exchange,
+FRA:ALG,ALBIS Leasing AG,Frankfurt Stock Exchange,
+ETR:SVE,Shareholder Value Beteiligungen AG,Deutsche Börse Xetra,Financials
+FRA:SVE,Shareholder Value Beteiligungen AG,Frankfurt Stock Exchange,
+HAM:HAEK,HAEMATO AG,Hamburg Stock Exchange,
+FRA:3ITN,audius SE,Frankfurt Stock Exchange,
+ETR:3ITN,audius SE,Deutsche Börse Xetra,Technology
+FRA:FHW,Fernheizwerk Neukölln Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:ALXA,Alexanderwerk Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:4Z2,Hopscotch Global PR Group,Frankfurt Stock Exchange,
+ETR:ECK,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ECK,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG,Frankfurt Stock Exchange,
+ETR:CYR,cyan AG,Deutsche Börse Xetra,Technology
+FRA:CYR,cyan AG,Frankfurt Stock Exchange,
+FRA:YOC,YOC AG,Frankfurt Stock Exchange,
+ETR:MRX,Mister Spex SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:MRX,Mister Spex SE,Frankfurt Stock Exchange,Consumer Discretionary
+ETR:YOC,YOC AG,Deutsche Börse Xetra,Communication Services
+FRA:FVI,Fair Value REIT-AG,Frankfurt Stock Exchange,
+FRA:FEV,FORTEC Elektronik AG,Frankfurt Stock Exchange,
+HAM:DE10,Deufol SE,Hamburg Stock Exchange,
+ETR:FEV,FORTEC Elektronik AG,Deutsche Börse Xetra,Technology
+FRA:76M0,Realbotix Corp.,Frankfurt Stock Exchange,
+FRA:UUU,3U Holding AG,Frankfurt Stock Exchange,
+ETR:UUU,3U Holding AG,Deutsche Börse Xetra,Industrials
+FRA:Q59,Adtraction Group AB,Frankfurt Stock Exchange,
+FRA:VBX,Voltabox AG,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:R87,Nexteq plc,Frankfurt Stock Exchange,
+FRA:K9I,Skillcast Group plc,Frankfurt Stock Exchange,
+ETR:MSAG,MS Industrie AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:MSAG,MS Industrie AG,Frankfurt Stock Exchange,
+ETR:M3V,MeVis Medical Solutions AG,Deutsche Börse Xetra,Healthcare
+FRA:M3V,MeVis Medical Solutions AG,Frankfurt Stock Exchange,
+ETR:E4C,ecotel communication ag,Deutsche Börse Xetra,Communication Services
+FRA:E4C,ecotel communication ag,Frankfurt Stock Exchange,
+ETR:BNN,BRAIN Biotech AG,Deutsche Börse Xetra,Materials
+FRA:BNN,BRAIN Biotech AG,Frankfurt Stock Exchange,
+ETR:FPH,Francotyp-Postalia Holding AG,Deutsche Börse Xetra,Industrials
+FRA:FPH,Francotyp-Postalia Holding AG,Frankfurt Stock Exchange,
+FRA:PEH,PEH Wertpapier AG,Frankfurt Stock Exchange,
+ETR:CCAP,CORESTATE Capital Holding S.A.,Deutsche Börse Xetra,Real Estate
+DUSE:LA2,Latonba AG,Dusseldorf Stock Exchange,
+ETR:N4G,The NAGA Group AG,Deutsche Börse Xetra,Financials
+FRA:N4G,The NAGA Group AG,Frankfurt Stock Exchange,
+HAM:SW10,SHW AG,Hamburg Stock Exchange,
+ETR:BXT,BioNxt Solutions Inc.,Deutsche Börse Xetra,
+FRA:BXT,BioNxt Solutions Inc.,Frankfurt Stock Exchange,
+FRA:2MF,"Mobile Factory, Inc.",Frankfurt Stock Exchange,
+BST:EFS,Effecten-Spiegel AG,Stuttgart Stock Exchange,
+BST:EFS3,Effecten-Spiegel AG,Stuttgart Stock Exchange,
+ETR:BEZ,Berentzen-Gruppe Aktiengesellschaft,Deutsche Börse Xetra,Consumer Staples
+FRA:BEZ,Berentzen-Gruppe Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:MLL,Müller - Die lila Logistik SE,Deutsche Börse Xetra,Industrials
+FRA:MLL,Müller - Die lila Logistik SE,Frankfurt Stock Exchange,
+FRA:EDD3,edding AG,Frankfurt Stock Exchange,
+ETR:WAH,Wolftank Group AG,Deutsche Börse Xetra,Industrials
+ETR:DIE,Dierig Holding AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:DIE,Dierig Holding AG,Frankfurt Stock Exchange,
+FRA:CL6,Dedicare AB (publ),Frankfurt Stock Exchange,
+ETR:ADJ,Adler Group S.A.,Deutsche Börse Xetra,Real Estate
+FRA:ADJ,Adler Group S.A.,Frankfurt Stock Exchange,
+HAM:HHX,HAMMONIA Schiffsholding AG,Hamburg Stock Exchange,
+FRA:SYT,Softing AG,Frankfurt Stock Exchange,
+ETR:SYT,Softing AG,Deutsche Börse Xetra,Technology
+FRA:DEX,Delticom AG,Frankfurt Stock Exchange,
+ETR:TR9,OTRS AG,Deutsche Börse Xetra,Technology
+FRA:TR9,OTRS AG,Frankfurt Stock Exchange,Technology
+ETR:KSC,KPS AG,Deutsche Börse Xetra,Technology
+HAM:FFM1,Franconofurt AG,Hamburg Stock Exchange,
+ETR:S188,SMT Scharf AG,Deutsche Börse Xetra,Industrials
+FRA:BLH,BREMER LAGERHAUS-GESELLSCHAFT -Aktiengesellschaft von 1877-,Frankfurt Stock Exchange,
+ETR:DAR,DATRON AG,Deutsche Börse Xetra,Industrials
+ETR:DEX,Delticom AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:KSC,KPS AG,Frankfurt Stock Exchange,
+FRA:DAR,DATRON AG,Frankfurt Stock Exchange,
+HAM:GBQ,GBK Beteiligungen AG,Hamburg Stock Exchange,
+BST:GBQ,GBK Beteiligungen AG,Stuttgart Stock Exchange,
+FRA:PSH0,Sernova Biotherapeutics Inc,Frankfurt Stock Exchange,
+ETR:PSH0,Sernova Biotherapeutics Inc,Deutsche Börse Xetra,
+ETR:V6C,Viscom SE,Deutsche Börse Xetra,Technology
+FRA:V6C,Viscom SE,Frankfurt Stock Exchange,
+ETR:SYZ,SYZYGY AG,Deutsche Börse Xetra,Communication Services
+ETR:MAK,Maternus-Kliniken Aktiengesellschaft,Deutsche Börse Xetra,Healthcare
+FRA:MAK,Maternus-Kliniken Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:IBU,IBU-tec advanced materials AG,Deutsche Börse Xetra,Materials
+FRA:IBU,IBU-tec advanced materials AG,Frankfurt Stock Exchange,
+ETR:81D,beaconsmind AG,Deutsche Börse Xetra,
+FRA:81D,beaconsmind AG,Frankfurt Stock Exchange,
+ETR:LSX,LS telcom AG,Deutsche Börse Xetra,Communication Services
+FRA:LSX,LS telcom AG,Frankfurt Stock Exchange,
+ETR:AMM,The Grounds Real Estate Development AG,Deutsche Börse Xetra,Real Estate
+FRA:R1B,Rubean AG,Frankfurt Stock Exchange,Technology
+ETR:R1B,Rubean AG,Deutsche Börse Xetra,Technology
+ETR:PAL,PAL Next AG,Deutsche Börse Xetra,Communication Services
+FRA:PAL,PAL Next AG,Frankfurt Stock Exchange,
+FRA:CLIQ,Cliq Digital AG,Frankfurt Stock Exchange,
+MUN:NBH,Hoftex Group AG,Munich Stock Exchange,
+HAM:M4N,Give AG,Hamburg Stock Exchange,
+ETR:CLIQ,Cliq Digital AG,Deutsche Börse Xetra,Communication Services
+ETR:H9W,HWA AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:H9W,HWA AG,Frankfurt Stock Exchange,
+ETR:VG8,Varengold Bank AG,Deutsche Börse Xetra,Financials
+FRA:WFA,Weng Fine Art AG,Frankfurt Stock Exchange,
+BST:BBR,Bürgerliches Brauhaus Ravensburg - Lindau Aktiengesellschaft,Stuttgart Stock Exchange,
+ETR:WFA,Weng Fine Art AG,Deutsche Börse Xetra,Consumer Discretionary
+HAM:H2RB,Halloren Schokoladenfabrik Aktiengesellschaft,Hamburg Stock Exchange,
+HAM:T9G,Vidac Pharma Holding Plc,Hamburg Stock Exchange,
+ETR:DLX,Delignit AG,Deutsche Börse Xetra,Materials
+FRA:DLX,Delignit AG,Frankfurt Stock Exchange,
+MUN:EFIT,EasyMotionSkin Tec AG,Munich Stock Exchange,
+ETR:ISHA,INTERSHOP Communications Aktiengesellschaft,Deutsche Börse Xetra,Technology
+MUN:JTH,Gesundheitswelt Chiemgau AG,Munich Stock Exchange,
+ETR:VEZ,Veganz Group AG,Deutsche Börse Xetra,Consumer Staples
+FRA:VEZ,Veganz Group AG,Frankfurt Stock Exchange,
+MUN:NHB0,Nebelhornbahn-Aktiengesellschaft,Munich Stock Exchange,
+FRA:ISHA,INTERSHOP Communications Aktiengesellschaft,Frankfurt Stock Exchange,
+HAM:H9Y,HanseYachts AG,Hamburg Stock Exchange,
+MUN:BENH,BENO Holding AG,Munich Stock Exchange,
+DUSE:123F,123fahrschule SE,Dusseldorf Stock Exchange,
+FRA:123F,123fahrschule SE,Frankfurt Stock Exchange,
+ETR:123F,123fahrschule SE,Deutsche Börse Xetra,Consumer Staples
+BST:8FE,Forever Entertainment S.A.,Stuttgart Stock Exchange,
+ETR:C3RY,Cherry SE,Deutsche Börse Xetra,Technology
+FRA:C3RY,Cherry SE,Frankfurt Stock Exchange,
+FRA:UCA1,U.C.A. Aktiengesellschaft,Frankfurt Stock Exchange,
+MUN:IR1,Immovaria Real Estate AG,Munich Stock Exchange,
+MUN:EM6,Energent AG,Munich Stock Exchange,
+ETR:SBX,SynBiotic SE,Deutsche Börse Xetra,Healthcare
+DUSE:SBX,SynBiotic SE,Dusseldorf Stock Exchange,
+FRA:SBX,SynBiotic SE,Frankfurt Stock Exchange,
+ETR:ACWN,A.S. Création Tapeten AG,Deutsche Börse Xetra,Consumer Discretionary
+ETR:M3BK,Pyramid AG,Deutsche Börse Xetra,Financials
+FRA:ACWN,A.S. Création Tapeten AG,Frankfurt Stock Exchange,
+ETR:ACX,bet-at-home.com AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ACX,bet-at-home.com AG,Frankfurt Stock Exchange,
+FRA:HYI,Hyrican Informationssysteme Aktiengesellschaft,Frankfurt Stock Exchange,Technology
+FRA:M3BK,Pyramid AG,Frankfurt Stock Exchange,
+FRA:NN6,NanoRepro AG,Frankfurt Stock Exchange,
+MUN:88D,WR Wohnraum AG,Munich Stock Exchange,
+FRA:RTV,Your Family Entertainment AG,Frankfurt Stock Exchange,
+ETR:NN6,NanoRepro AG,Deutsche Börse Xetra,Healthcare
+ETR:AAQ1,aap Implantate AG,Deutsche Börse Xetra,Healthcare
+FRA:AAQ1,aap Implantate AG,Frankfurt Stock Exchange,
+FRA:EMH,pferdewetten.de AG,Frankfurt Stock Exchange,
+ETR:SF3,STS Group AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:SF3,STS Group AG,Frankfurt Stock Exchange,
+ETR:T3T1,Seven Principles AG,Deutsche Börse Xetra,Technology
+FRA:FRS,FORIS AG,Frankfurt Stock Exchange,
+ETR:IPOK,Heidelberger Beteiligungsholding AG,Deutsche Börse Xetra,Financials
+FRA:IPOK,Heidelberger Beteiligungsholding AG,Frankfurt Stock Exchange,
+ETR:EMH,pferdewetten.de AG,Deutsche Börse Xetra,Technology
+ETR:FRS,FORIS AG,Deutsche Börse Xetra,Financials
+ETR:SMWN,SM Wirtschaftsberatungs AG,Deutsche Börse Xetra,Real Estate
+HAM:IVX,InVision Aktiengesellschaft,Hamburg Stock Exchange,
+ETR:SNG,Singulus Technologies AG,Deutsche Börse Xetra,Industrials
+FRA:ADC,AdCapital AG,Frankfurt Stock Exchange,
+ETR:TGT,11880 Solutions AG,Deutsche Börse Xetra,Communication Services
+FRA:RGB,Regenbogen AG,Frankfurt Stock Exchange,
+FRA:DFTK,DF Deutsche Forfait AG,Frankfurt Stock Exchange,
+ETR:DFTK,DF Deutsche Forfait AG,Deutsche Börse Xetra,Financials
+ETR:CRZK,CR Energy AG,Deutsche Börse Xetra,Financials
+BST:CRZK,CR Energy AG,Stuttgart Stock Exchange,
+MUN:LKM,Landshuter Kunstmuehle AG,Munich Stock Exchange,
+FRA:TGT,11880 Solutions AG,Frankfurt Stock Exchange,
+ETR:GME,Geratherm Medical AG,Deutsche Börse Xetra,Healthcare
+FRA:GME,Geratherm Medical AG,Frankfurt Stock Exchange,
+ETR:ECF,Mountain Alliance AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ECF,Mountain Alliance AG,Frankfurt Stock Exchange,
+ETR:LMIA,LION E-Mobility AG,Deutsche Börse Xetra,Industrials
+DUSE:C45,Faveos SE,Dusseldorf Stock Exchange,
+ETR:KA8,Klassik Radio AG,Deutsche Börse Xetra,Communication Services
+ETR:RCMN,RCM Beteiligungs AG,Deutsche Börse Xetra,Real Estate
+FRA:RCMN,RCM Beteiligungs AG,Frankfurt Stock Exchange,
+BST:VFF,Vereinigte Filzfabriken AG,Stuttgart Stock Exchange,
+FRA:LMIA,LION E-Mobility AG,Frankfurt Stock Exchange,Industrials
+DUSE:XX1,Abo Kraft & Wärme AG,Dusseldorf Stock Exchange,
+FRA:02P,Pearl Gold AG,Frankfurt Stock Exchange,
+ETR:CFC,aconnic AG,Deutsche Börse Xetra,Technology
+FRA:CFC,aconnic AG,Frankfurt Stock Exchange,
+FRA:AMA,Altech Advanced Materials AG,Frankfurt Stock Exchange,
+ETR:AMA,Altech Advanced Materials AG,Deutsche Börse Xetra,Financials
+ETR:B8FK,Biofrontera AG,Deutsche Börse Xetra,Healthcare
+HAM:C9T,HÖVELRAT Holding AG,Hamburg Stock Exchange,
+ETR:P4O,Planoptik AG,Deutsche Börse Xetra,Technology
+FRA:P4O,Planoptik AG,Frankfurt Stock Exchange,
+ETR:HGEA,hGears AG,Deutsche Börse Xetra,Consumer Discretionary
+FRA:HGEA,hGears AG,Frankfurt Stock Exchange,
+FRA:PLEK,plenum AG,Frankfurt Stock Exchange,
+HAM:EBS,Elbstein AG,Hamburg Stock Exchange,
+FRA:SCE,Schweizer Electronic AG,Frankfurt Stock Exchange,
+ETR:SCE,Schweizer Electronic AG,Deutsche Börse Xetra,Technology
+ETR:SPM,Splendid Medien AG,Deutsche Börse Xetra,Communication Services
+ETR:SLSA,Solutiance AG,Deutsche Börse Xetra,Industrials
+ETR:VRL,Net-Digital AG,Deutsche Börse Xetra,Technology
+FRA:VRL,Net-Digital AG,Frankfurt Stock Exchange,
+ETR:ELB,elumeo SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:ELB,elumeo SE,Frankfurt Stock Exchange,
+ETR:GTK,Tonkens Agrar AG,Deutsche Börse Xetra,Consumer Staples
+FRA:GTK,Tonkens Agrar AG,Frankfurt Stock Exchange,
+ETR:DGR,Deutsche Grundstücksauktionen AG,Deutsche Börse Xetra,Real Estate
+FRA:TBX0,tick Trading Software AG,Frankfurt Stock Exchange,Technology
+FRA:PKB,Park & Bellheimer AG,Frankfurt Stock Exchange,
+FRA:C1V,mVISE AG,Frankfurt Stock Exchange,
+ETR:C1V,mVISE AG,Deutsche Börse Xetra,Communication Services
+FRA:VSC,4SC AG,Frankfurt Stock Exchange,
+ETR:NUVA,Noratis AG,Deutsche Börse Xetra,Real Estate
+FRA:SZ50,Lübke Kelber AG,Frankfurt Stock Exchange,
+ETR:SZ50,Lübke Kelber AG,Deutsche Börse Xetra,Real Estate
+FRA:TUF,LIBERO Football Finance AG,Frankfurt Stock Exchange,Financials
+ETR:DTD2,B+S Banksysteme Aktiengesellschaft,Deutsche Börse Xetra,Technology
+FRA:DTD2,B+S Banksysteme Aktiengesellschaft,Frankfurt Stock Exchange,
+ETR:3SQ1,AHT Syngas Technology N.V.,Deutsche Börse Xetra,
+FRA:A07,Avance Gas Holding Ltd,Frankfurt Stock Exchange,
+HAM:L1A,Arbitrage Investment AG,Hamburg Stock Exchange,
+FRA:3SQ1,AHT Syngas Technology N.V.,Frankfurt Stock Exchange,
+ETR:MBQ,Mobotix AG,Deutsche Börse Xetra,Industrials
+FRA:MBQ,Mobotix AG,Frankfurt Stock Exchange,
+FRA:92T,Mustang Energy Corp.,Frankfurt Stock Exchange,
+ETR:PGN,paragon GmbH & Co. KGaA,Deutsche Börse Xetra,Consumer Discretionary
+ETR:ULC,UNITEDLABELS Aktiengesellschaft,Deutsche Börse Xetra,Consumer Discretionary
+ETR:ITN,Intertainment AG,Deutsche Börse Xetra,Communication Services
+FRA:ITN,Intertainment AG,Frankfurt Stock Exchange,
+ETR:BIG1,Bio-Gate AG,Deutsche Börse Xetra,Healthcare
+FRA:BIG1,Bio-Gate AG,Frankfurt Stock Exchange,
+FRA:EAD,Erlebnis Akademie AG,Frankfurt Stock Exchange,
+ETR:EAD,Erlebnis Akademie AG,Deutsche Börse Xetra,Consumer Discretionary
+ETR:14D,tokentus investment AG,Deutsche Börse Xetra,Financials
+FRA:14D,tokentus investment AG,Frankfurt Stock Exchange,
+ETR:IS7,InTiCa Systems SE,Deutsche Börse Xetra,Consumer Discretionary
+FRA:IS7,InTiCa Systems SE,Frankfurt Stock Exchange,
+ETR:H68,Rigsave S.P.A.,Deutsche Börse Xetra,
+HAM:BAG,Brilliant AG,Hamburg Stock Exchange,
+FRA:H68,Rigsave S.P.A.,Frankfurt Stock Exchange,
+FRA:DCIK,DCI Database for Commerce and Industry AG,Frankfurt Stock Exchange,Communication Services
+HAM:SCI,SCI AG,Hamburg Stock Exchange,
+HAM:B9V,Bavaria Venture Capital & Trade AG,Hamburg Stock Exchange,
+FRA:TUR,Turbon AG,Frankfurt Stock Exchange,Technology
+DUSE:RMO,RM Rheiner Management AG,Dusseldorf Stock Exchange,
+DUSE:BWQ,Advanced Blockchain AG,Dusseldorf Stock Exchange,
+FRA:ABX,Advanced Blockchain AG,Frankfurt Stock Exchange,
+ETR:ABX,Advanced Blockchain AG,Deutsche Börse Xetra,Technology
+ETR:ERWE,ERWE Immobilien AG,Deutsche Börse Xetra,Real Estate
+FRA:ERWE,ERWE Immobilien AG,Frankfurt Stock Exchange,
+BST:DLB,DLB-Anlageservice AG,Stuttgart Stock Exchange,
+MUN:TH51,Teleservice AG,Munich Stock Exchange,
+FRA:B9B,BHB Brauholding Bayern-Mitte AG,Frankfurt Stock Exchange,
+ETR:AV2,Avemio AG,Deutsche Börse Xetra,Industrials
+HAM:MT3,DISO Verwaltungs AG,Hamburg Stock Exchange,
+FRA:SPC,Staige One AG,Frankfurt Stock Exchange,
+HAM:IS8,ifa systems AG,Hamburg Stock Exchange,
+ETR:MS1,Marley Spoon Group SE,Deutsche Börse Xetra,Financials
+FRA:MS1,Marley Spoon Group SE,Frankfurt Stock Exchange,
+FRA:M5S,H2 Core AG,Frankfurt Stock Exchange,
+ETR:A4Y,ACCENTRO Real Estate AG,Deutsche Börse Xetra,Real Estate
+FRA:A4Y,ACCENTRO Real Estate AG,Frankfurt Stock Exchange,
+ETR:NC5A,NorCom Information Technology GmbH & Co. KGaA,Deutsche Börse Xetra,Industrials
+ETR:MA10,Binect AG,Deutsche Börse Xetra,Technology
+FRA:MA10,Binect AG,Frankfurt Stock Exchange,
+ETR:AMI,medondo holding AG,Deutsche Börse Xetra,Technology
+FRA:AMI,medondo holding AG,Frankfurt Stock Exchange,Technology
+ETR:S6P,Spielvereinigung Unterhaching Fußball GmbH & Co. KGaA,Deutsche Börse Xetra,Consumer Discretionary
+MUN:NUQA,Navstone SE,Munich Stock Exchange,
+HAM:IRPA,lodgyslife AG,Hamburg Stock Exchange,
+FRA:BMM,Brüder Mannesmann Aktiengesellschaft,Frankfurt Stock Exchange,
+FRA:75S,sdm SE,Frankfurt Stock Exchange,
+ETR:75S,sdm SE,Deutsche Börse Xetra,Industrials
+ETR:A6T,artec technologies AG,Deutsche Börse Xetra,Technology
+FRA:A6T,artec technologies AG,Frankfurt Stock Exchange,
+MUN:1SK,Sektkellerei J.Oppmann AG,Munich Stock Exchange,
+ETR:RTC,RealTech AG,Deutsche Börse Xetra,Technology
+HAM:SE3,Smart Equity AG,Hamburg Stock Exchange,
+DUSE:9MQ,HWK 1365 SE,Dusseldorf Stock Exchange,
+MUN:KVO,Oberstdorfer Bergbahn AG,Munich Stock Exchange,
+ETR:GAI,SGT German Private Equity GmbH & Co. KGaA,Deutsche Börse Xetra,Financials
+DUSE:XCX,coinIX GmbH & Co. KGaA,Dusseldorf Stock Exchange,
+ETR:ERO,tmc Content Group AG,Deutsche Börse Xetra,
+FRA:ERO,tmc Content Group AG,Frankfurt Stock Exchange,
+ETR:EFF,Deutsche Effecten- und Wechsel-Beteiligungsgesellschaft AG,Deutsche Börse Xetra,Financials
+FRA:EFF,Deutsche Effecten- und Wechsel-Beteiligungsgesellschaft AG,Frankfurt Stock Exchange,
+FRA:CPU2,CPU Softwarehouse AG,Frankfurt Stock Exchange,Technology
+ETR:TTO,TTL Beteiligungs- und Grundbesitz-AG,Deutsche Börse Xetra,Real Estate
+FRA:TTO,TTL Beteiligungs- und Grundbesitz-AG,Frankfurt Stock Exchange,
+MUN:UOM,AS Latvijas Juras medicinas centrs,Munich Stock Exchange,
+FRA:ICP,Panamax New Energy AG,Frankfurt Stock Exchange,
+DUSE:6MP,Murphy & Spitz Green Capital Aktiengesellschaft,Dusseldorf Stock Exchange,
+FRA:PIT,Pittler Maschinenfabrik AG,Frankfurt Stock Exchange,
+ETR:TLIK,Arzneiwerk AG VIDA,Deutsche Börse Xetra,Healthcare
+FRA:TLIK,Arzneiwerk AG VIDA,Frankfurt Stock Exchange,
+HAM:T7RA,DWK Deutsche Wasserkraft AG,Hamburg Stock Exchange,
+FRA:KSW,KST Beteiligungs AG,Frankfurt Stock Exchange,
+FRA:GGS,Gigaset AG,Frankfurt Stock Exchange,
+FRA:PDA0,PRO DV AG,Frankfurt Stock Exchange,
+ETR:EIF,MedNation AG,Deutsche Börse Xetra,
+ETR:PDA0,PRO DV AG,Deutsche Börse Xetra,Technology
+HAM:MF8,Cash.Medien AG,Hamburg Stock Exchange,
+FRA:GRF,Greiffenberger AG,Frankfurt Stock Exchange,
+DUSE:4NJ,Deutsche Payment A1M SE,Dusseldorf Stock Exchange,
+FRA:ZEF,ZhongDe Waste Technology AG,Frankfurt Stock Exchange,
+HAM:HSRN,HelveticStar Holding AG,Hamburg Stock Exchange,
+ETR:M0YN,Mynaric AG,Deutsche Börse Xetra,Technology
+FRA:M0YN,Mynaric AG,Frankfurt Stock Exchange,
+FRA:EIF,MedNation AG,Frankfurt Stock Exchange,
+FRA:ML2,Ming Le Sports AG,Frankfurt Stock Exchange,
+ETR:EXJ,Readcrest Capital AG,Deutsche Börse Xetra,Communication Services
+FRA:EXJ,Readcrest Capital AG,Frankfurt Stock Exchange,
+MUN:CV3,Carpevigo Holding AG,Munich Stock Exchange,
+FRA:3330,Rostra AG,Frankfurt Stock Exchange,
+ETR:3330,Rostra AG,Deutsche Börse Xetra,Financials
+FRA:LEH,Lehner Investments AG,Frankfurt Stock Exchange,
+FRA:3H1,Nexus Uranium Corp.,Frankfurt Stock Exchange,
+MUN:M14K,Securize IT Solutions AG,Munich Stock Exchange,
+HAM:EBGK,Aleia Holding AG,Hamburg Stock Exchange,
+BST:HRU,Horus AG,Stuttgart Stock Exchange,
+ETR:INW,GBS Software AG,Deutsche Börse Xetra,Technology
+FRA:INW,GBS Software AG,Frankfurt Stock Exchange,
+MUN:BI7,Beteiligungen im Baltikum AG,Munich Stock Exchange,
+BST:QS6A,Q-Soft Verwaltungs AG,Stuttgart Stock Exchange,
+ETR:COR,Coreo AG,Deutsche Börse Xetra,Real Estate
+DUSE:APQ,Aquamondi AG,Dusseldorf Stock Exchange,
+ETR:E8X,elexxion AG,Deutsche Börse Xetra,Healthcare
+FRA:E8X,elexxion AG,Frankfurt Stock Exchange,
+ETR:UMDK,UMT United Mobility Technology AG,Deutsche Börse Xetra,Technology
+FRA:UMDK,UMT United Mobility Technology AG,Frankfurt Stock Exchange,
+FRA:RTML,CAMERIT AG,Frankfurt Stock Exchange,
+DUSE:24I,Chainledger Systems AG,Dusseldorf Stock Exchange,
+FRA:FF24,Fast Finance24 Holding AG,Frankfurt Stock Exchange,
+ETR:G6P0,Going Public Media Aktiengesellschaft,Deutsche Börse Xetra,Communication Services
+MUN:DN1,DNI Beteiligungen AG,Munich Stock Exchange,
+FRA:U1DA,Finchain Capital Partners AG,Frankfurt Stock Exchange,Consumer Discretionary
+FRA:PO1,Performance One AG,Frankfurt Stock Exchange,
+ETR:PO1,Performance One AG,Deutsche Börse Xetra,Technology
+FRA:MDG1,Medigene AG,Frankfurt Stock Exchange,
+FRA:RKB,Webac Holding AG,Frankfurt Stock Exchange,
+MUN:PY0,Veltarion Se,Munich Stock Exchange,
+FRA:VEH,Valora Effekten Handel AG,Frankfurt Stock Exchange,
+BST:SBV,Schwabenverlag AG,Stuttgart Stock Exchange,
+HAM:NAB,Nabag AG,Hamburg Stock Exchange,
+DUSE:9DD,Cannabis.de Media AG,Dusseldorf Stock Exchange,
+DUSE:OJ2,Calvert International AG,Dusseldorf Stock Exchange,
+DUSE:SHB3,SCHNIGGE Wertpapierhandelsbank AG,Dusseldorf Stock Exchange,
+ETR:WDL1,Nakiki SE,Deutsche Börse Xetra,
+FRA:WDL1,Nakiki SE,Frankfurt Stock Exchange,
+FRA:CCB,Instant Group AG,Frankfurt Stock Exchange,
+DUSE:9D6,aXendis Capital SE,Dusseldorf Stock Exchange,
+DUSE:SCM,SCHUMAG Aktiengesellschaft,Dusseldorf Stock Exchange,
+MUN:991,Vitruvia Medical AG,Munich Stock Exchange,
+MUN:VMR1,NSI Asset AG,Munich Stock Exchange,
+ETR:WIG1,Sporttotal AG,Deutsche Börse Xetra,Communication Services
+FRA:WIG1,Sporttotal AG,Frankfurt Stock Exchange,
+FRA:VG0K,Vivanco Gruppe AG,Frankfurt Stock Exchange,Technology
+HAM:I8CK,independent capital AG,Hamburg Stock Exchange,
+DUSE:3YO,UPAC SE,Dusseldorf Stock Exchange,
+MUN:KUB1,Konsortium AG,Munich Stock Exchange,
+FRA:TIS0,tiscon AG,Frankfurt Stock Exchange,
+MUN:SPN,Neuhof Textil-Holding Aktiengesellschaft,Munich Stock Exchange,
+HAM:D2BA,CD Deutsche Eigenheim AG,Hamburg Stock Exchange,
+ETR:ENGL,EV Digital Invest AG,Deutsche Börse Xetra,Financials
+FRA:ENGL,EV Digital Invest AG,Frankfurt Stock Exchange,Financials
+DUSE:S14,Strategie Kapital AG,Dusseldorf Stock Exchange,
+HAM:QCE,Global PVQ SE,Hamburg Stock Exchange,
+FRA:C0M,CCS Abwicklungs AG,Frankfurt Stock Exchange,Industrials
+ETR:GAG0,GORE German Office Real Estate AG,Deutsche Börse Xetra,Real Estate
+DUSE:CT40,fox e-mobility AG,Dusseldorf Stock Exchange,
+HAM:TAV,Trade & Value AG,Hamburg Stock Exchange,
+DUSE:27N0,Cannovum Cannabis AG,Dusseldorf Stock Exchange,
+FRA:27N0,Cannovum Cannabis AG,Frankfurt Stock Exchange,
+HAM:QOU,Ripag AG,Hamburg Stock Exchange,
+DUSE:8HC,Cogia AG,Dusseldorf Stock Exchange,
+FRA:123,Sassy Gold Corp.,Frankfurt Stock Exchange,
+FRA:PU11,The Social Chain AG,Frankfurt Stock Exchange,Communication Services
+FRA:SGU,Sino-German United AG,Frankfurt Stock Exchange,
+BST:MF6,MagForce AG,Stuttgart Stock Exchange,
+FRA:AAH,Ahlers AG,Frankfurt Stock Exchange,
+MUN:CEW3,HPI AG,Munich Stock Exchange,
+FRA:RY8,ROY Asset Holding SE,Frankfurt Stock Exchange,
+FRA:PH6,Philion SE,Frankfurt Stock Exchange,
+DUSE:NSAK,OTI Greentech AG,Dusseldorf Stock Exchange,
+HAM:JFB,Joh. Friedrich Behrens AG,Hamburg Stock Exchange,
+HAM:GOG,Afrika Gold AG,Hamburg Stock Exchange,
+HAM:BGZ,Smart Grids AG,Hamburg Stock Exchange,
+MUN:E2N,Endor AG,Munich Stock Exchange,
+FRA:NXR,NeXR Technologies SE,Frankfurt Stock Exchange,
+DUSE:9TS,TubeSolar AG,Dusseldorf Stock Exchange,
+HAM:AUV,autowerkstatt group N.V.,Hamburg Stock Exchange,
+FRA:PA8K,Paion AG,Frankfurt Stock Exchange,
+FRA:TCU,TC Unterhaltungselektronik AG,Frankfurt Stock Exchange,
+DUSE:A62,IGP Advan­tag AG,Dusseldorf Stock Exchange,
+HAM:SD1,Clean Logistics SE,Hamburg Stock Exchange,
+DUSE:9MO,Commertunity AG,Dusseldorf Stock Exchange,
+DUSE:9AUA,The New Meat Company AG,Dusseldorf Stock Exchange,
+HAM:PS4,Phoenix Solar Aktiengesellschaft,Hamburg Stock Exchange,
+HAM:NXI,Activa Resources AG,Hamburg Stock Exchange,
+FRA:CSQ,creditshelf Aktiengesellschaft,Frankfurt Stock Exchange,
+HAM:NST,Steuler Fliesengruppe AG,Hamburg Stock Exchange,
+MUN:AO9,BACKBONE Technology AG,Munich Stock Exchange,
+ETR:CORE,Conwert Immobilien Invest SE,Deutsche Börse Xetra,Real Estate

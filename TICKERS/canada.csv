@@ -1,0 +1,2926 @@
+﻿Symbol,Company Name,Exchange,Sector
+TSX:NVDA,NVIDIA Corporation,Toronto Stock Exchange,Technology
+TSX:MSFT,Microsoft Corporation,Toronto Stock Exchange,Technology
+TSX:AAPL,Apple Inc.,Toronto Stock Exchange,Technology
+TSX:AMZN,"Amazon.com, Inc.",Toronto Stock Exchange,Consumer Discretionary
+TSX:GOOG,Alphabet Inc.,Toronto Stock Exchange,Communication Services
+TSX:META,"Meta Platforms, Inc.",Toronto Stock Exchange,Communication Services
+NEO:AVGO,Broadcom Inc.,Cboe Canada,Technology
+TSX:BRK,Berkshire Hathaway Inc.,Toronto Stock Exchange,
+TSX:TSLA,"Tesla, Inc.",Toronto Stock Exchange,Consumer Discretionary
+NEO:WMT,Walmart Inc.,Cboe Canada,Consumer Staples
+NEO:JPM,JPMorgan Chase & Co.,Cboe Canada,Financials
+NEO:LLY,Eli Lilly and Company,Cboe Canada,Healthcare
+NEO:VISA,Visa Inc.,Cboe Canada,Financials
+NEO:MA,Mastercard Incorporated,Cboe Canada,Financials
+NEO:NFLX,"Netflix, Inc.",Cboe Canada,Communication Services
+NEO:ORAC,Oracle Corporation,Cboe Canada,Technology
+NEO:XOM,Exxon Mobil Corporation,Cboe Canada,Energy
+TSX:COST,Costco Wholesale Corporation,Toronto Stock Exchange,Consumer Staples
+NEO:PG,The Procter & Gamble Company,Cboe Canada,Consumer Staples
+NEO:JNJ,Johnson & Johnson,Cboe Canada,Healthcare
+NEO:HD,"The Home Depot, Inc.",Cboe Canada,Consumer Discretionary
+NEO:SAPS,SAP SE,Cboe Canada,Technology
+NEO:NVON,Novo Nordisk A/S,Cboe Canada,
+NEO:BOFA,Bank of America Corporation,Cboe Canada,Financials
+NEO:ABBV,AbbVie Inc.,Cboe Canada,Healthcare
+NEO:PLTR,Palantir Technologies Inc.,Cboe Canada,Technology
+TSX:COLA,The Coca-Cola Company,Toronto Stock Exchange,
+NEO:COLA,The Coca-Cola Company,Cboe Canada,Consumer Staples
+NEO:ASML,ASML Holding N.V.,Cboe Canada,Technology
+NEO:UNH,UnitedHealth Group Incorporated,Cboe Canada,Healthcare
+NEO:NEST,Nestlé S.A.,Cboe Canada,
+NEO:GE,General Electric Company,Cboe Canada,Industrials
+NEO:ROG,Roche Holding AG,Cboe Canada,Healthcare
+TSX:CSCO,"Cisco Systems, Inc.",Toronto Stock Exchange,Technology
+NEO:CRM,"Salesforce, Inc.",Cboe Canada,Technology
+NEO:IBM,International Business Machines Corporation,Cboe Canada,Technology
+NEO:CHEV,Chevron Corporation,Cboe Canada,Energy
+NEO:WFCS,Wells Fargo & Company,Cboe Canada,Financials
+NEO:TOYM,Toyota Motor Corporation,Cboe Canada,
+NEO:NVS,Novartis AG,Cboe Canada,Healthcare
+NEO:MCDS,McDonald's Corporation,Cboe Canada,Consumer Discretionary
+NEO:AXP,American Express Company,Cboe Canada,Financials
+NEO:NOWS,"ServiceNow, Inc.",Cboe Canada,Technology
+NEO:DIS,The Walt Disney Company,Cboe Canada,Communication Services
+TSX:AMD,"Advanced Micro Devices, Inc.",Toronto Stock Exchange,Technology
+NEO:MRK,"Merck & Co., Inc.",Cboe Canada,Healthcare
+NEO:SMNS,Siemens Aktiengesellschaft,Cboe Canada,Industrials
+NEO:ISRG,"Intuitive Surgical, Inc.",Cboe Canada,Healthcare
+NEO:RTX,RTX Corporation,Cboe Canada,Industrials
+NEO:DTEL,Deutsche Telekom AG,Cboe Canada,
+NEO:VZ,Verizon Communications Inc.,Cboe Canada,Communication Services
+NEO:TXN,Texas Instruments Incorporated,Cboe Canada,Technology
+TSX:RY,Royal Bank of Canada,Toronto Stock Exchange,Financials
+NEO:PEP,"PepsiCo, Inc.",Cboe Canada,Consumer Staples
+NEO:UBER,"Uber Technologies, Inc.",Cboe Canada,Technology
+NEO:GS,"The Goldman Sachs Group, Inc.",Cboe Canada,Financials
+NEO:BKNG,Booking Holdings Inc.,Cboe Canada,Consumer Discretionary
+NEO:ADBE,Adobe Inc.,Cboe Canada,Technology
+NEO:QCOM,QUALCOMM Incorporated,Cboe Canada,Technology
+NEO:CATR,Caterpillar Inc.,Cboe Canada,Industrials
+NEO:BA,The Boeing Company,Cboe Canada,Industrials
+NEO:SONY,Sony Group Corporation,Cboe Canada,
+NEO:TMO,Thermo Fisher Scientific Inc.,Cboe Canada,Healthcare
+NEO:MUFG,"Mitsubishi UFJ Financial Group, Inc.",Cboe Canada,
+NEO:ALZ,Allianz SE,Cboe Canada,Financials
+NEO:BLK,"BlackRock, Inc.",Cboe Canada,Financials
+NEO:CITI,Citigroup Inc.,Cboe Canada,Financials
+NEO:HON,Honeywell International Inc.,Cboe Canada,Industrials
+TSX:SHOP,Shopify Inc.,Toronto Stock Exchange,Technology
+NEO:DEER,Deere & Company,Cboe Canada,Industrials
+NEO:AMAT,"Applied Materials, Inc.",Cboe Canada,Technology
+NEO:GILD,"Gilead Sciences, Inc.",Cboe Canada,Healthcare
+NEO:PFE,Pfizer Inc.,Cboe Canada,Healthcare
+NEO:GEV,GE Vernova Inc.,Cboe Canada,Industrials
+NEO:PANW,"Palo Alto Networks, Inc.",Cboe Canada,Technology
+NEO:HTCI,"Hitachi, Ltd.",Cboe Canada,
+NEO:MU,"Micron Technology, Inc.",Cboe Canada,Technology
+TSX:TD,The Toronto-Dominion Bank,Toronto Stock Exchange,Financials
+NEO:ANET,Arista Networks Inc,Cboe Canada,Technology
+NEO:CRWD,"CrowdStrike Holdings, Inc.",Cboe Canada,Technology
+NEO:BX,Blackstone Inc.,Cboe Canada,Financials
+NEO:KKR,KKR & Co. Inc.,Cboe Canada,Financials
+NEO:ABB,ABB Ltd,Cboe Canada,
+NEO:SBUX,Starbucks Corporation,Cboe Canada,Consumer Discretionary
+TSX:ENB,Enbridge Inc.,Toronto Stock Exchange,Energy
+NEO:UBSS,UBS Group AG,Cboe Canada,Financials
+NEO:NTDO,"Nintendo Co., Ltd.",Cboe Canada,
+NEO:INTC,Intel Corporation,Cboe Canada,Technology
+NEO:NKE,"NIKE, Inc.",Cboe Canada,Consumer Discretionary
+TSX:BN,Brookfield Corporation,Toronto Stock Exchange,Financials
+TSX:BAM,Brookfield Asset Management Ltd.,Toronto Stock Exchange,Financials
+NEO:UPS,"United Parcel Service, Inc.",Cboe Canada,Industrials
+TSX:TRI,Thomson Reuters Corporation,Toronto Stock Exchange,Industrials
+NEO:ABNB,"Airbnb, Inc.",Cboe Canada,Consumer Discretionary
+NEO:CVS,CVS Health Corporation,Cboe Canada,Healthcare
+NEO:MMMM,3M Company,Cboe Canada,Industrials
+TSX:BMO,Bank of Montreal,Toronto Stock Exchange,Financials
+NEO:SFTB,SoftBank Group Corp.,Cboe Canada,
+TSX:CSU,Constellation Software Inc.,Toronto Stock Exchange,Technology
+TSX:CP,Canadian Pacific Kansas City Limited,Toronto Stock Exchange,Industrials
+NEO:MTSU,Mitsubishi Corporation,Cboe Canada,
+NEO:PYPL,"PayPal Holdings, Inc.",Cboe Canada,Financials
+NEO:CMGS,"Chipotle Mexican Grill, Inc.",Cboe Canada,Consumer Discretionary
+TSX:CNQ,Canadian Natural Resources Limited,Toronto Stock Exchange,Energy
+TSX:BNS,The Bank of Nova Scotia,Toronto Stock Exchange,Financials
+TSX:CNR,Canadian National Railway Company,Toronto Stock Exchange,Industrials
+TSX:CM,Canadian Imperial Bank of Commerce,Toronto Stock Exchange,Financials
+NEO:INGS,ING Groep N.V.,Cboe Canada,Financials
+TSX:AEM,Agnico Eagle Mines Limited,Toronto Stock Exchange,Materials
+TSX:NGT,Newmont Corporation,Toronto Stock Exchange,Materials
+NEO:BENZ,Mercedes-Benz Group AG,Cboe Canada,Consumer Discretionary
+NEO:MB,Mercedes-Benz Group AG,Cboe Canada,
+NEO:BMW,Bayerische Motoren Werke Aktiengesellschaft,Cboe Canada,Consumer Discretionary
+TSX:MFC,Manulife Financial Corporation,Toronto Stock Exchange,Financials
+NEO:VWA,Volkswagen AG,Cboe Canada,
+TSX:TRP,TC Energy Corporation,Toronto Stock Exchange,Energy
+TSX:ATD,Alimentation Couche-Tard Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:WCN,"Waste Connections, Inc.",Toronto Stock Exchange,Industrials
+TSX:L,Loblaw Companies Limited,Toronto Stock Exchange,Consumer Staples
+TSX:SU,Suncor Energy Inc.,Toronto Stock Exchange,Energy
+NEO:OXY,Occidental Petroleum Corporation,Cboe Canada,Energy
+NEO:F,Ford Motor Company,Cboe Canada,Consumer Discretionary
+TSX:IFC,Intact Financial Corporation,Toronto Stock Exchange,Financials
+TSX:WPM,Wheaton Precious Metals Corp.,Toronto Stock Exchange,Materials
+TSX:NA,National Bank of Canada,Toronto Stock Exchange,Financials
+TSX:IMO,Imperial Oil Limited,Toronto Stock Exchange,Energy
+TSX:SLF,Sun Life Financial Inc.,Toronto Stock Exchange,Financials
+TSX:FFH,Fairfax Financial Holdings Limited,Toronto Stock Exchange,Financials
+TSXV:PUR,Premier American Uranium Inc.,TSX Venture Exchange,Energy
+TSX:DOL,Dollarama Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:ABX,Barrick Mining Corporation,Toronto Stock Exchange,Materials
+TSX:GWO,Great-West Lifeco Inc.,Toronto Stock Exchange,Financials
+TSX:FNV,Franco-Nevada Corporation,Toronto Stock Exchange,Materials
+NEO:LULU,lululemon athletica inc.,Cboe Canada,Consumer Discretionary
+NEO:STZ,"Constellation Brands, Inc.",Cboe Canada,Consumer Staples
+TSX:NTR,Nutrien Ltd.,Toronto Stock Exchange,Materials
+TSX:CCO,Cameco Corporation,Toronto Stock Exchange,Energy
+TSX:WSP,WSP Global Inc.,Toronto Stock Exchange,Industrials
+NEO:SMCI,"Super Micro Computer, Inc.",Cboe Canada,Technology
+TSX:CVE,Cenovus Energy Inc.,Toronto Stock Exchange,Energy
+TSX:WN,George Weston Limited,Toronto Stock Exchange,Consumer Staples
+TSX:T,TELUS Corporation,Toronto Stock Exchange,Communication Services
+TSX:GIB.A,CGI Inc.,Toronto Stock Exchange,Technology
+TSX:POW,Power Corporation of Canada,Toronto Stock Exchange,Financials
+TSX:FTS,Fortis Inc.,Toronto Stock Exchange,Utilities
+TSX:QSP.UN,Restaurant Brands International Limited Partnership,Toronto Stock Exchange,Consumer Discretionary
+TSX:QSR,Restaurant Brands International Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:PPL,Pembina Pipeline Corporation,Toronto Stock Exchange,Energy
+TSX:H,Hydro One Limited,Toronto Stock Exchange,Utilities
+TSX:BCE,BCE Inc.,Toronto Stock Exchange,Communication Services
+TSX:RBA,"RB Global, Inc.",Toronto Stock Exchange,Industrials
+TSX:TECK.A,Teck Resources Limited,Toronto Stock Exchange,Materials
+TSX:TECK.B,Teck Resources Limited,Toronto Stock Exchange,Materials
+TSX:GFL,GFL Environmental Inc.,Toronto Stock Exchange,Industrials
+TSX:K,Kinross Gold Corporation,Toronto Stock Exchange,Materials
+TSX:TOU,Tourmaline Oil Corp.,Toronto Stock Exchange,Energy
+TSX:BEP.UN,Brookfield Renewable Partners L.P.,Toronto Stock Exchange,Utilities
+TSX:MRU,Metro Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:BIP.UN,Brookfield Infrastructure Partners L.P.,Toronto Stock Exchange,Utilities
+TSX:RCI.B,Rogers Communications Inc.,Toronto Stock Exchange,Communication Services
+TSX:RCI.A,Rogers Communications Inc.,Toronto Stock Exchange,Communication Services
+TSX:BNT,Brookfield Wealth Solutions Ltd.,Toronto Stock Exchange,Financials
+TSX:CLS,Celestica Inc.,Toronto Stock Exchange,Technology
+TSX:EMA,Emera Incorporated,Toronto Stock Exchange,Utilities
+TSX:FM,First Quantum Minerals Ltd.,Toronto Stock Exchange,Materials
+TSX:ARX,ARC Resources Ltd.,Toronto Stock Exchange,Energy
+TSX:LUG,Lundin Gold Inc.,Toronto Stock Exchange,Materials
+TSX:STN,Stantec Inc.,Toronto Stock Exchange,Industrials
+TSX:ATRL,AtkinsRéalis Group Inc.,Toronto Stock Exchange,Industrials
+TSX:AGI,Alamos Gold Inc.,Toronto Stock Exchange,Materials
+TSX:X,TMX Group Limited,Toronto Stock Exchange,Financials
+TSX:IVN,Ivanhoe Mines Ltd.,Toronto Stock Exchange,Materials
+TSX:BEPC,Brookfield Renewable Corporation,Toronto Stock Exchange,Utilities
+TSX:MG,Magna International Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:TOI,Topicus.com Inc.,TSX Venture Exchange,Technology
+TSX:PAAS,Pan American Silver Corp.,Toronto Stock Exchange,Materials
+TSX:OVV,Ovintiv Inc.,Toronto Stock Exchange,Energy
+TSX:CCL.A,CCL Industries Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CCL.B,CCL Industries Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:EFN,Element Fleet Management Corp.,Toronto Stock Exchange,Industrials
+TSX:DAY,Dayforce Inc.,Toronto Stock Exchange,Technology
+TSX:IAG,iA Financial Corporation Inc.,Toronto Stock Exchange,Financials
+TSX:LUN,Lundin Mining Corporation,Toronto Stock Exchange,Materials
+TSX:EMP.A,Empire Company Limited,Toronto Stock Exchange,Consumer Staples
+TSX:CAE,CAE Inc.,Toronto Stock Exchange,Industrials
+TSX:DSG,The Descartes Systems Group Inc.,Toronto Stock Exchange,Technology
+TSXV:LMN,Lumine Group Inc.,TSX Venture Exchange,Technology
+TSX:ALA,AltaGas Ltd.,Toronto Stock Exchange,Energy
+TSX:SAP,Saputo Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:FSV,FirstService Corporation,Toronto Stock Exchange,Real Estate
+TSX:WCP,Whitecap Resources Inc.,Toronto Stock Exchange,Energy
+TSX:IGM,IGM Financial Inc.,Toronto Stock Exchange,Financials
+TSX:CU,Canadian Utilities Limited,Toronto Stock Exchange,Utilities
+TSX:BBD.A,Bombardier Inc.,Toronto Stock Exchange,Industrials
+TSX:BBD.B,Bombardier Inc.,Toronto Stock Exchange,Industrials
+TSX:OTEX,Open Text Corporation,Toronto Stock Exchange,Technology
+TSX:TFII,TFI International Inc.,Toronto Stock Exchange,Industrials
+TSX:GIL,Gildan Activewear Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CTC.A,"Canadian Tire Corporation, Limited",Toronto Stock Exchange,Consumer Discretionary
+TSX:EDV,Endeavour Mining plc,Toronto Stock Exchange,Materials
+TSX:CTC,"Canadian Tire Corporation, Limited",Toronto Stock Exchange,Consumer Discretionary
+TSXV:PVF.UN,Partners Value Investments LP,TSX Venture Exchange,Financials
+TSX:TIH,Toromont Industries Ltd.,Toronto Stock Exchange,Industrials
+TSX:KEY,Keyera Corp.,Toronto Stock Exchange,Energy
+TSX:QBR.B,Quebecor Inc.,Toronto Stock Exchange,Communication Services
+TSX:QBR.A,Quebecor Inc.,Toronto Stock Exchange,Communication Services
+TSX:CIGI,Colliers International Group Inc.,Toronto Stock Exchange,Real Estate
+TSX:CPX,Capital Power Corporation,Toronto Stock Exchange,Utilities
+TSX:DFY,Definity Financial Corporation,Toronto Stock Exchange,Financials
+TSX:WFG,West Fraser Timber Co. Ltd.,Toronto Stock Exchange,Materials
+TSX:ATZ,Aritzia Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:SOBO,South Bow Corporation,Toronto Stock Exchange,Energy
+TSX:ONEX,Onex Corporation,Toronto Stock Exchange,Financials
+TSX:BBU.UN,Brookfield Business Partners L.P.,Toronto Stock Exchange,Industrials
+TSX:CAR.UN,Canadian Apartment Properties Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:FTT,Finning International Inc.,Toronto Stock Exchange,Industrials
+TSX:PKI,Parkland Corporation,Toronto Stock Exchange,Energy
+TSX:BIPC,Brookfield Infrastructure Corporation,Toronto Stock Exchange,Utilities
+TSX:OR,OR Royalties Inc.,Toronto Stock Exchange,Materials
+TSX:TFPM,Triple Flag Precious Metals Corp.,Toronto Stock Exchange,Materials
+TSX:BTO,B2Gold Corp.,Toronto Stock Exchange,Materials
+TSX:MEG,MEG Energy Corp.,Toronto Stock Exchange,Energy
+TSX:SCR,Strathcona Resources Ltd.,Toronto Stock Exchange,Energy
+TSX:AC,Air Canada,Toronto Stock Exchange,Industrials
+TSX:AQN,Algonquin Power & Utilities Corp.,Toronto Stock Exchange,Utilities
+TSX:CS,Capstone Copper Corp.,Toronto Stock Exchange,Materials
+TSX:BLCO,Bausch + Lomb Corporation,Toronto Stock Exchange,Healthcare
+TSXV:ARTG,Artemis Gold Inc.,TSX Venture Exchange,Materials
+TSX:ELD,Eldorado Gold Corporation,Toronto Stock Exchange,Materials
+TSX:ACO.Y,ATCO Ltd.,Toronto Stock Exchange,Utilities
+TSX:ACO.X,ATCO Ltd.,Toronto Stock Exchange,Utilities
+TSX:IMG,IAMGOLD Corporation,Toronto Stock Exchange,Materials
+TSX:PSK,PrairieSky Royalty Ltd.,Toronto Stock Exchange,Energy
+TSX:KXS,Kinaxis Inc.,Toronto Stock Exchange,Technology
+TSX:NPI,Northland Power Inc.,Toronto Stock Exchange,Utilities
+TSX:AG,First Majestic Silver Corp.,Toronto Stock Exchange,Materials
+TSX:ELF,E-L Financial Corporation Limited,Toronto Stock Exchange,Financials
+TSX:HBM,Hudbay Minerals Inc.,Toronto Stock Exchange,Materials
+TSX:REI.UN,RioCan Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:NGD,New Gold Inc.,Toronto Stock Exchange,Materials
+TSX:GLXY,Galaxy Digital Inc.,Toronto Stock Exchange,Financials
+TSX:CSH.UN,Chartwell Retirement Residences,Toronto Stock Exchange,Real Estate
+TSX:NXE,NexGen Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:DOO,BRP Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CHP.UN,Choice Properties Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:CGG,China Gold International Resources Corp. Ltd.,Toronto Stock Exchange,Materials
+TSX:OLA,Orla Mining Ltd.,Toronto Stock Exchange,Materials
+TSX:PRU,Perseus Mining Limited,Toronto Stock Exchange,Materials
+TSX:OGC,OceanaGold Corporation,Toronto Stock Exchange,Materials
+TSX:CIX,CI Financial Corp.,Toronto Stock Exchange,Financials
+TSX:GRT.UN,Granite Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:EQX,Equinox Gold Corp.,Toronto Stock Exchange,Materials
+TSX:BYD,Boyd Group Services Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:GMIN,G Mining Ventures Corp.,Toronto Stock Exchange,Materials
+TSX:SJ,Stella-Jones Inc.,Toronto Stock Exchange,Materials
+TSX:TA,TransAlta Corporation,Toronto Stock Exchange,Utilities
+TSX:ATS,ATS Corporation,Toronto Stock Exchange,Industrials
+TSX:TPZ,Topaz Energy Corp.,Toronto Stock Exchange,Energy
+TSX:PEY,Peyto Exploration & Development Corp.,Toronto Stock Exchange,Energy
+TSX:GEI,Gibson Energy Inc.,Toronto Stock Exchange,Energy
+TSX:TXG,Torex Gold Resources Inc.,Toronto Stock Exchange,Materials
+TSX:KNT,K92 Mining Inc.,Toronto Stock Exchange,Materials
+TSX:FCR.UN,First Capital Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:SRU.UN,SmartCentres Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:LNR,Linamar Corporation,Toronto Stock Exchange,Consumer Discretionary
+TSX:TVK,TerraVest Industries Inc.,Toronto Stock Exchange,Energy
+TSX:PBH,Premium Brands Holdings Corporation,Toronto Stock Exchange,Consumer Staples
+TSX:SSL,Sandstorm Gold Ltd.,Toronto Stock Exchange,Materials
+TSX:MDA,MDA Space Ltd.,Toronto Stock Exchange,Industrials
+TSX:EQB,EQB Inc.,Toronto Stock Exchange,Financials
+TSX:BEI.UN,Boardwalk Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:MFI,Maple Leaf Foods Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:SSRM,SSR Mining Inc.,Toronto Stock Exchange,Materials
+TSX:DPM,Dundee Precious Metals Inc.,Toronto Stock Exchange,Materials
+TSX:BB,BlackBerry Limited,Toronto Stock Exchange,Technology
+TSX:SES,SECURE Waste Infrastructure Corp.,Toronto Stock Exchange,Industrials
+TSX:NGEX,NGEx Minerals Ltd.,Toronto Stock Exchange,Materials
+TSX:FIH.U,Fairfax India Holdings Corporation,Toronto Stock Exchange,Financials
+TSX:BLX,Boralex Inc.,Toronto Stock Exchange,Utilities
+TSX:WDO,Wesdome Gold Mines Ltd.,Toronto Stock Exchange,Materials
+TSX:MX,Methanex Corporation,Toronto Stock Exchange,Materials
+TSX:MAG,MAG Silver Corp.,Toronto Stock Exchange,Materials
+TSX:NVA,NuVista Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:EIF,Exchange Income Corporation,Toronto Stock Exchange,Industrials
+TSX:POU,Paramount Resources Ltd.,Toronto Stock Exchange,Energy
+TSX:FVI,Fortuna Mining Corp.,Toronto Stock Exchange,Materials
+TSX:BBUC,Brookfield Business Corporation,Toronto Stock Exchange,Financials
+TSX:CCA,Cogeco Communications Inc.,Toronto Stock Exchange,Communication Services
+TSX:HR.UN,H&R Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:INE,Innergex Renewable Energy Inc.,Toronto Stock Exchange,Utilities
+TSX:CXB,Calibre Mining Corp.,Toronto Stock Exchange,Materials
+TSX:WPK,Winpak Ltd.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CRR.UN,Crombie Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:ATH,Athabasca Oil Corporation,Toronto Stock Exchange,Energy
+TSX:DSV,Discovery Silver Corp.,Toronto Stock Exchange,Materials
+TSX:WGX,Westgold Resources Limited,Toronto Stock Exchange,Materials
+TSX:HUT,Hut 8 Corp.,Toronto Stock Exchange,Financials
+TSX:NWC,The North West Company Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:BHC,Bausch Health Companies Inc.,Toronto Stock Exchange,Healthcare
+TSX:ORA,Aura Minerals Inc.,Toronto Stock Exchange,Materials
+TSX:GSY,goeasy Ltd.,Toronto Stock Exchange,Financials
+TSX:TOY,Spin Master Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSX:NG,NovaGold Resources Inc.,Toronto Stock Exchange,Materials
+TSX:RUS,Russel Metals Inc.,Toronto Stock Exchange,Industrials
+TSX:IPCO,International Petroleum Corporation,Toronto Stock Exchange,Energy
+TSX:KMP.UN,Killam Apartment REIT,Toronto Stock Exchange,Real Estate
+TSX:AAUC,Allied Gold Corporation,Toronto Stock Exchange,Materials
+TSX:AP.UN,Allied Properties Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:AIF,Altus Group Limited,Toronto Stock Exchange,Real Estate
+TSX:PDN,Paladin Energy Ltd,Toronto Stock Exchange,Energy
+TSX:TVE,Tamarack Valley Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:FN,First National Financial Corporation,Toronto Stock Exchange,Financials
+TSX:LSPD,Lightspeed Commerce Inc.,Toronto Stock Exchange,Technology
+TSX:SKE,Skeena Resources Limited,Toronto Stock Exchange,Materials
+TSX:ERO,Ero Copper Corp.,Toronto Stock Exchange,Materials
+TSX:SII,Sprott Inc.,Toronto Stock Exchange,Financials
+TSX:PET,Pet Valu Holdings Ltd.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CIA,Champion Iron Limited,Toronto Stock Exchange,Materials
+TSX:AND,Andlauer Healthcare Group Inc.,Toronto Stock Exchange,Industrials
+TSX:FRU,Freehold Royalties Ltd.,Toronto Stock Exchange,Energy
+TSX:BTE,Baytex Energy Corp.,Toronto Stock Exchange,Energy
+TSX:CG,Centerra Gold Inc.,Toronto Stock Exchange,Materials
+TSX:EDR,Endeavour Silver Corp.,Toronto Stock Exchange,Materials
+TSX:SEA,Seabridge Gold Inc.,Toronto Stock Exchange,Materials
+TSX:RCH,Richelieu Hardware Ltd.,Toronto Stock Exchange,Consumer Discretionary
+TSX:AAV,Advantage Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:DML,Denison Mines Corp.,Toronto Stock Exchange,Energy
+TSX:TSU,Trisura Group Ltd.,Toronto Stock Exchange,Financials
+TSX:LNF,Leon's Furniture Limited,Toronto Stock Exchange,Consumer Discretionary
+TSX:AYA,Aya Gold & Silver Inc.,Toronto Stock Exchange,Materials
+TSX:IIP.UN,InterRent Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:BIR,Birchcliff Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:LIF,Labrador Iron Ore Royalty Corporation,Toronto Stock Exchange,Materials
+TSX:NFI,NFI Group Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:SPB,Superior Plus Corp.,Toronto Stock Exchange,Utilities
+TSX:MEQ,Mainstreet Equity Corp.,Toronto Stock Exchange,Real Estate
+TSX:TCL.A,Transcontinental Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:TCL.B,Transcontinental Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:FOM,Foran Mining Corporation,Toronto Stock Exchange,Materials
+TSX:DNTL,dentalcorp Holdings Ltd.,Toronto Stock Exchange,Healthcare
+TSX:GRGD,Groupe Dynamite Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:SIA,Sienna Senior Living Inc.,Toronto Stock Exchange,Healthcare
+TSX:WTE,Westshore Terminals Investment Corporation,Toronto Stock Exchange,Industrials
+TSX:CJT,Cargojet Inc.,Toronto Stock Exchange,Industrials
+TSX:CFP,Canfor Corporation,Toronto Stock Exchange,Materials
+CSE:GTII,Green Thumb Industries Inc.,Canadian Securities Exchange,Healthcare
+TSX:VET,Vermilion Energy Inc.,Toronto Stock Exchange,Energy
+TSX:PPTA,Perpetua Resources Corp.,Toronto Stock Exchange,Materials
+TSX:HWX,Headwater Exploration Inc.,Toronto Stock Exchange,Energy
+TSX:EFR,Energy Fuels Inc.,Toronto Stock Exchange,Energy
+TSX:MAU,Montage Gold Corp.,Toronto Stock Exchange,Materials
+TSX:ARIS,Aris Mining Corporation,Toronto Stock Exchange,Materials
+TSX:PMZ.UN,Primaris Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSXV:SXGC,Southern Cross Gold Consolidated Ltd.,TSX Venture Exchange,Materials
+TSX:GOOS,Canada Goose Holdings Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:SVI,StorageVault Canada Inc.,Toronto Stock Exchange,Real Estate
+TSX:BDT,Bird Construction Inc.,Toronto Stock Exchange,Industrials
+TSX:BDGI,Badger Infrastructure Solutions Ltd.,Toronto Stock Exchange,Industrials
+TSX:JWEL,Jamieson Wellness Inc.,Toronto Stock Exchange,Consumer Staples
+NEO:DEFI,DeFi Technologies Inc.,Cboe Canada,Financials
+TSX:CEU,CES Energy Solutions Corp.,Toronto Stock Exchange,Energy
+TSX:LAS.A,Lassonde Industries Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:IE,Ivanhoe Electric Inc.,Toronto Stock Exchange,Materials
+TSX:VZLA,Vizsla Silver Corp.,Toronto Stock Exchange,Materials
+TSX:PXT,Parex Resources Inc.,Toronto Stock Exchange,Energy
+TSX:KEL,Kelt Exploration Ltd.,Toronto Stock Exchange,Energy
+TSX:SIS,Savaria Corporation,Toronto Stock Exchange,Industrials
+TSX:RUP,Rupert Resources Ltd.,Toronto Stock Exchange,Materials
+TSX:LB,Laurentian Bank of Canada,Toronto Stock Exchange,Financials
+TSX:PRL,Propel Holdings Inc.,Toronto Stock Exchange,Financials
+TSX:EFX,Enerflex Ltd.,Toronto Stock Exchange,Energy
+TSX:HPS.A,Hammond Power Solutions Inc.,Toronto Stock Exchange,Industrials
+TSX:TKO,Taseko Mines Limited,Toronto Stock Exchange,Materials
+TSX:SVM,Silvercorp Metals Inc.,Toronto Stock Exchange,Materials
+TSX:ENGH,Enghouse Systems Limited,Toronto Stock Exchange,Technology
+TSX:CHE.UN,Chemtrade Logistics Income Fund,Toronto Stock Exchange,Materials
+TSX:ALS,Altius Minerals Corporation,Toronto Stock Exchange,Materials
+TSX:MTL,Mullen Group Ltd.,Toronto Stock Exchange,Industrials
+TSX:NWH.UN,NorthWest Healthcare Properties Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:MRC,Morguard Corporation,Toronto Stock Exchange,Real Estate
+TSX:MER,Meren Energy Inc.,Toronto Stock Exchange,Energy
+TSXV:SGD,Snowline Gold Corp.,TSX Venture Exchange,Materials
+TSX:ARE,Aecon Group Inc.,Toronto Stock Exchange,Industrials
+TSX:EXE,Extendicare Inc.,Toronto Stock Exchange,Healthcare
+TSX:CNL,Collective Mining Ltd.,Toronto Stock Exchange,Materials
+TSX:SFC,Sagicor Financial Company Ltd.,Toronto Stock Exchange,Financials
+TSX:DCBO,Docebo Inc.,Toronto Stock Exchange,Technology
+TSX:TIXT,TELUS International (Cda) Inc.,Toronto Stock Exchange,Technology
+TSXV:WED,The Westaim Corporation,TSX Venture Exchange,Financials
+TSXV:AFM,Alphamin Resources Corp.,TSX Venture Exchange,Materials
+TSX:CJ,Cardinal Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:CRON,Cronos Group Inc.,Toronto Stock Exchange,Healthcare
+TSX:WELL,WELL Health Technologies Corp.,Toronto Stock Exchange,Healthcare
+TSX:CVG,Clairvest Group Inc.,Toronto Stock Exchange,Financials
+TSX:MAL,Magellan Aerospace Corporation,Toronto Stock Exchange,Industrials
+TSX:SLS,Solaris Resources Inc.,Toronto Stock Exchange,Materials
+TSX:PSI,Pason Systems Inc.,Toronto Stock Exchange,Energy
+TSX:GCG.A,Guardian Capital Group Limited,Toronto Stock Exchange,Financials
+TSX:NDM,Northern Dynasty Minerals Ltd.,Toronto Stock Exchange,Materials
+TSX:GCG,Guardian Capital Group Limited,Toronto Stock Exchange,Financials
+CSE:TRUL,Trulieve Cannabis Corp.,Canadian Securities Exchange,Healthcare
+TSX:MTY,MTY Food Group Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:CAS,Cascades Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:ET,Evertz Technologies Limited,Toronto Stock Exchange,Technology
+TSX:SOY,SunOpta Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:PD,Precision Drilling Corporation,Toronto Stock Exchange,Energy
+TSX:CF,Canaccord Genuity Group Inc.,Toronto Stock Exchange,Financials
+TSX:AII,Almonty Industries Inc.,Toronto Stock Exchange,Materials
+TSX:CURA,"Curaleaf Holdings, Inc.",Toronto Stock Exchange,Healthcare
+TSX:ASTL,Algoma Steel Group Inc.,Toronto Stock Exchange,Materials
+TSXV:SGML,Sigma Lithium Corporation,TSX Venture Exchange,Materials
+TSX:SGR.U,Slate Grocery REIT,Toronto Stock Exchange,Real Estate
+TSX:SGR.UN,Slate Grocery REIT,Toronto Stock Exchange,Real Estate
+TSX:AW,A & W Food Services of Canada Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:III,Imperial Metals Corporation,Toronto Stock Exchange,Materials
+TSX:GGD,GoGold Resources Inc.,Toronto Stock Exchange,Materials
+TSX:DRM,Dream Unlimited Corp.,Toronto Stock Exchange,Real Estate
+TSX:VNP,5N Plus Inc.,Toronto Stock Exchange,Materials
+TSX:LAC,Lithium Americas Corp.,Toronto Stock Exchange,Materials
+TSX:VLE,Valeura Energy Inc.,Toronto Stock Exchange,Energy
+TSX:TCW,Trican Well Service Ltd.,Toronto Stock Exchange,Energy
+TSX:AGF.B,AGF Management Limited,Toronto Stock Exchange,Financials
+TSX:GDI,GDI Integrated Facility Services Inc.,Toronto Stock Exchange,Industrials
+TSX:KEC,Kiwetinohk Energy Corp.,Toronto Stock Exchange,Energy
+TSX:CUP.U,"Caribbean Utilities Company, Ltd.",Toronto Stock Exchange,Utilities
+TSXV:PNG,Kraken Robotics Inc.,TSX Venture Exchange,Technology
+TSX:MKP,MCAN Mortgage Corporation,Toronto Stock Exchange,Financials
+TSX:DBM,Doman Building Materials Group Ltd.,Toronto Stock Exchange,Industrials
+TSX:GTWO,G2 Goldfields Inc.,Toronto Stock Exchange,Materials
+TSX:DLCG,Dominion Lending Centres Inc.,Toronto Stock Exchange,Financials
+TSX:AFN,Ag Growth International Inc.,Toronto Stock Exchange,Industrials
+TSX:SEC,Senvest Capital Inc.,Toronto Stock Exchange,Financials
+TSX:AX.UN,Artis Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:BITF,Bitfarms Ltd.,Toronto Stock Exchange,Financials
+TSX:NOA,North American Construction Group Ltd.,Toronto Stock Exchange,Energy
+TSX:RSI,Rogers Sugar Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:CVO,Coveo Solutions Inc.,Toronto Stock Exchange,Technology
+TSX:DTOL,D2L Inc.,Toronto Stock Exchange,Technology
+TSX:CGX,Cineplex Inc.,Toronto Stock Exchange,Communication Services
+TSX:MSA,Mineros S.A.,Toronto Stock Exchange,Materials
+TSX:TPX.A,Molson Coors Canada Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:USA,Americas Gold and Silver Corporation,Toronto Stock Exchange,Materials
+TSX:TPX.B,Molson Coors Canada Inc.,Toronto Stock Exchange,Consumer Staples
+TSX:ECN,ECN Capital Corp.,Toronto Stock Exchange,Financials
+TSX:MUX,McEwen Mining Inc.,Toronto Stock Exchange,Materials
+CSE:ASE,Asante Gold Corporation,Canadian Securities Exchange,Materials
+TSX:SDE,Spartan Delta Corp.,Toronto Stock Exchange,Energy
+TSX:ASM,Avino Silver & Gold Mines Ltd.,Toronto Stock Exchange,Materials
+TSX:IFP,Interfor Corporation,Toronto Stock Exchange,Materials
+TSX:ABRA,AbraSilver Resource Corp.,Toronto Stock Exchange,Materials
+TSX:MDI,Major Drilling Group International Inc.,Toronto Stock Exchange,Materials
+TSXV:RBX,Robex Resources Inc.,TSX Venture Exchange,Materials
+TSX:ORE,Orezone Gold Corporation,Toronto Stock Exchange,Materials
+TSX:IAU,i-80 Gold Corp.,Toronto Stock Exchange,Materials
+TSX:DND,Dye & Durham Limited,Toronto Stock Exchange,Technology
+TSX:BLDP,Ballard Power Systems Inc.,Toronto Stock Exchange,Industrials
+TSX:BLN,Blackline Safety Corp.,Toronto Stock Exchange,Technology
+TSX:ADEN,ADENTRA Inc.,Toronto Stock Exchange,Industrials
+TSX:MRG.UN,Morguard North American Residential Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSXV:AMRQ,Amaroq Minerals Ltd.,TSX Venture Exchange,Materials
+TSX:ALC,Algoma Central Corporation,Toronto Stock Exchange,Industrials
+TSXV:ATX,ATEX Resources Inc.,TSX Venture Exchange,Materials
+TSX:FSZ,Fiera Capital Corporation,Toronto Stock Exchange,Financials
+TSX:MATR,Mattr Corp.,Toronto Stock Exchange,Energy
+TSX:KSI,"kneat.com, inc.",Toronto Stock Exchange,Healthcare
+TSX:TF,Timbercreek Financial Corp.,Toronto Stock Exchange,Financials
+TSX:CGO,Cogeco Inc.,Toronto Stock Exchange,Communication Services
+TSX:TCS,Tecsys Inc.,Toronto Stock Exchange,Technology
+TSX:MRE,Martinrea International Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:VHI,Vitalhub Corp.,Toronto Stock Exchange,Healthcare
+TSX:HOM.U,BSR Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:HOM.UN,BSR Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:TAL,PetroTal Corp.,Toronto Stock Exchange,Energy
+NEO:GLAS.A.U,Glass House Brands Inc.,Cboe Canada,
+TSX:GUD,Knight Therapeutics Inc.,Toronto Stock Exchange,Healthcare
+TSX:PBL,Pollard Banknote Limited,Toronto Stock Exchange,Consumer Discretionary
+TSXV:PBL,Pollard Banknote Limited,TSX Venture Exchange,
+TSX:FVL,Freegold Ventures Limited,Toronto Stock Exchange,Materials
+TSX:RAY.A,Stingray Group Inc.,Toronto Stock Exchange,Communication Services
+NEO:BTQ,BTQ Technologies Corp.,Cboe Canada,Technology
+TSX:CMG,Computer Modelling Group Ltd.,Toronto Stock Exchange,Technology
+TSX:ISC,Information Services Corporation,Toronto Stock Exchange,Industrials
+TSX:RAY.B,Stingray Group Inc.,Toronto Stock Exchange,Communication Services
+TSX:BDI,Black Diamond Group Limited,Toronto Stock Exchange,Industrials
+TSX:MARI,Marimaca Copper Corp.,Toronto Stock Exchange,Materials
+TSX:CHR,Chorus Aviation Inc.,Toronto Stock Exchange,Industrials
+TSX:SGY,Surge Energy Inc.,Toronto Stock Exchange,Energy
+TSX:TLRY,"Tilray Brands, Inc.",Toronto Stock Exchange,Healthcare
+TSX:MI.UN,Minto Apartment Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSXV:RML,Rusoro Mining Ltd.,TSX Venture Exchange,Materials
+TSX:DXT,Dexterra Group Inc.,Toronto Stock Exchange,Industrials
+TSX:APR.UN,Automotive Properties Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:HLF,High Liner Foods Incorporated,Toronto Stock Exchange,Consumer Staples
+TSXV:DXT,Dexterra Group Inc.,TSX Venture Exchange,
+TSX:NXR.UN,Nexus Industrial REIT,Toronto Stock Exchange,Real Estate
+TSX:AI,Atrium Mortgage Investment Corporation,Toronto Stock Exchange,Financials
+TSXV:EU,enCore Energy Corp.,TSX Venture Exchange,Energy
+TSX:TBL,Taiga Building Products Ltd.,Toronto Stock Exchange,Industrials
+TSX:FFM,FireFly Metals Ltd,Toronto Stock Exchange,Materials
+TSXV:LUM,Lumina Gold Corp.,TSX Venture Exchange,Materials
+TSXV:RIO,Rio2 Limited,TSX Venture Exchange,Materials
+TSX:CGY,Calian Group Ltd.,Toronto Stock Exchange,Industrials
+TSX:TNZ,Tenaz Energy Corp.,Toronto Stock Exchange,Energy
+TSX:OBE,Obsidian Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:ACQ,AutoCanada Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:PRB,Probe Gold Inc.,Toronto Stock Exchange,Materials
+TSX:DIV,Diversified Royalty Corp.,Toronto Stock Exchange,Industrials
+TSXV:SNM,ShaMaran Petroleum Corp.,TSX Venture Exchange,Energy
+TSX:WJX,Wajax Corporation,Toronto Stock Exchange,Industrials
+TSX:VBNK,VersaBank,Toronto Stock Exchange,Financials
+TSX:NEO,Neo Performance Materials Inc.,Toronto Stock Exchange,Materials
+TSX:GAU,Galiano Gold Inc.,Toronto Stock Exchange,Materials
+TSX:FEC,Frontera Energy Corporation,Toronto Stock Exchange,Energy
+TSX:PZA,Pizza Pizza Royalty Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSX:MND,Mandalay Resources Corporation,Toronto Stock Exchange,Materials
+TSX:TWC,TWC Enterprises Limited,Toronto Stock Exchange,Consumer Discretionary
+TSXV:PTK,POET Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:THX,Thor Explorations Ltd.,TSX Venture Exchange,Materials
+TSXV:IFOS,Itafos Inc.,TSX Venture Exchange,Materials
+TSX:ISO,IsoEnergy Ltd.,Toronto Stock Exchange,Energy
+TSXV:SLI,Standard Lithium Ltd.,TSX Venture Exchange,Materials
+TSX:MHC.U,Flagship Communities Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:MHC.UN,Flagship Communities Real Estate Investment Trust,Toronto Stock Exchange,
+TSX:WFC,Wall Financial Corporation,Toronto Stock Exchange,Real Estate
+TSX:URE,Ur-Energy Inc.,Toronto Stock Exchange,Energy
+CSE:SNDL,SNDL Inc.,Canadian Securities Exchange,
+TSXV:MTA,Metalla Royalty & Streaming Ltd.,TSX Venture Exchange,Materials
+TSX:FC,Firm Capital Mortgage Investment Corporation,Toronto Stock Exchange,Financials
+TSXV:FWZ,Fireweed Metals Corp.,TSX Venture Exchange,Materials
+TSXV:FDR,Founders Metals Inc.,TSX Venture Exchange,Materials
+TSXV:CEI,Coelacanth Energy Inc.,TSX Venture Exchange,
+TSX:ACB,Aurora Cannabis Inc.,Toronto Stock Exchange,Healthcare
+CSE:HODL,Sol Strategies Inc.,Canadian Securities Exchange,Financials
+TSX:KITS,Kits Eyecare Ltd.,Toronto Stock Exchange,Consumer Discretionary
+TSX:BK,Canadian Banc Corp.,Toronto Stock Exchange,Financials
+TSX:GFR,Greenfire Resources Ltd.,Toronto Stock Exchange,Energy
+TSX:WILD,WildBrain Ltd.,Toronto Stock Exchange,Communication Services
+TSX:ESI,Ensign Energy Services Inc.,Toronto Stock Exchange,Energy
+TSX:LAR,Lithium Argentina AG,Toronto Stock Exchange,Materials
+TSX:GBT,BMTC Group Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:PLZ.UN,Plaza Retail REIT,Toronto Stock Exchange,Real Estate
+TSXV:HIVE,HIVE Digital Technologies Ltd.,TSX Venture Exchange,Financials
+TSXV:WILD,WildBrain Ltd.,TSX Venture Exchange,
+TSX:MRD,Melcor Developments Ltd.,Toronto Stock Exchange,Real Estate
+TSXV:ODV,Osisko Development Corp.,TSX Venture Exchange,Materials
+TSX:ETG,Entrée Resources Ltd.,Toronto Stock Exchange,Materials
+TSXV:MKO,Mako Mining Corp.,TSX Venture Exchange,Materials
+TSX:REAL,Real Matters Inc.,Toronto Stock Exchange,Real Estate
+CSE:VREO,Vireo Growth Inc.,Canadian Securities Exchange,Healthcare
+TSX:BPF.UN,Boston Pizza Royalties Income Fund,Toronto Stock Exchange,Consumer Discretionary
+TSXV:NFG,New Found Gold Corp.,TSX Venture Exchange,Materials
+TSX:URC,Uranium Royalty Corp.,Toronto Stock Exchange,Energy
+TSX:APM,Andean Precious Metals Corp.,Toronto Stock Exchange,Materials
+TSX:TOT,Total Energy Services Inc.,Toronto Stock Exchange,Energy
+NEO:ABXX,Abaxx Technologies Inc.,Cboe Canada,Technology
+TSX:CSW.B,Corby Spirit and Wine Limited,Toronto Stock Exchange,Consumer Staples
+TSX:CSW.A,Corby Spirit and Wine Limited,Toronto Stock Exchange,Consumer Staples
+TSXV:DV,Dolly Varden Silver Corporation,TSX Venture Exchange,Materials
+TSXV:OGN,Orogen Royalties Inc.,TSX Venture Exchange,Materials
+TSX:SOIL,Saturn Oil & Gas Inc.,Toronto Stock Exchange,Energy
+TSX:GRA,NanoXplore Inc.,Toronto Stock Exchange,Materials
+TSX:WEED,Canopy Growth Corporation,Toronto Stock Exchange,Healthcare
+TSX:SOLG,SolGold Plc,Toronto Stock Exchange,Materials
+TSXV:LGN,Logan Energy Corp.,TSX Venture Exchange,Energy
+TSXV:ITR,Integra Resources Corp.,TSX Venture Exchange,Materials
+TSX:PHX,PHX Energy Services Corp.,Toronto Stock Exchange,Energy
+TSX:MRT.UN,Morguard Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:PMET,Patriot Battery Metals Inc.,Toronto Stock Exchange,Materials
+TSX:NUAG,New Pacific Metals Corp.,Toronto Stock Exchange,Materials
+TSX:KBL,K-Bro Linen Inc.,Toronto Stock Exchange,Industrials
+TSXV:SCZ,Santacruz Silver Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:LUCA,Luca Mining Corp.,TSX Venture Exchange,Materials
+TSXV:ZDC,Zedcor Inc.,TSX Venture Exchange,Industrials
+TSX:NOU,Nouveau Monde Graphite Inc.,Toronto Stock Exchange,Materials
+TSX:ERD,Erdene Resource Development Corporation,Toronto Stock Exchange,Materials
+TSX:STGO,Steppe Gold Ltd.,Toronto Stock Exchange,Materials
+TSX:AIDX,Healwell AI Inc.,Toronto Stock Exchange,Healthcare
+TSXV:ELE,Elemental Altus Royalties Corp.,TSX Venture Exchange,Materials
+TSXV:NICU,Magna Mining Inc.,TSX Venture Exchange,Materials
+TSXV:OMG,Omai Gold Mines Corp.,TSX Venture Exchange,Materials
+TSXV:EMX,EMX Royalty Corporation,TSX Venture Exchange,Materials
+TSX:RPI.UN,Richards Packaging Income Fund,Toronto Stock Exchange,Consumer Discretionary
+TSX:WRN,Western Copper and Gold Corporation,Toronto Stock Exchange,Materials
+TSXV:SQG,Spackman Equities Group Inc.,TSX Venture Exchange,Financials
+TSX:TSAT,Telesat Corporation,Toronto Stock Exchange,Technology
+TSX:PRV.UN,Pro Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:KEI,Kolibri Global Energy Inc.,Toronto Stock Exchange,Energy
+TSX:HFPC.U,Helios Fairfax Partners Corporation,Toronto Stock Exchange,Financials
+TSXV:ALDE,Aldebaran Resources Inc.,TSX Venture Exchange,Materials
+TSX:ADN,Acadian Timber Corp.,Toronto Stock Exchange,Materials
+TSX:MPC,Madison Pacific Properties Inc.,Toronto Stock Exchange,Real Estate
+TSX:MPC.C,Madison Pacific Properties Inc.,Toronto Stock Exchange,Real Estate
+TSX:QRC,Queen's Road Capital Investment Ltd.,Toronto Stock Exchange,Financials
+TSXV:GOT,Goliath Resources Limited,TSX Venture Exchange,Materials
+TSX:CPH,Cipher Pharmaceuticals Inc.,Toronto Stock Exchange,Healthcare
+TSXV:BRVO,Bravo Mining Corp.,TSX Venture Exchange,Materials
+TSX:BTB.UN,BTB Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:JAG,Jaguar Mining Inc.,Toronto Stock Exchange,Materials
+TSXV:NCX,NorthIsle Copper and Gold Inc.,TSX Venture Exchange,Materials
+CSE:ACT,Aduro Clean Technologies Inc.,Canadian Securities Exchange,Industrials
+TSX:ASCU,Arizona Sonoran Copper Company Inc.,Toronto Stock Exchange,Materials
+TSXV:WRLG,West Red Lake Gold Mines Ltd.,TSX Venture Exchange,Materials
+TSX:FRX,Fennec Pharmaceuticals Inc.,Toronto Stock Exchange,Healthcare
+TSXV:SFR,Sandfire Resources America Inc.,TSX Venture Exchange,Materials
+CSE:REK.U,Rektron Group Inc.,Canadian Securities Exchange,
+TSX:ARG,Amerigo Resources Ltd.,Toronto Stock Exchange,Materials
+TSX:CKI,Clarke Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:REG,Regulus Resources Inc.,TSX Venture Exchange,Materials
+TSXV:HSTR,Heliostar Metals Ltd.,TSX Venture Exchange,Materials
+TSX:VLN,Velan Inc.,Toronto Stock Exchange,Industrials
+TSXV:SUGR,Sucro Limited,TSX Venture Exchange,Consumer Staples
+TSXV:GRZ,Gold Reserve Ltd.,TSX Venture Exchange,Materials
+TSX:TC,Tucows Inc.,Toronto Stock Exchange,Technology
+TSX:DR,Medical Facilities Corporation,Toronto Stock Exchange,Healthcare
+TSX:TMQ,Trilogy Metals Inc.,Toronto Stock Exchange,Materials
+TSX:MXG,Maxim Power Corp.,Toronto Stock Exchange,Utilities
+TSXV:EMO,Emerita Resources Corp.,TSX Venture Exchange,Materials
+TSX:LIRC,Lithium Royalty Corp.,Toronto Stock Exchange,Materials
+TSX:CFW,Calfrac Well Services Ltd.,Toronto Stock Exchange,Energy
+TSX:FTG,Firan Technology Group Corporation,Toronto Stock Exchange,Industrials
+TSX:GLO,Global Atomic Corporation,Toronto Stock Exchange,Materials
+TSXV:PNPN,Power Metallic Mines Inc.,TSX Venture Exchange,Materials
+TSX:ECOR,Ecora Resources PLC,Toronto Stock Exchange,Materials
+TSX:STEP,STEP Energy Services Ltd.,Toronto Stock Exchange,Energy
+TSX:MNO,Meridian Mining UK Societas,Toronto Stock Exchange,Materials
+TSXV:QNC,Quantum eMotion Corp.,TSX Venture Exchange,Technology
+TSX:OLY,Olympia Financial Group Inc.,Toronto Stock Exchange,Financials
+TSX:PRYM,Prime Mining Corp.,Toronto Stock Exchange,Materials
+CSE:DRUG,Bright Minds Biosciences Inc.,Canadian Securities Exchange,Healthcare
+TSX:PRN,Profound Medical Corp.,Toronto Stock Exchange,Healthcare
+TSX:ITH,International Tower Hill Mines Ltd.,Toronto Stock Exchange,Materials
+TSX:AIM,Aimia Inc.,Toronto Stock Exchange,Materials
+TSX:STC,Sangoma Technologies Corporation,Toronto Stock Exchange,Technology
+TSX:TLG,Troilus Gold Corp.,Toronto Stock Exchange,Materials
+CSE:METX,ME Therapeutics Holdings Inc.,Canadian Securities Exchange,Healthcare
+TSX:HSLV,Highlander Silver Corp.,Toronto Stock Exchange,Materials
+TSX:D.UN,Dream Office Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:IPO,InPlay Oil Corp.,Toronto Stock Exchange,Energy
+TSXV:SEI,Sintana Energy Inc.,TSX Venture Exchange,Energy
+TSXV:OM,Osisko Metals Incorporated,TSX Venture Exchange,Materials
+TSXV:CAD,Colonial Coal International Corp.,TSX Venture Exchange,Materials
+NEO:CYBN,Cybin Inc.,Cboe Canada,Healthcare
+TSXV:HITI,High Tide Inc.,TSX Venture Exchange,Healthcare
+TSX:XTC,Exco Technologies Limited,Toronto Stock Exchange,Consumer Discretionary
+TSX:OGI,Organigram Global Inc.,Toronto Stock Exchange,Healthcare
+TSX:VOXR,Vox Royalty Corp.,Toronto Stock Exchange,Materials
+CSE:CL,Cresco Labs Inc.,Canadian Securities Exchange,Healthcare
+TSXV:NGEN,NervGen Pharma Corp.,TSX Venture Exchange,Healthcare
+NEO:VRNO,Verano Holdings Corp.,Cboe Canada,Healthcare
+TSX:PIF,Polaris Renewable Energy Inc.,Toronto Stock Exchange,Utilities
+TSX:DRX,ADF Group Inc.,Toronto Stock Exchange,Industrials
+TSX:VCM,Vecima Networks Inc.,Toronto Stock Exchange,Technology
+TSX:SMT,Sierra Metals Inc.,Toronto Stock Exchange,Materials
+TSX:GH,Gamehost Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:ECO,EcoSynthetix Inc.,Toronto Stock Exchange,Materials
+TSX:EDT,Spectral Medical Inc.,Toronto Stock Exchange,Healthcare
+TSXV:TGH,Tornado Infrastructure Equipment Ltd.,TSX Venture Exchange,Industrials
+TSX:SBI,Serabi Gold plc,Toronto Stock Exchange,Materials
+TSX:PTM,Platinum Group Metals Ltd.,Toronto Stock Exchange,Materials
+TSXV:GASX,NG Energy International Corp.,TSX Venture Exchange,Energy
+TSX:ERE.UN,European Residential Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:ANRG,Anaergia Inc.,Toronto Stock Exchange,Industrials
+TSXV:TAU,Thesis Gold Inc.,TSX Venture Exchange,Materials
+TSX:WNDR,WonderFi Technologies Inc.,Toronto Stock Exchange,Technology
+TSX:GTE,Gran Tierra Energy Inc.,Toronto Stock Exchange,Energy
+TSXV:CDPR,Cerro de Pasco Resources Inc.,TSX Venture Exchange,Materials
+CSE:BOIL,Beyond Oil Ltd.,Canadian Securities Exchange,Consumer Staples
+TSX:FCD.UN,Firm Capital Property Trust,Toronto Stock Exchange,Real Estate
+TSXV:MAI,Minera Alamos Inc.,TSX Venture Exchange,Materials
+TSXV:ALV,Alvopetro Energy Ltd.,TSX Venture Exchange,Energy
+TSX:FF,First Mining Gold Corp.,Toronto Stock Exchange,Materials
+TSX:ADW.B,Andrew Peller Limited,Toronto Stock Exchange,Consumer Staples
+TSX:ADW.A,Andrew Peller Limited,Toronto Stock Exchange,Consumer Staples
+TSXV:AAG,Aftermath Silver Ltd.,TSX Venture Exchange,Materials
+TSX:SYZ,Sylogist Ltd.,Toronto Stock Exchange,Technology
+TSX:KEG.UN,The Keg Royalties Income Fund,Toronto Stock Exchange,Consumer Discretionary
+TSX:PNE,Pine Cliff Energy Ltd.,Toronto Stock Exchange,Energy
+TSXV:ZEN,Zentek Ltd.,TSX Venture Exchange,Healthcare
+TSX:TLO,Talon Metals Corp.,Toronto Stock Exchange,Materials
+TSX:GOLD,GoldMining Inc.,Toronto Stock Exchange,Materials
+TSX:ARA,Aclara Resources Inc.,Toronto Stock Exchange,Materials
+TSXV:GQC,Goldquest Mining Corp.,TSX Venture Exchange,Materials
+TSXV:GGA,Goldgroup Mining Inc.,TSX Venture Exchange,
+TSX:DRR.UN,Dream Residential Real Estate Investment Trust,Toronto Stock Exchange,
+TSX:DRR.U,Dream Residential Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:DC.A,Dundee Corporation,Toronto Stock Exchange,Materials
+TSXV:CNC,Canada Nickel Company Inc.,TSX Venture Exchange,Materials
+TSX:ELVA,Electrovaya Inc.,Toronto Stock Exchange,Industrials
+TSX:EPRX,Eupraxia Pharmaceuticals Inc.,Toronto Stock Exchange,Healthcare
+TSXV:NDA,Neptune Digital Assets Corp.,TSX Venture Exchange,Financials
+TSX:DNG,Dynacor Group Inc.,Toronto Stock Exchange,Materials
+TSXV:PREM,Premium Resources Ltd.,TSX Venture Exchange,Materials
+TSX:AMC,Arizona Metals Corp.,Toronto Stock Exchange,Materials
+TSX:CRP,Ceres Global Ag Corp.,Toronto Stock Exchange,Consumer Staples
+TSXV:MFG,Mayfair Gold Corp.,TSX Venture Exchange,Materials
+TSX:ALYA,Alithya Group Inc.,Toronto Stock Exchange,Technology
+TSXV:SIG,Sitka Gold Corp.,TSX Venture Exchange,Materials
+TSXV:AMX,Amex Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:FISH,Sailfish Royalty Corp.,TSX Venture Exchange,Materials
+TSXV:HME,Hemisphere Energy Corporation,TSX Venture Exchange,Energy
+TSX:GDC,Genesis Land Development Corp.,Toronto Stock Exchange,Real Estate
+TSXV:BIG,Hercules Metals Corp.,TSX Venture Exchange,Materials
+TSXV:NCAU,Newcore Gold Ltd.,TSX Venture Exchange,Materials
+TSXV:MJS,Majestic Gold Corp.,TSX Venture Exchange,Materials
+TSX:CRRX,CareRx Corporation,Toronto Stock Exchange,Healthcare
+TSX:RBY,Rubellite Energy Corp.,Toronto Stock Exchange,Energy
+TSX:PRQ,Petrus Resources Ltd.,Toronto Stock Exchange,Energy
+TSXV:CUSN,Cornish Metals Inc.,TSX Venture Exchange,Materials
+TSXV:LA,Los Andes Copper Ltd.,TSX Venture Exchange,Materials
+TSX:ACX,ACT Energy Technologies Ltd.,Toronto Stock Exchange,Energy
+TSX:PNP,Pinetree Capital Ltd.,Toronto Stock Exchange,Financials
+TSXV:TINY,Tiny Ltd.,TSX Venture Exchange,Financials
+TSX:VGZ,Vista Gold Corp.,Toronto Stock Exchange,Materials
+TSX:SHLE,Source Energy Services Ltd.,Toronto Stock Exchange,Energy
+TSX:GEO,Geodrill Limited,Toronto Stock Exchange,Materials
+TSX:THNC,Thinkific Labs Inc.,Toronto Stock Exchange,Technology
+TSXV:MOON,Blue Moon Metals Inc.,TSX Venture Exchange,Materials
+TSX:TH,Theratechnologies Inc.,Toronto Stock Exchange,Healthcare
+TSX:CRDL,Cardiol Therapeutics Inc.,Toronto Stock Exchange,Healthcare
+TSX:LAM,Laramide Resources Ltd.,Toronto Stock Exchange,Energy
+TSX:QTRH,Quarterhill Inc.,Toronto Stock Exchange,Technology
+TSXV:ORC.B,Orca Energy Group Inc.,TSX Venture Exchange,Energy
+TSX:XAM,Xanadu Mines Limited,Toronto Stock Exchange,Materials
+TSXV:PML,Panoro Minerals Ltd.,TSX Venture Exchange,Materials
+TSX:DRT,DIRTT Environmental Solutions Ltd.,Toronto Stock Exchange,Industrials
+TSX:FAR,Foraco International SA,Toronto Stock Exchange,Materials
+TSXV:SLVR,Silver Tiger Metals Inc.,TSX Venture Exchange,Materials
+TSX:FDY,Faraday Copper Corp.,Toronto Stock Exchange,Materials
+TSX:HLS,HLS Therapeutics Inc.,Toronto Stock Exchange,Healthcare
+TSXV:CUU,Copper Fox Metals Inc.,TSX Venture Exchange,Materials
+TSXV:SASK,Atha Energy Corp.,TSX Venture Exchange,Energy
+TSX:Y,Yellow Pages Limited,Toronto Stock Exchange,Communication Services
+TSXV:RDS,Radisson Mining Resources Inc.,TSX Venture Exchange,Materials
+TSXV:HAN,Hannan Metals Ltd.,TSX Venture Exchange,Materials
+TSXV:IBAT,International Battery Metals Ltd.,TSX Venture Exchange,Materials
+TSXV:CVV,CanAlaska Uranium Ltd.,TSX Venture Exchange,Materials
+TSXV:DE,Decisive Dividend Corporation,TSX Venture Exchange,Industrials
+TSXV:PWM,Power Metals Corp.,TSX Venture Exchange,Materials
+CSE:HBFG,Happy Belly Food Group Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:HMT,Halmont Properties Corporation,TSX Venture Exchange,Real Estate
+NEO:VERS,VERSES AI Inc.,Cboe Canada,Technology
+TSXV:MMY,Monument Mining Limited,TSX Venture Exchange,Materials
+TSX:BRAG,Bragg Gaming Group Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:LGD,Liberty Gold Corp.,Toronto Stock Exchange,Materials
+TSX:PSD,Pulse Seismic Inc.,Toronto Stock Exchange,Energy
+TSXV:DBG,Doubleview Gold Corp.,TSX Venture Exchange,Materials
+TSXV:LGC,Lavras Gold Corp.,TSX Venture Exchange,Materials
+TSX:BRE,Bridgemarq Real Estate Services Inc.,Toronto Stock Exchange,Real Estate
+TSX:PNC.A,Postmedia Network Canada Corp.,Toronto Stock Exchange,Communication Services
+TSX:PNC.B,Postmedia Network Canada Corp.,Toronto Stock Exchange,Communication Services
+TSX:IMP,Intermap Technologies Corporation,Toronto Stock Exchange,Technology
+TSXV:SUP,Northern Superior Resources Inc.,TSX Venture Exchange,Materials
+TSXV:AHR,Amarc Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:FO,Falcon Oil & Gas Ltd.,TSX Venture Exchange,Energy
+TSXV:CVW,CVW CleanTech Inc.,TSX Venture Exchange,Materials
+TSX:BNE,Bonterra Energy Corp.,Toronto Stock Exchange,Energy
+TSX:HAI,Haivision Systems Inc.,Toronto Stock Exchange,Technology
+TSXV:RX,BioSyent Inc.,TSX Venture Exchange,Healthcare
+TSX:AOT,Ascot Resources Ltd.,Toronto Stock Exchange,Materials
+TSX:STCK,Stack Capital Group Inc.,Toronto Stock Exchange,Financials
+TSXV:MATA,Matador Technologies Inc.,TSX Venture Exchange,Financials
+TSXV:VMET,Versamet Royalties Corporation,TSX Venture Exchange,Materials
+TSXV:KLD,Kenorland Minerals Ltd.,TSX Venture Exchange,Materials
+TSX:TNT.UN,True North Commercial Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:JOY,Journey Energy Inc.,Toronto Stock Exchange,Energy
+TSXV:TPL,Tethys Petroleum Limited,TSX Venture Exchange,Energy
+TSX:QIPT,Quipt Home Medical Corp.,Toronto Stock Exchange,Healthcare
+TSX:TRX,TRX Gold Corporation,Toronto Stock Exchange,Materials
+TSX:RCG,RF Capital Group Inc.,Toronto Stock Exchange,Financials
+TSXV:BRC,Blackrock Silver Corp.,TSX Venture Exchange,Materials
+TSX:CXI,"Currency Exchange International, Corp.",Toronto Stock Exchange,Financials
+TSXV:TUD,Tudor Gold Corp.,TSX Venture Exchange,Materials
+TSX:BOS,AirBoss of America Corp.,Toronto Stock Exchange,Materials
+TSX:E,"Enterprise Group, Inc.",Toronto Stock Exchange,Energy
+TSXV:RECO,Reconnaissance Energy Africa Ltd.,TSX Venture Exchange,Energy
+TSXV:FUU,F3 Uranium Corp.,TSX Venture Exchange,Energy
+TSXV:SOMA,Soma Gold Corp.,TSX Venture Exchange,Materials
+TSX:FURY,Fury Gold Mines Limited,Toronto Stock Exchange,Materials
+TSXV:GSVR,Guanajuato Silver Company Ltd.,TSX Venture Exchange,Materials
+TSX:WEF,Western Forest Products Inc.,Toronto Stock Exchange,Materials
+TSXV:NEXG,NeXGold Mining Corp.,TSX Venture Exchange,Materials
+TSX:FSY,Forsys Metals Corp.,Toronto Stock Exchange,Materials
+TSX:IVQ,Invesque Inc.,Toronto Stock Exchange,Real Estate
+TSXV:MLP,Millennial Potash Corp.,TSX Venture Exchange,Materials
+TSX:ROOT,Roots Corporation,Toronto Stock Exchange,Consumer Discretionary
+TSXV:ARCH,Arch Biopartners Inc.,TSX Venture Exchange,Healthcare
+TSX:GRID,Tantalus Systems Holding Inc.,Toronto Stock Exchange,Industrials
+CSE:SANU,Sanu Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:FL,Frontier Lithium Inc.,TSX Venture Exchange,Materials
+TSXV:GSHR,Goldshore Resources Inc.,TSX Venture Exchange,Materials
+TSXV:LPC,Lorne Park Capital Partners Inc.,TSX Venture Exchange,Financials
+TSX:CDR,Condor Energies Inc.,Toronto Stock Exchange,Energy
+TSXV:GPH,Graphite One Inc.,TSX Venture Exchange,Materials
+TSX:TXP,Touchstone Exploration Inc.,Toronto Stock Exchange,Energy
+TSXV:LITH,Lithium Chile Inc.,TSX Venture Exchange,Materials
+TSX:ELO,Eloro Resources Ltd.,Toronto Stock Exchange,Materials
+CSE:GRIN,Grown Rogue International Inc.,Canadian Securities Exchange,Healthcare
+NEO:MOLY,Greenland Resources Inc.,Cboe Canada,Materials
+TSXV:MAE,Maritime Resources Corp.,TSX Venture Exchange,Materials
+TSXV:SGQ,SouthGobi Resources Ltd.,TSX Venture Exchange,Energy
+TSXV:RET,Reitmans (Canada) Limited,TSX Venture Exchange,Consumer Discretionary
+TSXV:RET.A,Reitmans (Canada) Limited,TSX Venture Exchange,Consumer Discretionary
+TSX:MCB,McCoy Global Inc.,Toronto Stock Exchange,Energy
+TSXV:AEC,Anfield Energy Inc.,TSX Venture Exchange,Energy
+TSXV:ZOMD,Zoomd Technologies Ltd.,TSX Venture Exchange,Communication Services
+TSXV:GHRT,Greenheart Gold Inc.,TSX Venture Exchange,Materials
+TSX:LGO,Largo Inc.,Toronto Stock Exchange,Materials
+TSXV:SM,Sierra Madre Gold and Silver Ltd.,TSX Venture Exchange,Materials
+TSX:SRV.UN,SIR Royalty Income Fund,Toronto Stock Exchange,Consumer Discretionary
+TSXV:CBR,Cabral Gold Inc.,TSX Venture Exchange,Materials
+TSXV:ARK,Arras Minerals Corp.,TSX Venture Exchange,Materials
+TSX:DCM,DATA Communications Management Corp.,Toronto Stock Exchange,Industrials
+CSE:AIAI,NetraMark Holdings Inc.,Canadian Securities Exchange,Healthcare
+TSX:XLY,Auxly Cannabis Group Inc.,Toronto Stock Exchange,Healthcare
+TSXV:NET.UN,Canadian Net Real Estate Investment Trust,TSX Venture Exchange,Real Estate
+TSX:QEC,Questerre Energy Corporation,Toronto Stock Exchange,Energy
+TSX:MGA,Mega Uranium Ltd.,Toronto Stock Exchange,Energy
+TSX:XAU,Goldmoney Inc.,Toronto Stock Exchange,Financials
+TSXV:TDG,TDG Gold Corp.,TSX Venture Exchange,Materials
+TSXV:FNM,First Nordic Metals Corp.,TSX Venture Exchange,Materials
+TSXV:PKT,Parkit Enterprise Inc.,TSX Venture Exchange,Real Estate
+TSXV:AU,Aurion Resources Ltd.,TSX Venture Exchange,Materials
+TSX:STLR,STLLR Gold Inc.,Toronto Stock Exchange,Materials
+TSX:CVVY,Cavvy Energy Ltd.,Toronto Stock Exchange,Energy
+TSX:GDL,Goodfellow Inc.,Toronto Stock Exchange,Materials
+TSX:LUC,Lucara Diamond Corp.,Toronto Stock Exchange,Materials
+TSXV:MMA,Midnight Sun Mining Corp.,TSX Venture Exchange,Materials
+TSXV:UCU,Ucore Rare Metals Inc.,TSX Venture Exchange,Materials
+TSXV:CNRI,Canadian North Resources Inc.,TSX Venture Exchange,Materials
+TSX:TRZ,Transat A.T. Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:MSR,Minsud Resources Corp.,TSX Venture Exchange,Materials
+TSXV:RVG,Revival Gold Inc.,TSX Venture Exchange,Materials
+TSXV:LOVE,Cannara Biotech Inc.,TSX Venture Exchange,Healthcare
+TSXV:BZ,Benz Mining Corp.,TSX Venture Exchange,Materials
+TSX:HMM.A,Hammond Manufacturing Company Limited,Toronto Stock Exchange,Industrials
+TSXV:MGG,Minaurum Gold Inc.,TSX Venture Exchange,Materials
+TSX:GENM,Generation Mining Limited,Toronto Stock Exchange,Materials
+TSX:MSCL,Satellos Bioscience Inc.,Toronto Stock Exchange,Healthcare
+TSXV:RCK,Rock Tech Lithium Inc.,TSX Venture Exchange,Materials
+TSXV:APGO,Apollo Silver Corp.,TSX Venture Exchange,Materials
+TSXV:MKA,Mkango Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:DGX,Digi Power X Inc.,TSX Venture Exchange,Utilities
+TSX:YGR,Yangarra Resources Ltd.,Toronto Stock Exchange,Energy
+TSXV:NCI,NTG Clarity Networks Inc.,TSX Venture Exchange,Technology
+TSX:LN,Loncor Gold Inc.,Toronto Stock Exchange,Materials
+TSXV:CKG,Chesapeake Gold Corp.,TSX Venture Exchange,Materials
+TSXV:AXL,Arrow Exploration Corp.,TSX Venture Exchange,Energy
+TSXV:LIO,Lion One Metals Limited,TSX Venture Exchange,Materials
+TSX:TSND,TerrAscend Corp.,Toronto Stock Exchange,Healthcare
+TSXV:CAPT,Capitan Silver Corp.,TSX Venture Exchange,Materials
+TSX:SXP,Supremex Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:WI,The Western Investment Company of Canada Limited,TSX Venture Exchange,Financials
+TSXV:HCU,Horizon Copper Corp.,TSX Venture Exchange,Materials
+TSX:FORA,VerticalScope Holdings Inc.,Toronto Stock Exchange,Communication Services
+TSX:XTRA,Xtract One Technologies Inc.,Toronto Stock Exchange,Technology
+TSXV:CERT,Cerrado Gold Inc.,TSX Venture Exchange,Materials
+TSXV:EPF,Everyday People Financial Corp.,TSX Venture Exchange,Financials
+TSX:PYR,PyroGenesis Inc.,Toronto Stock Exchange,Industrials
+TSXV:FTZ,Fitzroy Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:OCG,Outcrop Silver & Gold Corporation,TSX Venture Exchange,Materials
+TSXV:NOAL,NOA Lithium Brines Inc.,TSX Venture Exchange,Materials
+TSX:CNE,Canacol Energy Ltd,Toronto Stock Exchange,Energy
+TSXV:SPRQ,SPARQ Systems Inc.,TSX Venture Exchange,Technology
+TSX:ILLM,illumin Holdings Inc.,Toronto Stock Exchange,Communication Services
+TSX:MDP,Medexus Pharmaceuticals Inc.,Toronto Stock Exchange,Healthcare
+TSXV:LTH,Lithium Ionic Corp.,TSX Venture Exchange,Materials
+TSX:XTG,Xtra-Gold Resources Corp.,Toronto Stock Exchange,Materials
+TSX:KPT,KP Tissue Inc.,Toronto Stock Exchange,Consumer Staples
+TSXV:FLT,Volatus Aerospace Inc.,TSX Venture Exchange,Industrials
+TSX:BSX,Belo Sun Mining Corp,Toronto Stock Exchange,Materials
+TSXV:LRA,Lara Exploration Ltd.,TSX Venture Exchange,Materials
+TSX:GCL,Colabor Group Inc.,Toronto Stock Exchange,Consumer Staples
+CSE:PLTH,Planet 13 Holdings Inc.,Canadian Securities Exchange,Healthcare
+TSXV:TRBR,TRUBAR Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:CRE,Critical Elements Lithium Corporation,TSX Venture Exchange,Materials
+TSXV:BYN,Banyan Gold Corp.,TSX Venture Exchange,Materials
+NEO:BCBN,Base Carbon Inc.,Cboe Canada,Financials
+TSXV:SSV,Southern Silver Exploration Corp.,TSX Venture Exchange,Materials
+TSXV:NRC,Nations Royalty Corp.,TSX Venture Exchange,Financials
+TSX:GFP,GreenFirst Forest Products Inc.,Toronto Stock Exchange,Materials
+TSX:LCFS,Tidewater Renewables Ltd.,Toronto Stock Exchange,Utilities
+TSX:AKT.A,AKITA Drilling Ltd.,Toronto Stock Exchange,Energy
+TSX:RTG,RTG Mining Inc.,Toronto Stock Exchange,Materials
+TSXV:NURS,Hydreight Technologies Inc.,TSX Venture Exchange,Healthcare
+TSXV:HAM,Highwood Asset Management Ltd.,TSX Venture Exchange,Energy
+CSE:URL,NameSilo Technologies Corp.,Canadian Securities Exchange,Technology
+TSXV:DMX,District Metals Corp.,TSX Venture Exchange,Materials
+CSE:AAWH.U,"Ascend Wellness Holdings, Inc.",Canadian Securities Exchange,Healthcare
+TSXV:GIP,Green Impact Partners Inc.,TSX Venture Exchange,Industrials
+TSXV:NFD.A,Northfield Capital Corporation,TSX Venture Exchange,Financials
+TSXV:SVE,Silver One Resources Inc.,TSX Venture Exchange,Materials
+TSXV:ARGH,Argo Corporation,TSX Venture Exchange,Technology
+TSX:G,Augusta Gold Corp.,Toronto Stock Exchange,Materials
+TSXV:ZNG,Group Eleven Resources Corp.,TSX Venture Exchange,Materials
+TSXV:LME,Laurion Mineral Exploration Inc.,TSX Venture Exchange,Materials
+TSX:GCU,Gunnison Copper Corp.,Toronto Stock Exchange,Materials
+TSXV:AE,American Eagle Gold Corp.,TSX Venture Exchange,Materials
+TSXV:OCO,Oroco Resource Corp.,TSX Venture Exchange,Materials
+CSE:JUSH,Jushi Holdings Inc.,Canadian Securities Exchange,Healthcare
+TSXV:DEF,Defiance Silver Corp.,TSX Venture Exchange,Materials
+TSXV:SPA,Spanish Mountain Gold Ltd.,TSX Venture Exchange,Materials
+TSX:TWM,Tidewater Midstream and Infrastructure Ltd.,Toronto Stock Exchange,Energy
+NEO:CZZL,Cizzle Brands Corporation,Cboe Canada,
+TSXV:NIM,Nicola Mining Inc.,TSX Venture Exchange,Materials
+TSXV:EMPR,Empress Royalty Corp.,TSX Venture Exchange,Materials
+TSX:S,Sherritt International Corporation,Toronto Stock Exchange,Materials
+TSXV:XBOT,Realbotix Corp.,TSX Venture Exchange,Technology
+NEO:ONCO,Onco-Innovations Limited,Cboe Canada,
+TSXV:CCEC,Cancambria Energy Corp.,TSX Venture Exchange,Energy
+TSXV:AFE,Africa Energy Corp.,TSX Venture Exchange,Energy
+NEO:BMND,Biomind Labs Inc.,Cboe Canada,Healthcare
+TSXV:LI,American Lithium Corp.,TSX Venture Exchange,Materials
+TSX:ORV,Orvana Minerals Corp.,Toronto Stock Exchange,Materials
+TSX:GMX,Globex Mining Enterprises Inc.,Toronto Stock Exchange,Materials
+TSX:IS,Infrastructure Dividend Split Corp.,Toronto Stock Exchange,Financials
+TSXV:HCH,Hot Chili Limited,TSX Venture Exchange,Materials
+TSX:SLR,Solitario Resources Corp.,Toronto Stock Exchange,Materials
+TSXV:QTWO,Q2 Metals Corp.,TSX Venture Exchange,Materials
+TSXV:VROY,Vizsla Royalties Corp.,TSX Venture Exchange,Materials
+TSX:SLT.U,Saltire Capital Ltd.,Toronto Stock Exchange,Financials
+TSXV:TBRD,Thunderbird Entertainment Group Inc.,TSX Venture Exchange,Communication Services
+TSXV:BOGO,Borealis Mining Company Limited,TSX Venture Exchange,
+TSXV:CYG,Cygnus Metals Limited,TSX Venture Exchange,
+TSX:MDNA,Medicenna Therapeutics Corp.,Toronto Stock Exchange,Healthcare
+TSX:SAU,St. Augustine Gold and Copper Limited,Toronto Stock Exchange,Materials
+TSXV:LCX,Lycos Energy Inc.,TSX Venture Exchange,Energy
+TSXV:WVM,West Vault Mining Inc.,TSX Venture Exchange,Materials
+TSXV:KTN,Kootenay Silver Inc.,TSX Venture Exchange,Materials
+TSXV:WEB,Westbridge Renewable Energy Corp.,TSX Venture Exchange,Utilities
+CSE:BLO,Cannabix Technologies Inc.,Canadian Securities Exchange,Healthcare
+TSXV:FPX,FPX Nickel Corp.,TSX Venture Exchange,Materials
+TSX:WRG,Western Energy Services Corp.,Toronto Stock Exchange,Energy
+TSXV:AGAG,Argenta Silver Corp.,TSX Venture Exchange,Materials
+TSXV:LIFT,Li-FT Power Ltd.,TSX Venture Exchange,Materials
+TSX:CCM,Canagold Resources Ltd.,Toronto Stock Exchange,Materials
+TSXV:RAMP,Ramp Metals Inc.,TSX Venture Exchange,Materials
+TSXV:CDB,Cordoba Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:GPAC,Great Pacific Gold Corp.,TSX Venture Exchange,Materials
+CSE:LEO,Lion Copper and Gold Corp.,Canadian Securities Exchange,
+TSXV:IPT,IMPACT Silver Corp.,TSX Venture Exchange,Materials
+TSXV:GXU,GoviEx Uranium Inc.,TSX Venture Exchange,Energy
+TSX:WM,Wallbridge Mining Company Limited,Toronto Stock Exchange,Materials
+TSXV:ADY,Adyton Resources Corporation,TSX Venture Exchange,Materials
+TSX:DYA,dynaCERT Inc.,Toronto Stock Exchange,Industrials
+CSE:RAIL,Railtown AI Technologies Inc.,Canadian Securities Exchange,Technology
+CSE:BLLG,Blue Lagoon Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:GMG,Graphene Manufacturing Group Ltd,TSX Venture Exchange,Materials
+TSXV:ECU,Element 29 Resources Inc.,TSX Venture Exchange,Materials
+TSXV:KRY,Koryx Copper Inc.,TSX Venture Exchange,Materials
+NEO:DMET,Denarius Metals Corp.,Cboe Canada,Materials
+TSXV:HI,Highland Copper Company Inc.,TSX Venture Exchange,Materials
+TSXV:FPC,Falco Resources Ltd.,TSX Venture Exchange,Materials
+TSX:NCF,Northcliff Resources Ltd.,Toronto Stock Exchange,Materials
+TSX:TI,Titan Mining Corporation,Toronto Stock Exchange,Materials
+TSXV:GRSL,GR Silver Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:EQ,EQ Inc.,TSX Venture Exchange,Communication Services
+TSXV:GSI,Gatekeeper Systems Inc.,TSX Venture Exchange,Industrials
+CSE:CACR,KWG Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:MNLX,MiniLuxe Holding Corp.,TSX Venture Exchange,Consumer Discretionary
+TSXV:SYH,Skyharbour Resources Ltd.,TSX Venture Exchange,Materials
+TSX:WPRT,Westport Fuel Systems Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:NKL,Nickel 28 Capital Corp.,TSX Venture Exchange,Materials
+TSXV:PALI,Palisades Goldcorp Ltd.,TSX Venture Exchange,Materials
+TSXV:MSG,Mithril Silver and Gold Limited,TSX Venture Exchange,
+TSXV:BEW,BeWhere Holdings Inc.,TSX Venture Exchange,Technology
+TSX:TTNM,Titanium Transportation Group Inc.,Toronto Stock Exchange,Industrials
+TSX:NANO,Nano One Materials Corp.,Toronto Stock Exchange,Materials
+TSXV:TSG,"TriStar Gold, Inc.",TSX Venture Exchange,Materials
+CSE:FRG,Forge Resources Corp.,Canadian Securities Exchange,
+TSXV:FHYD,First Hydrogen Corp.,TSX Venture Exchange,Consumer Discretionary
+TSXV:TECT,Tectonic Metals Inc.,TSX Venture Exchange,Materials
+TSXV:VEIN,Pasofino Gold Limited,TSX Venture Exchange,Materials
+TSX:BCHT,Birchtech Corp.,Toronto Stock Exchange,
+TSXV:BCM,Bear Creek Mining Corporation,TSX Venture Exchange,Materials
+TSXV:ALEX,Alpha Exploration Ltd.,TSX Venture Exchange,Materials
+CSE:BNXT,BioNxt Solutions Inc.,Canadian Securities Exchange,Healthcare
+CSE:GLAB,Gemina Laboratories Ltd.,Canadian Securities Exchange,Healthcare
+TSX:TSL,Tree Island Steel Ltd.,Toronto Stock Exchange,Materials
+TSXV:CCCM,C3 Metals Inc.,TSX Venture Exchange,Materials
+TSX:ELR,Eastern Platinum Limited,Toronto Stock Exchange,Materials
+TSXV:FLCN,Falcon Energy Materials plc,TSX Venture Exchange,Materials
+TSXV:HPQ,HPQ Silicon Inc.,TSX Venture Exchange,Materials
+TSXV:COV,Covalon Technologies Ltd.,TSX Venture Exchange,Healthcare
+TSX:DBO,D-BOX Technologies Inc.,Toronto Stock Exchange,Technology
+TSXV:CYBE,"CyberCatch Holdings, Inc.",TSX Venture Exchange,Technology
+TSXV:IFX,Imaflex Inc.,TSX Venture Exchange,Consumer Discretionary
+CSE:TWOH.X,Two Hands Corporation,Canadian Securities Exchange,
+TSXV:PLSR,Pulsar Helium Inc.,TSX Venture Exchange,Materials
+TSXV:NKG,Nevada King Gold Corp.,TSX Venture Exchange,Materials
+NEO:SUNN,SolarBank Corporation,Cboe Canada,
+TSXV:PPX,PPX Mining Corp.,TSX Venture Exchange,Materials
+TSXV:EOG,Eco (Atlantic) Oil & Gas Ltd.,TSX Venture Exchange,Energy
+TSXV:VML,Viscount Mining Corp.,TSX Venture Exchange,Materials
+TSXV:BQE,BQE Water Inc.,TSX Venture Exchange,Industrials
+TSXV:BMM,Black Mammoth Metals Corporation,TSX Venture Exchange,Materials
+TSXV:QIS,Quorum Information Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:SVRS,Silver Storm Mining Ltd.,TSX Venture Exchange,Materials
+NEO:MLC,Mount Logan Capital Inc.,Cboe Canada,Financials
+CSE:WUC,Western Uranium & Vanadium Corp.,Canadian Securities Exchange,Energy
+TSXV:NXLV,NexLiving Communities Inc.,TSX Venture Exchange,Real Estate
+TSXV:ONYX,Onyx Gold Corp.,TSX Venture Exchange,Materials
+TSXV:PGE,Stillwater Critical Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:AEP,Atlas Engineered Products Ltd.,TSX Venture Exchange,Industrials
+TSXV:DEFN,Defense Metals Corp.,TSX Venture Exchange,Materials
+CSE:QNTM,Quantum BioPharma Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:AZM,Azimut Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:BLM,BluMetric Environmental Inc.,TSX Venture Exchange,Industrials
+TSXV:CTH,CoTec Holdings Corp.,TSX Venture Exchange,Financials
+CSE:HG,HydroGraph Clean Power Inc.,Canadian Securities Exchange,Materials
+TSXV:NBM,NEO Battery Materials Ltd.,TSX Venture Exchange,Materials
+TSXV:HMR,Homerun Resources Inc.,TSX Venture Exchange,Materials
+TSXV:MOG,Mogotes Metals Inc.,TSX Venture Exchange,
+TSXV:CGC,Canadian Gold Corp.,TSX Venture Exchange,Materials
+TSXV:NILI,Surge Battery Metals Inc.,TSX Venture Exchange,Materials
+TSXV:AGX,Silver X Mining Corp.,TSX Venture Exchange,Materials
+TSX:GURU,GURU Organic Energy Corp.,Toronto Stock Exchange,Consumer Staples
+CSE:YMC,Yukon Metals Corp.,Canadian Securities Exchange,
+TSXV:AMK,American Creek Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:NRX,NurExone Biologic Inc.,TSX Venture Exchange,Healthcare
+CSE:BAR,Barranco Gold Mining Corp.,Canadian Securities Exchange,
+TSXV:GLB,Goldbank Mining Corporation,TSX Venture Exchange,Materials
+TSXV:LQWD,LQWD Technologies Corp.,TSX Venture Exchange,Technology
+TSX:TSK,Talisker Resources Ltd.,Toronto Stock Exchange,Materials
+TSXV:MIR,MedMira Inc.,TSX Venture Exchange,Healthcare
+TSXV:VIO,Vior Inc.,TSX Venture Exchange,Materials
+TSXV:MFL,Mawson Finland Limited,TSX Venture Exchange,Materials
+TSXV:SHRX,Sharp Therapeutics Corp.,TSX Venture Exchange,Healthcare
+TSXV:ETL,E3 Lithium Limited,TSX Venture Exchange,Materials
+TSXV:ZYUS,ZYUS Life Sciences Corporation,TSX Venture Exchange,Healthcare
+TSXV:AGA,Silver47 Exploration Corp.,TSX Venture Exchange,
+NEO:JET,Global Crossing Airlines Group Inc.,Cboe Canada,Industrials
+TSXV:DMGI,DMG Blockchain Solutions Inc.,TSX Venture Exchange,Financials
+TSXV:TUO,Teuton Resources Corp.,TSX Venture Exchange,Materials
+CSE:USGD,American Pacific Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:GLAD,Gladiator Metals Corp.,TSX Venture Exchange,Materials
+CSE:ARS,Ares Strategic Mining Inc.,Canadian Securities Exchange,Materials
+TSXV:ABI,Abcourt Mines Inc.,TSX Venture Exchange,Materials
+TSXV:WAM,Alaska Silver Corp.,TSX Venture Exchange,Materials
+TSXV:PCRX,PharmaCorp Rx Inc.,TSX Venture Exchange,
+TSXV:BNKR,Bunker Hill Mining Corp.,TSX Venture Exchange,Materials
+TSX:SVA,Sernova Biotherapeutics Inc,Toronto Stock Exchange,Healthcare
+TSX:ESM,Euro Sun Mining Inc.,Toronto Stock Exchange,Materials
+TSXV:ROOF,Northstar Clean Technologies Inc.,TSX Venture Exchange,Industrials
+TSX:ICE,Canlan Ice Sports Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:KTO,K2 Gold Corporation,TSX Venture Exchange,Materials
+TSX:ONC,Oncolytics Biotech Inc.,Toronto Stock Exchange,Healthcare
+TSXV:ESK,Eskay Mining Corp.,TSX Venture Exchange,Materials
+TSXV:WGO,White Gold Corp.,TSX Venture Exchange,Materials
+CSE:FAT,Foremost Clean Energy Ltd.,Canadian Securities Exchange,Materials
+TSXV:RUA,Rua Gold Inc.,TSX Venture Exchange,Materials
+TSX:BRMI,Boat Rocker Media Inc.,Toronto Stock Exchange,Communication Services
+TSX:ATCU,Alta Copper Corp.,Toronto Stock Exchange,Materials
+TSXV:SALT,Atlas Salt Inc.,TSX Venture Exchange,Materials
+TSXV:MMG,Metallic Minerals Corp.,TSX Venture Exchange,Materials
+TSX:OGD,Orbit Garant Drilling Inc.,Toronto Stock Exchange,Materials
+CSE:ESAU,ESGold Corp.,Canadian Securities Exchange,Materials
+TSXV:BILD,BuildDirect.com Technologies Inc.,TSX Venture Exchange,Communication Services
+TSXV:ECR,Cartier Resources Inc.,TSX Venture Exchange,Materials
+TSXV:QZM,Quartz Mountain Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:AMT,AmeriTrust Financial Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:OMI,Orosur Mining Inc.,TSX Venture Exchange,Materials
+TSX:HBP,Helix BioPharma Corp.,Toronto Stock Exchange,Healthcare
+CSE:SONA,Sona Nanotech Inc.,Canadian Securities Exchange,Healthcare
+TSXV:FMT,Fuerte Metals Corp.,TSX Venture Exchange,
+TSXV:EQTY,Equity Metals Corporation,TSX Venture Exchange,Materials
+TSXV:GUS,Angus Gold Inc.,TSX Venture Exchange,Materials
+TSXV:SGN,Scorpio Gold Corporation,TSX Venture Exchange,Materials
+TSXV:FRSH,The Fresh Factory B.C. Ltd.,TSX Venture Exchange,Consumer Staples
+TSXV:NOW,NowVertical Group Inc.,TSX Venture Exchange,Technology
+TSXV:WIL,Wilton Resources Inc.,TSX Venture Exchange,Energy
+TSXV:BIGG,BIGG Digital Assets Inc.,TSX Venture Exchange,Financials
+TSXV:AUMB,1911 Gold Corporation,TSX Venture Exchange,Materials
+TSXV:FTRC,The FUTR Corporation,TSX Venture Exchange,Technology
+TSX:DII.A,Dorel Industries Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSX:DII.B,Dorel Industries Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:CBIT,Cathedra Bitcoin Inc.,TSX Venture Exchange,Financials
+TSXV:NWST,NorthWest Copper Corp.,TSX Venture Exchange,Materials
+TSXV:MGRO,MustGrow Biologics Corp.,TSX Venture Exchange,Materials
+TSXV:PGZ,Pan Global Resources Inc.,TSX Venture Exchange,Materials
+TSX:CFX,Canfor Pulp Products Inc.,Toronto Stock Exchange,Materials
+CSE:INNO,InnoCan Pharma Corporation,Canadian Securities Exchange,Healthcare
+CSE:SPTZ,Spetz Inc.,Canadian Securities Exchange,Technology
+TSXV:KDA,KDA Group Inc.,TSX Venture Exchange,Healthcare
+TSXV:TLT,Theralase Technologies Inc.,TSX Venture Exchange,Healthcare
+TSXV:ARIC,Awalé Resources Limited,TSX Venture Exchange,Materials
+TSXV:KDK,Kodiak Copper Corp.,TSX Venture Exchange,Materials
+CSE:FOX,Fox River Resources Corporation,Canadian Securities Exchange,Materials
+CSE:CLTE,Clara Technologies Corp.,Canadian Securities Exchange,
+TSXV:LCE,Century Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:JEV,Jericho Energy Ventures Inc.,TSX Venture Exchange,Energy
+TSXV:WHY,West High Yield (W.H.Y.) Resources Ltd.,TSX Venture Exchange,Materials
+CSE:AXCP,Axcap Ventures Inc.,Canadian Securities Exchange,Financials
+TSXV:OTC,Ocumetics Technology Corp.,TSX Venture Exchange,Healthcare
+TSXV:BTR,Bonterra Resources Inc.,TSX Venture Exchange,Materials
+TSXV:WMK,Whitemud Resources Inc.,TSX Venture Exchange,Materials
+TSX:EXRO,Exro Technologies Inc.,Toronto Stock Exchange,Industrials
+TSXV:SECU,SSC Security Services Corp.,TSX Venture Exchange,Industrials
+TSXV:UFC,Urbanfund Corp.,TSX Venture Exchange,Real Estate
+TSX:SFD,NXT Energy Solutions Inc.,Toronto Stock Exchange,Energy
+TSXV:ENW,EnWave Corporation,TSX Venture Exchange,Industrials
+TSX:CEMX,CEMATRIX Corporation,Toronto Stock Exchange,Materials
+TSXV:LEM,Leading Edge Materials Corp.,TSX Venture Exchange,Materials
+TSXV:DLP,DLP Resources Inc.,TSX Venture Exchange,Materials
+TSXV:LSL,LSL Pharma Group Inc.,TSX Venture Exchange,Healthcare
+TSXV:CMI,C-Com Satellite Systems Inc.,TSX Venture Exchange,Technology
+TSXV:SCOT,Scottie Resources Corp.,TSX Venture Exchange,Materials
+CSE:MTLC,MTL Cannabis Corp.,Canadian Securities Exchange,Consumer Staples
+CSE:KUYA,Kuya Silver Corporation,Canadian Securities Exchange,Materials
+TSX:MOGO,Mogo Inc.,Toronto Stock Exchange,Technology
+TSXV:ROK,ROK Resources Inc.,TSX Venture Exchange,Energy
+TSXV:KDSX,Kadestone Capital Corp.,TSX Venture Exchange,Real Estate
+CSE:DTC,Defence Therapeutics Inc.,Canadian Securities Exchange,Healthcare
+TSXV:GG,Golconda Gold Ltd.,TSX Venture Exchange,Materials
+TSXV:GFG,GFG Resources Inc,TSX Venture Exchange,Materials
+TSX:MBX,Microbix Biosystems Inc.,Toronto Stock Exchange,Healthcare
+TSX:PPR,Prairie Provident Resources Inc.,Toronto Stock Exchange,Energy
+CSE:VEXT,"Vext Science, Inc.",Canadian Securities Exchange,Healthcare
+TSXV:SSVR,Summa Silver Corp.,TSX Venture Exchange,Materials
+TSXV:AGLD,Austral Gold Limited,TSX Venture Exchange,Materials
+TSX:NPS,Canadian Large Cap Leaders Split Corp.,Toronto Stock Exchange,Financials
+TSXV:ECM,Ecolomondo Corporation,TSX Venture Exchange,Industrials
+TSXV:GWM,Galway Metals Inc.,TSX Venture Exchange,Materials
+TSXV:EXN,Excellon Resources Inc.,TSX Venture Exchange,Materials
+TSXV:INIK,Ionik Corporation,TSX Venture Exchange,Communication Services
+TSXV:SGO,Sonoro Gold Corp.,TSX Venture Exchange,Materials
+TSX:NEXT,NextSource Materials Inc.,Toronto Stock Exchange,Materials
+NEO:ALGO,Light AI Inc.,Cboe Canada,
+CSE:PRME,Prime Drink Group Corp.,Canadian Securities Exchange,Utilities
+CSE:NICO,Class 1 Nickel and Technologies Limited,Canadian Securities Exchange,Materials
+TSXV:DB,Decibel Cannabis Company Inc.,TSX Venture Exchange,Healthcare
+CSE:LEEF,Leef Brands Inc.,Canadian Securities Exchange,Healthcare
+TSXV:MHUB,Minehub Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:ONE,01 Communique Laboratory Inc.,TSX Venture Exchange,Technology
+TSXV:SWAN,Black Swan Graphene Inc.,TSX Venture Exchange,Materials
+TSXV:CTZ,NamSys Inc.,TSX Venture Exchange,Technology
+TSXV:FOR,Fortune Bay Corp.,TSX Venture Exchange,Materials
+CSE:AMQ,Abitibi Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:MENE,Mene Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:NVLH,Nevada Lithium Resources Inc.,TSX Venture Exchange,Materials
+TSXV:RAK,Rackla Metals Inc.,TSX Venture Exchange,Materials
+TSXV:MGM,Maple Gold Mines Ltd.,TSX Venture Exchange,Materials
+TSXV:NSE,New Stratus Energy Inc.,TSX Venture Exchange,Energy
+TSXV:BNXA,Banxa Holdings Inc.,TSX Venture Exchange,Technology
+TSXV:SRR,Source Rock Royalties Ltd.,TSX Venture Exchange,Energy
+TSXV:DRY,Dryden Gold Corp.,TSX Venture Exchange,Materials
+TSXV:A.H,Armor Minerals Inc.,TSX Venture Exchange,
+TSXV:VITA,Vitalist Inc.,TSX Venture Exchange,Technology
+TSXV:NAU,Nevgold Corp.,TSX Venture Exchange,Materials
+TSXV:VCI,Vitreous Glass Inc.,TSX Venture Exchange,Industrials
+TSXV:SURG,Surge Copper Corp.,TSX Venture Exchange,Materials
+CSE:MRMD,MariMed Inc.,Canadian Securities Exchange,Healthcare
+NEO:CBST,The Cannabist Company Holdings Inc.,Cboe Canada,Healthcare
+TSXV:VLC,Velocity Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:APXC,Apex Critical Metals Corp.,Canadian Securities Exchange,
+TSX:NVO,Novo Resources Corp.,Toronto Stock Exchange,Materials
+TSXV:TTS,Tintina Mines Limited,TSX Venture Exchange,Materials
+TSXV:VLT,Volt Lithium Corp.,TSX Venture Exchange,Materials
+TSX:HOT.UN,American Hotel Income Properties REIT LP,Toronto Stock Exchange,Real Estate
+CSE:DPRO,Draganfly Inc.,Canadian Securities Exchange,Industrials
+CSE:GFCO,The Good Flour Corp.,Canadian Securities Exchange,Consumer Staples
+TSXV:IVS,Inventus Mining Corp.,TSX Venture Exchange,Materials
+TSXV:ASTR,Astra Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:LTC,Lotus Creek Exploration Inc.,TSX Venture Exchange,
+TSX:COPR,Coppernico Metals Inc.,Toronto Stock Exchange,Materials
+CSE:TOC,Tocvan Ventures Corp.,Canadian Securities Exchange,Materials
+TSXV:SPOT,EarthLabs Inc.,TSX Venture Exchange,Technology
+TSXV:KCP,King Copper Discovery Corp.,TSX Venture Exchange,Materials
+TSXV:KDOZ,Kidoz Inc.,TSX Venture Exchange,Communication Services
+TSXV:ANK,Angkor Resources Corp.,TSX Venture Exchange,Materials
+CSE:PHOS,First Phosphate Corp.,Canadian Securities Exchange,Materials
+TSXV:DAN,Arianne Phosphate Inc.,TSX Venture Exchange,Materials
+TSXV:EDG,Endurance Gold Corporation,TSX Venture Exchange,Materials
+CSE:INTG,Integral Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:UGD,Unigold Inc.,TSX Venture Exchange,Materials
+TSXV:YNV,Ynvisible Interactive Inc.,TSX Venture Exchange,Technology
+TSX:BYL,Baylin Technologies Inc.,Toronto Stock Exchange,Technology
+TSXV:SRL,Salazar Resources Limited,TSX Venture Exchange,Materials
+TSXV:IGO,Independence Gold Corp.,TSX Venture Exchange,Materials
+TSXV:BTCW,Bitcoin Well Inc.,TSX Venture Exchange,Financials
+TSXV:RGC,Relevant Gold Corp.,TSX Venture Exchange,Materials
+TSXV:PHNM,Phenom Resources Corp.,TSX Venture Exchange,Materials
+CSE:EMPS,EMP Metals Corp.,Canadian Securities Exchange,Materials
+CSE:MRM,Micromem Technologies Inc.,Canadian Securities Exchange,Technology
+TSXV:KRI,Kobo Resources Inc.,TSX Venture Exchange,Materials
+CSE:NF,Nuclear Fuels Inc.,Canadian Securities Exchange,Energy
+CSE:PAU,Provenance Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:MIM,MiMedia Holdings Inc.,TSX Venture Exchange,Technology
+TSXV:GSP,Gensource Potash Corporation,TSX Venture Exchange,Materials
+CSE:IAN,"iAnthus Capital Holdings, Inc.",Canadian Securities Exchange,Healthcare
+TSXV:VTX,Vertex Resource Group Ltd.,TSX Venture Exchange,Industrials
+TSXV:HLU,Homeland Uranium Corp.,TSX Venture Exchange,Energy
+TSXV:GBU,Gabriel Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:EMN,Euro Manganese Inc.,TSX Venture Exchange,Materials
+TSXV:AZS,Arizona Gold & Silver Inc.,TSX Venture Exchange,Materials
+CSE:GTCH,Getchell Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:MRZ,Mirasol Resources Ltd.,TSX Venture Exchange,Materials
+TSX:LABS,MediPharm Labs Corp.,Toronto Stock Exchange,Healthcare
+TSXV:IEI,Imperial Equities Inc.,TSX Venture Exchange,Real Estate
+TSXV:AUX,Golden Cross Resources Inc.,TSX Venture Exchange,Financials
+CSE:LFG,Universal Digital Inc.,Canadian Securities Exchange,
+TSXV:WOLF,Grey Wolf Animal Health Corp.,TSX Venture Exchange,Consumer Discretionary
+CSE:FNT.U,FLUENT Corp.,Canadian Securities Exchange,
+TSXV:TTI,"Thiogenesis Therapeutics, Corp.",TSX Venture Exchange,Healthcare
+TSXV:NPR,North Peak Resources Ltd.,TSX Venture Exchange,Materials
+TSX:RPR.UN,Ravelin Properties REIT,Toronto Stock Exchange,Real Estate
+TSX:EAGR,East Side Games Group Inc.,Toronto Stock Exchange,Communication Services
+TSX:INO.UN,Inovalis Real Estate Investment Trust,Toronto Stock Exchange,Real Estate
+TSX:BKI,Black Iron Inc.,Toronto Stock Exchange,Materials
+TSXV:RPX,Red Pine Exploration Inc.,TSX Venture Exchange,Materials
+TSX:FT,Fortune Minerals Limited,Toronto Stock Exchange,Materials
+TSXV:ROS,Roscan Gold Corporation,TSX Venture Exchange,Materials
+NEO:INXD,"The INX Digital Company, Inc.",Cboe Canada,
+TSXV:BBB,Brixton Metals Corporation,TSX Venture Exchange,Materials
+CSE:JSDA,Jones Soda Co.,Canadian Securities Exchange,Consumer Staples
+TSXV:AZT,Aztec Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:GLDC,Cassiar Gold Corp.,TSX Venture Exchange,Materials
+TSXV:VM,Voyageur Pharmaceuticals Ltd.,TSX Venture Exchange,Healthcare
+TSX:WCM.A,Wilmington Capital Management Inc.,Toronto Stock Exchange,Financials
+TSXV:PVT,Pivotree Inc.,TSX Venture Exchange,Technology
+TSX:TVA.B,TVA Group Inc.,Toronto Stock Exchange,Communication Services
+TSX:SWP,Swiss Water Decaffeinated Coffee Inc.,Toronto Stock Exchange,Consumer Staples
+TSXV:YES,CHAR Technologies Ltd.,TSX Venture Exchange,Industrials
+CSE:AUCU,Inflection Resources Ltd.,Canadian Securities Exchange,Materials
+TSXV:CTM,Canterra Minerals Corporation,TSX Venture Exchange,Materials
+TSX:DIAM,Star Diamond Corporation,Toronto Stock Exchange,Materials
+TSX:AEG,Aegis Brands Inc.,Toronto Stock Exchange,Consumer Discretionary
+CSE:BUX,Biomark Diagnostics Inc.,Canadian Securities Exchange,Healthcare
+TSXV:BRM,BioRem Inc.,TSX Venture Exchange,Industrials
+TSX:BU,Burcon NutraScience Corporation,Toronto Stock Exchange,Consumer Staples
+TSXV:WHN,Westhaven Gold Corp.,TSX Venture Exchange,Materials
+TSXV:PGDC,Patagonia Gold Corp.,TSX Venture Exchange,Materials
+TSX:AMM,Almaden Minerals Ltd.,Toronto Stock Exchange,Materials
+TSXV:OGO,Organto Foods Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:KNG,Kingsmen Resources Ltd.,TSX Venture Exchange,Materials
+TSX:IFA,iFabric Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:ONAU,ONGold Resources Ltd.,TSX Venture Exchange,Materials
+CSE:STCU,Star Copper Corp.,Canadian Securities Exchange,
+TSXV:NSCI,Nanalysis Scientific Corp.,TSX Venture Exchange,Technology
+CSE:DTR,DiagnosTear Technologies Inc.,Canadian Securities Exchange,
+TSX:BCT,BriaCell Therapeutics Corp.,Toronto Stock Exchange,Healthcare
+TSXV:RYR,Royal Road Minerals Limited,TSX Venture Exchange,Materials
+CSE:MILI,Military Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:RSLV,Reyna Silver Corp.,TSX Venture Exchange,Materials
+TSX:AVCN,Avicanna Inc.,Toronto Stock Exchange,Healthcare
+TSXV:OAM,OverActive Media Corp.,TSX Venture Exchange,Communication Services
+NEO:NETZ,Carbon Streaming Corporation,Cboe Canada,Financials
+TSXV:WPG,West Point Gold Corp.,TSX Venture Exchange,Materials
+TSXV:EMNT,Eminent Gold Corp.,TSX Venture Exchange,Materials
+TSXV:VO,ValOre Metals Corp.,TSX Venture Exchange,Energy
+NEO:ZEFI,Zefiro Methane Corp.,Cboe Canada,Energy
+TSXV:YAK,Mongolia Growth Group Ltd.,TSX Venture Exchange,Real Estate
+CSE:KING,King Global Ventures Inc.,Canadian Securities Exchange,
+TSXV:MD,Midland Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:XXIX,XXIX Metal Corp.,TSX Venture Exchange,Materials
+CSE:MMET,Miata Metals Corp.,Canadian Securities Exchange,Materials
+CSE:NVRO,EnviroGold Global Limited,Canadian Securities Exchange,Materials
+TSXV:CNVI,Conavi Medical Corp.,TSX Venture Exchange,Healthcare
+TSXV:LVG,Lake Victoria Gold Ltd.,TSX Venture Exchange,Materials
+TSX:ACD,Accord Financial Corp.,Toronto Stock Exchange,Financials
+TSXV:FTUR,Future Fuels Inc.,TSX Venture Exchange,Materials
+TSXV:ROMJ,Rubicon Organics Inc.,TSX Venture Exchange,Healthcare
+TSXV:PERU,Chakana Copper Corp.,TSX Venture Exchange,Materials
+TSXV:DTEA,DAVIDsTEA Inc.,TSX Venture Exchange,Consumer Staples
+CSE:TELI,Telescope Innovations Corp.,Canadian Securities Exchange,Healthcare
+CSE:AUOZ,Emperor Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:WEX,Western Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:EML,Electric Metals (USA) Limited,TSX Venture Exchange,Materials
+TSXV:KC,Kutcho Copper Corp.,TSX Venture Exchange,Materials
+TSXV:EBM,Eastwood Bio-Medical Canada Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:SPMC,South Pacific Metals Corp.,TSX Venture Exchange,Materials
+TSXV:EAM,East Africa Metals Inc.,TSX Venture Exchange,Materials
+CSE:WG,Westward Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:SAGE,Sage Potash Corp.,TSX Venture Exchange,Materials
+TSXV:EVNI,EV Nickel Inc.,TSX Venture Exchange,Materials
+TSXV:RDG,Ridgeline Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:TAO,TAG Oil Ltd.,TSX Venture Exchange,Energy
+TSXV:HHH,Helius Minerals Limited,TSX Venture Exchange,Materials
+TSXV:OYL,CGX Energy Inc.,TSX Venture Exchange,Energy
+TSX:BR,Big Rock Brewery Inc.,Toronto Stock Exchange,Consumer Staples
+TSXV:VCU,Vizsla Copper Corp.,TSX Venture Exchange,Materials
+CSE:VRDN,Viridian Metals Inc.,Canadian Securities Exchange,
+CSE:DOSE,Rapid Dose Therapeutics Corp.,Canadian Securities Exchange,Healthcare
+TSXV:ELBM,Electra Battery Materials Corporation,TSX Venture Exchange,Materials
+TSXV:PNTR,Pantera Silver Corp.,TSX Venture Exchange,Materials
+TSXV:GPG,Grande Portage Resources Ltd.,TSX Venture Exchange,Materials
+CSE:TRUE,Treatment.com AI Inc.,Canadian Securities Exchange,Healthcare
+TSXV:BRAU,Big Ridge Gold Corp.,TSX Venture Exchange,Materials
+TSXV:ARU,Aurania Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:VAU,Viva Gold Corp.,TSX Venture Exchange,Materials
+TSXV:GIII,ReGen III Corp.,TSX Venture Exchange,Energy
+TSXV:SDI,Stampede Drilling Inc.,TSX Venture Exchange,Energy
+CSE:ARGL,Argyle Resources Corp.,Canadian Securities Exchange,
+TSXV:INTR,Intrepid Metals Corp.,TSX Venture Exchange,Materials
+NEO:MAXQ,Maritime Launch Services Inc.,Cboe Canada,Industrials
+TSXV:CNO,California Nanotechnologies Corp.,TSX Venture Exchange,Materials
+TSX:NPK,Verde AgriTech Limited,Toronto Stock Exchange,Materials
+TSXV:FRED,Fredonia Mining Inc.,TSX Venture Exchange,Materials
+TSXV:AAN,Aton Resources Inc.,TSX Venture Exchange,Materials
+TSXV:XX,Avante Corp.,TSX Venture Exchange,Industrials
+TSX:UNI,Unisync Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSX:TGO,TeraGo Inc.,Toronto Stock Exchange,Communication Services
+TSXV:JG,Japan Gold Corp.,TSX Venture Exchange,Materials
+TSXV:FW,Flow Capital Corp.,TSX Venture Exchange,Financials
+CSE:GWAY,Greenway Greenhouse Cannabis Corporation,Canadian Securities Exchange,Healthcare
+TSXV:SBIO,Sabio Holdings Inc.,TSX Venture Exchange,Communication Services
+TSXV:ASG,Aurora Spine Corporation,TSX Venture Exchange,Healthcare
+TSXV:CD,Cantex Mine Development Corp.,TSX Venture Exchange,Materials
+TSXV:GUN,Gunpoint Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:TORR,Torrent Capital Ltd.,TSX Venture Exchange,Financials
+TSXV:CTRL,Edge Total Intelligence Inc.,TSX Venture Exchange,Technology
+TSXV:EMM,Giyani Metals Corp.,TSX Venture Exchange,Materials
+TSXV:NLH,Nova Leap Health Corp.,TSX Venture Exchange,Healthcare
+TSXV:FKM,Fokus Mining Corporation,TSX Venture Exchange,Materials
+TSX:SFI,Solution Financial Inc.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:FEO,Oceanic Iron Ore Corp.,TSX Venture Exchange,Materials
+TSXV:LVX,Leviathan Gold Ltd.,TSX Venture Exchange,Materials
+TSXV:LG,Lahontan Gold Corp.,TSX Venture Exchange,Materials
+CSE:EPIC,1CM Inc.,Canadian Securities Exchange,Healthcare
+TSX:GRC,Gold Springs Resource Corp.,Toronto Stock Exchange,Materials
+TSXV:BRW,Brunswick Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:AUAU,Allegiant Gold Ltd.,TSX Venture Exchange,Materials
+CSE:CUAU,Forte Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:SR,Strategic Resources Inc.,TSX Venture Exchange,Materials
+TSXV:RSS,RESAAS Services Inc.,TSX Venture Exchange,Technology
+TSXV:GMV,GMV Minerals Inc.,TSX Venture Exchange,Materials
+TSX:BEK.B,The Becker Milk Company Limited,Toronto Stock Exchange,Real Estate
+TSXV:PINK,"Perimeter Medical Imaging AI, Inc.",TSX Venture Exchange,Healthcare
+TSX:CWL,The Caldwell Partners International Inc.,Toronto Stock Exchange,Industrials
+TSXV:HAPB,"Hapbee Technologies, Inc.",TSX Venture Exchange,Technology
+TSXV:AUM,AuMEGA Metals Ltd,TSX Venture Exchange,Materials
+TSXV:FCLI,Full Circle Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:YEG,Yorkton Equity Group Inc.,TSX Venture Exchange,Real Estate
+TSXV:XCYT,Xcyte Digital Corp.,TSX Venture Exchange,Financials
+CSE:CXXI,C21 Investments Inc.,Canadian Securities Exchange,Healthcare
+CSE:SRAN,Sranan Gold Corp.,Canadian Securities Exchange,
+TSXV:CSO.H,Corsa Coal Corp.,TSX Venture Exchange,
+CSE:SCPE,Scope Technologies Corp.,Canadian Securities Exchange,Technology
+TSXV:TLA,Titan Logix Corp.,TSX Venture Exchange,Industrials
+TSXV:YGT,Gold Terra Resource Corp.,TSX Venture Exchange,Materials
+TSXV:HASH,Simply Solventless Concentrates Ltd.,TSX Venture Exchange,Healthcare
+TSXV:ODD,Odd Burger Corporation,TSX Venture Exchange,Consumer Discretionary
+TSXV:TMG,Thermal Energy International Inc.,TSX Venture Exchange,Industrials
+TSXV:STE,Starr Peak Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:GSD,Devonian Health Group Inc.,TSX Venture Exchange,Healthcare
+TSXV:CPS,Canadian Premium Sand Inc.,TSX Venture Exchange,Materials
+TSXV:COSA,Cosa Resources Corp.,TSX Venture Exchange,Materials
+TSXV:CLIP,Clip Money Inc.,TSX Venture Exchange,Technology
+TSXV:NHHH,FuelPositive Corporation,TSX Venture Exchange,Industrials
+TSXV:MDX,MedX Health Corp,TSX Venture Exchange,Healthcare
+TSXV:PJX,PJX Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PEAK,Sun Peak Metals Corp.,TSX Venture Exchange,Materials
+TSXV:CVB,Compass Gold Corporation,TSX Venture Exchange,Materials
+CSE:PDO,PUDO Inc.,Canadian Securities Exchange,Industrials
+TSXV:GMA,Geomega Resources Inc.,TSX Venture Exchange,Materials
+TSXV:HFC,Hampton Financial Corporation,TSX Venture Exchange,Financials
+TSXV:NMC,Nuvau Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:SPN,Snipp Interactive Inc.,TSX Venture Exchange,Communication Services
+TSXV:BFM,Bedford Metals Corp.,TSX Venture Exchange,Materials
+TSXV:DEX,Almadex Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:HEVI,Helium Evolution Incorporated,TSX Venture Exchange,Energy
+CSE:IZO,Izotropic Corporation,Canadian Securities Exchange,Healthcare
+TSXV:ALTA,Altamira Gold Corp.,TSX Venture Exchange,Materials
+TSXV:SMD,Strategic Metals Ltd.,TSX Venture Exchange,Materials
+TSXV:MUN,Mundoro Capital Inc.,TSX Venture Exchange,Materials
+TSXV:MAPS,ProStar Holdings Inc.,TSX Venture Exchange,Technology
+TSXV:JJ,Jackpot Digital Inc.,TSX Venture Exchange,Consumer Discretionary
+CSE:SPLY,Safe Supply Streaming Co. Ltd.,Canadian Securities Exchange,Financials
+CSE:GXP,Greenridge Exploration Inc.,Canadian Securities Exchange,
+TSXV:QYOU,QYOU Media Inc.,TSX Venture Exchange,Communication Services
+CSE:VST,Victory Square Technologies Inc.,Canadian Securities Exchange,Financials
+TSXV:SOI,Sirios Resources Inc.,TSX Venture Exchange,Materials
+CSE:AVE,Aventis Energy Inc.,Canadian Securities Exchange,
+TSXV:RK,Rockhaven Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:TK,Tinka Resources Limited,TSX Venture Exchange,Materials
+TSXV:VPT,Ventripoint Diagnostics Ltd.,TSX Venture Exchange,Healthcare
+TSXV:REKO,Reko International Group Inc.,TSX Venture Exchange,Industrials
+TSXV:ADK,DIAGNOS Inc.,TSX Venture Exchange,Healthcare
+CSE:M,Myriad Uranium Corp.,Canadian Securities Exchange,Materials
+CSE:SX,St-Georges Eco-Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:TSLV,Tier One Silver Inc.,TSX Venture Exchange,Materials
+CSE:UDOC,Unidoc Health Corp.,Canadian Securities Exchange,Healthcare
+TSXV:SOU,Southern Energy Corp.,TSX Venture Exchange,Energy
+TSXV:RE,RE Royalties Ltd.,TSX Venture Exchange,Utilities
+TSXV:ENA,Enablence Technologies Inc.,TSX Venture Exchange,Technology
+TSX:SAM,Starcore International Mines Ltd.,Toronto Stock Exchange,Materials
+TSXV:JUGR,Juggernaut Exploration Ltd.,TSX Venture Exchange,Materials
+CSE:LFLR,LaFleur Minerals Inc.,Canadian Securities Exchange,Materials
+TSXV:GGO,Galleon Gold Corp.,TSX Venture Exchange,Materials
+TSXV:KG,Klondike Gold Corp.,TSX Venture Exchange,Materials
+CSE:PREV,PreveCeutical Medical Inc.,Canadian Securities Exchange,Healthcare
+TSXV:TUK,Tuktu Resources Ltd.,TSX Venture Exchange,Energy
+TSXV:NXG,NexgenRx Inc.,TSX Venture Exchange,Healthcare
+TSXV:OOR,Opus One Gold Corporation,TSX Venture Exchange,Materials
+TSX:CWEB,"Charlotte's Web Holdings, Inc.",Toronto Stock Exchange,Healthcare
+CSE:GPK,Grand Peak Capital Corp.,Canadian Securities Exchange,Financials
+CSE:HWG,Headwater Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:ZNX,ZincX Resources Corp.,TSX Venture Exchange,Materials
+TSXV:ROAR,Lion Rock Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PLUR,Plurilock Security Inc.,TSX Venture Exchange,Technology
+CSE:NOM,Norsemont Mining Inc.,Canadian Securities Exchange,Materials
+TSXV:B,BCM Resources Corporation,TSX Venture Exchange,Materials
+TSXV:GRF,Green Rise Foods Inc.,TSX Venture Exchange,Consumer Staples
+CSE:PHRM,PharmaTher Holdings Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:GT,GT Resources Inc.,TSX Venture Exchange,Materials
+TSXV:FNC,Fancamp Exploration Ltd.,TSX Venture Exchange,Materials
+CSE:CRTL,Critical One Energy Inc.,Canadian Securities Exchange,
+CSE:AIML,AI/ML Innovations Inc.,Canadian Securities Exchange,Healthcare
+CSE:BATX,Battery X Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:SRES,Sun Residential Real Estate Investment Trust,TSX Venture Exchange,Real Estate
+TSXV:FMAN,Freeman Gold Corp.,TSX Venture Exchange,Materials
+TSXV:TNR,TNR Gold Corp.,TSX Venture Exchange,Materials
+TSXV:NEXE,NEXE Innovations Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:FAN,First Atlantic Nickel Corp.,TSX Venture Exchange,
+TSX:CJR.B,Corus Entertainment Inc.,Toronto Stock Exchange,Communication Services
+TSX:LSPK,LifeSpeak Inc.,Toronto Stock Exchange,Technology
+TSXV:KFR,Kingfisher Metals Corp.,TSX Venture Exchange,Materials
+CSE:AYR.A,Ayr Wellness Inc.,Canadian Securities Exchange,Healthcare
+TSXV:NAM,New Age Metals Inc.,TSX Venture Exchange,Materials
+TSXV:DAU,Desert Gold Ventures Inc.,TSX Venture Exchange,Materials
+TSXV:DME,Desert Mountain Energy Corp.,TSX Venture Exchange,Energy
+TSXV:ROCK,Trident Resources Corp.,TSX Venture Exchange,Materials
+TSXV:PX,Pelangio Exploration Inc.,TSX Venture Exchange,Materials
+CSE:HYTN,HYTN Innovations Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:CMU,Comet Industries Ltd.,TSX Venture Exchange,Materials
+CSE:PPB,P2P Group Ltd.,Canadian Securities Exchange,Consumer Staples
+TSXV:FIND,Baselode Energy Corp.,TSX Venture Exchange,Energy
+TSXV:FMC,Forum Energy Metals Corp.,TSX Venture Exchange,Materials
+TSXV:PPP,Prospector Metals Corp.,TSX Venture Exchange,Materials
+TSXV:GPUS,Alset AI Ventures Inc.,TSX Venture Exchange,Technology
+TSXV:BARU,Baru Gold Corporation,TSX Venture Exchange,Materials
+CSE:CUPA,Cupani Metals Corp.,Canadian Securities Exchange,Financials
+TSXV:BSK,Blue Sky Uranium Corp.,TSX Venture Exchange,Energy
+TSXV:ICGH,IC Group Holdings Inc.,TSX Venture Exchange,
+TSXV:IRO,Inter-Rock Minerals Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:LMS,Latin Metals Inc.,TSX Venture Exchange,Materials
+CSE:QIM,Quimbaya Gold Inc.,Canadian Securities Exchange,Materials
+TSX:GEC,Global Education Communities Corp.,Toronto Stock Exchange,
+TSXV:SMN,Sun Summit Minerals Corp.,TSX Venture Exchange,Materials
+CSE:QIMC,Quebec Innovative Materials Corp.,Canadian Securities Exchange,Materials
+CSE:CSR,Copper Standard Resources Inc.,Canadian Securities Exchange,
+TSXV:TRO,Taranis Resources Inc.,TSX Venture Exchange,Materials
+TSXV:SLG,San Lorenzo Gold Corp.,TSX Venture Exchange,Materials
+NEO:SCRI,Silver Crown Royalties Inc.,Cboe Canada,Materials
+TSXV:EP,Empire Metals Corp.,TSX Venture Exchange,Materials
+TSXV:OML,Omni-Lite Industries Canada Inc.,TSX Venture Exchange,Industrials
+TSXV:JZR,JZR Gold Inc.,TSX Venture Exchange,Materials
+TSXV:PLAN,Progressive Planet Solutions Inc.,TSX Venture Exchange,Materials
+TSXV:SBMI,Silver Bullet Mines Corp.,TSX Venture Exchange,Materials
+TSXV:AUUA,Aluula Composites Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:HEM,Hemostemix Inc.,TSX Venture Exchange,Healthcare
+CSE:TUNG,American Tungsten Corp.,Canadian Securities Exchange,
+TSXV:BKM,Pacific Booker Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:HDRO,Primary Hydrogen Corp.,TSX Venture Exchange,Materials
+TSXV:TRBC,Tribeca Resources Corporation,TSX Venture Exchange,Materials
+TSXV:THM,"Thunder Mountain Gold, Inc.",TSX Venture Exchange,Materials
+TSXV:FRNT,FRNT Financial Inc.,TSX Venture Exchange,Financials
+TSXV:AFCC.H,Automotive Finco Corp.,TSX Venture Exchange,Financials
+CSE:PM,Pampa Metals Corporation,Canadian Securities Exchange,Materials
+TSXV:RARE,Tactical Resources Corp.,TSX Venture Exchange,Materials
+TSXV:GPV,GreenPower Motor Company Inc.,TSX Venture Exchange,Industrials
+CSE:SHRC,Sharc International Systems Inc.,Canadian Securities Exchange,Industrials
+TSXV:WML,Wealth Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:VOY,Voyageur Mineral Explorers Corp.,Canadian Securities Exchange,Materials
+TSXV:STS,South Star Battery Metals Corp.,TSX Venture Exchange,Materials
+TSXV:TRBE,Tribe Property Technologies Inc.,TSX Venture Exchange,Real Estate
+TSX:ADCO,Adcore Inc.,Toronto Stock Exchange,Technology
+TSXV:ABR,Arbor Metals Corp.,TSX Venture Exchange,Materials
+TSXV:TWR,Tower Resources Ltd.,TSX Venture Exchange,Materials
+CSE:API,Appia Rare Earths & Uranium Corp.,Canadian Securities Exchange,Energy
+CSE:CCI,Canadian Copper Inc.,Canadian Securities Exchange,Materials
+CSE:GRBM,Green Bridge Metals Corporation,Canadian Securities Exchange,Materials
+TSXV:PGLD,P2 Gold Inc.,TSX Venture Exchange,Materials
+CSE:WIFI,American Aires Inc.,Canadian Securities Exchange,Technology
+TSXV:SC.H,Serrano Resources Ltd.,TSX Venture Exchange,Energy
+TSXV:CAF,Canaf Investments Inc.,TSX Venture Exchange,Materials
+CSE:IRV,Irving Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:SAG,Sterling Metals Corp.,TSX Venture Exchange,Materials
+CSE:TNJ,Boba Mint Holdings Ltd.,Canadian Securities Exchange,
+TSX:WRX,Western Resources Corp.,Toronto Stock Exchange,Materials
+TSXV:ZAU,Zodiac Gold Inc.,TSX Venture Exchange,Materials
+CSE:BFG,Giant Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:VUL,Vulcan Minerals Inc.,TSX Venture Exchange,Materials
+TSX:YRB,Yorbeau Resources Inc.,Toronto Stock Exchange,Materials
+TSX:NUMI,Numinus Wellness Inc.,Toronto Stock Exchange,Healthcare
+TSXV:OCI,Orecap Invest Corp.,TSX Venture Exchange,Materials
+TSXV:LBNK,LithiumBank Resources Corp.,TSX Venture Exchange,Materials
+TSXV:PTU,Purepoint Uranium Group Inc.,TSX Venture Exchange,Energy
+TSXV:AGMR,Silver Mountain Resources Inc.,TSX Venture Exchange,Materials
+CSE:OPTI,Optimi Health Corp.,Canadian Securities Exchange,Healthcare
+TSXV:MON,Montero Mining and Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:SBM,Sirona Biochem Corp.,TSX Venture Exchange,Healthcare
+TSXV:SRC,Stakeholder Gold Corp.,TSX Venture Exchange,Materials
+TSXV:ATY,Atico Mining Corporation,TSX Venture Exchange,Materials
+TSX:GVC,Glacier Media Inc.,Toronto Stock Exchange,Communication Services
+TSXV:STRR,Star Royalties Ltd.,TSX Venture Exchange,Materials
+CSE:MAXX,Max Power Mining Corp.,Canadian Securities Exchange,Materials
+NEO:GRAM,Gold Flora Corporation,Cboe Canada,Consumer Staples
+TSXV:KEEK,Personas Social Incorporated,TSX Venture Exchange,
+TSXV:SCAN,"Liberty Defense Holdings, Ltd.",TSX Venture Exchange,Industrials
+TSXV:NXH,Next Hydrogen Solutions Inc.,TSX Venture Exchange,Industrials
+CSE:FOMO,Formation Metals Inc.,Canadian Securities Exchange,
+TSX:CSCI,COSCIENS Biopharma Inc.,Toronto Stock Exchange,Healthcare
+TSXV:EVGN,EverGen Infrastructure Corp.,TSX Venture Exchange,Industrials
+CSE:ICS,Integrated Cyber Solutions Inc.,Canadian Securities Exchange,Technology
+TSXV:AXE,Acceleware Ltd.,TSX Venture Exchange,Technology
+TSXV:LAB,Labrador Gold Corp.,TSX Venture Exchange,Materials
+TSXV:CSOC.B,Canso Select Opportunities Corporation,TSX Venture Exchange,Financials
+TSXV:CSOC.A,Canso Select Opportunities Corporation,TSX Venture Exchange,Financials
+TSXV:MATE,Blockmate Ventures Inc.,TSX Venture Exchange,Financials
+TSXV:BAY,Aston Bay Holdings Ltd.,TSX Venture Exchange,Materials
+TSXV:GRB,Greenbriar Sustainable Living Inc.,TSX Venture Exchange,Utilities
+TSXV:MOX,Morien Resources Corp.,TSX Venture Exchange,Energy
+TSXV:REVV,ReVolve Renewable Power Corp.,TSX Venture Exchange,Utilities
+CSE:TN,Tartisan Nickel Corp.,Canadian Securities Exchange,Materials
+TSXV:KALO,Kalo Gold Corp.,TSX Venture Exchange,Materials
+CSE:SUPR,Supernova Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:AIR,Clean Air Metals Inc.,TSX Venture Exchange,Materials
+TSXV:MN,Manganese X Energy Corp.,TSX Venture Exchange,Materials
+CSE:SOL,SOL Global Investments Corp.,Canadian Securities Exchange,Financials
+TSXV:PRG,Precipitate Gold Corp.,TSX Venture Exchange,Materials
+TSXV:CN,Condor Resources Inc.,TSX Venture Exchange,Materials
+TSXV:DELX,DelphX Capital Markets Inc.,TSX Venture Exchange,Financials
+TSXV:AEMC,Alaska Energy Metals Corporation,TSX Venture Exchange,Materials
+TSX:GRN,Greenlane Renewables Inc.,Toronto Stock Exchange,Industrials
+TSXV:LPS,Legend Power Systems Inc.,TSX Venture Exchange,Industrials
+TSXV:ABA,Abasca Resources Inc.,TSX Venture Exchange,
+TSXV:NPTH,NeuPath Health Inc.,TSX Venture Exchange,Healthcare
+TSXV:NGMD,NuGen Medical Devices Inc.,TSX Venture Exchange,Healthcare
+CSE:CUPR,Super Copper Corp.,Canadian Securities Exchange,Materials
+TSXV:DLTA,Delta Resources Limited,TSX Venture Exchange,Materials
+CSE:SEAG.X,Seahawk Ventures Inc.,Canadian Securities Exchange,
+TSXV:KAPA,Kapa Gold Inc.,TSX Venture Exchange,Materials
+CSE:PBIT,POSaBIT Systems Corporation,Canadian Securities Exchange,Technology
+CSE:SLV,Silver Dollar Resources Inc.,Canadian Securities Exchange,Materials
+CSE:ARGO,Argo Living Soils Corp.,Canadian Securities Exchange,Materials
+CSE:MEC,Mustang Energy Corp.,Canadian Securities Exchange,
+TSXV:RW,RenoWorks Software Inc.,TSX Venture Exchange,Technology
+TSXV:SWA,Sarama Resources Ltd,TSX Venture Exchange,Materials
+TSXV:AIVC,AI Artificial Intelligence Ventures Inc.,TSX Venture Exchange,Financials
+TSXV:VRY,Petro-Victory Energy Corp.,TSX Venture Exchange,Energy
+CSE:FTEL,First Tellurium Corp.,Canadian Securities Exchange,Materials
+TSXV:ELEC,Electric Royalties Ltd.,TSX Venture Exchange,Materials
+TSXV:BEX,Benton Resources Inc.,TSX Venture Exchange,Materials
+TSXV:EPL,Eagle Plains Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:CGNT,Copper Giant Resources Corp.,TSX Venture Exchange,Materials
+TSXV:PESO,PesoRama Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:TM,Trigon Metals Inc.,TSX Venture Exchange,Materials
+TSX:FOOD,Goodfood Market Corp.,Toronto Stock Exchange,Consumer Discretionary
+TSXV:GPM,GPM Metals Inc.,TSX Venture Exchange,Materials
+TSXV:SME,Sama Resources Inc.,TSX Venture Exchange,Materials
+TSXV:FYL,Finlay Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:NOB,Noble Mineral Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:TBK,Trailbreaker Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:NTX,NeoTerrex Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:ARH,Altima Energy Inc.,TSX Venture Exchange,Energy
+CSE:RISE,Rise Gold Corp.,Canadian Securities Exchange,Materials
+TSX:CFF,Conifex Timber Inc.,Toronto Stock Exchange,Materials
+TSX:MSV,Minco Silver Corporation,Toronto Stock Exchange,Materials
+TSXV:WLF,Wolfden Resources Corporation,TSX Venture Exchange,Materials
+TSXV:PEZM.H,PEZM Gold Inc.,TSX Venture Exchange,Financials
+TSXV:BHS,Bayhorse Silver Inc.,TSX Venture Exchange,Materials
+TSXV:RDU,Radius Gold Inc.,TSX Venture Exchange,Materials
+TSXV:SNV,Sonoro Energy Ltd.,TSX Venture Exchange,Energy
+CSE:BRAZ,Canary Gold Corp.,Canadian Securities Exchange,
+TSXV:COR,Camino Minerals Corporation,TSX Venture Exchange,Materials
+TSXV:RSM,Resouro Strategic Metals Inc.,TSX Venture Exchange,Materials
+TSXV:CFY,CF Energy Corp.,TSX Venture Exchange,Utilities
+TSXV:CNX,Callinex Mines Inc.,TSX Venture Exchange,Materials
+TSXV:SUI,Superior Mining International Corporation,TSX Venture Exchange,Materials
+CSE:BETR,BetterLife Pharma Inc.,Canadian Securities Exchange,Healthcare
+TSXV:ESBL,Eshbal Functional Food Inc.,TSX Venture Exchange,
+TSXV:VAND,Largo Physical Vanadium Corp.,TSX Venture Exchange,Materials
+TSXV:TIG,Triumph Gold Corp.,TSX Venture Exchange,Materials
+TSXV:BMR,Battery Mineral Resources Corp.,TSX Venture Exchange,Materials
+TSXV:MTS,Metallis Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PUMA,Puma Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:MAGA.H,Patriot Resources Corp.,TSX Venture Exchange,
+TSXV:HOH,High Arctic Overseas Holdings Corp.,TSX Venture Exchange,Industrials
+TSXV:SIC,Sokoman Minerals Corp.,TSX Venture Exchange,Materials
+CSE:QQQ,Questcorp Mining Inc.,Canadian Securities Exchange,
+NEO:JPEG,Pioneer AI Foundry Inc.,Cboe Canada,
+TSXV:NWX,Newport Exploration Ltd.,TSX Venture Exchange,Materials
+CSE:NXT,NextGen Digital Platforms Inc.,Canadian Securities Exchange,
+TSXV:PEI,Prospera Energy Inc.,TSX Venture Exchange,Energy
+TSXV:BRO,Barksdale Resources Corp.,TSX Venture Exchange,Materials
+CSE:SKUR,Sekur Private Data Ltd.,Canadian Securities Exchange,Technology
+TSXV:IOT,Innovotech Inc.,TSX Venture Exchange,Healthcare
+TSXV:MCC,Morocco Strategic Minerals Corporation,TSX Venture Exchange,Materials
+CSE:ERTH,Replenish Nutrients Holding Corp.,Canadian Securities Exchange,Materials
+TSXV:VUX,Vital Energy Inc.,TSX Venture Exchange,Energy
+TSX:RVX,Resverlogix Corp.,Toronto Stock Exchange,Healthcare
+TSX:MPVD,Mountain Province Diamonds Inc.,Toronto Stock Exchange,Materials
+TSXV:CCE,Commerce Resources Corp.,TSX Venture Exchange,Materials
+TSXV:FBF,Fab-Form Industries Ltd.,TSX Venture Exchange,Materials
+CSE:UE,Urano Energy Corp.,Canadian Securities Exchange,Materials
+CSE:DOCT,Beyond Medical Technologies Inc.,Canadian Securities Exchange,Industrials
+TSX:AVL,Avalon Advanced Materials Inc.,Toronto Stock Exchange,Materials
+TSXV:CELL,Grid Battery Metals Inc.,TSX Venture Exchange,Materials
+CSE:RVV,Revive Therapeutics Ltd.,Canadian Securities Exchange,Healthcare
+CSE:GNEM,Great Northern Energy Metals Inc.,Canadian Securities Exchange,
+CSE:RUU,Refined Energy Corp.,Canadian Securities Exchange,
+TSXV:WCU,World Copper Ltd.,TSX Venture Exchange,Materials
+TSXV:CLCO,Culico Metals Inc.,TSX Venture Exchange,Financials
+TSXV:TGOL,Thunder Gold Corp.,TSX Venture Exchange,Materials
+TSXV:MIVO,Miivo Holdings Corp.,TSX Venture Exchange,Financials
+TSXV:SGU,Signature Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:PTX,PTX Metals Inc.,TSX Venture Exchange,Materials
+TSXV:FDI,Findev Inc.,TSX Venture Exchange,Financials
+CSE:CYBT,Cybeats Technologies Corp.,Canadian Securities Exchange,Technology
+TSXV:SUN,Stardust Solar Energy Inc.,TSX Venture Exchange,
+TSXV:ZAC,Zacatecas Silver Corp.,TSX Venture Exchange,Materials
+CSE:TRIP,Red Light Holland Corp.,Canadian Securities Exchange,Healthcare
+TSXV:EDY,Eddy Smart Home Solutions Ltd.,TSX Venture Exchange,Technology
+CSE:WERX,Fintechwerx International Software Services Inc.,Canadian Securities Exchange,
+TSXV:YFI,Edgewater Wireless Systems Inc.,TSX Venture Exchange,Technology
+TSXV:LEAP,Quantum Critical Metals Corp.,TSX Venture Exchange,Materials
+TSXV:AMY,RecycLiCo Battery Materials Inc.,TSX Venture Exchange,Materials
+TSX:SXI,Synex Renewable Energy Corporation,Toronto Stock Exchange,Utilities
+CSE:NARA,Pangenomic Health Inc.,Canadian Securities Exchange,Healthcare
+CSE:PAID,XTM Inc.,Canadian Securities Exchange,Technology
+TSXV:SGC,Solstice Gold Corp.,TSX Venture Exchange,Materials
+CSE:RWB,Red White & Bloom Brands Inc.,Canadian Securities Exchange,Healthcare
+TSXV:SATO,SATO Technologies Corp.,TSX Venture Exchange,Financials
+TSXV:KCC,Kincora Copper Limited,TSX Venture Exchange,Materials
+TSX:ELEF,Silver Elephant Mining Corp.,Toronto Stock Exchange,Materials
+TSXV:LEGY,Legacy Gold Mines Ltd.,TSX Venture Exchange,Materials
+TSXV:VXTR,Voxtur Analytics Corp.,TSX Venture Exchange,Technology
+TSXV:QST,Questor Technology Inc.,TSX Venture Exchange,Industrials
+CSE:ATHA,Athena Gold Corporation,Canadian Securities Exchange,Materials
+TSXV:SAE,Sable Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:GAL,Galantas Gold Corporation,TSX Venture Exchange,Materials
+TSXV:VVC,VVC Exploration Corporation,TSX Venture Exchange,Energy
+TSXV:STA,Sanatana Resources Inc.,TSX Venture Exchange,Materials
+TSXV:RLYG,Riley Gold Corp.,TSX Venture Exchange,Materials
+TSXV:CSG,Cosigo Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:NGC,Northern Graphite Corporation,TSX Venture Exchange,Materials
+TSX:SVB,"Silver Bull Resources, Inc.",Toronto Stock Exchange,Materials
+TSXV:MCF,MCF Energy Ltd.,TSX Venture Exchange,Energy
+NEO:HOLD,Immutable Holdings Inc.,Cboe Canada,Financials
+TSXV:NRN,Northern Shield Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PTEC,Principal Technologies Inc.,TSX Venture Exchange,Healthcare
+TSXV:RYE,Rhyolite Resources Ltd.,TSX Venture Exchange,Materials
+CSE:INVR,Inverite Insights Inc.,Canadian Securities Exchange,Financials
+CSE:CLC,Christina Lake Cannabis Corp.,Canadian Securities Exchange,Healthcare
+TSXV:SAGA,Saga Metals Corp.,TSX Venture Exchange,Materials
+CSE:AITT,Trenchant Technologies Capital Corp.,Canadian Securities Exchange,
+TSXV:IQ,AirIQ Inc.,TSX Venture Exchange,Technology
+CSE:PMC,Peloton Minerals Corporation,Canadian Securities Exchange,Materials
+CSE:MDMA,Pharmala Biotech Holdings Inc.,Canadian Securities Exchange,Healthcare
+CSE:RBTO,Roberto Resources Inc.,Canadian Securities Exchange,
+CSE:NTMC,Neotech Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:MPH,Medicure Inc.,TSX Venture Exchange,Healthcare
+TSXV:LIS,Lithium South Development Corporation,TSX Venture Exchange,Materials
+TSXV:TG,Trifecta Gold Ltd.,TSX Venture Exchange,Materials
+TSXV:LLG,Mason Resources Inc.,TSX Venture Exchange,Materials
+TSXV:TVI,TVI Pacific Inc.,TSX Venture Exchange,Materials
+CSE:BKTS,Beckett's Inc.,Canadian Securities Exchange,
+TSXV:NMI,Namibia Critical Metals Inc.,TSX Venture Exchange,Materials
+TSXV:DWS,Diamond Estates Wines & Spirits Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:RRI,Riverside Resources Inc.,TSX Venture Exchange,Materials
+CSE:SCU,Sankamap Metals Inc.,Canadian Securities Exchange,
+CSE:RGR,Rio Grande Resources Ltd.,Canadian Securities Exchange,Materials
+CSE:MLM,McFarlane Lake Mining Limited,Canadian Securities Exchange,
+CSE:ZEUS,Zeus North America Mining Corp.,Canadian Securities Exchange,
+TSXV:INX,Intouch Insight Ltd.,TSX Venture Exchange,Technology
+TSXV:CYTO,Cytophage Technologies Ltd.,TSX Venture Exchange,Healthcare
+TSXV:USS,Uniserve Communications Corporation,TSX Venture Exchange,Communication Services
+TSX:HWO,High Arctic Energy Services Inc,Toronto Stock Exchange,Energy
+TSXV:EOX,Euromax Resources Ltd.,TSX Venture Exchange,Materials
+CSE:KBX,Kobrea Exploration Corp.,Canadian Securities Exchange,
+CSE:ISFT,ICEsoft Technologies Canada Corp.,Canadian Securities Exchange,Technology
+CSE:AUMC,Auric Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:CAM,Cascadia Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:MYID,Reklaim Ltd.,TSX Venture Exchange,Technology
+TSXV:TUF,Honey Badger Silver Inc.,TSX Venture Exchange,Materials
+TSXV:CCDS,Carrier Connect Data Solutions Inc.,TSX Venture Exchange,
+CSE:NUKV,Nuclear Vision Limited,Canadian Securities Exchange,
+TSXV:TIN,Tincorp Metals Inc.,TSX Venture Exchange,Materials
+TSXV:FREQ,Frequency Exchange Corp.,TSX Venture Exchange,Healthcare
+CSE:GEGC,Great Eagle Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:KBRA,Kubera Gold Corp.,TSX Venture Exchange,Materials
+TSXV:MOO,Moon River Moly Ltd.,TSX Venture Exchange,
+TSXV:CH,Charbone Hydrogen Corporation,TSX Venture Exchange,Materials
+TSXV:OMM,Omineca Mining and Metals Ltd.,TSX Venture Exchange,Materials
+TSX:VQS,VIQ Solutions Inc.,Toronto Stock Exchange,Technology
+CSE:NPRA,Nepra Foods Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:KMC.H,KMT Hansa Corp.,TSX Venture Exchange,Healthcare
+TSXV:VMXX,Valhalla Metals Inc.,TSX Venture Exchange,Materials
+CSE:BAC,BacTech Environmental Corporation,Canadian Securities Exchange,Industrials
+TSXV:HPM,Halcones Precious Metals Corp.,TSX Venture Exchange,
+TSXV:BET,NorthStar Gaming Holdings Inc.,TSX Venture Exchange,Consumer Discretionary
+CSE:BIOV,BioVaxys Technology Corp.,Canadian Securities Exchange,Healthcare
+TSXV:AVN,Avanti Helium Corp.,TSX Venture Exchange,Energy
+CSE:PWR,Captiva Verde Wellness Corp.,Canadian Securities Exchange,Healthcare
+CSE:TMAS,Temas Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:CWV,Crown Point Energy Inc.,TSX Venture Exchange,Energy
+CSE:SIX,Sixty Six Capital Inc.,Canadian Securities Exchange,Financials
+CSE:NFLD,Exploits Discovery Corp.,Canadian Securities Exchange,Materials
+TSXV:SHL,Homeland Nickel Inc.,TSX Venture Exchange,Materials
+CSE:AICO,Generative AI Solutions Corp.,Canadian Securities Exchange,Technology
+CSE:IP,ImagineAR Inc.,Canadian Securities Exchange,Technology
+CSE:EONX,EonX Technologies Inc.,Canadian Securities Exchange,Technology
+CSE:OILS,Nextleaf Solutions Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:ELC,Elysee Development Corp.,TSX Venture Exchange,Financials
+TSXV:RIWI,RIWI Corp.,TSX Venture Exchange,Technology
+TSXV:TTGI,Turnium Technology Group Inc.,TSX Venture Exchange,Technology
+TSXV:SLMN,Solis Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:GUF,Gulf & Pacific Equities Corp.,TSX Venture Exchange,Real Estate
+TSXV:CPAU,CopAur Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:CBG,Chibougamau Independent Mines Inc.,TSX Venture Exchange,Materials
+CSE:BTC,Bluesky Digital Assets Corp.,Canadian Securities Exchange,Financials
+TSXV:CEN.H,Claren Energy Corp.,TSX Venture Exchange,
+CSE:BLAB,Britannia Life Sciences Inc.,Canadian Securities Exchange,Healthcare
+TSXV:TORQ,Torq Resources Inc.,TSX Venture Exchange,Materials
+TSX:VRTS,Vertiqal Studios Corp.,Toronto Stock Exchange,Communication Services
+TSXV:FHR,Fiddlehead Resources Corp.,TSX Venture Exchange,Energy
+TSXV:HAR,Harfang Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:GGI,Garibaldi Resources Corp.,TSX Venture Exchange,Materials
+TSXV:REVX,Rev Exploration Corp.,TSX Venture Exchange,Materials
+TSXV:AUTO,Carbeeza Inc.,TSX Venture Exchange,Technology
+CSE:ZTE,ZTEST Electronics Inc.,Canadian Securities Exchange,Technology
+TSXV:OZ,Valkea Resources Corp,TSX Venture Exchange,Materials
+TSXV:TAJ,Tajiri Resources Corp.,TSX Venture Exchange,Materials
+TSXV:FMS,Focus Graphite Inc.,TSX Venture Exchange,Materials
+CSE:HEAT,Hillcrest Energy Technologies Ltd.,Canadian Securities Exchange,Technology
+TSXV:CPI,Carlton Precious Inc.,TSX Venture Exchange,Materials
+TSXV:PCLO,PharmaCielo Ltd.,TSX Venture Exchange,Healthcare
+TSXV:GIGA,Giga Metals Corporation,TSX Venture Exchange,Materials
+TSXV:PUL,Pulse Oil Corp.,TSX Venture Exchange,Energy
+CSE:GLOW,Glow Lifetech Corp.,Canadian Securities Exchange,Healthcare
+TSXV:BAU,Blue Star Gold Corp.,TSX Venture Exchange,Materials
+TSXV:QPT,Quest PharmaTech Inc.,TSX Venture Exchange,Healthcare
+CSE:DIGI,Digital Commodities Capital Corp.,Canadian Securities Exchange,Financials
+TSXV:DYG,Dynasty Gold Corp.,TSX Venture Exchange,Materials
+TSXV:QGR,Q-Gold Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:BONE,Boron One Holdings Inc.,TSX Venture Exchange,Materials
+TSXV:CYM,Cymat Technologies Ltd.,TSX Venture Exchange,Industrials
+TSXV:BAT,Batero Gold Corp.,TSX Venture Exchange,Materials
+TSXV:THP,Totally Hip Technologies Inc.,TSX Venture Exchange,Financials
+TSXV:SNAG,Silver North Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:BMET,BeMetals Corp.,TSX Venture Exchange,Materials
+TSXV:FFOX,FireFox Gold Corp.,TSX Venture Exchange,Materials
+TSXV:HWY,Highway 50 Gold Corp.,TSX Venture Exchange,Materials
+TSXV:KNE,Kane Biotech Inc.,TSX Venture Exchange,Healthcare
+TSX:CTX,Crescita Therapeutics Inc.,Toronto Stock Exchange,Healthcare
+TSXV:THRM,Therma Bright Inc.,TSX Venture Exchange,Healthcare
+TSXV:CTEK,Cleantek Industries Inc.,TSX Venture Exchange,Industrials
+TSX:KRN,Karnalyte Resources Inc.,Toronto Stock Exchange,Materials
+CSE:PNGA,Pangea Natural Foods Inc.,Canadian Securities Exchange,Consumer Staples
+CSE:CDVA,CordovaCann Corp.,Canadian Securities Exchange,Healthcare
+TSXV:GDP,Golden Pursuit Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:FOBI,Fobi AI Inc.,TSX Venture Exchange,Technology
+TSXV:CCMI,Canadian Critical Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:ROX,Canstar Resources Inc.,TSX Venture Exchange,Materials
+TSXV:BTU,BTU Metals Corp.,TSX Venture Exchange,Materials
+TSXV:SCY,Scandium International Mining Corp.,TSX Venture Exchange,Materials
+TSXV:SNG,Silver Range Resources Ltd.,TSX Venture Exchange,Materials
+CSE:MVMD,Mountain Valley MD Holdings Inc.,Canadian Securities Exchange,Healthcare
+CSE:SUU,Strathmore Plus Uranium Corp.,Canadian Securities Exchange,
+TSXV:NCP,Nickel Creek Platinum Corp.,TSX Venture Exchange,Materials
+CSE:DWTZ,Data Watts Partners Inc.,Canadian Securities Exchange,
+TSXV:GSTM,Goldstorm Metals Corp.,TSX Venture Exchange,Materials
+TSXV:GX,Guardian Exploration Inc.,TSX Venture Exchange,Energy
+TSXV:LIT,Argentina Lithium & Energy Corp.,TSX Venture Exchange,Materials
+TSXV:OTS.H,Optimus Gold Corp.,TSX Venture Exchange,Materials
+TSXV:VIZ,Visionary Metals Corp.,TSX Venture Exchange,Materials
+CSE:TROY,Troy Minerals Inc.,Canadian Securities Exchange,Materials
+CSE:MOSS,Moss Genomics Inc.,Canadian Securities Exchange,Healthcare
+CSE:ARM,Armada Mercantile Ltd.,Canadian Securities Exchange,Financials
+TSXV:CANX,CANEX Metals Inc.,TSX Venture Exchange,Materials
+CSE:FNI,Fathom Nickel Inc.,Canadian Securities Exchange,Materials
+CSE:SPRK,Spark Energy Minerals Inc.,Canadian Securities Exchange,
+CSE:VSBY,VSBLTY Groupe Technologies Corp.,Canadian Securities Exchange,Technology
+CSE:NORD,Nordique Resources Inc.,Canadian Securities Exchange,Materials
+CSE:REDC,Red Canyon Resources Ltd.,Canadian Securities Exchange,Materials
+TSXV:TELO,Telo Genomics Corp.,TSX Venture Exchange,Healthcare
+TSXV:NRM,Noram Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:CSTR,CryptoStar Corp.,TSX Venture Exchange,Financials
+TSXV:CEC,CanAsia Energy Corp.,TSX Venture Exchange,
+TSXV:WRR,Walker River Resources Corp.,TSX Venture Exchange,Materials
+TSXV:YAY,THS Maple Holdings Ltd.,TSX Venture Exchange,
+TSX:AVNT,Avant Brands Inc.,Toronto Stock Exchange,Healthcare
+CSE:MEO,Cameo Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:RKV,Rakovina Therapeutics Inc.,TSX Venture Exchange,Healthcare
+CSE:BRS,BRS Resources Ltd.,Canadian Securities Exchange,
+TSXV:VIPR,Silver Viper Minerals Corp.,TSX Venture Exchange,Materials
+CSE:BLGV,Belgravia Hartford Capital Inc.,Canadian Securities Exchange,Financials
+TSXV:VLI,Vision Lithium Inc.,TSX Venture Exchange,Materials
+TSXV:UIG,Urban Infrastructure Group Inc.,TSX Venture Exchange,
+TSXV:WGT,Westgate Energy Inc.,TSX Venture Exchange,Energy
+TSXV:AWI,Advent-AWI Holdings Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:ARC,ARCpoint Inc.,TSX Venture Exchange,
+TSXV:FARM,Deveron Corp.,TSX Venture Exchange,Technology
+TSXV:GTC,Getty Copper Inc.,TSX Venture Exchange,Materials
+CSE:EATS,Eat & Beyond Global Holdings Inc.,Canadian Securities Exchange,Financials
+TSX:KLS,Kelso Technologies Inc.,Toronto Stock Exchange,Industrials
+NEO:KNR,Kontrol Technologies Corp.,Cboe Canada,Technology
+CSE:FNQ,Fineqia International Inc.,Canadian Securities Exchange,Financials
+TSXV:WISH,Wishpond Technologies Ltd.,TSX Venture Exchange,Technology
+TSXV:VG,Volcanic Gold Mines Inc.,TSX Venture Exchange,Materials
+TSXV:ACS,Archon Minerals Limited,TSX Venture Exchange,Materials
+TSX:GMTN,Gold Mountain Mining Corp.,Toronto Stock Exchange,Materials
+TSXV:BVA,Bravada Gold Corporation,TSX Venture Exchange,Materials
+CSE:PKK,Tenet Fintech Group Inc.,Canadian Securities Exchange,Technology
+TSXV:DMCU,Domestic Metals Corp.,TSX Venture Exchange,Materials
+TSXV:ICM,Iconic Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:MAX,Max Resource Corp.,TSX Venture Exchange,Materials
+CSE:KAS,Dynamite Blockchain Corp.,Canadian Securities Exchange,
+TSX:FLOW,Flow Beverage Corp.,Toronto Stock Exchange,Consumer Staples
+TSXV:KS,Klondike Silver Corp.,TSX Venture Exchange,Materials
+CSE:IDK,ThreeD Capital Inc.,Canadian Securities Exchange,Financials
+CSE:CLSH,"CLS Holdings USA, Inc.",Canadian Securities Exchange,Healthcare
+TSXV:GCX,Granite Creek Copper Ltd.,TSX Venture Exchange,Materials
+TSX:EGLX,Enthusiast Gaming Holdings Inc.,Toronto Stock Exchange,Communication Services
+CSE:KCLI,American Critical Minerals Corp.,Canadian Securities Exchange,
+CSE:PSE,Pasinex Resources Limited,Canadian Securities Exchange,Materials
+TSXV:RUG,Rugby Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:FRI,Freeport Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PA,Palamina Corp.,TSX Venture Exchange,Materials
+CSE:FNAU,Four Nines Gold Inc.,Canadian Securities Exchange,Materials
+CSE:SYAI,Syntheia Corp.,Canadian Securities Exchange,Technology
+TSXV:LOD,Lode Gold Resources Inc.,TSX Venture Exchange,Materials
+CSE:DCSI,"Direct Communication Solutions, Inc.",Canadian Securities Exchange,Technology
+TSXV:CMC,Cielo Waste Solutions Corp.,TSX Venture Exchange,Industrials
+TSXV:RSMX,Regency Silver Corp.,TSX Venture Exchange,Materials
+CSE:LECR,Leocor Mining Inc.,Canadian Securities Exchange,Materials
+CSE:SPIR,Spirit Blockchain Capital Inc.,Canadian Securities Exchange,Financials
+CSE:WISR,Wisr AI Systems Inc.,Canadian Securities Exchange,
+TSXV:VERT,Vertical Exploration Inc.,TSX Venture Exchange,Materials
+CSE:STGX,StrategX Elements Corp.,Canadian Securities Exchange,Materials
+TSXV:GRG,Golden Arrow Resources Corporation,TSX Venture Exchange,Materials
+TSXV:SRQ,SRQ Resources Inc.,TSX Venture Exchange,
+TSXV:VLD,Vinland Lithium Inc.,TSX Venture Exchange,Materials
+CSE:PLUG,Energy Plug Technologies Corp.,Canadian Securities Exchange,Technology
+CSE:BSKY,BluSky Carbon Inc.,Canadian Securities Exchange,
+TSXV:FMM,Full Metal Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:CPER,CopperCorp Resources Inc.,TSX Venture Exchange,Materials
+TSXV:CEQ,Criterium Energy Ltd.,TSX Venture Exchange,Energy
+TSXV:URZ,URZ3 Energy Corp.,TSX Venture Exchange,
+TSXV:PEX,Pacific Ridge Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:AAZ,Azincourt Energy Corp.,TSX Venture Exchange,Energy
+TSXV:AWX,ArcWest Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:HPL,Horizon Petroleum Ltd.,TSX Venture Exchange,Energy
+CSE:AION,Aion Therapeutic Inc.,Canadian Securities Exchange,Healthcare
+TSXV:XIM,Ximen Mining Corp.,TSX Venture Exchange,Materials
+TSXV:IB,IBC Advanced Alloys Corp.,TSX Venture Exchange,Industrials
+CSE:ULTH,United Lithium Corp.,Canadian Securities Exchange,Materials
+TSXV:HPY,Happy Creek Minerals Ltd.,TSX Venture Exchange,Materials
+TSX:OPT,Optiva Inc.,Toronto Stock Exchange,Technology
+TSXV:TCO,Transatlantic Mining Corp.,TSX Venture Exchange,Materials
+CSE:SALI,SALi Lithium Corp.,Canadian Securities Exchange,
+TSXV:MTT,Magna Terra Minerals Inc.,TSX Venture Exchange,Materials
+CSE:MIRL,Minera IRL Limited,Canadian Securities Exchange,Materials
+TSXV:MGMA,Magma Silver Corp.,TSX Venture Exchange,Materials
+TSXV:INEO,INEO Tech Corp.,TSX Venture Exchange,Communication Services
+TSXV:PE,Pure Energy Minerals Limited,TSX Venture Exchange,Materials
+TSX:BNG,Bengal Energy Ltd.,Toronto Stock Exchange,Energy
+TSXV:SPI,Canadian Spirit Resources Inc.,TSX Venture Exchange,Energy
+TSXV:PCQ,Petrolympic Ltd.,TSX Venture Exchange,Energy
+CSE:MBAI,MedBright AI Investments Inc.,Canadian Securities Exchange,Financials
+TSXV:DSY,Destiny Media Technologies Inc.,TSX Venture Exchange,Technology
+CSE:METG,Metaguest.AI Incorporated,Canadian Securities Exchange,Technology
+NEO:FH,Filament Health Corp.,Cboe Canada,Healthcare
+TSXV:GRDM,Grid Metals Corp.,TSX Venture Exchange,Materials
+CSE:HMLO,Rocky Shore Gold Ltd.,Canadian Securities Exchange,
+CSE:RSG,Rocky Shore Gold Ltd.,Canadian Securities Exchange,
+TSXV:ECOM,EMERGE Commerce Ltd.,TSX Venture Exchange,Consumer Discretionary
+TSXV:STND,Standard Uranium Ltd.,TSX Venture Exchange,Energy
+CSE:BLST,Blast Resources Inc.,Canadian Securities Exchange,Materials
+TSX:CNT,Century Global Commodities Corporation,Toronto Stock Exchange,Consumer Staples
+TSXV:KORE,KORE Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:HC,Hypercharge Networks Corp.,TSX Venture Exchange,Consumer Discretionary
+TSXV:APN,Altiplano Metals Inc.,TSX Venture Exchange,Materials
+TSXV:IBO,Universal Ibogaine Inc.,TSX Venture Exchange,Healthcare
+TSXV:BWLK,Boardwalktech Software Corp.,TSX Venture Exchange,Technology
+TSXV:ELY,Electrum Discovery Corp.,TSX Venture Exchange,Materials
+TSXV:PGC,Plato Gold Corp.,TSX Venture Exchange,Materials
+TSXV:MAR.UN,Marwest Apartment Real Estate Investment Trust,TSX Venture Exchange,Real Estate
+CSE:ISP,Inspiration Energy Corp.,Canadian Securities Exchange,
+CSE:SNA,Star Navigation Systems Group Ltd.,Canadian Securities Exchange,Industrials
+CSE:TONY,Tony G Co-Investment Holdings Ltd.,Canadian Securities Exchange,Technology
+CSE:TCF,Trillion Energy International Inc.,Canadian Securities Exchange,Energy
+TSXV:ILI,Imagine Lithium Inc.,TSX Venture Exchange,Materials
+CSE:FNDX,FendX Technologies Inc.,Canadian Securities Exchange,Materials
+CSE:CRCL,Corcel Exploration Inc.,Canadian Securities Exchange,Materials
+TSXV:ADE,Adex Mining Inc.,TSX Venture Exchange,Materials
+CSE:RI,Royalties Inc.,Canadian Securities Exchange,Materials
+CSE:GSTR,Glenstar Minerals Inc.,Canadian Securities Exchange,Healthcare
+CSE:LOBE,Lobe Sciences Ltd.,Canadian Securities Exchange,Healthcare
+CSE:SE,Sweet Earth Holdings Corporation,Canadian Securities Exchange,Healthcare
+CSE:UUU,Vanguard Mining Corp.,Canadian Securities Exchange,
+TSXV:HVG,Harvest Gold Corporation,TSX Venture Exchange,Materials
+TSXV:TSD,Tsodilo Resources Limited,TSX Venture Exchange,Materials
+TSXV:NZP,Chatham Rock Phosphate Limited,TSX Venture Exchange,Materials
+CSE:HUNT,Gold Hunter Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:CUB,CubicFarm Systems Corp.,TSX Venture Exchange,Industrials
+CSE:CFE,Cartier Silver Corporation,Canadian Securities Exchange,Materials
+CSE:ER,Eagle Royalties Ltd.,Canadian Securities Exchange,Materials
+TSXV:EXG,ExGen Resources Inc.,TSX Venture Exchange,Materials
+TSXV:MBO,Mobio Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:RRR.UN,R&R Real Estate Investment Trust,TSX Venture Exchange,Real Estate
+TSXV:RAGE,Renegade Gold Inc.,TSX Venture Exchange,Materials
+CSE:LUX,Newlox Gold Ventures Corp.,Canadian Securities Exchange,Industrials
+TSXV:VIS,Visionstate Corp.,TSX Venture Exchange,Technology
+TSXV:WPR,CANPR Technology Ltd.,TSX Venture Exchange,
+CSE:HYPE,Hyper Bit Technologies Ltd.,Canadian Securities Exchange,
+TSXV:NBY,Niobay Metals Inc.,TSX Venture Exchange,Materials
+TSXV:YERB.U,Yerbaé Brands Corp.,TSX Venture Exchange,Consumer Staples
+TSXV:EWK,Earthworks Industries Inc.,TSX Venture Exchange,Industrials
+TSXV:DHB,Delivra Health Brands Inc.,TSX Venture Exchange,Healthcare
+CSE:ATHR,"Aether Catalyst Solutions, Inc.",Canadian Securities Exchange,Consumer Discretionary
+TSXV:SCD,Scandium Canada Ltd.,TSX Venture Exchange,Materials
+CSE:GURN,Global Uranium Corp.,Canadian Securities Exchange,
+TSX:BRY,Bri-Chem Corp.,Toronto Stock Exchange,Energy
+TSXV:NBVA,Nubeva Technologies Ltd.,TSX Venture Exchange,Technology
+TSXV:CBLU,Clear Blue Technologies International Inc.,TSX Venture Exchange,Technology
+TSXV:STUD,Stallion Uranium Corp.,TSX Venture Exchange,Materials
+TSXV:ADYA,Adya Inc.,TSX Venture Exchange,Communication Services
+CSE:MUSL,Promino Nutritional Sciences Inc.,Canadian Securities Exchange,
+CSE:TEX,Targa Exploration Corp.,Canadian Securities Exchange,Materials
+TSXV:CANB,CanadaBis Capital Inc.,TSX Venture Exchange,Healthcare
+TSXV:DEAL,Playgon Games Inc.,TSX Venture Exchange,Technology
+TSXV:LMR,Lomiko Metals Inc.,TSX Venture Exchange,Materials
+TSXV:GRI,Galore Resources Inc.,TSX Venture Exchange,Materials
+CSE:VEJI.X,Veji Holdings Ltd.,Canadian Securities Exchange,
+CSE:NTAR,Nextech3D.AI Corporation,Canadian Securities Exchange,Technology
+TSXV:BCU,Bell Copper Corporation,TSX Venture Exchange,Materials
+TSX:APS,Aptose Biosciences Inc.,Toronto Stock Exchange,Healthcare
+TSXV:HAY,Hayasa Metals Inc.,TSX Venture Exchange,Materials
+TSXV:VCT,Volt Carbon Technologies Inc.,TSX Venture Exchange,Materials
+TSXV:CASA,Casa Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:CDA,Canuc Resources Corporation,TSX Venture Exchange,Energy
+TSXV:FIN,Grit Metals Corp.,TSX Venture Exchange,Materials
+CSE:NUR,Nuran Wireless Inc.,Canadian Securities Exchange,Technology
+TSXV:GRAT,Gratomic Inc.,TSX Venture Exchange,Materials
+CSE:AJN,AJN Resources Inc.,Canadian Securities Exchange,Materials
+CSE:HWTN,Hawthorn Resources Corp.,Canadian Securities Exchange,Materials
+CSE:TAAT,TAAT Global Alternatives Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:USCU,US Copper Corp.,TSX Venture Exchange,Materials
+TSXV:RMB,Rumbu Holdings Ltd.,TSX Venture Exchange,Consumer Discretionary
+TSXV:PLA,Plata Latina Minerals Corporation,TSX Venture Exchange,Materials
+TSXV:MNC,Magnetic North Acquisition Corp.,TSX Venture Exchange,Financials
+TSXV:SEND,Sendero Resources Corp.,TSX Venture Exchange,Materials
+TSXV:GXX,Gold Basin Resources Corporation,TSX Venture Exchange,Materials
+CSE:ARQ,Argo Gold Inc.,Canadian Securities Exchange,Materials
+CSE:AYUR,Ayurcann Holdings Corp.,Canadian Securities Exchange,Healthcare
+TSXV:MTLO,Martello Technologies Group Inc.,TSX Venture Exchange,Technology
+TSXV:LNGE,LNG Energy Group Corp.,TSX Venture Exchange,Energy
+TSXV:TIL,Till Capital Corporation,TSX Venture Exchange,Financials
+TSXV:SPC,SPC Nickel Corp.,TSX Venture Exchange,Materials
+CSE:PSYC,Psyched Wellness Ltd.,Canadian Securities Exchange,Consumer Staples
+CSE:TERA,Terra Balcanica Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:RTH,Rathdowney Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:QMC,QMC Quantum Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:NAR,North Arrow Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:RKR,Rokmaster Resources Corp.,TSX Venture Exchange,Materials
+TSXV:OPW,Opawica Explorations Inc.,TSX Venture Exchange,Materials
+CSE:CNCO,Core Nickel Corp.,Canadian Securities Exchange,
+TSXV:NKW.H,Oceanic Wind Energy Inc.,TSX Venture Exchange,Utilities
+CSE:XBLK.X,eXeBlock Technology Corporation,Canadian Securities Exchange,Technology
+CSE:NUE,NU E Power Corp.,Canadian Securities Exchange,
+TSXV:KEN.H,Kenadyr Metals Corp.,TSX Venture Exchange,
+TSX:AAB,Aberdeen International Inc.,Toronto Stock Exchange,Financials
+CSE:PNRG,Pan American Energy Corp.,Canadian Securities Exchange,Materials
+CSE:PMAX,Powermax Minerals Inc.,Canadian Securities Exchange,
+TSXV:NIO,Nio Strategic Metals Inc.,TSX Venture Exchange,Materials
+CSE:VTI,Valdor Technology International Inc.,Canadian Securities Exchange,Technology
+TSXV:STU,Stuhini Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:RLT.P,Railtown Capital Corp.,TSX Venture Exchange,Financials
+CSE:VRTX,Vortex Energy Corp.,Canadian Securities Exchange,Materials
+TSXV:MTX,Metalex Ventures Ltd.,TSX Venture Exchange,Materials
+TSXV:SWLF,Silver Wolf Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:SRA,Stria Lithium Inc.,TSX Venture Exchange,Materials
+CSE:VRAI,XR Immersive Tech Inc.,Canadian Securities Exchange,Technology
+TSXV:CLIC,Comet Lithium Corporation,TSX Venture Exchange,Materials
+CSE:SHOE,Grounded People Apparel Inc.,Canadian Securities Exchange,Consumer Discretionary
+TSXV:AERO,Aero Energy Limited,TSX Venture Exchange,Materials
+TSXV:NTH,Nord Precious Metals Mining Inc.,TSX Venture Exchange,Materials
+CSE:ETR,Etruscus Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:ANOR,AnorTech Inc.,TSX Venture Exchange,
+TSXV:MCS,McChip Resources Inc.,TSX Venture Exchange,Energy
+TSXV:SKP,StrikePoint Gold Inc.,TSX Venture Exchange,Materials
+TSXV:NZ,New Zealand Energy Corp.,TSX Venture Exchange,Energy
+CSE:CXC,CMX Gold & Silver Corp.,Canadian Securities Exchange,Materials
+CSE:EDGM,Edgemont Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:YOO,YANGAROO Inc.,TSX Venture Exchange,Communication Services
+TSXV:TTZ,Total Telcom Inc.,TSX Venture Exchange,Technology
+TSXV:RG,Romios Gold Resources Inc.,TSX Venture Exchange,Materials
+TSX:CRWN,Crown Capital Partners Inc.,Toronto Stock Exchange,Financials
+TSXV:SKRR,SKRR Exploration Inc.,TSX Venture Exchange,Materials
+CSE:HAMR,Silver Hammer Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:TMET,Torr Metals Inc.,TSX Venture Exchange,Materials
+CSE:SUR,Surface Metals Inc.,Canadian Securities Exchange,
+CSE:MYND,MYND Life Sciences Inc.,Canadian Securities Exchange,Healthcare
+CSE:KOG,KO Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:AJA,AJA Health and Wellness Inc.,TSX Venture Exchange,
+TSXV:SDR,Stroud Resources Ltd.,TSX Venture Exchange,Energy
+TSXV:FAS,First Andes Silver Ltd.,TSX Venture Exchange,Materials
+CSE:MSM,Metalsource Mining Inc.,Canadian Securities Exchange,
+CSE:AMMP,AmmPower Corp.,Canadian Securities Exchange,Materials
+CSE:PLAS,PlasCred Circular Innovations Inc.,Canadian Securities Exchange,Industrials
+TSX:WLLW,Willow Biosciences Inc.,Toronto Stock Exchange,Healthcare
+TSXV:WGLD,Western Gold Exploration Ltd.,TSX Venture Exchange,Materials
+TSX:BABY,Else Nutrition Holdings Inc.,Toronto Stock Exchange,Consumer Staples
+CSE:PXI,Planet Ventures Inc.,Canadian Securities Exchange,
+TSXV:AVCR,Avricore Health Inc.,TSX Venture Exchange,Healthcare
+CSE:USCM,US Critical Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:MKR,Melkior Resources Inc.,TSX Venture Exchange,Materials
+CSE:MCL,McLaren Resources Inc.,Canadian Securities Exchange,Materials
+CSE:CTTT,Critical Infrastructure Technologies Ltd.,Canadian Securities Exchange,Technology
+CSE:HML,Heritage Mining Ltd.,Canadian Securities Exchange,Materials
+TSXV:ANTL,Antler Gold Inc.,TSX Venture Exchange,Materials
+CSE:STK,Silverstock Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:XGC,Xali Gold Corp.,TSX Venture Exchange,Materials
+TSXV:BES,Braille Energy Systems Inc.,TSX Venture Exchange,Industrials
+TSXV:PGX,Prosper Gold Corp.,TSX Venture Exchange,Materials
+CSE:SQX,Squatex Energy and Resources Inc.,Canadian Securities Exchange,Energy
+TSXV:GGM,Granada Gold Mine Inc.,TSX Venture Exchange,Materials
+CSE:BBM,Blueberries Medical Corp.,Canadian Securities Exchange,Healthcare
+TSXV:OPHR,Ophir Metals Corp.,TSX Venture Exchange,Materials
+CSE:SKY,Skycap Investment Holdings Inc.,Canadian Securities Exchange,
+TSXV:ORS,Orestone Mining Corp.,TSX Venture Exchange,Materials
+TSXV:ZCT,"Zero Candida Technologies, Inc.",TSX Venture Exchange,Healthcare
+CSE:ZRO,Biosenta Inc.,Canadian Securities Exchange,Consumer Staples
+CSE:EMRG,Emergence Global Enterprises Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:FTI,FTI Foodtech International Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:REX,Orex Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:VLX,Velox Energy Materials Inc.,TSX Venture Exchange,Materials
+TSXV:ALY,AnalytixInsight Inc.,TSX Venture Exchange,Technology
+TSXV:STRM,Storm Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:TWO,T2 Metals Corp.,TSX Venture Exchange,Materials
+TSXV:APX,Apex Resources Inc.,TSX Venture Exchange,Materials
+TSXV:PFC,PetroFrontier Corp.,TSX Venture Exchange,Energy
+TSXV:GGL,GGL Resources Corp.,TSX Venture Exchange,Materials
+TSXV:RUM,Rocky Mountain Liquor Inc.,TSX Venture Exchange,Consumer Discretionary
+CSE:FLM,First Lithium Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:CAN,Canadian Gold Resources Ltd.,TSX Venture Exchange,
+TSXV:OVT,Oculus Inc.,TSX Venture Exchange,Technology
+CSE:NVPC,Nova Pacific Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:CQR,Conquest Resources Limited,TSX Venture Exchange,Materials
+TSXV:WP,Western Pacific Trust Company,TSX Venture Exchange,Financials
+CSE:HTRC,High Tide Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:DGC,Daura Gold Corp.,TSX Venture Exchange,
+CSE:GOH,GoldHaven Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:BTT,Bitterroot Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:KIP,Kiplin Metals Inc.,TSX Venture Exchange,Materials
+CSE:HPSS,Hybrid Power Solutions Inc.,Canadian Securities Exchange,Industrials
+TSXV:JDN,Jayden Resources Inc.,TSX Venture Exchange,Materials
+TSXV:POOL,Pool Safe Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:MEK,Metals Creek Resources Corp.,TSX Venture Exchange,Materials
+TSXV:XTM,Transition Metals Corp.,TSX Venture Exchange,Materials
+TSXV:VZZ,Val-d'Or Mining Corporation,TSX Venture Exchange,Materials
+TSXV:XRTX,XORTX Therapeutics Inc.,TSX Venture Exchange,Healthcare
+CSE:CDN,CDN Maverick Capital Corp.,Canadian Securities Exchange,Materials
+TSXV:PEGA,Pegasus Resources Inc.,TSX Venture Exchange,Materials
+CSE:LIVE,Live Energy Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:PBM,Pacific Bay Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:AUQ,AuQ Gold Mining Inc.,TSX Venture Exchange,Materials
+CSE:FFNT,4Front Ventures Corp.,Canadian Securities Exchange,Healthcare
+CSE:IAI,infinitii ai inc.,Canadian Securities Exchange,Technology
+CSE:RSH,Rush Rare Metals Corp.,Canadian Securities Exchange,Materials
+CSE:ATMY,Antimony Resources Corp.,Canadian Securities Exchange,
+CSE:GCC,Golden Cariboo Resources Ltd.,Canadian Securities Exchange,
+TSXV:COO,Ostrom Climate Solutions Inc.,TSX Venture Exchange,Industrials
+TSXV:BOL,Bold Ventures Inc.,TSX Venture Exchange,Materials
+CSE:QCA,Quinsam Capital Corporation,Canadian Securities Exchange,Financials
+TSXV:EDM,EDM Resources Inc.,TSX Venture Exchange,Materials
+CSE:TTX,Tantalex Lithium Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:MAZ.H,Mazarin Inc.,TSX Venture Exchange,Materials
+TSXV:VENZ,Venzee Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:FAIR,Fairchild Gold Corp.,TSX Venture Exchange,Materials
+TSXV:ENDR,Enduro Metals Corporation,TSX Venture Exchange,Materials
+TSXV:REVO,RevoluGROUP Canada Inc.,TSX Venture Exchange,Technology
+CSE:LUXX,Luxxfolio Holdings Inc.,Canadian Securities Exchange,Financials
+TSXV:AZR,Azarga Metals Corp.,TSX Venture Exchange,Materials
+TSXV:MONT,Montfort Capital Corp.,TSX Venture Exchange,Financials
+TSXV:MRVL,Marvel Biosciences Corp.,TSX Venture Exchange,Healthcare
+TSXV:FWTC,Forward Water Technologies Corp.,TSX Venture Exchange,Utilities
+TSXV:PINN,Pinnacle Silver and Gold Corp.,TSX Venture Exchange,
+CSE:MIS,Mistango River Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:ZBNI,ZEB Nickel Corp.,TSX Venture Exchange,Materials
+TSXV:NOBL,Noble Plains Uranium Corp.,TSX Venture Exchange,Energy
+TSXV:SOLR,Solar Alliance Energy Inc.,TSX Venture Exchange,Technology
+TSXV:RUSH,Carolina Rush Corporation,TSX Venture Exchange,Materials
+TSXV:MARV,Marvel Discovery Corp.,TSX Venture Exchange,Materials
+TSXV:GLDN,Golden Ridge Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:BLUE,Mines D'Or Orbec Inc.,TSX Venture Exchange,Materials
+TSXV:TORA,Taura Gold Inc.,TSX Venture Exchange,Materials
+TSXV:CAI,Capitan Investment Ltd.,TSX Venture Exchange,Energy
+TSXV:MCI,Minnova Corp.,TSX Venture Exchange,Materials
+TSXV:CTV,CleanTech Vanadium Mining Corp.,TSX Venture Exchange,Materials
+TSXV:KWE,KWESST Micro Systems Inc.,TSX Venture Exchange,Industrials
+CSE:NEXU,Nexus Uranium Corp.,Canadian Securities Exchange,
+TSXV:IMPT,Impact Development Group Inc.,TSX Venture Exchange,
+TSXV:EDW.H,Edgewater Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:FP,FP Newspapers Inc.,TSX Venture Exchange,Communication Services
+TSXV:HELI,First Helium Inc.,TSX Venture Exchange,Materials
+TSXV:WBE,WestBond Enterprises Corporation,TSX Venture Exchange,Materials
+TSXV:HEMP,Hempalta Corp.,TSX Venture Exchange,
+CSE:DEMC,Discovery Energy Metals Corp.,Canadian Securities Exchange,
+TSXV:REE,E-Tech Resources Inc.,TSX Venture Exchange,Materials
+TSXV:KGC,Kestrel Gold Inc.,TSX Venture Exchange,Materials
+TSXV:RBZ,Arya Resources Ltd.,TSX Venture Exchange,
+TSXV:SRI,Sparton Resources Inc.,TSX Venture Exchange,Materials
+TSXV:BEA,Belmont Resources Inc.,TSX Venture Exchange,Materials
+TSXV:OC,Olive Resource Capital Inc.,TSX Venture Exchange,Materials
+TSXV:LORD,St. James Gold Corp.,TSX Venture Exchange,Materials
+TSXV:KES,Kesselrun Resources Ltd.,TSX Venture Exchange,Materials
+CSE:ASEP,ASEP Medical Holdings Inc.,Canadian Securities Exchange,Healthcare
+CSE:CME,Canadian Metals Inc.,Canadian Securities Exchange,Materials
+CSE:ANON,Anonymous Intelligence Company Inc.,Canadian Securities Exchange,Technology
+CSE:BATT,Dark Star Minerals Inc.,Canadian Securities Exchange,Materials
+TSXV:BGE,Blue Sky Global Energy Corp.,TSX Venture Exchange,
+CSE:TRG,Tarachi Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:MCM.A,"Matachewan Consolidated Mines, Limited",TSX Venture Exchange,Energy
+TSXV:GQ,Great Quest Gold Ltd.,TSX Venture Exchange,Materials
+CSE:PRR,Prospect Ridge Resources Corp.,Canadian Securities Exchange,Materials
+CSE:LCR,Lancaster Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:GSPR,GSP Resource Corp.,TSX Venture Exchange,Materials
+TSXV:PTFY,"Plantify Foods, Inc.",TSX Venture Exchange,Consumer Staples
+TSXV:TRU,TRU Precious Metals Corp.,TSX Venture Exchange,Materials
+TSXV:COCO,Coast Copper Corp.,TSX Venture Exchange,Materials
+TSXV:ILC,International Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:ZONE,Zonetail Inc.,TSX Venture Exchange,Technology
+TSXV:LMG,Lincoln Gold Mining Inc.,TSX Venture Exchange,Materials
+CSE:WBGD,Waraba Gold Limited,Canadian Securities Exchange,Materials
+CSE:BRCO,Buscando Resources Corp,Canadian Securities Exchange,Materials
+TSXV:HMAN,Huntsman Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:CBI,Colibri Resource Corporation,TSX Venture Exchange,Materials
+CSE:MUZU,Muzhu Mining Ltd.,Canadian Securities Exchange,Materials
+CSE:CQX,Copper Quest Exploration Inc.,Canadian Securities Exchange,
+CSE:RGEN,Regenera Insights Inc.,Canadian Securities Exchange,
+TSXV:RVLY,Rivalry Corp.,TSX Venture Exchange,Consumer Discretionary
+CSE:FGH,Forte Group Holdings Inc.,Canadian Securities Exchange,
+CSE:CRC,Canter Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:MET,Metalore Resources Limited,TSX Venture Exchange,Energy
+TSXV:AISX,Aisix Solutions Inc.,TSX Venture Exchange,Technology
+TSXV:GR,Great Atlantic Resources Corp.,TSX Venture Exchange,Materials
+CSE:GLM,Golden Lake Exploration Inc.,Canadian Securities Exchange,Materials
+TSXV:MAC,THEMAC Resources Group Limited,TSX Venture Exchange,Materials
+CSE:RGX,Regenx Tech Corp.,Canadian Securities Exchange,Materials
+TSXV:REC,Record Resources Inc.,TSX Venture Exchange,Materials
+TSXV:TES,Tesoro Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:KLDC,Kirkland Lake Discoveries Corp.,TSX Venture Exchange,Materials
+CSE:WDGY,Wedgemount Resources Corp.,Canadian Securities Exchange,Energy
+TSXV:SDCU,Sonoran Desert Copper Corporation,TSX Venture Exchange,Materials
+CSE:SPAI,Sparc Al Inc,Canadian Securities Exchange,Technology
+TSXV:BGF,Beauce Gold Fields Inc.,TSX Venture Exchange,Materials
+CSE:TRAI,Trilogy AI Corp.,Canadian Securities Exchange,
+NEO:TILT,TILT Holdings Inc.,Cboe Canada,Healthcare
+TSXV:STMP,Stamper Oil & Gas Corp.,TSX Venture Exchange,Energy
+CSE:QMET,Q Precious & Battery Metals Corp.,Canadian Securities Exchange,Materials
+CSE:ATCM,Atco Mining Inc.,Canadian Securities Exchange,Materials
+TSXV:BKMT,Blockmint Technologies Inc.,TSX Venture Exchange,Financials
+CSE:PMED,Predictmedix AI Inc.,Canadian Securities Exchange,Healthcare
+TSXV:SAO,South Atlantic Gold Inc.,TSX Venture Exchange,Materials
+CSE:SRS,Sorrento Resources Ltd.,Canadian Securities Exchange,Materials
+CSE:SGRO,Sierra Grande Minerals Inc.,Canadian Securities Exchange,Materials
+CSE:ACDX,American Copper Development Corporation,Canadian Securities Exchange,Materials
+CSE:NWAI,New Wave Holdings Corp.,Canadian Securities Exchange,
+CSE:PRCG,Precore Gold Corp.,Canadian Securities Exchange,
+TSX:AUMN,Golden Minerals Company,Toronto Stock Exchange,Materials
+TSXV:SXL,Slam Exploration Ltd.,TSX Venture Exchange,Materials
+CSE:RFR,Renforth Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:GKO,Geekco Technologies Corporation,TSX Venture Exchange,Communication Services
+TSXV:CYL,Ceylon Graphite Corp.,TSX Venture Exchange,Materials
+TSXV:VMS,Vortex Metals Inc.,TSX Venture Exchange,Materials
+TSXV:SAY,Sparta Capital Ltd.,TSX Venture Exchange,Industrials
+CSE:YORK,York Harbour Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:OLV,Olivut Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:TBIX,TrustBIX Inc.,TSX Venture Exchange,Technology
+TSXV:AMZ,Azucar Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:MERC,Mercado Minerals Ltd.,Canadian Securities Exchange,
+TSXV:PRH,Pearl River Holdings Limited,TSX Venture Exchange,Consumer Discretionary
+CSE:CC,Core Silver Corp.,Canadian Securities Exchange,Materials
+TSXV:DEC,Decade Resources Ltd.,TSX Venture Exchange,Materials
+NEO:CDMN,Canadian Manganese Company Inc.,Cboe Canada,Materials
+TSXV:ATI,Altai Resources Inc.,TSX Venture Exchange,Energy
+TSXV:ZON,Zonte Metals Inc.,TSX Venture Exchange,Materials
+TSXV:MGC.H,Midasco Capital Corp.,TSX Venture Exchange,Financials
+CSE:TCEC,Terra Clean Energy Corp.,Canadian Securities Exchange,Energy
+TSXV:VTT,Vendetta Mining Corp.,TSX Venture Exchange,Materials
+TSXV:APL,Appulse Corporation,TSX Venture Exchange,Industrials
+TSXV:NUG,NuLegacy Gold Corporation,TSX Venture Exchange,Materials
+TSXV:EGT,Eguana Technologies Inc.,TSX Venture Exchange,Industrials
+TSXV:PHA,Premier Health of America Inc.,TSX Venture Exchange,Healthcare
+TSXV:IVX,Inventronics Limited,TSX Venture Exchange,Industrials
+CSE:OMGA,Omega Pacific Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:LOT,TomaGold Corporation,TSX Venture Exchange,Materials
+TSXV:WATR,Current Water Technologies Inc.,TSX Venture Exchange,Industrials
+TSXV:VLV.H,Venerable Ventures Ltd.,TSX Venture Exchange,
+TSXV:TPC,Tenth Avenue Petroleum Corp.,TSX Venture Exchange,Energy
+TSXV:LBI,Lions Bay Capital Inc.,TSX Venture Exchange,Financials
+TSXV:PAT,Patterson Metals Corp.,TSX Venture Exchange,
+TSXV:KOVO,Kovo+ Holdings Inc.,TSX Venture Exchange,Healthcare
+TSXV:RNCH,Ranchero Gold Corp.,TSX Venture Exchange,Materials
+CSE:NCLR,Basin Uranium Corp.,Canadian Securities Exchange,Materials
+CSE:CRUZ,Cruz Battery Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:PEMC,Pacific Empire Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:ESE,ESE Entertainment Inc.,TSX Venture Exchange,Communication Services
+CSE:QBAT,Quantum Battery Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:AME,Abacus Mining & Exploration Corporation,TSX Venture Exchange,Materials
+CSE:NBRK,New Break Resources Ltd.,Canadian Securities Exchange,Materials
+TSXV:GCOM,Green Shift Commodities Ltd.,TSX Venture Exchange,Materials
+TSXV:MNRG,Monumental Energy Corp.,TSX Venture Exchange,Materials
+CSE:BVCI,Blockchain Venture Capital Inc.,Canadian Securities Exchange,Technology
+TSXV:ISGI,InsuraGuest Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:NEV,Nevada Sunrise Metals Corporation,TSX Venture Exchange,Materials
+CSE:TMIN,Teako Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:GZD,Grizzly Discoveries Inc.,TSX Venture Exchange,Materials
+TSXV:ASL,Argentum Silver Corp.,TSX Venture Exchange,Materials
+CSE:DMED,Diagnamed Holdings Corp.,Canadian Securities Exchange,Healthcare
+CSE:DST,Dundee Sustainable Technologies Inc.,Canadian Securities Exchange,Industrials
+TSXV:ACU,Aurora Solar Technologies Inc.,TSX Venture Exchange,Technology
+CSE:CK,Cascadia Blockchain Group Corp.,Canadian Securities Exchange,Technology
+TSXV:FNR,49 North Resources Inc.,TSX Venture Exchange,Financials
+TSXV:TBLL,Tombill Mines Limited,TSX Venture Exchange,Materials
+TSXV:EFF,1844 Resources Inc.,TSX Venture Exchange,Materials
+CSE:PUMP,Stock Trend Capital Inc.,Canadian Securities Exchange,Financials
+CSE:SXTY,Sixty North Gold Mining Ltd.,Canadian Securities Exchange,Materials
+TSXV:WSK,Wildsky Resources Inc.,TSX Venture Exchange,Materials
+CSE:GGC,Generic Gold Corp.,Canadian Securities Exchange,Materials
+CSE:COMT,Collective Metals Inc.,Canadian Securities Exchange,Materials
+CSE:PRIZ,Prismo Metals Inc.,Canadian Securities Exchange,Materials
+CSE:HERB,Herbal Dispatch Inc.,Canadian Securities Exchange,Healthcare
+CSE:RGLD,Red Lake Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:CRI,Churchill Resources Inc.,TSX Venture Exchange,Materials
+TSXV:FMN,Fidelity Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:SGZ,Sego Resources Inc.,TSX Venture Exchange,Materials
+TSXV:SSE,Silver Spruce Resources Inc.,TSX Venture Exchange,Materials
+CSE:NSG,Northstar Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:AWM,Angel Wing Metals Inc.,TSX Venture Exchange,Materials
+CSE:SCYB,Scryb Inc.,Canadian Securities Exchange,Technology
+CSE:LABZ,Metasphere Labs Inc.,Canadian Securities Exchange,
+TSXV:MTB,MTB Metals Corp.,TSX Venture Exchange,Materials
+CSE:SK,Rottenstone Gold Inc.,Canadian Securities Exchange,
+TSXV:PWH,PureWave Hydrogen Corp.,TSX Venture Exchange,Energy
+TSXV:MUR,Murchison Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:BGLD,Boreal Gold Inc.,Canadian Securities Exchange,
+TSXV:EW,East West Petroleum Corp.,TSX Venture Exchange,Energy
+TSXV:BGD,Bullion Gold Resources Corp.,TSX Venture Exchange,Materials
+TSXV:GHR.H,Golden Harp Resources Inc.,TSX Venture Exchange,
+TSXV:PER,Peruvian Metals Corp.,TSX Venture Exchange,Materials
+TSXV:CGD,Carlin Gold Corporation,TSX Venture Exchange,Materials
+TSXV:NBLC,Nobel Resources Corp.,TSX Venture Exchange,Materials
+TSXV:USHA,Usha Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:TIE,Coloured Ties Capital Inc.,TSX Venture Exchange,Financials
+TSXV:GLD,Gold Finder Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:LITT,Right Season Investments Corp.,TSX Venture Exchange,Financials
+CSE:XRI,Xcite Resources Inc.,Canadian Securities Exchange,Materials
+CSE:NEVI,Nevis Brands Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:CBLT,CBLT Inc.,TSX Venture Exchange,Materials
+TSXV:IZN,InZinc Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:XND,Xander Resources Inc.,TSX Venture Exchange,Materials
+TSXV:SPX,Stellar AfricaGold Inc.,TSX Venture Exchange,Materials
+TSXV:DFR,DFR Gold Inc.,TSX Venture Exchange,Materials
+TSXV:WFLD,Wellfield Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:GMI,Green Mining Innovation Inc.,TSX Venture Exchange,Materials
+TSXV:DOS,Dios Exploration Inc.,TSX Venture Exchange,Materials
+CSE:STWO,S2 Minerals Inc.,Canadian Securities Exchange,Materials
+CSE:QREE,Quebec Rare Earth Elements Corp.,Canadian Securities Exchange,
+TSXV:BRED,Purebread Brands Inc.,TSX Venture Exchange,
+TSXV:KSM,Kirkstone Metals Corp.,TSX Venture Exchange,Energy
+TSXV:CCD,Cascadero Copper Corporation,TSX Venture Exchange,Materials
+CSE:GLDR,Golden Rapture Mining Corporation,Canadian Securities Exchange,
+TSXV:CIO,Central Iron Ore Limited,TSX Venture Exchange,Materials
+CSE:UUSA,Kraken Energy Corp.,Canadian Securities Exchange,Materials
+TSXV:STNG,Stinger Resources Inc.,TSX Venture Exchange,Materials
+TSXV:ROI,Route1 Inc.,TSX Venture Exchange,Technology
+TSXV:VGD,Visible Gold Mines Inc.,TSX Venture Exchange,Materials
+TSXV:OEG.H,ONEnergy Inc.,TSX Venture Exchange,
+CSE:XBRA,Xebra Brands Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:PVIS,Parvis Invest Inc.,TSX Venture Exchange,Financials
+TSXV:BM,BC Moly Ltd.,TSX Venture Exchange,Materials
+TSXV:SIEN,Sienna Resources Inc.,TSX Venture Exchange,Materials
+CSE:BYRG,Bayridge Resources Corp.,Canadian Securities Exchange,
+TSXV:NXO,NexOptic Technology Corp.,TSX Venture Exchange,Technology
+TSXV:NL,Northern Lion Gold Corp.,TSX Venture Exchange,Materials
+CSE:GPO,Gold Port Corporation,Canadian Securities Exchange,Materials
+CSE:WHIP,Credissential Inc.,Canadian Securities Exchange,Technology
+TSXV:WCE,WesCan Energy Corp.,TSX Venture Exchange,Energy
+CSE:UBQ,Ubique Minerals Limited,Canadian Securities Exchange,Materials
+TSXV:SILV,Silver Valley Metals Corp.,TSX Venture Exchange,Materials
+CSE:SPMT,Spearmint Resources Inc.,Canadian Securities Exchange,Materials
+CSE:BRCH,Birchtree Investments Ltd.,Canadian Securities Exchange,Financials
+CSE:SCV,Scotch Creek Ventures Inc.,Canadian Securities Exchange,Materials
+TSXV:NICN,NiCAN Limited,TSX Venture Exchange,Materials
+TSXV:CHS,"Comprehensive Healthcare Systems, Inc.",TSX Venture Exchange,Healthcare
+TSXV:NIKL.H,GK Resources Ltd.,TSX Venture Exchange,
+CSE:AGC,Avanti Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:GCN,Goldcliff Resource Corporation,TSX Venture Exchange,Materials
+TSXV:PLY,Playfair Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:MERG,Metal Energy Corp.,TSX Venture Exchange,Materials
+TSXV:FTEC,Fintech Select Ltd.,TSX Venture Exchange,Technology
+CSE:LTHM,Champion Electric Metals Inc.,Canadian Securities Exchange,Materials
+CSE:BPAI,BrandPilot AI Inc.,Canadian Securities Exchange,
+TSXV:MSP,Minaean SP Construction Corp.,TSX Venture Exchange,Industrials
+TSXV:ZFR,Zephyr Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:YTY,Wi2Wi Corporation,TSX Venture Exchange,Technology
+TSX:FLNT,Flint Corp.,Toronto Stock Exchange,Energy
+CSE:MBIO,MindBio Therapeutics Corp.,Canadian Securities Exchange,Healthcare
+TSXV:SSA,Spectra Products Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:CTA,Centaurus Energy Inc.,TSX Venture Exchange,Energy
+TSXV:CPL,Copper Lake Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:DNO,Dinero Ventures Ltd.,TSX Venture Exchange,
+TSXV:SOP.H,SOPerior Fertilizer Corp.,TSX Venture Exchange,
+TSXV:NVI,Novra Technologies Inc.,TSX Venture Exchange,Technology
+TSXV:VRR,VR Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:NVX,NV Gold Corporation,TSX Venture Exchange,Materials
+TSXV:MLO,Metalero Mining Corp.,TSX Venture Exchange,Materials
+CSE:NURL,Neural Therapeutics Inc.,Canadian Securities Exchange,
+CSE:AFI,Affinor Growers Inc.,Canadian Securities Exchange,Consumer Staples
+CSE:HARY,Harrys Manufacturing Inc.,Canadian Securities Exchange,Consumer Staples
+CSE:NIC,Delota Corp.,Canadian Securities Exchange,Healthcare
+TSXV:SPZ,SuperBuzz Inc.,TSX Venture Exchange,
+TSXV:ION,Lithium ION Energy Ltd.,TSX Venture Exchange,Materials
+TSX:SMC,Sulliden Mining Capital Inc.,Toronto Stock Exchange,Materials
+TSXV:BMV,Bathurst Metals Corp.,TSX Venture Exchange,Materials
+TSXV:ORCL,Oracle Commodity Holding Corp.,TSX Venture Exchange,
+CSE:TRAC,Traction Uranium Corp.,Canadian Securities Exchange,Materials
+TSXV:ADZ,Adamera Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:MINK,Mink Ventures Corporation,TSX Venture Exchange,Financials
+TSXV:KTRI,Kootenay Resources Inc.,TSX Venture Exchange,Materials
+TSXV:SVG,Silver Grail Resources Ltd.,TSX Venture Exchange,Materials
+CSE:DSAI,DeepSpatial Inc.,Canadian Securities Exchange,Technology
+TSXV:SGE,Strategem Capital Corporation,TSX Venture Exchange,Financials
+CSE:AWLI,Ameriwest Lithium Inc.,Canadian Securities Exchange,Materials
+TSXV:MASS,Masivo Silver Corp.,TSX Venture Exchange,Materials
+CSE:KASH,Intellabridge Technology Corp.,Canadian Securities Exchange,Technology
+CSE:MOC,Mosaic Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:DLC,DLC Holdings Corp.,TSX Venture Exchange,Real Estate
+TSXV:MUSH,Mercanto Holdings Inc.,TSX Venture Exchange,Healthcare
+TSXV:FV.H,Firestone Ventures Inc.,TSX Venture Exchange,
+CSE:MOOO,Bettermoo(d) Food Corporation,Canadian Securities Exchange,Consumer Staples
+CSE:HEAL,Restart Life Sciences Corp.,Canadian Securities Exchange,
+TSXV:DMI,Diamcor Mining Inc.,TSX Venture Exchange,Materials
+CSE:NWI,Nuinsco Resources Limited,Canadian Securities Exchange,Materials
+CSE:SHOW,Showcase Minerals Inc.,Canadian Securities Exchange,Materials
+CSE:ORGN,Origen Resources Inc.,Canadian Securities Exchange,Materials
+CSE:BULL,Quest Critical Metals Inc.,Canadian Securities Exchange,Materials
+CSE:TGIF,1933 Industries Inc.,Canadian Securities Exchange,Healthcare
+TSXV:SPD,Silver Predator Corp.,TSX Venture Exchange,Materials
+TSX:MKZ.UN,Mackenzie Master Limited Partnership,Toronto Stock Exchange,Financials
+TSXV:SAF,Seasif Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:LFST,Lifeist Wellness Inc.,TSX Venture Exchange,Healthcare
+CSE:LITS,Lithos Group Ltd.,Canadian Securities Exchange,Materials
+CSE:AGN,Algernon Pharmaceuticals Inc.,Canadian Securities Exchange,Healthcare
+TSXV:SAT,Asian Television Network International Limited,TSX Venture Exchange,Communication Services
+TSXV:LEXI,Lithium Energi Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:EVER,Evergold Corp.,TSX Venture Exchange,Materials
+CSE:FFF,55 North Mining Inc.,Canadian Securities Exchange,Materials
+TSXV:GAB,Gabo Mining Ltd.,TSX Venture Exchange,Materials
+TSXV:GRD,Grounded Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:ADD,Arctic Star Exploration Corp.,TSX Venture Exchange,Materials
+CSE:GBC,GreenBank Capital Inc.,Canadian Securities Exchange,Financials
+CSE:VLTA,Volta Metals Ltd.,Canadian Securities Exchange,Materials
+CSE:TAI,Talmora Diamond Inc.,Canadian Securities Exchange,Materials
+TSXV:GEMC,Global Energy Metals Corporation,TSX Venture Exchange,Materials
+TSXV:WINS,Winshear Gold Corp.,TSX Venture Exchange,Materials
+TSXV:ZCC.H,Zena Mining Corp.,TSX Venture Exchange,Materials
+CSE:GLDS,Golden Spike Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:AGT,Applied Graphite Technologies Corporation,TSX Venture Exchange,Materials
+CSE:HZ,Hertz Energy Inc.,Canadian Securities Exchange,Materials
+CSE:GOAT,GOAT Industries Ltd.,Canadian Securities Exchange,Financials
+CSE:MBL,Mabel Ventures Inc.,Canadian Securities Exchange,
+CSE:ROAD,Mineral Road Discovery Inc.,Canadian Securities Exchange,
+TSXV:CRB,Cariboo Rose Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:BLDS,Badlands Resources Inc.,TSX Venture Exchange,Materials
+TSXV:NTE,Network Media Group Inc.,TSX Venture Exchange,Communication Services
+CSE:NIX,NorthX Nickel Corp.,Canadian Securities Exchange,
+CSE:CVGR,City View Green Holdings Inc.,Canadian Securities Exchange,Healthcare
+TSXV:RV,Pathfinder Ventures Inc.,TSX Venture Exchange,Consumer Discretionary
+TSXV:BITK,BlockchainK2 Corp.,TSX Venture Exchange,Technology
+TSXV:ARL,Aurum Lake Mining Corporation,TSX Venture Exchange,Financials
+TSXV:CBA,Champion Bear Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:FA,Fountain Asset Corp.,TSX Venture Exchange,Financials
+CSE:SHP,Shoal Point Energy Ltd.,Canadian Securities Exchange,Energy
+CSE:WMC,Westmount Minerals Corp.,Canadian Securities Exchange,Materials
+CSE:MLKM,Mayo Lake Minerals Inc.,Canadian Securities Exchange,Materials
+TSXV:JADE,Jade Leader Corp.,TSX Venture Exchange,Materials
+TSXV:TGX,TGX Energy & Resources Inc.,TSX Venture Exchange,Materials
+TSXV:ABZ,AsiaBaseMetals Inc.,TSX Venture Exchange,Materials
+CSE:CMET,Clarity Metals Corp.,Canadian Securities Exchange,Materials
+CSE:VENI,Vencanna Ventures Inc.,Canadian Securities Exchange,Healthcare
+CSE:ERKA,Eureka Lithium Corp.,Canadian Securities Exchange,Materials
+TSXV:ERA,Elcora Advanced Materials Corp.,TSX Venture Exchange,Materials
+CSE:HRO,Hero Innovation Group Inc.,Canadian Securities Exchange,Technology
+CSE:ASHL,Ashley Gold Corp.,Canadian Securities Exchange,Materials
+CSE:PNGC,Loyalist Exploration Limited,Canadian Securities Exchange,Materials
+CSE:GSRI,Golden Shield Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:MMM,Minco Capital Corp.,TSX Venture Exchange,Financials
+CSE:ELEM,Element79 Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:JTC,JEMTEC Inc.,TSX Venture Exchange,Technology
+CSE:SASQ,Sasquatch Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:TRS,Tres-Or Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:WLR,Walker Lane Resources Ltd.,TSX Venture Exchange,Materials
+CSE:ALMA,Alma Gold Inc.,Canadian Securities Exchange,Materials
+CSE:OWLI,One World Lithium Inc.,Canadian Securities Exchange,Materials
+CSE:EOM,Eco Oro Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:BAG,Blende Silver Corp.,TSX Venture Exchange,Materials
+TSXV:GOOD,Good Gamer Entertainment Inc.,TSX Venture Exchange,Communication Services
+TSXV:GUG,Gungnir Resources Inc.,TSX Venture Exchange,Materials
+CSE:EPR,E-Power Resources Inc,Canadian Securities Exchange,Materials
+TSXV:IZZ,International Prospect Ventures Ltd.,TSX Venture Exchange,Materials
+CSE:PLAY,Playground Ventures Inc.,Canadian Securities Exchange,Communication Services
+CSE:UX,Puranium Energy Ltd.,Canadian Securities Exchange,Materials
+TSXV:ODX.H,Odyssey Resources Limited,TSX Venture Exchange,Materials
+TSXV:TR,Troubadour Resources Inc.,TSX Venture Exchange,Materials
+CSE:READ,Legible Inc.,Canadian Securities Exchange,Communication Services
+TSXV:DM,Datametrex AI Limited,TSX Venture Exchange,Technology
+CSE:CISC,Ciscom Corp.,Canadian Securities Exchange,Technology
+TSXV:GENX,Genix Pharmaceuticals Corporation,TSX Venture Exchange,Healthcare
+TSXV:EMR,Emergent Metals Corp.,TSX Venture Exchange,Materials
+CSE:RAIN,Rain City Resources Inc.,Canadian Securities Exchange,Industrials
+TSXV:TTG,Trans Canada Gold Corp.,TSX Venture Exchange,Energy
+CSE:CRCC,Copland Road Capital Corporation,Canadian Securities Exchange,Healthcare
+CSE:ALE,Alerio Gold Corp.,Canadian Securities Exchange,Materials
+CSE:MYTC,MyndTec Inc.,Canadian Securities Exchange,Healthcare
+TSXV:MTH,Mammoth Resources Corp.,TSX Venture Exchange,Materials
+CSE:BY,Beyond Lithium Inc.,Canadian Securities Exchange,Materials
+TSXV:RPP,Regent Pacific Properties Inc.,TSX Venture Exchange,Real Estate
+TSXV:CBV,Cobra Venture Corporation,TSX Venture Exchange,Energy
+CSE:TGLD,Torrent Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:BECN,Beacn Wizardry and Magic Inc.,TSX Venture Exchange,Technology
+CSE:PBF,Planet Based Foods Global Inc.,Canadian Securities Exchange,Healthcare
+TSXV:CMIL,Capella Minerals Limited,TSX Venture Exchange,Materials
+TSXV:AUEN,Golden Sky Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:ALM,Alliance Mining Corp.,TSX Venture Exchange,Materials
+TSXV:IMC,Ibero Mining Corp.,TSX Venture Exchange,
+TSXV:ELL,Everybody Loves Languages Corp.,TSX Venture Exchange,Consumer Staples
+CSE:GDN,Golden Age Exploration Ltd.,Canadian Securities Exchange,Materials
+CSE:BOOM,Galloper Gold Corp.,Canadian Securities Exchange,
+CSE:LP,Leopard Lake Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:MT,M3 Metals Corp.,TSX Venture Exchange,Materials
+TSXV:MVY,Moovly Media Inc.,TSX Venture Exchange,Technology
+CSE:EAGL,EagleOne Metals Corporation,Canadian Securities Exchange,
+TSXV:CLM,Consolidated Lithium Metals Inc.,TSX Venture Exchange,Materials
+TSXV:ALTU,Altura Energy Corp.,TSX Venture Exchange,Energy
+CSE:GMC,Germanium Mining Corp.,Canadian Securities Exchange,
+TSXV:EKG,"CardioComm Solutions, Inc.",TSX Venture Exchange,Healthcare
+TSXV:KTR,Kintavar Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:AWE,Thunderstruck Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:PNN,Pambili Natural Resources Corporation,TSX Venture Exchange,Energy
+TSXV:ULT,Ultra Lithium Inc.,TSX Venture Exchange,Materials
+TSXV:MINE,Inomin Mines Inc.,TSX Venture Exchange,Materials
+CSE:CAPR,Caprock Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:JTWO,J2 Metals Inc.,TSX Venture Exchange,
+TSXV:SIQ.H,SiQ Mountain Industries Inc.,TSX Venture Exchange,
+CSE:BYT,BYT Holdings Ltd.,Canadian Securities Exchange,Industrials
+TSXV:GHL,Goldhills Holding Ltd.,TSX Venture Exchange,Materials
+TSXV:GVR,Grosvenor Resource Corporation,TSX Venture Exchange,Materials
+TSXV:FUSE,Fuse Battery Metals Inc.,TSX Venture Exchange,Materials
+TSXV:WGF,Wescan Goldfields Inc.,TSX Venture Exchange,Materials
+CSE:CODEX,Cypher Metaverse Inc.,Canadian Securities Exchange,
+TSXV:LPK,Lupaka Gold Corp.,TSX Venture Exchange,Materials
+CSE:NLR,Northern Lights Resources Corp.,Canadian Securities Exchange,Materials
+CSE:CULT,Cult Food Science Corp.,Canadian Securities Exchange,Consumer Staples
+TSXV:EGM,EnGold Mines Ltd.,TSX Venture Exchange,Materials
+TSXV:BP.H,Backstageplay Inc.,TSX Venture Exchange,
+CSE:HARD,Hardcore Discoveries Ltd.,Canadian Securities Exchange,
+CSE:ADON,Adonis Minerals Corp.,Canadian Securities Exchange,
+CSE:MOLT,Molten Metals Corp,Canadian Securities Exchange,Materials
+TSXV:SMRV,Smooth Rock Ventures Corp.,TSX Venture Exchange,Materials
+CSE:ADP,Adelphi Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:GEN,Generation Uranium Inc.,TSX Venture Exchange,
+TSXV:TAB.H,Tablas Ventures Corp.,TSX Venture Exchange,
+CSE:PGR,Planet Green Metals Inc.,Canadian Securities Exchange,
+TSXV:AML,Akwaaba Mining Ltd.,TSX Venture Exchange,Materials
+CSE:CCC,Carlyle Commodities Corp.,Canadian Securities Exchange,Materials
+TSXV:MDM,Madoro Metals Corp.,TSX Venture Exchange,Materials
+TSXV:GDX,Goldex Resources Corporation,TSX Venture Exchange,Materials
+TSX:APLI,Appili Therapeutics Inc.,Toronto Stock Exchange,Healthcare
+CSE:ABND,Abound Energy Inc.,Canadian Securities Exchange,
+TSXV:ACDC,AC/DC Battery Metals Inc.,TSX Venture Exchange,
+TSXV:BAV.H,Bravern Ventures Ltd.,TSX Venture Exchange,Financials
+CSE:LION,Global Li-Ion Graphite Corp.,Canadian Securities Exchange,Materials
+TSXV:EDDY,Edison Lithium Corp.,TSX Venture Exchange,Materials
+CSE:NERD,Nerds on Site Inc.,Canadian Securities Exchange,Technology
+TSXV:NGY,Nexera Energy Inc.,TSX Venture Exchange,Energy
+CSE:CBP,Certive Solutions Inc.,Canadian Securities Exchange,Healthcare
+CSE:APP,Global Compliance Applications Corp.,Canadian Securities Exchange,Technology
+CSE:ARMY,Armory Mining Corp.,Canadian Securities Exchange,
+TSXV:ZC,Zimtu Capital Corp.,TSX Venture Exchange,Financials
+TSXV:FG,Falcon Gold Corp.,TSX Venture Exchange,Materials
+TSXV:VRB,Vanadiumcorp Resource Inc.,TSX Venture Exchange,Materials
+CSE:BBRD,Blackbird Critical Metals Corp.,Canadian Securities Exchange,
+TSXV:WKG,WestKam Gold Corp.,TSX Venture Exchange,Materials
+CSE:QQ,Quizam Media Corporation,Canadian Securities Exchange,Communication Services
+CSE:OIL,Permex Petroleum Corporation,Canadian Securities Exchange,Energy
+CSE:GCP,Golcap Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:SMR.H,Shine Minerals Corp.,TSX Venture Exchange,
+TSXV:POR,Portofino Resources Inc.,TSX Venture Exchange,Materials
+TSXV:MQM,MetalQuest Mining Inc.,TSX Venture Exchange,Materials
+CSE:CGII,CleanGo Innovations Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:DCOP,District Copper Corp.,TSX Venture Exchange,Materials
+CSE:BDR,Bird River Resources Inc.,Canadian Securities Exchange,Energy
+CSE:GOR,Goldrea Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:JEC,Jura Energy Corporation,TSX Venture Exchange,Energy
+TSXV:BGS,Baroyeca Gold & Silver Inc.,TSX Venture Exchange,Materials
+CSE:SURE,SureNano Science Ltd.,Canadian Securities Exchange,Materials
+CSE:BHCC,Blue Horizon Global Capital Corp.,Canadian Securities Exchange,
+CSE:TIM.X,QNB Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:RYO,Rio Silver Inc.,TSX Venture Exchange,Materials
+CSE:QNI,Québec Nickel Corp.,Canadian Securities Exchange,Materials
+CSE:POWR,POWR Lithium Corp.,Canadian Securities Exchange,Materials
+TSXV:GSS,Gossan Resources Limited,TSX Venture Exchange,Materials
+CSE:SLZ,Slave Lake Zinc Corp.,Canadian Securities Exchange,Materials
+TSXV:RMI,Ridgestone Mining Inc.,TSX Venture Exchange,Materials
+CSE:SPOD,Spod Lithium Corp.,Canadian Securities Exchange,Materials
+TSXV:SKYG,Sky Gold Corp.,TSX Venture Exchange,Materials
+CSE:UAV,Global UAV Technologies Ltd.,Canadian Securities Exchange,Technology
+CSE:BITE,Blender Bites Limited,Canadian Securities Exchange,Consumer Staples
+TSXV:CHY.H,Cypress Hills Resource Corp.,TSX Venture Exchange,Energy
+CSE:JBR,James Bay Resources Limited,Canadian Securities Exchange,Energy
+TSXV:NSU,North Shore Uranium Ltd.,TSX Venture Exchange,Energy
+TSXV:CUEX,CopperEx Resources Corporation,TSX Venture Exchange,Materials
+CSE:CODE.X,Cypher Metaverse Inc.,Canadian Securities Exchange,
+CSE:OVAT,Ovation Science Inc.,Canadian Securities Exchange,Healthcare
+TSXV:CLV,Canoe Mining Ventures Corp.,TSX Venture Exchange,Materials
+TSXV:PRS.H,Prism Resources Inc.,TSX Venture Exchange,
+TSXV:MEX,Mexican Gold Mining Corp.,TSX Venture Exchange,Materials
+TSXV:HANS,Hanstone Gold Corp.,TSX Venture Exchange,Materials
+TSXV:FFP,Consolidated Firstfund Capital Corp.,TSX Venture Exchange,Financials
+TSXV:ETF,Eastfield Resources Ltd.,TSX Venture Exchange,Materials
+CSE:RFLX,Reflex Advanced Materials Corp.,Canadian Securities Exchange,Materials
+TSXV:ROVR,Rover Critical Minerals Corp.,TSX Venture Exchange,Materials
+CSE:TEMP,Tempus Capital Inc.,Canadian Securities Exchange,Real Estate
+TSXV:ICON,International Iconic Gold Exploration Corp.,TSX Venture Exchange,Materials
+CSE:PLTO,Pluto Ventures Inc.,Canadian Securities Exchange,
+CSE:AIG,Genesis AI Corp.,Canadian Securities Exchange,Technology
+CSE:MYR,Meryllion Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:NXS,Nexus Gold Corp.,TSX Venture Exchange,Materials
+CSE:MONI,Global Tactical Metals Corp.,Canadian Securities Exchange,
+CSE:CPTR,Captor Capital Corp.,Canadian Securities Exchange,Healthcare
+CSE:WSR,Western Star Resources Inc.,Canadian Securities Exchange,Materials
+CSE:BURY,Burrell Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:ID,Identillect Technologies Corp.,TSX Venture Exchange,Technology
+TSXV:OEC.H,Oracle Energy Corp.,TSX Venture Exchange,
+TSXV:GEL,Graphano Energy Ltd.,TSX Venture Exchange,Materials
+TSXV:RJX.A,RJK Explorations Ltd.,TSX Venture Exchange,Materials
+TSXV:ALT,Alturas Minerals Corp.,TSX Venture Exchange,Materials
+CSE:MOOD,Doseology Sciences Inc.,Canadian Securities Exchange,Healthcare
+CSE:HECO,Global Helium Corp.,Canadian Securities Exchange,Materials
+TSXV:RTE,Route 109 Resources Inc.,TSX Venture Exchange,Materials
+TSXV:IRI,IEMR Resources Inc.,TSX Venture Exchange,Materials
+CSE:NOP,Nevada Organic Phosphate Inc.,Canadian Securities Exchange,Materials
+TSXV:BRTA.H,Beretta Ventures Ltd.,TSX Venture Exchange,
+TSXV:IMR,iMetal Resources Inc.,TSX Venture Exchange,Materials
+CSE:PSYG,Psyence Group Inc.,Canadian Securities Exchange,Healthcare
+CSE:STRC.X,Street Capital Inc.,Canadian Securities Exchange,
+TSXV:GNG,Golden Goliath Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:ENEV,Enerev5 Metals Inc.,TSX Venture Exchange,Industrials
+TSXV:BGA,BioNeutra Global Corporation,TSX Venture Exchange,Consumer Staples
+CSE:CAT,CAT Strategic Metals Corporation,Canadian Securities Exchange,Materials
+CSE:ENBI,Entheon Biomedical Corp.,Canadian Securities Exchange,Healthcare
+CSE:PDFI,Prophecy DeFi Inc.,Canadian Securities Exchange,Financials
+CSE:SBTC,Standard Strategies Inc.,Canadian Securities Exchange,
+TSXV:CONE,Canada One Mining Corp.,TSX Venture Exchange,Materials
+CSE:RKL,Rockland Resources Ltd.,Canadian Securities Exchange,Materials
+CSE:SI,Silicon Metals Corp.,Canadian Securities Exchange,
+TSXV:CZZ,Cleghorn Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:URM,First American Uranium Inc.,Canadian Securities Exchange,Materials
+CSE:RXM,Rockex Mining Corporation,Canadian Securities Exchange,Materials
+TSXV:GEM,Green Battery Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:GBML,Global Battery Metals Ltd.,TSX Venture Exchange,Materials
+TSXV:STUV,Stuve Gold Corp.,TSX Venture Exchange,Materials
+CSE:ADX,Advantex Marketing International Inc.,Canadian Securities Exchange,Communication Services
+TSXV:TEA,Tearlach Resources Limited,TSX Venture Exchange,Materials
+CSE:ENRT,Enertopia Corp.,Canadian Securities Exchange,Materials
+CSE:CASC,Cascade Copper Corp.,Canadian Securities Exchange,Materials
+TSXV:TFM,Transforma Resources Corporation,TSX Venture Exchange,Materials
+TSXV:DIG.H,District Mines Ltd.,TSX Venture Exchange,Energy
+TSXV:POND,Pond Technologies Holdings Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:TNO.H,Terreno Resources Corp.,TSX Venture Exchange,Materials
+TSXV:ABM,Aben Gold Corp.,TSX Venture Exchange,
+TSXV:GOFL,Goldflare Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:GGX,GGX Gold Corp.,TSX Venture Exchange,Materials
+TSXV:PHD,Providence Gold Mines Inc.,TSX Venture Exchange,Materials
+TSXV:DG,Dixie Gold Inc.,TSX Venture Exchange,Materials
+TSXV:XL,XXL Energy Corp.,TSX Venture Exchange,Energy
+TSXV:DTWO,D2 Lithium Corp.,TSX Venture Exchange,Materials
+TSXV:VGN,Greencastle Resources Ltd.,TSX Venture Exchange,Energy
+TSXV:RTM,RT Minerals Corp,TSX Venture Exchange,Materials
+TSXV:KGS,Kingman Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:KNC,K9 Gold Corp.,TSX Venture Exchange,Materials
+TSXV:TRAN,Clean Energy Transition Inc.,TSX Venture Exchange,Materials
+TSXV:EGR,EGR Exploration Ltd.,TSX Venture Exchange,Materials
+TSXV:VPI,Vitality Products Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:GFM.H,GFM Resources Limited,TSX Venture Exchange,Materials
+TSXV:KLX,Carbon Done Right Developments Inc.,TSX Venture Exchange,Technology
+CSE:FREE,Free Battery Metal Limited,Canadian Securities Exchange,Materials
+CSE:LINE,Linear Minerals Corp.,Canadian Securities Exchange,
+TSXV:CART.H,Carcetti Capital Corp.,TSX Venture Exchange,
+CSE:GCA.X,Gencan Capital Inc.,Canadian Securities Exchange,Financials
+TSXV:ENRG,New Energy Metals Corp.,TSX Venture Exchange,Materials
+TSXV:AUR.H,Aurora Royalties Inc.,TSX Venture Exchange,Materials
+TSXV:MXL.H,MX Gold Corp.,TSX Venture Exchange,Financials
+TSXV:CCB,Canada Carbon Inc.,TSX Venture Exchange,Materials
+CSE:VTAL,Justera Health Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:GPS,Great Plains Metals Corp.,TSX Venture Exchange,
+CSE:RAMM,RAMM Pharma Corp.,Canadian Securities Exchange,Healthcare
+TSXV:BIGT,Big Tree Carbon Inc.,TSX Venture Exchange,Materials
+TSXV:RES,Auric Resources Corp.,TSX Venture Exchange,
+TSXV:RCT,Rochester Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:ESPN,Hispania Resources Inc.,TSX Venture Exchange,Materials
+CSE:LOAN,Pegasus Mercantile Inc.,Canadian Securities Exchange,Financials
+CSE:TONE,Triple One Metals Inc.,Canadian Securities Exchange,Materials
+CSE:USLI,American Salars Lithium Inc.,Canadian Securities Exchange,
+TSXV:Q,Quetzal Copper Corp.,TSX Venture Exchange,Materials
+TSXV:ETU,E2Gold Inc.,TSX Venture Exchange,Materials
+CSE:PS,Powerstone Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:IFR,International Frontier Resources Corporation,TSX Venture Exchange,Energy
+CSE:TGII,Trojan Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:BNZ,Bonanza Mining Corporation,TSX Venture Exchange,Materials
+TSXV:VEC.H,Vanadian Energy Corp.,TSX Venture Exchange,
+CSE:SPFY,Spacefy Inc.,Canadian Securities Exchange,Communication Services
+CSE:ETI,EnviroMetal Technologies Inc.,Canadian Securities Exchange,Materials
+CSE:VIK,Avila Energy Corporation,Canadian Securities Exchange,Energy
+TSXV:CML,CaNickel Mining Limited,TSX Venture Exchange,Materials
+CSE:MNG,Mongoose Mining Ltd.,Canadian Securities Exchange,Materials
+CSE:FUTR,Gold'n Futures Mineral Corp.,Canadian Securities Exchange,Materials
+TSXV:ATOM,Atomic Minerals Corporation,TSX Venture Exchange,Materials
+TSXV:VCV,Vatic Ventures Corp.,TSX Venture Exchange,Materials
+TSXV:WAV.H,"Pepcap Resources, Inc.",TSX Venture Exchange,
+CSE:CARM,Carmanah Minerals Corp.,Canadian Securities Exchange,Materials
+CSE:ARWY,ARway Corporation,Canadian Securities Exchange,Technology
+TSXV:ADG.H,Arcus Development Group Inc.,TSX Venture Exchange,
+TSXV:MSC,Millennium Silver Corp.,TSX Venture Exchange,Materials
+CSE:VOLT,Voltage Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:ZLTO,BULGOLD Inc.,TSX Venture Exchange,Materials
+TSXV:CAG,Composite Alliance Group Inc.,TSX Venture Exchange,Industrials
+CSE:OMND,Optimind Pharma Corp.,Canadian Securities Exchange,Healthcare
+CSE:PHRX,Pharmadrug Inc.,Canadian Securities Exchange,Healthcare
+CSE:GET,GameOn Entertainment Technologies Inc.,Canadian Securities Exchange,Communication Services
+TSXV:NVT,Nortec Minerals Corp.,TSX Venture Exchange,Materials
+CSE:GOCO,Go Metals Corp.,Canadian Securities Exchange,Materials
+CSE:JJJ,37 Capital Inc.,Canadian Securities Exchange,
+TSXV:PINE.UN,Pine Trail Real Estate Investment Trust,TSX Venture Exchange,Real Estate
+TSXV:CLUS,Colossus Resources Corp.,TSX Venture Exchange,Materials
+TSXV:VKG.H,Norse Gold Corp.,TSX Venture Exchange,Materials
+TSXV:BWR,BWR Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:AGET,AGEDB Technology Ltd.,TSX Venture Exchange,Technology
+CSE:AETH,Aether Global Innovations Corp.,Canadian Securities Exchange,Industrials
+TSXV:MAH,Marksmen Energy Inc.,TSX Venture Exchange,Energy
+CSE:GAND,Gander Gold Corporation,Canadian Securities Exchange,Materials
+TSXV:XPLR,Xplore Resources Corp.,TSX Venture Exchange,Materials
+TSXV:AVG,Avidian Gold Corp.,TSX Venture Exchange,Materials
+TSXV:FTJ,Fort St. James Nickel Corp.,TSX Venture Exchange,Materials
+CSE:CSS,Cascada Silver Corp.,Canadian Securities Exchange,Materials
+TSXV:EAU,Engineer Gold Mines Ltd.,TSX Venture Exchange,Materials
+TSXV:RMO,Rainy Mountain Royalty Corp.,TSX Venture Exchange,Materials
+CSE:BEE,Bee Vectoring Technologies International Inc.,Canadian Securities Exchange,Materials
+CSE:XTRX,Adastra Holdings Ltd.,Canadian Securities Exchange,Healthcare
+TSXV:SKK,Strikewell Energy Corp.,TSX Venture Exchange,Energy
+TSXV:HTC.H,HTC Purenergy Inc.,TSX Venture Exchange,
+TSXV:BRON,Bronco Resources Corp.,TSX Venture Exchange,Materials
+CSE:ANT,Anteros Metals Inc.,Canadian Securities Exchange,
+TSXV:CEO.H,Clydesdale Resources Inc.,TSX Venture Exchange,Materials
+TSXV:SSX,Sleeping Giant Capital Corp.,TSX Venture Exchange,
+TSXV:SMP,Southern Empire Resources Corp.,TSX Venture Exchange,Materials
+TSXV:GLI,Glacier Lake Resources Inc.,TSX Venture Exchange,Materials
+CSE:GRUV,Protium Clean Energy Corp.,Canadian Securities Exchange,Materials
+TSXV:LKY,Lucky Minerals Inc.,TSX Venture Exchange,Materials
+CSE:SEEM,Serra Energy Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:CEL.H,Columbus Energy Limited,TSX Venture Exchange,Energy
+TSXV:NNX,Nickel North Exploration Corp.,TSX Venture Exchange,Materials
+TSXV:AGH.H,Canadian Silver Hunter Inc.,TSX Venture Exchange,Materials
+TSXV:QRO,Quadro Resources Ltd.,TSX Venture Exchange,Materials
+CSE:PURR,Panther Minerals Inc.,Canadian Securities Exchange,
+CSE:LEXT,Lexston Mining Corporation,Canadian Securities Exchange,Materials
+TSXV:CFA.H,Clear Gold Resources Inc.,TSX Venture Exchange,
+CSE:PLLR,Forty Pillars Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:MGI,Magnum Goldcorp Inc.,TSX Venture Exchange,Materials
+CSE:AFF,Affinity Metals Corp.,Canadian Securities Exchange,Materials
+CSE:NINE,Nine Mile Metals Ltd.,Canadian Securities Exchange,Materials
+TSXV:CRD,Copper Road Resources Inc.,TSX Venture Exchange,Materials
+CSE:STPH,Steep Hill Inc.,Canadian Securities Exchange,Healthcare
+TSXV:AVU,Avrupa Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:PATH,Newpath Resources Inc.,Canadian Securities Exchange,Materials
+CSE:XIGM,Xigem Technologies Corporation,Canadian Securities Exchange,Technology
+TSXV:OTGO.H,O2Gold Inc.,TSX Venture Exchange,
+TSXV:LWR,Lake Winn Resources Corp.,TSX Venture Exchange,Metals & Mining
+CSE:TGGL,Toggle3D.ai Inc.,Canadian Securities Exchange,Technology
+TSXV:CSPN,"CareSpan Health, Inc.",TSX Venture Exchange,Healthcare
+CSE:NSJ,NSJ Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:MNX,Manitex Capital Inc.,TSX Venture Exchange,Financials
+TSXV:HRE.H,Stans Energy Corp.,TSX Venture Exchange,
+CSE:NPT,Plaintree Systems Inc.,Canadian Securities Exchange,Industrials
+CSE:TAUR,Taurus Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:DCY,Discovery-Corp Enterprises Inc.,TSX Venture Exchange,Materials
+CSE:OBRN,Oberon Uranium Corp.,Canadian Securities Exchange,Energy
+TSXV:GOK,GINSMS Inc.,TSX Venture Exchange,Communication Services
+TSXV:DIA,Margaret Lake Diamonds Inc.,TSX Venture Exchange,Materials
+CSE:MEAT,Modern Plant Based Foods Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:DHR,Discovery Harbour Resources Corp.,TSX Venture Exchange,Materials
+CSE:WEST,West Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:RMD,Richmond Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:INFD,Infield Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:AVR,Avaron Mining Corp.,TSX Venture Exchange,Financials
+CSE:PLNK,Plank Ventures Ltd.,Canadian Securities Exchange,Technology
+CSE:CRIT,Supreme Critical Metals Inc.,Canadian Securities Exchange,
+TSXV:OKAI,EvokAI Creative Labs Inc.,TSX Venture Exchange,Healthcare
+TSXV:APMI,Apogee Minerals Ltd.,TSX Venture Exchange,Materials
+TSXV:JNH,Jack Nathan Medical Corp.,TSX Venture Exchange,Healthcare
+CSE:FWM,Flow Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:NEWU,Newtopia Inc.,TSX Venture Exchange,Healthcare
+TSXV:CTN,Centurion Minerals Ltd.,TSX Venture Exchange,Materials
+CSE:GRHK,Greenhawk Resources Inc.,Canadian Securities Exchange,Materials
+CSE:AIC,AlphaGen Intelligence Corp.,Canadian Securities Exchange,Communication Services
+TSXV:COS,Coniagas Battery Metals Inc.,TSX Venture Exchange,Materials
+TSXV:MHI,Mineral Hill Industries Ltd.,TSX Venture Exchange,Materials
+CSE:NT,Newterra Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:NEW.H,New Target Mining Corp.,TSX Venture Exchange,
+TSXV:CTG,Centenario Gold Corp.,TSX Venture Exchange,Materials
+TSXV:KLM,Kermode Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:FEX,Fjordland Exploration Inc.,TSX Venture Exchange,Materials
+TSXV:LONE,Lithium One Metals Inc.,TSX Venture Exchange,Materials
+CSE:JOLT,Jolt Health Inc.,Canadian Securities Exchange,Healthcare
+TSXV:OWN,Rex Resources Corp.,TSX Venture Exchange,Materials
+TSXV:SYG,Sylla Gold Corp.,TSX Venture Exchange,Materials
+CSE:TMED,EGF Theramed Health Corp.,Canadian Securities Exchange,Healthcare
+TSXV:UNO.H,Northern Uranium Corp.,TSX Venture Exchange,Energy
+TSXV:WAVE,Waverley Pharma Inc.,TSX Venture Exchange,Healthcare
+TSXV:SA.H,Southern Arc Minerals Inc.,TSX Venture Exchange,Materials
+CSE:VBN,Pedro Resources Ltd.,Canadian Securities Exchange,Materials
+CSE:GGLD,General Copper Gold Corp.,Canadian Securities Exchange,Materials
+CSE:AUEX,Advanced Gold Exploration Inc.,Canadian Securities Exchange,Materials
+CSE:WOGC,Waskahigan Oil & Gas Corp.,Canadian Securities Exchange,Energy
+TSXV:NED,New Destiny Mining Corp.,TSX Venture Exchange,Materials
+TSXV:LET.H,Letho Resources Corp.,TSX Venture Exchange,
+CSE:ACRE,American Critical Elements Inc.,Canadian Securities Exchange,Materials
+TSXV:AKH.H,Alaska Hydro Corporation,TSX Venture Exchange,Utilities
+CSE:BG,Big Gold Inc.,Canadian Securities Exchange,Materials
+TSXV:CAND,Candelaria Mining Corp.,TSX Venture Exchange,Materials
+TSXV:WWT,Water Ways Technologies Inc.,TSX Venture Exchange,Industrials
+TSXV:SHRP,Sherpa II Holdings Corp.,TSX Venture Exchange,Financials
+TSXV:LTX,Labrador Resources Inc.,TSX Venture Exchange,Energy
+TSXV:VXL,Vaxil Bio Ltd.,TSX Venture Exchange,Healthcare
+CSE:CRS,Crestview Exploration Inc.,Canadian Securities Exchange,Materials
+CSE:MY,Montego Resources Inc.,Canadian Securities Exchange,Materials
+TSXV:INFI,Infinitum Copper Corp.,TSX Venture Exchange,Materials
+TSXV:IMM,International Metals Mining Corp.,TSX Venture Exchange,Materials
+TSXV:SCLT,Searchlight Resources Inc.,TSX Venture Exchange,Materials
+TSXV:ARJN,Aranjin Resources Ltd.,TSX Venture Exchange,Materials
+CSE:MGW,Maple Leaf Green World Inc.,Canadian Securities Exchange,Healthcare
+TSXV:GER,Glen Eagle Resources Inc.,TSX Venture Exchange,Materials
+TSXV:BAL.H,Balto Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:QCX,QcX Gold Corp.,TSX Venture Exchange,Materials
+TSXV:EPO.H,Encanto Potash Corp.,TSX Venture Exchange,Materials
+TSXV:CZ.H,Cassius Ventures Ltd.,TSX Venture Exchange,
+CSE:WISE,Earthwise Minerals Corp.,Canadian Securities Exchange,Materials
+TSXV:ACR.H,Auscan Resources Inc.,TSX Venture Exchange,
+CSE:CLDV,Cloud3 Ventures Inc.,Canadian Securities Exchange,
+TSXV:LSTR,Lodestar Metals Corp.,TSX Venture Exchange,Materials
+CSE:GMR,Gelum Resources Ltd.,Canadian Securities Exchange,Materials
+TSXV:ELM,Element Lifestyle Retirement Inc.,TSX Venture Exchange,Healthcare
+CSE:GHG,Global Hemp Group Inc.,Canadian Securities Exchange,Healthcare
+TSXV:TORC,TinOne Resources Inc.,TSX Venture Exchange,Materials
+CSE:CNTR,CENTR Brands Corp.,Canadian Securities Exchange,Healthcare
+TSXV:KYS.H,Kaymus Resources Inc.,TSX Venture Exchange,Energy
+CSE:CLI,Cape Lithium Corp.,Canadian Securities Exchange,
+CSE:ASTI,Aquarius Surgical Technologies Inc.,Canadian Securities Exchange,Healthcare
+CSE:CCR,Green River Gold Corp.,Canadian Securities Exchange,Consumer Discretionary
+CSE:MANN,Manning Ventures Inc.,Canadian Securities Exchange,Materials
+TSXV:CUCU,Global Copper Corp.,TSX Venture Exchange,Materials
+TSXV:PAR.H,Parent Capital Corp.,TSX Venture Exchange,Energy
+TSXV:PDQ,Paradigm Gold Corporation,TSX Venture Exchange,
+CSE:TYUM,The Yumy Candy Company Inc.,Canadian Securities Exchange,Consumer Staples
+TSXV:AQS,Aequus Pharmaceuticals Inc.,TSX Venture Exchange,Healthcare
+TSXV:IPD,International Parkside Products Inc.,TSX Venture Exchange,Materials
+CSE:ACM,Allied Critical Metals Inc.,Canadian Securities Exchange,
+CSE:VIBE,Vibe Growth Corporation,Canadian Securities Exchange,Healthcare
+TSXV:MTN.H,Martina Minerals Corp.,TSX Venture Exchange,Materials
+TSXV:TKU,Tarku Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:MMN,Monarca Minerals Inc.,TSX Venture Exchange,Materials
+CSE:KETA,TripSitter Clinic Ltd.,Canadian Securities Exchange,Healthcare
+CSE:STKT,Stickit Technologies Inc,Canadian Securities Exchange,Healthcare
+TSXV:GIG,XAU Resources Inc.,TSX Venture Exchange,
+TSXV:NMG.H,Noble Metal Group Incorporated,TSX Venture Exchange,Materials
+CSE:HVW,Hi-View Resources Inc,Canadian Securities Exchange,Materials
+TSXV:WRI,Waseco Resources Inc.,TSX Venture Exchange,Materials
+TSXV:HILL,Hill Incorporated,TSX Venture Exchange,Consumer Staples
+CSE:NDAT,nDatalyze Corp.,Canadian Securities Exchange,Healthcare
+TSXV:IGP,Imperial Ginseng Products Ltd.,TSX Venture Exchange,Consumer Staples
+CSE:GRCM,Geologica Resource Corp.,Canadian Securities Exchange,Materials
+CSE:CUH,Copperhead Resources Inc.,Canadian Securities Exchange,Materials
+CSE:OPC,Organic Potash Corporation,Canadian Securities Exchange,Materials
+TSXV:AST,Astron Connect Inc.,TSX Venture Exchange,Consumer Staples
+TSXV:QURI,Quri-Mayu Developments Ltd.,TSX Venture Exchange,Materials
+CSE:RMES,Red Metal Resources Ltd.,Canadian Securities Exchange,Materials
+TSXV:CAU.H,China Goldcorp Ltd.,TSX Venture Exchange,Financials
+TSXV:DAR,Darelle Online Solutions Inc.,TSX Venture Exchange,Communication Services
+TSXV:BRL.H,Bearclaw Capital Corp.,TSX Venture Exchange,Materials
+TSXV:KGL.H,KGL Resources Ltd.,TSX Venture Exchange,
+CSE:SBD,SBD Capital Corp.,Canadian Securities Exchange,Consumer Staples
+TSXV:AORO,Aloro Mining Corp.,TSX Venture Exchange,Materials
+TSXV:GGG.H,G6 Materials Corp.,TSX Venture Exchange,
+CSE:TANA,Tana Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:TVC.H,Three Valley Copper Corp.,TSX Venture Exchange,
+TSXV:PTE,Pioneering Technology Corp.,TSX Venture Exchange,Industrials
+TSXV:MKT,DeepMarkit Corp.,TSX Venture Exchange,Technology
+CSE:VC,Volatus Capital Corp.,Canadian Securities Exchange,Materials
+TSXV:MUST.H,Must Capital Inc.,TSX Venture Exchange,Financials
+TSXV:JAEG.H,Jaeger Resources Corp.,TSX Venture Exchange,
+TSXV:AIS,A.I.S. Resources Limited,TSX Venture Exchange,Materials
+CSE:GRAY,Graycliff Exploration Limited,Canadian Securities Exchange,Materials
+TSXV:BST,Bessor Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:BIRD,Thunderbird Minerals Corp.,TSX Venture Exchange,Materials
+CSE:AWR,Aurwest Resources Corporation,Canadian Securities Exchange,Materials
+CSE:CURE.X,Biocure Technology Inc.,Canadian Securities Exchange,
+CSE:GTOO,G2 Energy Corp.,Canadian Securities Exchange,Energy
+CSE:PLCN,Cannibble Food-Tech Ltd.,Canadian Securities Exchange,Healthcare
+CSE:CMP,Cmp Mining Inc,Canadian Securities Exchange,Materials
+CSE:NEWD,Newfoundland Discovery Corp.,Canadian Securities Exchange,Materials
+TSXV:AUGC,Au Gold Corp.,TSX Venture Exchange,Materials
+TSXV:NZN,Nevada Zinc Corporation,TSX Venture Exchange,Materials
+TSXV:BOCA,Bocana Resources Corp.,TSX Venture Exchange,Materials
+TSXV:CANS,Wildpack Beverage Inc.,TSX Venture Exchange,Industrials
+CSE:SASY,Sassy Gold Corp.,Canadian Securities Exchange,Materials
+CSE:KVM,Kingsview Minerals Ltd.,Canadian Securities Exchange,Materials
+TSXV:PWRO,Power One Resources Corp.,TSX Venture Exchange,Materials
+TSXV:RGI,Reco International Group Inc.,TSX Venture Exchange,Industrials
+CSE:TUGA,"TUGA Innovations, Inc.",Canadian Securities Exchange,Consumer Discretionary
+CSE:STMN,Stearman Resources Inc,Canadian Securities Exchange,Materials
+CSE:CMT,Cullinan Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:DAT.H,Datum Ventures Inc.,TSX Venture Exchange,
+TSXV:KUR.H,"Kure Technologies, Inc.",TSX Venture Exchange,Financials
+CSE:BOLT,Bolt Metals Corp.,Canadian Securities Exchange,Materials
+CSE:ATMO,Atmofizer Technologies Inc.,Canadian Securities Exchange,Industrials
+CSE:PXE,P2Earn Inc.,Canadian Securities Exchange,Financials
+CSE:METL,Metalite Resources Inc.,Canadian Securities Exchange,Materials
+CSE:CRPC,Critical Reagent Processing Corp.,Canadian Securities Exchange,Materials
+CSE:AVM.X,Avarone Metals Inc.,Canadian Securities Exchange,Materials
+TSXV:NTB,New Tymbal Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:HAWK,Hawkeye Gold & Diamond Inc.,TSX Venture Exchange,Materials
+TSXV:KIB,Kiboko Gold Inc.,TSX Venture Exchange,Materials
+CSE:BLR,Blackhawk Growth Corp.,Canadian Securities Exchange,Financials
+TSXV:ONV.H,Oronova Energy Inc.,TSX Venture Exchange,Energy
+CSE:SAND,Silver Sands Resources Corp.,Canadian Securities Exchange,Materials
+CSE:MARY,Mary Agrotechnologies Inc.,Canadian Securities Exchange,Technology
+TSXV:GETT,G.E.T.T. Gold Inc.,TSX Venture Exchange,Materials
+CSE:ZEU,ZeU Technologies Inc.,Canadian Securities Exchange,Technology
+TSXV:OVL.H,Olivier Ventures Inc.,TSX Venture Exchange,
+TSXV:IZ,International Zeolite Corp.,TSX Venture Exchange,Materials
+CSE:CHGX,ChitogenX Inc.,Canadian Securities Exchange,Healthcare
+TSXV:PPM,Pacific Imperial Mines Inc.,TSX Venture Exchange,Materials
+TSXV:EVMT,Evome Medical Technologies Inc.,TSX Venture Exchange,Healthcare
+TSXV:WMS,Western Metallica Resources Corp.,TSX Venture Exchange,Materials
+TSXV:PEC.H,Peak Discovery Capital Ltd.,TSX Venture Exchange,
+TSXV:BER.H,BE Resources Inc.,TSX Venture Exchange,Materials
+CSE:FGFL,First Growth Funds Limited,Canadian Securities Exchange,Financials
+TSXV:NER.H,Newmac Resources Inc.,TSX Venture Exchange,
+CSE:HERC,Hercules Resources Corp.,Canadian Securities Exchange,Materials
+TSXV:AFR,AFR NuVenture Resources Inc.,TSX Venture Exchange,Materials
+CSE:MEGA,MegaWatt Lithium and Battery Metals Corp.,Canadian Securities Exchange,Materials
+TSXV:DGTL.H,DGTL Holdings Inc.,TSX Venture Exchange,
+CSE:ABRT,Albert Labs International Corp.,Canadian Securities Exchange,Healthcare
+TSXV:MCA.H,Milner Consolidated Silver Mines Ltd.,TSX Venture Exchange,Materials
+TSXV:SAI.H,Sunshine Agri-Tech Inc.,TSX Venture Exchange,Financials
+CSE:NSHS,NanoSphere Health Sciences Inc.,Canadian Securities Exchange,Healthcare
+TSXV:PGP,Power Group Projects Corp.,TSX Venture Exchange,Materials
+TSXV:CYF,Canyon Creek Food Company Ltd.,TSX Venture Exchange,Consumer Staples
+TSXV:CMO.H,Cliffmont Resources Ltd.,TSX Venture Exchange,Materials
+TSXV:EON,Eon Lithium Corp.,TSX Venture Exchange,Materials
+CSE:MEDA,Medaro Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:TIP.H,Tyner Resources Ltd.,TSX Venture Exchange,Financials
+TSXV:MPTH.H,Mapath Capital Corp.,TSX Venture Exchange,
+TSXV:BTV,BlueRush Inc.,TSX Venture Exchange,Technology
+TSXV:INFM,Infinico Metals Corp.,TSX Venture Exchange,Materials
+TSXV:GAR.H,Green Arrow Resources Inc.,TSX Venture Exchange,Materials
+TSXV:VAX,Vantex Resources Ltd.,TSX Venture Exchange,Materials
+CSE:AFX,Arctic Fox Lithium Corp.,Canadian Securities Exchange,Materials
+TSXV:KLE.H,Kingsland Energy Corp.,TSX Venture Exchange,Energy
+CSE:ADPT,Adaptogenics Health Corp.,Canadian Securities Exchange,
+CSE:WBIO,WPD Pharmaceuticals Inc.,Canadian Securities Exchange,Healthcare
+TSXV:KEON.H,Keon Capital Inc.,TSX Venture Exchange,
+TSXV:TZR.H,Terrace Energy Corp.,TSX Venture Exchange,
+CSE:MYCO,Mydecine Innovations Group Inc.,Canadian Securities Exchange,Healthcare
+CSE:WRUN,Waverunner Capital Inc.,Canadian Securities Exchange,
+TSXV:CSL.H,Comstock Metals Ltd.,TSX Venture Exchange,
+TSXV:PMX,ProAm Explorations Corporation,TSX Venture Exchange,Energy
+TSXV:MVI.H,Monitor Ventures Inc.,TSX Venture Exchange,Financials
+TSXV:GYM,TUT Fitness Group Inc.,TSX Venture Exchange,Consumer Discretionary
+CSE:NIRV,Nirvana Life Sciences Inc.,Canadian Securities Exchange,Healthcare
+TSXV:AVX,Altair Resources Inc.,TSX Venture Exchange,Materials
+TSXV:HXC.H,HFX Holding Corp.,TSX Venture Exchange,
+TSXV:NAV,NAVCO Pharmaceuticals Inc.,TSX Venture Exchange,
+TSXV:HCC.H,Hanna Capital Corp.,TSX Venture Exchange,
+TSXV:HCO.P,Hansco Capital Corp.,TSX Venture Exchange,Financials
+CSE:RAD,Radial Research Corp.,Canadian Securities Exchange,Technology
+CSE:ULTA,Ultra Brands Ltd.,Canadian Securities Exchange,Consumer Staples
+TSXV:IDI.H,Indico Resources Ltd.,TSX Venture Exchange,
+TSXV:RUN.H,Running Fox Resource Corp.,TSX Venture Exchange,Materials
+CSE:LOWL,Lowell Farms Inc.,Canadian Securities Exchange,Healthcare
+TSXV:XCAP.P,Exelerate Capital Corp.,TSX Venture Exchange,Financials
+CSE:XCX,Greenrise Global Brands Inc.,Canadian Securities Exchange,Healthcare
+TSXV:SN.H,Sennen Potash Corporation,TSX Venture Exchange,
+TSX:IOM,Assure Holdings Corp.,Toronto Stock Exchange,
+TSXV:Z.H,Zinc One Resources Inc.,TSX Venture Exchange,
+CSE:JIVA,JIVA Technologies Inc.,Canadian Securities Exchange,
+TSXV:LSD.H,Lightspeed Discoveries Inc.,TSX Venture Exchange,
+TSXV:MTK.H,Montauk Metals Inc.,TSX Venture Exchange,
+TSXV:BDGC.H,Boundary Gold and Copper Mining Ltd.,TSX Venture Exchange,
+TSXV:WR.H,Worldwide Resources Corp.,TSX Venture Exchange,Materials
+CSE:GRM,Great Republic Mining Corp.,Canadian Securities Exchange,Materials
+TSXV:MVD.H,Mega View Digital Entertainment Corp.,TSX Venture Exchange,Financials
+CSE:PGA,Pegmatite One Lithium and Gold Corp.,Canadian Securities Exchange,Materials
+TSXV:PTP.H,Petrichor Energy Inc.,TSX Venture Exchange,Energy
+TSXV:OPTG,Optegra Ventures Inc.,TSX Venture Exchange,Materials
+TSXV:BYM.H,Baymount Incorporated,TSX Venture Exchange,Industrials
+TSXV:VER.H,Verisante Technology Inc.,TSX Venture Exchange,
+TSXV:JHC,Jinhua Capital Corporation,TSX Venture Exchange,Financials
+TSXV:RRM.H,Ross River Minerals Inc.,TSX Venture Exchange,Materials
+TSXV:VYC.H,Vanity Capital Inc.,TSX Venture Exchange,Financials
+CSE:BAMM,Body and Mind Inc.,Canadian Securities Exchange,Healthcare
+TSXV:ICRS,Icarus Capital Corp.,TSX Venture Exchange,
+CSE:ZOG,Zoglo's Food Corp.,Canadian Securities Exchange,Consumer Staples
+TSXV:IVC.H,Interconnect Ventures Corporation,TSX Venture Exchange,
+CSE:MJRX,Global Health Clinics Ltd.,Canadian Securities Exchange,Healthcare
+NEO:IBER,IberAmerican Lithium Corp.,Cboe Canada,
+TSXV:PLO.H,Paloma Resources Inc.,TSX Venture Exchange,Energy
+TSXV:VMY.H,"Voice Mobility International, Inc.",TSX Venture Exchange,Communication Services
+TSXV:REBL.P,Genesis Acquisition Corp.,TSX Venture Exchange,
+TSXV:RCR.P,Canna 8 Investment Trust,TSX Venture Exchange,Financials
+NEO:RCOR,RBC Core Bond Pool,Cboe Canada,

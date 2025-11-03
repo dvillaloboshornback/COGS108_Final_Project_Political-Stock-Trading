@@ -1,0 +1,5 @@
+"None" currently means this is an "ETF" which is like multiple stocks bundled. Currently we have decided that this will just automatically be in the trade_related=false
+
+There are some "Sector Not Found", these are mutf (mutual funds) as far as I have checked, and I don't know what this means, we'll decide what to do with them later. (Source Not Found could also mean something else, I did not check every single one)
+
+Had to break up the scraping into chunks and add a delay because of 429 errors, aka the site saying "we know you are a bot because you are reading information so fast in a very specific pattern."

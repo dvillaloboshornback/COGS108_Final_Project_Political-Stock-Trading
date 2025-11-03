@@ -1,0 +1,1788 @@
+﻿Symbol,Company Name,Exchange,Sector
+ASX:CBA,Commonwealth Bank of Australia,Australian Securities Exchange,Financials
+ASX:BHP,BHP Group Limited,Australian Securities Exchange,Materials
+ASX:RIO,Rio Tinto Group,Australian Securities Exchange,Materials
+ASX:NAB,National Australia Bank Limited,Australian Securities Exchange,Financials
+ASX:CSL,CSL Limited,Australian Securities Exchange,Healthcare
+ASX:WBC,Westpac Banking Corporation,Australian Securities Exchange,Financials
+ASX:WES,Wesfarmers Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:NEM,Newmont Corporation,Australian Securities Exchange,Materials
+ASX:ANZ,ANZ Group Holdings Limited,Australian Securities Exchange,Financials
+ASX:MQG,Macquarie Group Limited,Australian Securities Exchange,Financials
+ASX:GMG,Goodman Group,Australian Securities Exchange,Real Estate
+ASX:XYZ,"Block, Inc.",Australian Securities Exchange,Technology
+ASX:RMD,ResMed Inc.,Australian Securities Exchange,Healthcare
+ASX:TLS,Telstra Group Limited,Australian Securities Exchange,Communication Services
+ASX:FMG,Fortescue Ltd,Australian Securities Exchange,Materials
+ASX:TCL,Transurban Group,Australian Securities Exchange,Industrials
+ASX:WDS,Woodside Energy Group Ltd,Australian Securities Exchange,Energy
+ASX:ALL,Aristocrat Leisure Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:WOW,Woolworths Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:WTC,WiseTech Global Limited,Australian Securities Exchange,Technology
+ASX:QBE,QBE Insurance Group Limited,Australian Securities Exchange,Financials
+ASX:AMC,Amcor plc,Australian Securities Exchange,Consumer Discretionary
+ASX:REA,REA Group Limited,Australian Securities Exchange,Communication Services
+ASX:BXB,Brambles Limited,Australian Securities Exchange,Industrials
+ASX:NST,Northern Star Resources Limited,Australian Securities Exchange,Materials
+ASX:PME,Pro Medicus Limited,Australian Securities Exchange,Healthcare
+ASX:XRO,Xero Limited,Australian Securities Exchange,Technology
+ASX:COL,Coles Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:NWSLV,News Corporation,Australian Securities Exchange,Communication Services
+ASX:NWS,News Corporation,Australian Securities Exchange,Communication Services
+ASX:CPU,Computershare Limited,Australian Securities Exchange,Financials
+ASX:SUN,Suncorp Group Limited,Australian Securities Exchange,Financials
+ASX:SGH,SGH Limited,Australian Securities Exchange,Industrials
+ASX:STO,Santos Limited,Australian Securities Exchange,Energy
+ASX:URW,Unibail-Rodamco-Westfield SE,Australian Securities Exchange,Real Estate
+ASX:IAG,Insurance Australia Group Limited,Australian Securities Exchange,Financials
+ASX:FPH,Fisher & Paykel Healthcare Corporation Limited,Australian Securities Exchange,Healthcare
+ASX:SCG,Scentre Group,Australian Securities Exchange,Real Estate
+ASX:ORG,Origin Energy Limited,Australian Securities Exchange,Utilities
+ASX:COH,Cochlear Limited,Australian Securities Exchange,Healthcare
+ASX:JHX,James Hardie Industries plc,Australian Securities Exchange,Materials
+ASX:EVN,Evolution Mining Limited,Australian Securities Exchange,Materials
+ASX:QAN,Qantas Airways Limited,Australian Securities Exchange,Industrials
+ASX:SOL,Washington H. Soul Pattinson and Company Limited,Australian Securities Exchange,Financials
+ASX:MEZ,Meridian Energy Limited,Australian Securities Exchange,Utilities
+ASX:ASX,ASX Limited,Australian Securities Exchange,Financials
+ASX:TNE,Technology One Limited,Australian Securities Exchange,Technology
+ASX:CAR,CAR Group Limited,Australian Securities Exchange,Communication Services
+ASX:S32,South32 Limited,Australian Securities Exchange,Materials
+ASX:MPL,Medibank Private Limited,Australian Securities Exchange,Financials
+ASX:SGP,Stockland,Australian Securities Exchange,Real Estate
+ASX:SHL,Sonic Healthcare Limited,Australian Securities Exchange,Healthcare
+ASX:AIA,Auckland International Airport Limited,Australian Securities Exchange,Industrials
+ASX:JBH,JB Hi-Fi Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:LNW,"Light & Wonder, Inc.",Australian Securities Exchange,Consumer Discretionary
+ASX:TLC,The Lottery Corporation Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AAI,Alcoa Corporation,Australian Securities Exchange,Materials
+ASX:VCX,Vicinity Centres,Australian Securities Exchange,Real Estate
+ASX:APA,APA Group,Australian Securities Exchange,Utilities
+ASX:REH,Reece Limited,Australian Securities Exchange,Industrials
+ASX:BSL,BlueScope Steel Limited,Australian Securities Exchange,Materials
+ASX:TPG,TPG Telecom Limited,Australian Securities Exchange,Communication Services
+ASX:GPT,The GPT Group,Australian Securities Exchange,Real Estate
+ASX:MGR,Mirvac Group,Australian Securities Exchange,Real Estate
+ASX:AFI,Australian Foundation Investment Company Limited,Australian Securities Exchange,Financials
+ASX:ORI,Orica Limited,Australian Securities Exchange,Materials
+ASX:CHC,Charter Hall Group,Australian Securities Exchange,Real Estate
+ASX:IFT,Infratil Limited,Australian Securities Exchange,Industrials
+ASX:NXT,NEXTDC Limited,Australian Securities Exchange,Technology
+ASX:TLX,Telix Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:LYC,Lynas Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:SEK,SEEK Limited,Australian Securities Exchange,Communication Services
+ASX:RHC,Ramsay Health Care Limited,Australian Securities Exchange,Healthcare
+ASX:ALQ,ALS Limited,Australian Securities Exchange,Industrials
+ASX:MCY,Mercury NZ Limited,Australian Securities Exchange,Utilities
+ASX:NWL,Netwealth Group Limited,Australian Securities Exchange,Technology
+ASX:ALX,Atlas Arteria Limited,Australian Securities Exchange,Industrials
+ASX:QUB,Qube Holdings Limited,Australian Securities Exchange,Industrials
+ASX:360,"Life360, Inc.",Australian Securities Exchange,Technology
+ASX:DXS,DEXUS,Australian Securities Exchange,Real Estate
+ASX:EDV,Endeavour Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:ATM,PT Aneka Tambang Tbk,Australian Securities Exchange,Materials
+ASX:YAL,Yancoal Australia Ltd,Australian Securities Exchange,Energy
+ASX:BEN,Bendigo and Adelaide Bank Limited,Australian Securities Exchange,Financials
+ASX:EBO,EBOS Group Limited,Australian Securities Exchange,Healthcare
+ASX:ARG,Argo Investments Limited,Australian Securities Exchange,Financials
+ASX:AGL,AGL Energy Limited,Australian Securities Exchange,Utilities
+ASX:WOR,Worley Limited,Australian Securities Exchange,Energy
+ASX:CSC,Capstone Copper Corp.,Australian Securities Exchange,Materials
+ASX:CEN,Contact Energy Limited,Australian Securities Exchange,Utilities
+ASX:HVN,Harvey Norman Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:HUB,HUB24 Limited,Australian Securities Exchange,Financials
+ASX:TWE,Treasury Wine Estates Limited,Australian Securities Exchange,Consumer Staples
+ASX:SDF,Steadfast Group Limited,Australian Securities Exchange,Financials
+ASX:GQG,GQG Partners Inc.,Australian Securities Exchange,Financials
+ASX:CWY,Cleanaway Waste Management Limited,Australian Securities Exchange,Industrials
+ASX:ALD,Ampol Limited,Australian Securities Exchange,Energy
+ASX:A2M,The a2 Milk Company Limited,Australian Securities Exchange,Consumer Staples
+ASX:NXG,NexGen Energy Ltd.,Australian Securities Exchange,Energy
+ASX:CGF,Challenger Limited,Australian Securities Exchange,Financials
+ASX:SFR,Sandfire Resources Limited,Australian Securities Exchange,Materials
+ASX:BOQ,Bank of Queensland Limited,Australian Securities Exchange,Financials
+ASX:AZJ,Aurizon Holdings Limited,Australian Securities Exchange,Industrials
+ASX:PRU,Perseus Mining Limited,Australian Securities Exchange,Materials
+ASX:GMD,Genesis Minerals Limited,Australian Securities Exchange,Materials
+ASX:DNL,Dyno Nobel Limited,Australian Securities Exchange,Materials
+ASX:CGFPD,Challenger Limited,Australian Securities Exchange,Financials
+ASX:BKW,Brickworks Limited,Australian Securities Exchange,Materials
+ASX:MIN,Mineral Resources Limited,Australian Securities Exchange,Materials
+ASX:WHC,Whitehaven Coal Limited,Australian Securities Exchange,Energy
+ASX:APE,Eagers Automotive Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:ANN,Ansell Limited,Australian Securities Exchange,Healthcare
+ASX:PNI,Pinnacle Investment Management Group Limited,Australian Securities Exchange,Financials
+ASX:PLS,Pilbara Minerals Limited,Australian Securities Exchange,Materials
+ASX:BRG,Breville Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AUB,AUB Group Limited,Australian Securities Exchange,Financials
+ASX:DOW,Downer EDI Limited,Australian Securities Exchange,Industrials
+ASX:SPK,Spark New Zealand Limited,Australian Securities Exchange,Communication Services
+ASX:VNT,Ventia Services Group Limited,Australian Securities Exchange,Industrials
+ASX:CMM,Capricorn Metals Ltd,Australian Securities Exchange,Materials
+ASX:LLC,Lendlease Group,Australian Securities Exchange,Real Estate
+ASX:MTS,Metcash Limited,Australian Securities Exchange,Consumer Staples
+ASX:LOV,Lovisa Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:GOR,Gold Road Resources Limited,Australian Securities Exchange,Materials
+ASX:RRL,Regis Resources Limited,Australian Securities Exchange,Materials
+ASX:BFL,BSP Financial Group Limited,Australian Securities Exchange,Financials
+ASX:CNU,Chorus Limited,Australian Securities Exchange,Communication Services
+ASX:CDA,Codan Limited,Australian Securities Exchange,Technology
+ASX:RWC,Reliance Worldwide Corporation Limited,Australian Securities Exchange,Industrials
+ASX:NSR,National Storage REIT,Australian Securities Exchange,Real Estate
+ASX:PMV,Premier Investments Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:RMS,Ramelius Resources Limited,Australian Securities Exchange,Materials
+ASX:IGO,IGO Limited,Australian Securities Exchange,Materials
+ASX:VEA,Viva Energy Group Limited,Australian Securities Exchange,Energy
+ASX:NHF,nib holdings limited,Australian Securities Exchange,Financials
+ASX:NHC,New Hope Corporation Limited,Australian Securities Exchange,Energy
+ASX:SUL,Super Retail Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AMP,AMP Limited,Australian Securities Exchange,Financials
+ASX:NIC,Nickel Industries Limited,Australian Securities Exchange,Materials
+ASX:BPT,Beach Energy Limited,Australian Securities Exchange,Energy
+ASX:ZIP,Zip Co Limited,Australian Securities Exchange,Financials
+ASX:CLW,Charter Hall Long WALE REIT,Australian Securities Exchange,Real Estate
+ASX:WGX,Westgold Resources Limited,Australian Securities Exchange,Materials
+ASX:FBU,Fletcher Building Limited,Australian Securities Exchange,Materials
+ASX:SGM,Sims Limited,Australian Securities Exchange,Materials
+ASX:GYG,Guzman y Gomez Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:EMR,Emerald Resources NL,Australian Securities Exchange,Materials
+ASX:FLT,Flight Centre Travel Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:VAU,Vault Minerals Limited,Australian Securities Exchange,Materials
+ASX:SPR,Spartan Resources Limited,Australian Securities Exchange,Materials
+ASX:RGN,Region Group,Australian Securities Exchange,Real Estate
+ASX:TUA,Tuas Limited,Australian Securities Exchange,Communication Services
+ASX:DHG,Domain Holdings Australia Limited,Australian Securities Exchange,Communication Services
+ASX:TPW,Temple & Webster Group Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:HDN,HomeCo Daily Needs REIT,Australian Securities Exchange,Real Estate
+ASX:PDN,Paladin Energy Ltd,Australian Securities Exchange,Energy
+ASX:ARB,ARB Corporation Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:EVT,EVT Limited,Australian Securities Exchange,Communication Services
+ASX:WAF,West African Resources Limited,Australian Securities Exchange,Materials
+ASX:ASB,Austal Limited,Australian Securities Exchange,Industrials
+ASX:BWP,BWP Trust,Australian Securities Exchange,Real Estate
+ASX:MFF,MFF Capital Investments Limited,Australian Securities Exchange,Financials
+ASX:NEC,Nine Entertainment Co. Holdings Limited,Australian Securities Exchange,Communication Services
+ASX:SNZ,Summerset Group Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:ORA,Orora Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MSB,Mesoblast Limited,Australian Securities Exchange,Healthcare
+ASX:CIA,Champion Iron Limited,Australian Securities Exchange,Materials
+ASX:IFL,Insignia Financial Ltd.,Australian Securities Exchange,Financials
+ASX:CQR,Charter Hall Retail REIT,Australian Securities Exchange,Real Estate
+ASX:GNE,Genesis Energy Limited,Australian Securities Exchange,Utilities
+ASX:INA,Ingenia Communities Group,Australian Securities Exchange,Real Estate
+ASX:REG,Regis Healthcare Limited,Australian Securities Exchange,Healthcare
+ASX:MP1,Megaport Limited,Australian Securities Exchange,Technology
+ASX:GDG,Generation Development Group Limited,Australian Securities Exchange,Financials
+ASX:PXA,PEXA Group Limited,Australian Securities Exchange,Technology
+ASX:PPT,Perpetual Limited,Australian Securities Exchange,Financials
+ASX:DRR,Deterra Royalties Limited,Australian Securities Exchange,Materials
+ASX:HMC,HMC Capital Limited,Australian Securities Exchange,Real Estate
+ASX:DGT,DigiCo Infrastructure REIT,Australian Securities Exchange,Real Estate
+ASX:ASK,Abacus Storage King,Australian Securities Exchange,Real Estate
+ASX:DBI,Dalrymple Bay Infrastructure Limited,Australian Securities Exchange,Industrials
+ASX:CIP,Centuria Industrial REIT,Australian Securities Exchange,Real Estate
+ASX:DMP,Domino's Pizza Enterprises Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:OBM,Ora Banda Mining Limited,Australian Securities Exchange,Materials
+ASX:CTD,Corporate Travel Management Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:GOZ,Growthpoint Properties Australia,Australian Securities Exchange,Real Estate
+ASX:FRW,Freightways Group Limited,Australian Securities Exchange,Industrials
+ASX:ZIM,Zimplats Holdings Limited,Australian Securities Exchange,Materials
+ASX:WEB,Web Travel Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AIZ,Air New Zealand Limited,Australian Securities Exchange,Industrials
+ASX:OCL,Objective Corporation Limited,Australian Securities Exchange,Technology
+ASX:BAP,Bapcor Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:ADT,Adriatic Metals PLC,Australian Securities Exchange,Materials
+ASX:SX2,Southern Cross Gold Consolidated Ltd.,Australian Securities Exchange,Materials
+ASX:SMR,Stanmore Resources Limited,Australian Securities Exchange,Materials
+ASX:NEU,Neuren Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:GNC,GrainCorp Limited,Australian Securities Exchange,Consumer Staples
+ASX:CAT,Catapult Group International Ltd,Australian Securities Exchange,Technology
+ASX:WPR,Waypoint REIT,Australian Securities Exchange,Real Estate
+ASX:SNL,Supply Network Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MND,Monadelphous Group Limited,Australian Securities Exchange,Industrials
+ASX:BGA,Bega Cheese Limited,Australian Securities Exchange,Consumer Staples
+ASX:JDO,Judo Capital Holdings Limited,Australian Securities Exchange,Financials
+ASX:TAH,Tabcorp Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:CYL,Catalyst Metals Limited,Australian Securities Exchange,Materials
+ASX:MAQ,Macquarie Technology Group Limited,Australian Securities Exchange,Technology
+ASX:BOE,Boss Energy Limited,Australian Securities Exchange,Energy
+ASX:ILU,Iluka Resources Limited,Australian Securities Exchange,Materials
+ASX:NCK,Nick Scali Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:LTR,Liontown Resources Limited,Australian Securities Exchange,Materials
+ASX:ARF,Arena REIT,Australian Securities Exchange,Real Estate
+ASX:MAC,MAC Copper Limited,Australian Securities Exchange,Materials
+ASX:IRE,Iress Limited,Australian Securities Exchange,Technology
+ASX:MGH,MAAS Group Holdings Limited,Australian Securities Exchange,Industrials
+ASX:MFG,Magellan Financial Group Limited,Australian Securities Exchange,Financials
+ASX:DDR,Dicker Data Limited,Australian Securities Exchange,Technology
+ASX:PRN,Perenti Limited,Australian Securities Exchange,Materials
+ASX:SLC,Superloop Limited,Australian Securities Exchange,Communication Services
+ASX:DRO,DroneShield Limited,Australian Securities Exchange,Industrials
+ASX:IMD,Imdex Limited,Australian Securities Exchange,Industrials
+ASX:HLI,Helia Group Limited,Australian Securities Exchange,Financials
+ASX:CNI,Centuria Capital Group,Australian Securities Exchange,Real Estate
+ASX:ING,Inghams Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:BKI,BKI Investment Company Limited,Australian Securities Exchange,Financials
+ASX:PNR,Pantoro Gold Limited,Australian Securities Exchange,Materials
+ASX:BGL,Bellevue Gold Limited,Australian Securities Exchange,Materials
+ASX:AUI,Australian United Investment Company Limited,Australian Securities Exchange,Financials
+ASX:IPX,IperionX Limited,Australian Securities Exchange,Materials
+ASX:NAN,Nanosonics Limited,Australian Securities Exchange,Healthcare
+ASX:DYL,Deep Yellow Limited,Australian Securities Exchange,Energy
+ASX:KAR,Karoon Energy Ltd,Australian Securities Exchange,Energy
+ASX:SDR,SiteMinder Limited,Australian Securities Exchange,Technology
+ASX:NWH,NRW Holdings Limited,Australian Securities Exchange,Industrials
+ASX:IPH,IPH Limited,Australian Securities Exchange,Industrials
+ASX:RSG,Resolute Mining Limited,Australian Securities Exchange,Materials
+ASX:MAD,Mader Group Limited,Australian Securities Exchange,Industrials
+ASX:MAF,MA Financial Group Limited,Australian Securities Exchange,Financials
+ASX:ELD,Elders Limited,Australian Securities Exchange,Consumer Staples
+ASX:GTK,Gentrack Group Limited,Australian Securities Exchange,Technology
+ASX:SSM,Service Stream Limited,Australian Securities Exchange,Industrials
+ASX:DVP,Develop Global Limited,Australian Securities Exchange,Materials
+ASX:LFSPA,Latitude Group Holdings Limited,Australian Securities Exchange,Financials
+ASX:ABB,Aussie Broadband Limited,Australian Securities Exchange,Communication Services
+ASX:BGP,Briscoe Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:DUI,Diversified United Investment Limited,Australian Securities Exchange,Financials
+ASX:DTL,Data#3 Limited,Australian Securities Exchange,Technology
+ASX:LFS,Latitude Group Holdings Limited,Australian Securities Exchange,Financials
+ASX:CQE,Charter Hall Social Infrastructure REIT,Australian Securities Exchange,Real Estate
+ASX:AX1,Accent Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MMS,McMillan Shakespeare Limited,Australian Securities Exchange,Industrials
+ASX:RDX,Redox Limited,Australian Securities Exchange,Materials
+ASX:BVS,Bravura Solutions Limited,Australian Securities Exchange,Technology
+ASX:AOV,Amotiv Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PDI,Predictive Discovery Limited,Australian Securities Exchange,Materials
+ASX:ABG,Abacus Group,Australian Securities Exchange,Real Estate
+ASX:UOS,United Overseas Australia Ltd,Australian Securities Exchange,Real Estate
+ASX:IEL,IDP Education Limited,Australian Securities Exchange,Consumer Staples
+ASX:HSN,Hansen Technologies Limited,Australian Securities Exchange,Technology
+ASX:PL8,Plato Income Maximiser Limited,Australian Securities Exchange,Financials
+ASX:ERA,Energy Resources of Australia Ltd,Australian Securities Exchange,Energy
+ASX:AII,Almonty Industries Inc.,Australian Securities Exchange,Materials
+ASX:RIC,Ridley Corporation Limited,Australian Securities Exchange,Consumer Staples
+ASX:WA1,WA1 Resources Ltd,Australian Securities Exchange,Materials
+ASX:LFG,Liberty Financial Group Limited,Australian Securities Exchange,Financials
+ASX:A4N,Alpha HPA Limited,Australian Securities Exchange,Materials
+ASX:CIN,Carlton Investments Ltd.,Australian Securities Exchange,Financials
+ASX:SIQ,Smartgroup Corporation Ltd,Australian Securities Exchange,Industrials
+ASX:VUL,Vulcan Energy Resources Limited,Australian Securities Exchange,Materials
+ASX:DXI,Dexus Industria REIT,Australian Securities Exchange,Real Estate
+ASX:CMW,Cromwell Property Group,Australian Securities Exchange,Real Estate
+ASX:PNV,PolyNovo Limited,Australian Securities Exchange,Healthcare
+ASX:CCP,Credit Corp Group Limited,Australian Securities Exchange,Financials
+ASX:BCI,BCI Minerals Limited,Australian Securities Exchange,Materials
+ASX:GEM,G8 Education Limited,Australian Securities Exchange,Consumer Staples
+ASX:SRG,SRG Global Limited,Australian Securities Exchange,Industrials
+ASX:CKF,Collins Foods Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:KLS,Kelsian Group Limited,Australian Securities Exchange,Industrials
+ASX:OML,oOh!media Limited,Australian Securities Exchange,Communication Services
+ASX:SLX,Silex Systems Limited,Australian Securities Exchange,Technology
+ASX:CBO,Cobram Estate Olives Limited,Australian Securities Exchange,Consumer Staples
+ASX:NUF,Nufarm Limited,Australian Securities Exchange,Materials
+ASX:IDX,Integral Diagnostics Limited,Australian Securities Exchange,Healthcare
+ASX:QAL,Qualitas Limited,Australian Securities Exchange,Financials
+ASX:APZ,Aspen Group,Australian Securities Exchange,Real Estate
+ASX:EQT,EQT Holdings Limited,Australian Securities Exchange,Financials
+ASX:VSL,Vulcan Steel Limited,Australian Securities Exchange,Materials
+ASX:BNDS,Betashares Legg Mason Australian Bond Fund,Australian Securities Exchange,Financials
+ASX:DJW,Djerriwarrh Investments Limited,Australian Securities Exchange,Financials
+ASX:BLX,Beacon Lighting Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AAC,Australian Agricultural Company Limited,Australian Securities Exchange,Consumer Staples
+ASX:LIC,Lifestyle Communities Limited,Australian Securities Exchange,Real Estate
+ASX:VGL,Vista Group International Limited,Australian Securities Exchange,Technology
+ASX:NGI,Navigator Global Investments Limited,Australian Securities Exchange,Financials
+ASX:PPM,Pepper Money Limited,Australian Securities Exchange,Financials
+ASX:CU6,Clarity Pharmaceuticals Ltd,Australian Securities Exchange,Healthcare
+ASX:NXL,Nuix Limited,Australian Securities Exchange,Technology
+ASX:FCL,FINEOS Corporation Holdings plc,Australian Securities Exchange,Technology
+ASX:PPC,Peet Limited,Australian Securities Exchange,Real Estate
+ASX:RPL,Regal Partners Limited,Australian Securities Exchange,Financials
+ASX:COF,Centuria Office REIT,Australian Securities Exchange,Real Estate
+ASX:OPT,Opthea Limited,Australian Securities Exchange,Healthcare
+ASX:MYS,MyState Limited,Australian Securities Exchange,Financials
+ASX:HGH,Heartland Group Holdings Limited,Australian Securities Exchange,Financials
+ASX:JLG,Johns Lyng Group Limited,Australian Securities Exchange,Industrials
+ASX:MIR,Mirrabooka Investments Limited,Australian Securities Exchange,Financials
+ASX:SGLLV,Ricegrowers Limited,Australian Securities Exchange,Consumer Staples
+ASX:RFF,Rural Funds Group,Australian Securities Exchange,Real Estate
+ASX:TEA,Tasmea Limited,Australian Securities Exchange,Industrials
+ASX:PYC,PYC Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:AEF,Australian Ethical Investment Limited,Australian Securities Exchange,Financials
+ASX:HM1,Hearts and Minds Investments Limited,Australian Securities Exchange,Financials
+ASX:SKC,SkyCity Entertainment Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:RUL,RPMGlobal Holdings Limited,Australian Securities Exchange,Technology
+ASX:BOT,Botanix Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:FPR,FleetPartners Group Limited,Australian Securities Exchange,Industrials
+ASX:SHV,Select Harvests Limited,Australian Securities Exchange,Consumer Staples
+ASX:PWH,PWR Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MAH,Macmahon Holdings Limited,Australian Securities Exchange,Materials
+ASX:PGC,Paragon Care Limited,Australian Securities Exchange,Healthcare
+ASX:GWA,GWA Group Limited,Australian Securities Exchange,Industrials
+ASX:PFP,Propel Funeral Partners Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:GNP,GenusPlus Group Ltd,Australian Securities Exchange,Industrials
+ASX:JIN,Jumbo Interactive Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:UNI,Universal Store Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AD8,Audinate Group Limited,Australian Securities Exchange,Technology
+ASX:HLS,Healius Limited,Australian Securities Exchange,Healthcare
+ASX:AFG,Australian Finance Group Limited,Australian Securities Exchange,Financials
+ASX:WTN,Winton Land Limited,Australian Securities Exchange,Real Estate
+ASX:C79,Chrysos Corporation Limited,Australian Securities Exchange,Technology
+ASX:BC8,Black Cat Syndicate Limited,Australian Securities Exchange,Materials
+ASX:QOR,Qoria Limited,Australian Securities Exchange,Technology
+ASX:FFM,FireFly Metals Ltd,Australian Securities Exchange,Materials
+ASX:CCL,Cuscal Limited,Australian Securities Exchange,Financials
+ASX:SRV,Servcorp Limited,Australian Securities Exchange,Real Estate
+ASX:CHN,Chalice Mining Limited,Australian Securities Exchange,Materials
+ASX:KCN,Kingsgate Consolidated Limited,Australian Securities Exchange,Materials
+ASX:IMR,"Imricor Medical Systems, Inc.",Australian Securities Exchange,Healthcare
+ASX:CVL,Civmec Limited,Australian Securities Exchange,Industrials
+ASX:ACL,Australian Clinical Labs Limited,Australian Securities Exchange,Healthcare
+ASX:TRA,Turners Automotive Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:CWP,Cedar Woods Properties Limited,Australian Securities Exchange,Real Estate
+ASX:AMI,Aurelia Metals Limited,Australian Securities Exchange,Materials
+ASX:BMN,Bannerman Energy Ltd,Australian Securities Exchange,Energy
+ASX:CUV,Clinuvel Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:GNG,GR Engineering Services Limited,Australian Securities Exchange,Materials
+ASX:EBR,"EBR Systems, Inc.",Australian Securities Exchange,Healthcare
+ASX:AEL,Amplitude Energy Limited,Australian Securities Exchange,Energy
+ASX:AMA,AMA Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:BRE,Brazilian Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:TWR,Tower Limited,Australian Securities Exchange,Financials
+ASX:KPG,Kelly Partners Group Holdings Limited,Australian Securities Exchange,Industrials
+ASX:MLX,Metals X Limited,Australian Securities Exchange,Materials
+ASX:TBN,Tamboran Resources Corporation,Australian Securities Exchange,Energy
+ASX:ADH,Adairs Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:TYR,Tyro Payments Limited,Australian Securities Exchange,Technology
+ASX:BRN,BrainChip Holdings Ltd,Australian Securities Exchange,Technology
+ASX:STX,Strike Energy Limited,Australian Securities Exchange,Energy
+ASX:EOS,Electro Optic Systems Holdings Limited,Australian Securities Exchange,Industrials
+ASX:EOL,Energy One Limited,Australian Securities Exchange,Technology
+ASX:SVM,Sovereign Metals Limited,Australian Securities Exchange,Materials
+ASX:KSC,K&S Corporation Limited,Australian Securities Exchange,Industrials
+ASX:IFM,Infomedia Ltd,Australian Securities Exchange,Technology
+ASX:MAU,Magnetic Resources NL,Australian Securities Exchange,Materials
+ASX:MAUCA,Magnetic Resources NL,Australian Securities Exchange,Materials
+ASX:SST,Steamships Trading Company Limited,Australian Securities Exchange,Industrials
+ASX:SMI,Santana Minerals Limited,Australian Securities Exchange,Materials
+ASX:ARU,Arafura Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:ALK,Alkane Resources Ltd,Australian Securities Exchange,Materials
+ASX:EML,EML Payments Limited,Australian Securities Exchange,Technology
+ASX:TCG,Turaco Gold Limited,Australian Securities Exchange,Materials
+ASX:AZY,Antipa Minerals Limited,Australian Securities Exchange,Materials
+ASX:SXE,Southern Cross Electrical Engineering Limited,Australian Securities Exchange,Industrials
+ASX:OBL,Omni Bridgeway Limited,Australian Securities Exchange,Financials
+ASX:MYX,Mayne Pharma Group Limited,Australian Securities Exchange,Healthcare
+ASX:ASG,Autosports Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:HCW,HealthCo Healthcare and Wellness REIT,Australian Securities Exchange,Real Estate
+ASX:HTA,Hutchison Telecommunications (Australia) Limited,Australian Securities Exchange,Communication Services
+ASX:PMT,Patriot Battery Metals Inc.,Australian Securities Exchange,Materials
+ASX:TTT,Titomic Limited,Australian Securities Exchange,Industrials
+ASX:LYL,Lycopodium Limited,Australian Securities Exchange,Industrials
+ASX:LOT,Lotus Resources Limited,Australian Securities Exchange,Materials
+ASX:OCA,Oceania Healthcare Limited,Australian Securities Exchange,Healthcare
+ASX:CDP,Carindale Property Trust,Australian Securities Exchange,Real Estate
+ASX:DXC,Dexus Convenience Retail REIT,Australian Securities Exchange,Real Estate
+ASX:AQZ,Alliance Aviation Services Limited,Australian Securities Exchange,Industrials
+ASX:KGN,Kogan.com Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:MMI,Metro Mining Limited,Australian Securities Exchange,Materials
+ASX:JMS,Jupiter Mines Limited,Australian Securities Exchange,Materials
+ASX:IMM,Immutep Limited,Australian Securities Exchange,Healthcare
+ASX:IGL,IVE Group Limited,Australian Securities Exchange,Communication Services
+ASX:PBH,PointsBet Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:EHL,Emeco Holdings Limited,Australian Securities Exchange,Industrials
+ASX:SYL,Symal Group Limited,Australian Securities Exchange,Industrials
+ASX:DUR,Duratec Limited,Australian Securities Exchange,Industrials
+ASX:MEK,Meeka Metals Limited,Australian Securities Exchange,Materials
+ASX:WBT,Weebit Nano Limited,Australian Securities Exchange,Technology
+ASX:BFG,Bell Financial Group Limited,Australian Securities Exchange,Financials
+ASX:SM1,Synlait Milk Limited,Australian Securities Exchange,Consumer Staples
+ASX:GDI,GDI Property Group,Australian Securities Exchange,Real Estate
+ASX:SBM,St Barbara Limited,Australian Securities Exchange,Materials
+ASX:AVJ,AVJennings Limited,Australian Securities Exchange,Real Estate
+ASX:WGN,Wagners Holding Company Limited,Australian Securities Exchange,Materials
+ASX:WJL,Webjet Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:KSL,Kina Securities Limited,Australian Securities Exchange,Financials
+ASX:AMH,AMCIL Limited,Australian Securities Exchange,Financials
+ASX:SKT,SKY Network Television Limited,Australian Securities Exchange,Communication Services
+ASX:SGR,The Star Entertainment Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:GG8,Gorilla Gold Mines Ltd,Australian Securities Exchange,Materials
+ASX:CAY,Canyon Resources Limited,Australian Securities Exchange,Materials
+ASX:RBD,Restaurant Brands New Zealand Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:DXB,Dimerix Limited,Australian Securities Exchange,Healthcare
+ASX:KP2,Kore Potash plc,Australian Securities Exchange,Materials
+ASX:SPZ,Smart Parking Limited,Australian Securities Exchange,Industrials
+ASX:WIA,WIA Gold Limited,Australian Securities Exchange,Materials
+ASX:PPS,Praemium Limited,Australian Securities Exchange,Financials
+ASX:RMC,Resimac Group Limited,Australian Securities Exchange,Financials
+ASX:MGX,Mount Gibson Iron Limited,Australian Securities Exchange,Materials
+ASX:SKO,Serko Limited,Australian Securities Exchange,Technology
+ASX:SVR,Solvar Limited,Australian Securities Exchange,Financials
+ASX:PAC,Pacific Current Group Limited,Australian Securities Exchange,Financials
+ASX:29M,29Metals Limited,Australian Securities Exchange,Materials
+ASX:ATA,Atturra Limited,Australian Securities Exchange,Technology
+ASX:FID,Fiducian Group Ltd,Australian Securities Exchange,Financials
+ASX:ACF,Acrow Limited,Australian Securities Exchange,Industrials
+ASX:CVW,ClearView Wealth Limited,Australian Securities Exchange,Financials
+ASX:STK,Strickland Metals Limited,Australian Securities Exchange,Materials
+ASX:COG,COG Financial Services Limited,Australian Securities Exchange,Financials
+ASX:IPG,IPD Group Limited,Australian Securities Exchange,Industrials
+ASX:OCC,Orthocell Limited,Australian Securities Exchange,Healthcare
+ASX:AGI,Ainsworth Game Technology Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MEI,Meteoric Resources NL,Australian Securities Exchange,Materials
+ASX:MI6,Minerals 260 Limited,Australian Securities Exchange,Materials
+ASX:DTR,Dateline Resources Limited,Australian Securities Exchange,Materials
+ASX:THL,Tourism Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PTM,Platinum Investment Management Limited,Australian Securities Exchange,Financials
+ASX:SYR,Syrah Resources Limited,Australian Securities Exchange,Materials
+ASX:APX,Appen Limited,Australian Securities Exchange,Technology
+ASX:REP,RAM Essential Services Property Fund,Australian Securities Exchange,Financials
+ASX:SFC,Schaffer Corporation Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SHA,SHAPE Australia Corporation Limited,Australian Securities Exchange,Industrials
+ASX:CRN,Coronado Global Resources Inc.,Australian Securities Exchange,Materials
+ASX:NTU,Northern Minerals Limited,Australian Securities Exchange,Materials
+ASX:PSQ,Pacific Smiles Group Limited,Australian Securities Exchange,Healthcare
+ASX:AVR,Anteris Technologies Global Corp.,Australian Securities Exchange,Healthcare
+ASX:NVX,NOVONIX Limited,Australian Securities Exchange,Industrials
+ASX:HZN,Horizon Oil Limited,Australian Securities Exchange,Energy
+ASX:BBT,BETR Entertainment Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:RDY,ReadyTech Holdings Limited,Australian Securities Exchange,Technology
+ASX:INR,ioneer Ltd,Australian Securities Exchange,Materials
+ASX:ECF,Elanor Commercial Property Fund,Australian Securities Exchange,Real Estate
+ASX:ERD,EROAD Limited,Australian Securities Exchange,Technology
+ASX:LRV,Larvotto Resources Limited,Australian Securities Exchange,Materials
+ASX:PGH,Pact Group Holdings Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:TBR,Tribune Resources Limited,Australian Securities Exchange,Materials
+ASX:LGI,LGI Limited,Australian Securities Exchange,Utilities
+ASX:AFP,AFT Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:FWD,Fleetwood Limited,Australian Securities Exchange,Industrials
+ASX:URF,US Masters Residential Property Fund,Australian Securities Exchange,Real Estate
+ASX:PWR,Peter Warren Automotive Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AUC,Ausgold Limited,Australian Securities Exchange,Materials
+ASX:CVC,CVC Limited,Australian Securities Exchange,Financials
+ASX:BTR,Brightstar Resources Limited,Australian Securities Exchange,Materials
+ASX:WAT,Waterco Limited,Australian Securities Exchange,Industrials
+ASX:AAR,Astral Resources NL,Australian Securities Exchange,Materials
+ASX:TRS,The Reject Shop Limited,Australian Securities Exchange,Consumer Staples
+ASX:EGH,Eureka Group Holdings Limited,Australian Securities Exchange,Real Estate
+ASX:BKY,Berkeley Energia Limited,Australian Securities Exchange,Energy
+ASX:AVH,"AVITA Medical, Inc.",Australian Securities Exchange,Healthcare
+ASX:VYS,Vysarn Limited,Australian Securities Exchange,Industrials
+ASX:D2O,Duxton Water Limited,Australian Securities Exchange,Utilities
+ASX:HLO,Helloworld Travel Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:FND,Findi Limited,Australian Securities Exchange,Technology
+ASX:BBN,Baby Bunting Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:GDF,Garda Property Group,Australian Securities Exchange,Real Estate
+ASX:SVL,Silver Mines Limited,Australian Securities Exchange,Consumer Staples
+ASX:MRL,Mayur Resources Ltd,Australian Securities Exchange,Materials
+ASX:ANG,Austin Engineering Limited,Australian Securities Exchange,Industrials
+ASX:OMH,OM Holdings Limited,Australian Securities Exchange,Materials
+ASX:LAU,Lindsay Australia Limited,Australian Securities Exchange,Industrials
+ASX:SMP,Smartpay Holdings Limited,Australian Securities Exchange,Technology
+ASX:MTM,MTM Critical Metals Limited,Australian Securities Exchange,Materials
+ASX:SWM,Seven West Media Limited,Australian Securities Exchange,Communication Services
+ASX:3DA,Amaero Ltd,Australian Securities Exchange,Materials
+ASX:XRF,XRF Scientific Limited,Australian Securities Exchange,Materials
+ASX:CGS,Cogstate Limited,Australian Securities Exchange,Healthcare
+ASX:PLL,Piedmont Lithium Inc.,Australian Securities Exchange,Materials
+ASX:WHI,Whitefield Income Limited,Australian Securities Exchange,
+ASX:EEG,Empire Energy Group Limited,Australian Securities Exchange,Energy
+ASX:GRR,Grange Resources Limited,Australian Securities Exchange,Materials
+ASX:HUM,Humm Group Limited,Australian Securities Exchange,Financials
+ASX:MVF,Monash IVF Group Limited,Australian Securities Exchange,Healthcare
+ASX:GRX,GreenX Metals Limited,Australian Securities Exchange,Materials
+ASX:KMD,KMD Brands Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:FEX,Fenix Resources Limited,Australian Securities Exchange,Materials
+ASX:RHI,Red Hill Minerals Limited,Australian Securities Exchange,Materials
+ASX:RXL,Rox Resources Limited,Australian Securities Exchange,Materials
+ASX:POL,Polymetals Resources Ltd,Australian Securities Exchange,Materials
+ASX:RAC,Race Oncology Limited,Australian Securities Exchange,Healthcare
+ASX:IMB,Intelligent Monitoring Group Limited,Australian Securities Exchange,Industrials
+ASX:SKS,SKS Technologies Group Limited,Australian Securities Exchange,Industrials
+ASX:LGL,Lynch Group Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:NZM,NZME Limited,Australian Securities Exchange,Communication Services
+ASX:TVN,Tivan Limited,Australian Securities Exchange,Materials
+ASX:CTM,Centaurus Metals Limited,Australian Securities Exchange,Materials
+ASX:ONE,Oneview Healthcare PLC,Australian Securities Exchange,Healthcare
+ASX:SYA,Sayona Mining Limited,Australian Securities Exchange,Materials
+ASX:WC8,Wildcat Resources Limited,Australian Securities Exchange,Materials
+ASX:FRI,Finbar Group Limited,Australian Securities Exchange,Real Estate
+ASX:WAR,WAM Strategic Value Limited,Australian Securities Exchange,Financials
+ASX:CXO,Core Lithium Ltd,Australian Securities Exchange,Materials
+ASX:ASL,Andean Silver Limited,Australian Securities Exchange,Materials
+ASX:A1M,AIC Mines Limited,Australian Securities Exchange,Materials
+ASX:CVN,Carnarvon Energy Limited,Australian Securities Exchange,Energy
+ASX:ARX,Aroa Biosurgery Limited,Australian Securities Exchange,Healthcare
+ASX:RLT,Renergen Limited,Australian Securities Exchange,Energy
+ASX:MTO,MotorCycle Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:LAM,Laramide Resources Ltd.,Australian Securities Exchange,Energy
+ASX:BRL,Bathurst Resources Limited,Australian Securities Exchange,Materials
+ASX:XAM,Xanadu Mines Limited,Australian Securities Exchange,Materials
+ASX:BGD,Barton Gold Holdings Limited,Australian Securities Exchange,Materials
+ASX:DUG,DUG Technology Ltd,Australian Securities Exchange,Technology
+ASX:ELS,Elsight Limited,Australian Securities Exchange,Technology
+ASX:TLG,Talga Group Ltd,Australian Securities Exchange,Materials
+ASX:CAA,Capral Limited,Australian Securities Exchange,Materials
+ASX:COI,Comet Ridge Limited,Australian Securities Exchange,Energy
+ASX:SSG,Shaver Shop Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:BCK,Brockman Mining Limited,Australian Securities Exchange,Materials
+ASX:TOK,Tolu Minerals Limited,Australian Securities Exchange,Materials
+ASX:CCV,Cash Converters International Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:NWC,New World Resources Limited,Australian Securities Exchange,Materials
+ASX:CTT,Cettire Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:NDO,Nido Education Limited,Australian Securities Exchange,Consumer Staples
+ASX:NMG,New Murchison Gold Limited,Australian Securities Exchange,Materials
+ASX:VNL,Vinyl Group Ltd,Australian Securities Exchange,Technology
+ASX:STN,Saturn Metals Limited,Australian Securities Exchange,Materials
+ASX:AIS,Aeris Resources Limited,Australian Securities Exchange,Materials
+ASX:3PL,3P Learning Limited,Australian Securities Exchange,Consumer Staples
+ASX:A1N,ARN Media Limited,Australian Securities Exchange,Communication Services
+ASX:BIS,Bisalloy Steel Group Limited,Australian Securities Exchange,Materials
+ASX:NMR,Native Mineral Resources Holdings Limited,Australian Securities Exchange,Materials
+ASX:PRG,PRL Global Ltd.,Australian Securities Exchange,Industrials
+ASX:OFX,OFX Group Limited,Australian Securities Exchange,Financials
+ASX:QGL,Quantum Graphite Limited,Australian Securities Exchange,Materials
+ASX:CEH,Coast Entertainment Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PLT,Plenti Group Limited,Australian Securities Exchange,Financials
+ASX:RNU,Renascor Resources Limited,Australian Securities Exchange,Materials
+ASX:BTI,Bailador Technology Investments Limited,Australian Securities Exchange,Financials
+ASX:TZN,Terramin Australia Limited,Australian Securities Exchange,Materials
+ASX:MHJ,Michael Hill International Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:ZEO,Zeotech Limited,Australian Securities Exchange,Materials
+ASX:HNG,Hancock & Gore Ltd,Australian Securities Exchange,Financials
+ASX:EMV,EMVision Medical Devices Ltd,Australian Securities Exchange,Healthcare
+ASX:BOC,Bougainville Copper Limited,Australian Securities Exchange,Materials
+ASX:NOL,NobleOak Life Limited,Australian Securities Exchange,Financials
+ASX:CEL,Challenger Gold Limited,Australian Securities Exchange,Materials
+ASX:LIN,Lindian Resources Limited,Australian Securities Exchange,Materials
+ASX:SXL,Southern Cross Media Group Limited,Australian Securities Exchange,Communication Services
+ASX:EGR,EcoGraf Limited,Australian Securities Exchange,Materials
+ASX:MPW,Metal Powder Works Limited,Australian Securities Exchange,Technology
+ASX:BWN,Bhagwan Marine Limited,Australian Securities Exchange,Industrials
+ASX:CLX,CTI Logistics Limited,Australian Securities Exchange,Industrials
+ASX:SEC,Spheria Emerging Companies Limited,Australian Securities Exchange,Financials
+ASX:CUP,Count Limited,Australian Securities Exchange,Industrials
+ASX:4DS,4DS Memory Limited,Australian Securities Exchange,Technology
+ASX:4DX,4DMedical Limited,Australian Securities Exchange,Healthcare
+ASX:IKE,ikeGPS Group Limited,Australian Securities Exchange,Technology
+ASX:ARR,American Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:ART,Airtasker Limited,Australian Securities Exchange,Communication Services
+ASX:EZL,Euroz Hartleys Group Limited,Australian Securities Exchange,Financials
+ASX:VVA,Viva Leisure Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:EIQ,Echo IQ Limited,Australian Securities Exchange,Technology
+ASX:5EA,"5E Advanced Materials, Inc.",Australian Securities Exchange,Materials
+ASX:JYC,Joyce Corporation Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:MDX,Mindax Limited,Australian Securities Exchange,Materials
+ASX:ASM,Australian Strategic Materials Ltd,Australian Securities Exchange,Materials
+ASX:MM8,Medallion Metals Limited,Australian Securities Exchange,Materials
+ASX:WA8,Warriedar Resources Limited,Australian Securities Exchange,Materials
+ASX:MXI,MaxiPARTS Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:EVO,Embark Early Education Limited,Australian Securities Exchange,Consumer Staples
+ASX:TGP,360 Capital Group Limited,Australian Securities Exchange,Financials
+ASX:SOM,SomnoMed Limited,Australian Securities Exchange,Healthcare
+ASX:APW,Aims Property Securities Fund,Australian Securities Exchange,Real Estate
+ASX:ACE,Acusensus Limited,Australian Securities Exchange,Technology
+ASX:BUB,Bubs Australia Limited,Australian Securities Exchange,Consumer Staples
+ASX:KOV,Korvest Ltd,Australian Securities Exchange,Industrials
+ASX:GLB,Globe International Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AGE,Alligator Energy Limited,Australian Securities Exchange,Energy
+ASX:ALC,Alcidion Group Limited,Australian Securities Exchange,Healthcare
+ASX:AEE,Aura Energy Limited,Australian Securities Exchange,Energy
+ASX:USL,Unico Silver Limited,Australian Securities Exchange,Materials
+ASX:SLH,Silk Logistics Holdings Limited,Australian Securities Exchange,Industrials
+ASX:GOW,Gowing Bros. Limited,Australian Securities Exchange,Financials
+ASX:AIM,Ai-Media Technologies Limited,Australian Securities Exchange,Communication Services
+ASX:GTN,GTN Limited,Australian Securities Exchange,Communication Services
+ASX:DLI,Delta Lithium Limited,Australian Securities Exchange,Materials
+ASX:HRZ,Horizon Minerals Limited,Australian Securities Exchange,Materials
+ASX:STP,Step One Clothing Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SHJ,Shine Justice Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:BNZ,Benz Mining Corp.,Australian Securities Exchange,Materials
+ASX:SNC,Sandon Capital Investments Limited,Australian Securities Exchange,Financials
+ASX:CYC,Cyclopharm Limited,Australian Securities Exchange,Healthcare
+ASX:CRD,Conrad Asia Energy Ltd.,Australian Securities Exchange,Energy
+ASX:EVS,Envirosuite Limited,Australian Securities Exchange,Technology
+ASX:AKM,Aspire Mining Limited,Australian Securities Exchange,Materials
+ASX:SS1,Sun Silver Limited,Australian Securities Exchange,Materials
+ASX:AHC,Austco Healthcare Limited,Australian Securities Exchange,Healthcare
+ASX:BCN,Beacon Minerals Limited,Australian Securities Exchange,Materials
+ASX:DGL,DGL Group Limited,Australian Securities Exchange,Materials
+ASX:NVA,Nova Minerals Limited,Australian Securities Exchange,Materials
+ASX:ENR,Encounter Resources Limited,Australian Securities Exchange,Materials
+ASX:VEE,VEEM Ltd,Australian Securities Exchange,Industrials
+ASX:SNT,Syntara Limited,Australian Securities Exchange,Healthcare
+ASX:IMU,Imugene Limited,Australian Securities Exchange,Healthcare
+ASX:HPG,hipages Group Holdings Limited,Australian Securities Exchange,Technology
+ASX:EL8,Elevate Uranium Ltd,Australian Securities Exchange,Energy
+ASX:TGM,Theta Gold Mines Limited,Australian Securities Exchange,Materials
+ASX:PAR,Paradigm Biopharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:MLG,MLG Oz Limited,Australian Securities Exchange,Materials
+ASX:AUE,Aurum Resources Limited,Australian Securities Exchange,Materials
+ASX:TRJ,Trajan Group Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:VLS,Vita Life Sciences Limited,Australian Securities Exchange,Healthcare
+ASX:TGF,Tribeca Global Natural Resources Limited,Australian Securities Exchange,Financials
+ASX:RFG,Retail Food Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:KAU,Kaiser Reef Limited,Australian Securities Exchange,Materials
+ASX:SHG,Singular Health Group Ltd,Australian Securities Exchange,Healthcare
+ASX:ATH,Alterity Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:BRI,Big River Industries Limited,Australian Securities Exchange,Materials
+ASX:STM,Sunstone Metals Limited,Australian Securities Exchange,Materials
+ASX:RND,Rand Mining Limited,Australian Securities Exchange,Materials
+ASX:FML,Focus Minerals Limited,Australian Securities Exchange,Materials
+ASX:MME,MoneyMe Limited,Australian Securities Exchange,Financials
+ASX:BET,Betmakers Technology Group Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:WRK,Wrkr Ltd,Australian Securities Exchange,Technology
+ASX:NZK,New Zealand King Salmon Investments Limited,Australian Securities Exchange,Consumer Staples
+ASX:TWD,Tamawood Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:OIL,Optiscan Imaging Limited,Australian Securities Exchange,Technology
+ASX:FSA,FSA Group Limited,Australian Securities Exchange,Financials
+ASX:TPC,TPC Consolidated Limited,Australian Securities Exchange,Utilities
+ASX:COS,COSOL Limited,Australian Securities Exchange,Technology
+ASX:MYG,Mayfield Group Holdings Limited,Australian Securities Exchange,Technology
+ASX:HGO,Hillgrove Resources Limited,Australian Securities Exchange,Materials
+ASX:TTM,Titan Minerals Limited,Australian Securities Exchange,Materials
+ASX:QPM,QPM Energy Limited,Australian Securities Exchange,Energy
+ASX:RCE,Recce Pharmaceuticals Ltd,Australian Securities Exchange,Healthcare
+ASX:WOT,WOTSO,Australian Securities Exchange,Real Estate
+ASX:PTR,Petratherm Limited,Australian Securities Exchange,Materials
+ASX:EQR,EQ Resources Limited,Australian Securities Exchange,Materials
+ASX:SDI,SDI Limited,Australian Securities Exchange,Healthcare
+ASX:PEN,Peninsula Energy Limited,Australian Securities Exchange,Energy
+ASX:AAL,Alfabs Australia Limited,Australian Securities Exchange,Industrials
+ASX:VTM,Victory Metals Limited,Australian Securities Exchange,Materials
+ASX:BIO,Biome Australia Limited,Australian Securities Exchange,Consumer Staples
+ASX:KSN,Kingston Resources Limited,Australian Securities Exchange,Materials
+ASX:FHE,Frontier Energy Limited,Australian Securities Exchange,Utilities
+ASX:AGN,Argenica Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:PEK,Peak Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:CVV,Caravel Minerals Limited,Australian Securities Exchange,Materials
+ASX:ATR,Astron Corporation Limited,Australian Securities Exchange,Materials
+ASX:GHY,Gold Hydrogen Limited,Australian Securities Exchange,Energy
+ASX:MCA,Murray Cod Australia Limited,Australian Securities Exchange,Consumer Staples
+ASX:DRX,Diatreme Resources Limited,Australian Securities Exchange,Materials
+ASX:EGL,The Environmental Group Limited,Australian Securities Exchange,Industrials
+ASX:GLN,Galan Lithium Limited,Australian Securities Exchange,Materials
+ASX:VFY,Vitrafy Life Sciences Limited,Australian Securities Exchange,
+ASX:CYG,Coventry Group Ltd,Australian Securities Exchange,Industrials
+ASX:DCC,DigitalX Limited,Australian Securities Exchange,Technology
+ASX:FDV,Frontier Digital Ventures Limited,Australian Securities Exchange,Communication Services
+ASX:GSS,Genetic Signatures Limited,Australian Securities Exchange,Healthcare
+ASX:ARA,Ariadne Australia Limited,Australian Securities Exchange,Financials
+ASX:SND,Saunders International Limited,Australian Securities Exchange,Industrials
+ASX:EGN,Engenco Limited,Australian Securities Exchange,Industrials
+ASX:ECL,Excelsior Capital Limited,Australian Securities Exchange,Industrials
+ASX:SGI,Stealth Group Holdings Ltd,Australian Securities Exchange,Industrials
+ASX:YOJ,Yojee Limited,Australian Securities Exchange,Technology
+ASX:BBL,Brisbane Broncos Limited,Australian Securities Exchange,Communication Services
+ASX:WLD,Wellard Limited,Australian Securities Exchange,Industrials
+ASX:ESR,Estrella Resources Limited,Australian Securities Exchange,Materials
+ASX:PTN,Patronus Resources Limited,Australian Securities Exchange,Materials
+ASX:ALA,Arovella Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:OMA,Omega Oil & Gas Limited,Australian Securities Exchange,Energy
+ASX:HZR,Hazer Group Limited,Australian Securities Exchange,Materials
+ASX:LCY,Legacy Iron Ore Limited,Australian Securities Exchange,Materials
+ASX:BMT,Beamtree Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:CCR,Credit Clear Limited,Australian Securities Exchange,Technology
+ASX:AYA,Artrya Limited,Australian Securities Exchange,Healthcare
+ASX:A11,Atlantic Lithium Limited,Australian Securities Exchange,Materials
+ASX:HCH,Hot Chili Limited,Australian Securities Exchange,Materials
+ASX:ERM,Emmerson Resources Limited,Australian Securities Exchange,Materials
+ASX:FLN,Freelancer Limited,Australian Securities Exchange,Communication Services
+ASX:HRN,Horizon Gold Limited,Australian Securities Exchange,Materials
+ASX:CY5,Cygnus Metals Limited,Australian Securities Exchange,Materials
+ASX:IVZ,Invictus Energy Limited,Australian Securities Exchange,Energy
+ASX:NWF,Newfield Resources Limited,Australian Securities Exchange,Materials
+ASX:IMA,Image Resources NL,Australian Securities Exchange,Materials
+ASX:AQD,AusQuest Limited,Australian Securities Exchange,Materials
+ASX:PSC,Prospect Resources Limited,Australian Securities Exchange,Materials
+ASX:MAY,Melbana Energy Limited,Australian Securities Exchange,Energy
+ASX:TOT,360 Capital REIT,Australian Securities Exchange,Real Estate
+ASX:PCL,Pancontinental Energy NL,Australian Securities Exchange,Energy
+ASX:ARL,Ardea Resources Limited,Australian Securities Exchange,Materials
+ASX:ST1,Spirit Technology Solutions Ltd,Australian Securities Exchange,Communication Services
+ASX:CUE,Cue Energy Resources Limited,Australian Securities Exchange,Energy
+ASX:KYP,Kinatico Ltd,Australian Securities Exchange,Technology
+ASX:EXP,Experience Co Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PNC,Pioneer Credit Limited,Australian Securities Exchange,Financials
+ASX:AOF,Australian Unity Office Fund,Australian Securities Exchange,Real Estate
+ASX:GHM,Golden Horse Minerals Limited,Australian Securities Exchange,Materials
+ASX:LRK,LARK Distilling Co. Ltd.,Australian Securities Exchange,Consumer Staples
+ASX:RCT,Reef Casino Trust,Australian Securities Exchange,Consumer Discretionary
+ASX:AL3,AML3D Limited,Australian Securities Exchange,Industrials
+ASX:M7T,Mach7 Technologies Limited,Australian Securities Exchange,Healthcare
+ASX:SSL,Sietel Limited,Australian Securities Exchange,Real Estate
+ASX:AVL,Australian Vanadium Limited,Australian Securities Exchange,Materials
+ASX:ETM,Energy Transition Minerals Ltd,Australian Securities Exchange,Materials
+ASX:EZZ,EZZ Life Science Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:ECH,Echelon Resources Limited,Australian Securities Exchange,Energy
+ASX:IRI,Integrated Research Limited,Australian Securities Exchange,Technology
+ASX:A1G,African Gold Limited,Australian Securities Exchange,Materials
+ASX:PCG,Pengana Capital Group Limited,Australian Securities Exchange,Financials
+ASX:GPR,Geopacific Resources Limited,Australian Securities Exchange,Materials
+ASX:NUZ,Neurizon Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:WWI,West Wits Mining Limited,Australian Securities Exchange,Materials
+ASX:ATC,Altech Batteries Limited,Australian Securities Exchange,Materials
+ASX:MTH,Mithril Silver and Gold Limited,Australian Securities Exchange,Materials
+ASX:AV1,Adveritas Limited,Australian Securities Exchange,Technology
+ASX:ORN,Orion Minerals Limited,Australian Securities Exchange,Materials
+ASX:DME,Dome Gold Mines Ltd,Australian Securities Exchange,Materials
+ASX:RTG,RTG Mining Inc.,Australian Securities Exchange,Materials
+ASX:WTM,Waratah Minerals Limited,Australian Securities Exchange,Materials
+ASX:SGQ,St George Mining Limited,Australian Securities Exchange,Materials
+ASX:TMG,Trigg Minerals Limited,Australian Securities Exchange,Materials
+ASX:TRE,Toubani Resources Limited,Australian Securities Exchange,Materials
+ASX:CAF,Centrepoint Alliance Limited,Australian Securities Exchange,Financials
+ASX:CNB,Carnaby Resources Limited,Australian Securities Exchange,Materials
+ASX:IOD,IODM Limited,Australian Securities Exchange,Technology
+ASX:KAI,Kairos Minerals Limited,Australian Securities Exchange,Materials
+ASX:AHX,Apiam Animal Health Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PEB,Pacific Edge Limited,Australian Securities Exchange,Healthcare
+ASX:HIT,HiTech Group Australia Limited,Australian Securities Exchange,Industrials
+ASX:PCK,PainChek Limited,Australian Securities Exchange,Healthcare
+ASX:KKO,Kinetiko Energy Limited,Australian Securities Exchange,Energy
+ASX:SPG,SPC Global Holdings Ltd,Australian Securities Exchange,
+ASX:CHW,Chilwa Minerals Limited,Australian Securities Exchange,Materials
+ASX:ASN,Anson Resources Limited,Australian Securities Exchange,Materials
+ASX:MPK,Many Peaks Minerals Limited,Australian Securities Exchange,Materials
+ASX:ACW,Actinogen Medical Limited,Australian Securities Exchange,Healthcare
+ASX:CXL,Calix Limited,Australian Securities Exchange,Materials
+ASX:FRM,Farm Pride Foods Limited,Australian Securities Exchange,Consumer Staples
+ASX:PPE,Peoplein Limited,Australian Securities Exchange,Industrials
+ASX:ATP,Atlas Pearls Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:B4P,Beforepay Group Limited,Australian Securities Exchange,Technology
+ASX:MVP,Medical Developments International Limited,Australian Securities Exchange,Healthcare
+ASX:AXE,Archer Materials Limited,Australian Securities Exchange,Technology
+ASX:NMT,Neometals Ltd,Australian Securities Exchange,Industrials
+ASX:UBN,Urbanise.com Limited,Australian Securities Exchange,Technology
+ASX:DRE,Dreadnought Resources Limited,Australian Securities Exchange,Materials
+ASX:ABY,Adore Beauty Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SFX,Sheffield Resources Limited,Australian Securities Exchange,Materials
+ASX:CLV,Clover Corporation Limited,Australian Securities Exchange,Consumer Staples
+ASX:AS1,Asara Resources Limited,Australian Securities Exchange,Materials
+ASX:DAI,Decidr AI Industries Ltd,Australian Securities Exchange,Technology
+ASX:IPD,ImpediMed Limited,Australian Securities Exchange,Healthcare
+ASX:MAM,Microequities Asset Management Group Limited,Australian Securities Exchange,Financials
+ASX:VHL,Vitasora Health Limited,Australian Securities Exchange,
+ASX:NXM,Nexus Minerals Limited,Australian Securities Exchange,Materials
+ASX:SEG,Sports Entertainment Group Limited,Australian Securities Exchange,Communication Services
+ASX:WKT,Walkabout Resources Limited,Australian Securities Exchange,Materials
+ASX:FXG,Felix Gold Limited,Australian Securities Exchange,Materials
+ASX:LIS,Li-S Energy Limited,Australian Securities Exchange,Industrials
+ASX:BSX,Blackstone Minerals Limited,Australian Securities Exchange,Materials
+ASX:EUR,European Lithium Limited,Australian Securities Exchange,Materials
+ASX:HAV,Havilah Resources Limited,Australian Securities Exchange,Materials
+ASX:KGL,KGL Resources Limited,Australian Securities Exchange,Materials
+ASX:SMN,Structural Monitoring Systems Plc,Australian Securities Exchange,Technology
+ASX:EGG,Enero Group Limited,Australian Securities Exchange,Communication Services
+ASX:BWF,BlackWall Limited,Australian Securities Exchange,Financials
+ASX:MHK,Metal Hawk Limited,Australian Securities Exchange,Materials
+ASX:SB2,Salter Brothers Emerging Companies Limited,Australian Securities Exchange,Financials
+ASX:CLE,Cyclone Metals Limited,Australian Securities Exchange,Materials
+ASX:EWC,Energy World Corporation Ltd,Australian Securities Exchange,Utilities
+ASX:RZI,Raiz Invest Limited,Australian Securities Exchange,Technology
+ASX:SDV,SciDev Limited,Australian Securities Exchange,Materials
+ASX:HMY,Harmoney Corp Limited,Australian Securities Exchange,Financials
+ASX:PLY,PlaySide Studios Limited,Australian Securities Exchange,Communication Services
+ASX:HFR,Highfield Resources Limited,Australian Securities Exchange,Materials
+ASX:VHM,VHM Limited,Australian Securities Exchange,Materials
+ASX:PUA,Peak Minerals Limited,Australian Securities Exchange,Materials
+ASX:PFG,Prime Financial Group Limited,Australian Securities Exchange,Financials
+ASX:LTP,LTR Pharma Limited,Australian Securities Exchange,Healthcare
+ASX:FEG,Far East Gold Limited,Australian Securities Exchange,Materials
+ASX:AGR,Aguia Resources Limited,Australian Securities Exchange,Materials
+ASX:TGN,Tungsten Mining NL,Australian Securities Exchange,Materials
+ASX:VTX,Vertex Minerals Limited,Australian Securities Exchange,Materials
+ASX:HAS,Hastings Technology Metals Limited,Australian Securities Exchange,Materials
+ASX:JBY,James Bay Minerals Limited,Australian Securities Exchange,Materials
+ASX:PHX,PharmX Technologies Limited,Australian Securities Exchange,Healthcare
+ASX:BOL,Boom Logistics Limited,Australian Securities Exchange,Industrials
+ASX:MCM,MC Mining Limited,Australian Securities Exchange,Energy
+ASX:OSM,Osmond Resources Limited,Australian Securities Exchange,Materials
+ASX:BXN,Bioxyne Limited,Australian Securities Exchange,Consumer Staples
+ASX:RKN,Reckon Limited,Australian Securities Exchange,Technology
+ASX:RAD,Radiopharm Theranostics Limited,Australian Securities Exchange,Healthcare
+ASX:EPY,Earlypay Limited,Australian Securities Exchange,Financials
+ASX:CYM,Cyprium Metals Limited,Australian Securities Exchange,Materials
+ASX:CZR,CZR Resources Ltd,Australian Securities Exchange,Materials
+ASX:IVR,Investigator Resources Limited,Australian Securities Exchange,Materials
+ASX:VIG,Victor Group Holdings Limited,Australian Securities Exchange,Technology
+ASX:LKE,Lake Resources NL,Australian Securities Exchange,Materials
+ASX:TAM,Tanami Gold NL,Australian Securities Exchange,Materials
+ASX:MSV,Mitchell Services Limited,Australian Securities Exchange,Materials
+ASX:MAP,Microba Life Sciences Limited,Australian Securities Exchange,Healthcare
+ASX:SHM,Shriro Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:ARN,Aldoro Resources Limited,Australian Securities Exchange,Materials
+ASX:HE8,Helios Energy Limited,Australian Securities Exchange,Energy
+ASX:WCN,White Cliff Minerals Limited,Australian Securities Exchange,Materials
+ASX:MAT,Matsa Resources Limited,Australian Securities Exchange,Materials
+ASX:MNB,Minbos Resources Limited,Australian Securities Exchange,Materials
+ASX:DBF,Duxton Farms Limited,Australian Securities Exchange,Consumer Staples
+ASX:MYE,Mastermyne Group Limited,Australian Securities Exchange,Energy
+ASX:AHL,Adrad Holdings Limited,Australian Securities Exchange,Industrials
+ASX:MMA,Maronan Metals Limited,Australian Securities Exchange,Materials
+ASX:DSK,Dusk Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:ATG,Articore Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MDR,MedAdvisor Limited,Australian Securities Exchange,Healthcare
+ASX:CMP,Compumedics Limited,Australian Securities Exchange,Healthcare
+ASX:PPL,Pureprofile Ltd,Australian Securities Exchange,Communication Services
+ASX:PIQ,Proteomics International Laboratories Ltd,Australian Securities Exchange,Healthcare
+ASX:CRI,Critica Limited,Australian Securities Exchange,Materials
+ASX:DNA,Donaco International Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:TSO,Tesoro Gold Ltd,Australian Securities Exchange,Materials
+ASX:SIO,Simonds Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:RIM,Rimfire Pacific Mining Limited,Australian Securities Exchange,Materials
+ASX:ESK,Etherstack plc,Australian Securities Exchange,Technology
+ASX:ANO,Advance ZincTek Limited,Australian Securities Exchange,Materials
+ASX:BB1,BlinkLab Limited,Australian Securities Exchange,Healthcare
+ASX:VRX,VRX Silica Limited,Australian Securities Exchange,Materials
+ASX:IIQ,INOVIQ Ltd,Australian Securities Exchange,Healthcare
+ASX:LM8,Lunnon Metals Limited,Australian Securities Exchange,Materials
+ASX:JGH,Jade Gas Holdings Limited,Australian Securities Exchange,Energy
+ASX:TVL,Touch Ventures Limited,Australian Securities Exchange,Financials
+ASX:PVE,Po Valley Energy Limited,Australian Securities Exchange,Energy
+ASX:MEU,Marmota Limited,Australian Securities Exchange,Materials
+ASX:PEX,Peel Mining Limited,Australian Securities Exchange,Materials
+ASX:IDA,Indiana Resources Limited,Australian Securities Exchange,Materials
+ASX:COV,Cleo Diagnostics Ltd,Australian Securities Exchange,Healthcare
+ASX:RWL,Rubicon Water Limited,Australian Securities Exchange,Utilities
+ASX:NGY,NuEnergy Gas Limited,Australian Securities Exchange,Energy
+ASX:TER,TerraCom Limited,Australian Securities Exchange,Energy
+ASX:GBR,Great Boulder Resources Limited,Australian Securities Exchange,Materials
+ASX:M4M,Macro Metals Limited,Australian Securities Exchange,Materials
+ASX:ILA,Island Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:BML,Boab Metals Limited,Australian Securities Exchange,Materials
+ASX:AGD,Austral Gold Limited,Australian Securities Exchange,Materials
+ASX:TYP,Tryptamine Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:TIP,Teaminvest Private Group Limited,Australian Securities Exchange,Financials
+ASX:MCE,Matrix Composites & Engineering Ltd,Australian Securities Exchange,Industrials
+ASX:EPM,Eclipse Metals Limited,Australian Securities Exchange,Materials
+ASX:SRL,Sunrise Energy Metals Limited,Australian Securities Exchange,Industrials
+ASX:BKT,Black Rock Mining Limited,Australian Securities Exchange,Materials
+ASX:SPD,Southern Palladium Limited,Australian Securities Exchange,Materials
+ASX:TKM,Trek Metals Limited,Australian Securities Exchange,Materials
+ASX:IDT,IDT Australia Limited,Australian Securities Exchange,Healthcare
+ASX:PTX,Prescient Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:RDM,Red Metal Limited,Australian Securities Exchange,Materials
+ASX:AGC,Australian Gold and Copper Limited,Australian Securities Exchange,Materials
+ASX:AQC,Australian Pacific Coal Limited,Australian Securities Exchange,Energy
+ASX:CCA,Change Financial Limited,Australian Securities Exchange,Technology
+ASX:RTH,RAS Technology Holdings Limited,Australian Securities Exchange,Technology
+ASX:ADN,Andromeda Metals Limited,Australian Securities Exchange,Materials
+ASX:KNB,Koonenberry Gold Limited,Australian Securities Exchange,Materials
+ASX:FFI,FFI Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:VIT,Vitura Health Limited,Australian Securities Exchange,Healthcare
+ASX:LBL,LaserBond Limited,Australian Securities Exchange,Industrials
+ASX:AI1,Adisyn Ltd,Australian Securities Exchange,Technology
+ASX:E25,Element 25 Limited,Australian Securities Exchange,Materials
+ASX:SEQ,Sequoia Financial Group Limited,Australian Securities Exchange,Financials
+ASX:HYT,Hyterra Ltd,Australian Securities Exchange,Energy
+ASX:AUN,Aurumin Limited,Australian Securities Exchange,Materials
+ASX:CTP,Central Petroleum Limited,Australian Securities Exchange,Energy
+ASX:DUB,Dubber Corporation Limited,Australian Securities Exchange,Technology
+ASX:TDO,3D Energi Limited,Australian Securities Exchange,Energy
+ASX:LEL,Lithium Energy Limited,Australian Securities Exchange,Materials
+ASX:EDU,EDU Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:GT3,Green360 Technologies LImited,Australian Securities Exchange,Industrials
+ASX:MM1,Midas Minerals Limited,Australian Securities Exchange,Materials
+ASX:FLC,Fluence Corporation Limited,Australian Securities Exchange,Industrials
+ASX:WTL,WT Financial Group Limited,Australian Securities Exchange,Financials
+ASX:EMH,European Metals Holdings Limited,Australian Securities Exchange,Materials
+ASX:EXR,Elixir Energy Limited,Australian Securities Exchange,Energy
+ASX:DOC,Doctor Care Anywhere Group PLC,Australian Securities Exchange,Healthcare
+ASX:CPV,ClearVue Technologies Limited,Australian Securities Exchange,Technology
+ASX:5GN,5G Networks Limited,Australian Securities Exchange,Technology
+ASX:TNC,True North Copper Limited,Australian Securities Exchange,Materials
+ASX:DDB,Dynamic Group Holdings Limited,Australian Securities Exchange,Industrials
+ASX:NYR,Nyrada Inc.,Australian Securities Exchange,Healthcare
+ASX:NVO,Novo Resources Corp.,Australian Securities Exchange,Materials
+ASX:FLX,Felix Group Holdings Ltd,Australian Securities Exchange,Technology
+ASX:BCB,Bowen Coking Coal Limited,Australian Securities Exchange,Materials
+ASX:CYP,Cynata Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:TIG,Tigers Realm Coal Limited,Australian Securities Exchange,Materials
+ASX:ARD,Argent Minerals Limited,Australian Securities Exchange,Materials
+ASX:JAN,Janison Education Group Limited,Australian Securities Exchange,Technology
+ASX:CKA,Cokal Limited,Australian Securities Exchange,Materials
+ASX:MKR,Manuka Resources Limited,Australian Securities Exchange,Materials
+ASX:ELT,Elementos Limited,Australian Securities Exchange,Materials
+ASX:SPL,Starpharma Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:GL1,Global Lithium Resources Limited,Australian Securities Exchange,Materials
+ASX:EMN,Euro Manganese Inc.,Australian Securities Exchange,Materials
+ASX:JPR,Jupiter Energy Limited,Australian Securities Exchange,Energy
+ASX:EDC,Eildon Capital Fund,Australian Securities Exchange,Real Estate
+ASX:DEL,Delorean Corporation Limited,Australian Securities Exchange,Utilities
+ASX:NGE,NGE Capital Limited,Australian Securities Exchange,Financials
+ASX:BRK,Brookside Energy Limited,Australian Securities Exchange,Energy
+ASX:KAT,Katana Capital Limited,Australian Securities Exchange,Financials
+ASX:TEK,Thorney Technologies Ltd,Australian Securities Exchange,Financials
+ASX:IXR,Ionic Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:MCP,McPherson's Limited,Australian Securities Exchange,Consumer Staples
+ASX:IRD,Iron Road Limited,Australian Securities Exchange,Materials
+ASX:CTE,Cryosite Limited,Australian Securities Exchange,Healthcare
+ASX:WZR,Wisr Limited,Australian Securities Exchange,Financials
+ASX:LOC,Locate Technologies Limited,Australian Securities Exchange,Technology
+ASX:NOU,Noumi Limited,Australian Securities Exchange,Consumer Staples
+ASX:AQN,Aquirian Limited,Australian Securities Exchange,Industrials
+ASX:CLG,Close the Loop Ltd,Australian Securities Exchange,Industrials
+ASX:FAR,FAR Limited,Australian Securities Exchange,Energy
+ASX:YRL,Yandal Resources Limited,Australian Securities Exchange,Materials
+ASX:EYE,Nova Eye Medical Limited,Australian Securities Exchange,Healthcare
+ASX:WR1,Winsome Resources Limited,Australian Securities Exchange,Materials
+ASX:VR1,Vection Technologies Limited,Australian Securities Exchange,Technology
+ASX:GCM,Green Critical Minerals Limited,Australian Securities Exchange,Materials
+ASX:BVR,Bellavista Resources Limited,Australian Securities Exchange,Materials
+ASX:TOR,Torque Metals Limited,Australian Securities Exchange,Materials
+ASX:BBC,BNK Banking Corporation Limited,Australian Securities Exchange,Financials
+ASX:JAT,Jatcorp Limited,Australian Securities Exchange,Consumer Staples
+ASX:LGP,Little Green Pharma Ltd,Australian Securities Exchange,Healthcare
+ASX:DEV,DevEx Resources Limited,Australian Securities Exchange,Materials
+ASX:3DP,Pointerra Limited,Australian Securities Exchange,Technology
+ASX:DGH,Desane Group Holdings Limited,Australian Securities Exchange,Real Estate
+ASX:SRZ,Stellar Resources Limited,Australian Securities Exchange,Materials
+ASX:BDM,Burgundy Diamond Mines Limited,Australian Securities Exchange,Materials
+ASX:GTI,Gratifii Limited,Australian Securities Exchange,Technology
+ASX:EMC,Everest Metals Corporation Ltd,Australian Securities Exchange,Materials
+ASX:NTD,NTAW Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:S2R,S2 Resources Ltd,Australian Securities Exchange,Materials
+ASX:ABV,Advanced Braking Technology Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PRO,Prophecy International Holdings Limited,Australian Securities Exchange,Technology
+ASX:XF1,Xref Limited,Australian Securities Exchange,Technology
+ASX:MPX,Mustera Property Group Limited,Australian Securities Exchange,Real Estate
+ASX:VMM,Viridis Mining and Minerals Limited,Australian Securities Exchange,Materials
+ASX:FTL,Firetail Resources Limited,Australian Securities Exchange,Materials
+ASX:SPX,Spenda Limited,Australian Securities Exchange,Technology
+ASX:DEM,De.mem Limited,Australian Securities Exchange,Industrials
+ASX:MX1,Micro-X Limited,Australian Securities Exchange,Healthcare
+ASX:SKY,Sky Metals Limited,Australian Securities Exchange,Materials
+ASX:AHF,Australian Dairy Nutritionals Limited,Australian Securities Exchange,Consumer Staples
+ASX:CSX,CleanSpace Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:AZL,Arizona Lithium Limited,Australian Securities Exchange,Materials
+ASX:AWJ,Auric Mining Limited,Australian Securities Exchange,Materials
+ASX:LDR,Lode Resources Ltd,Australian Securities Exchange,Materials
+ASX:GUM,Gumtree Australia Markets Limited,Australian Securities Exchange,Communication Services
+ASX:HMX,Hammer Metals Limited,Australian Securities Exchange,Materials
+ASX:TMK,TMK Energy Limited,Australian Securities Exchange,Energy
+ASX:G50,G50 Corp Limited,Australian Securities Exchange,Materials
+ASX:GUE,Global Uranium and Enrichment Limited,Australian Securities Exchange,Energy
+ASX:NVU,Nanoveu Limited,Australian Securities Exchange,Technology
+ASX:CCX,City Chic Collective Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:CC5,Clever Culture Systems Limited,Australian Securities Exchange,
+ASX:PH2,Pure Hydrogen Corporation Limited,Australian Securities Exchange,Energy
+ASX:SEN,Senetas Corporation Limited,Australian Securities Exchange,Technology
+ASX:JRV,Jervois Global Limited,Australian Securities Exchange,Materials
+ASX:CIW,Clime Investment Management Limited,Australian Securities Exchange,Financials
+ASX:ION,Iondrive Limited,Australian Securities Exchange,Materials
+ASX:GWR,GWR Group Limited,Australian Securities Exchange,Materials
+ASX:BTN,Butn Limited,Australian Securities Exchange,Financials
+ASX:JLL,Jindalee Lithium Limited,Australian Securities Exchange,Materials
+ASX:WWG,Wiseway Group Limited,Australian Securities Exchange,Industrials
+ASX:88E,88 Energy Limited,Australian Securities Exchange,Energy
+ASX:ICL,Iceni Gold Limited,Australian Securities Exchange,Materials
+ASX:CVB,CurveBeam AI Limited,Australian Securities Exchange,Healthcare
+ASX:LGM,Legacy Minerals Holdings Limited,Australian Securities Exchange,Materials
+ASX:ASO,Aston Minerals Limited,Australian Securities Exchange,Materials
+ASX:RVT,Richmond Vanadium Technology Limited,Australian Securities Exchange,Materials
+ASX:FBR,FBR Limited,Australian Securities Exchange,Industrials
+ASX:AVG,Australian Vintage Ltd,Australian Securities Exchange,Consumer Staples
+ASX:CSS,Clean Seas Seafood Limited,Australian Securities Exchange,Consumer Staples
+ASX:SLS,Solstice Minerals Limited,Australian Securities Exchange,Materials
+ASX:PWN,Parkway Corporate Limited,Australian Securities Exchange,Industrials
+ASX:GAL,Galileo Mining Ltd,Australian Securities Exchange,Materials
+ASX:MTC,MetalsTech Limited,Australian Securities Exchange,Materials
+ASX:AVA,AVA Risk Group Limited,Australian Securities Exchange,Industrials
+ASX:FCT,FirstWave Cloud Technology Limited,Australian Securities Exchange,Technology
+ASX:DTZ,Dotz Nano Limited,Australian Securities Exchange,Materials
+ASX:LCE,London City Equities Limited,Australian Securities Exchange,Financials
+ASX:AQI,Alicanto Minerals Limited,Australian Securities Exchange,Materials
+ASX:CLU,Cluey Ltd,Australian Securities Exchange,Consumer Staples
+ASX:TCO,Transmetro Corporation Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AAM,AuMEGA Metals Ltd,Australian Securities Exchange,Materials
+ASX:PPK,PPK Group Limited,Australian Securities Exchange,Industrials
+ASX:ASH,Ashley Services Group Limited,Australian Securities Exchange,Industrials
+ASX:WAK,WA Kaolin Limited,Australian Securities Exchange,Materials
+ASX:BRU,Buru Energy Limited,Australian Securities Exchange,Energy
+ASX:SIX,Sprintex Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MFD,Mayfield Childcare Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AMN,Agrimin Limited,Australian Securities Exchange,Materials
+ASX:CDO,Cadence Opportunities Fund Limited,Australian Securities Exchange,Financials
+ASX:WAG,The Australian Wealth Advisors Group Limited,Australian Securities Exchange,Financials
+ASX:ARI,Arika Resources Limited,Australian Securities Exchange,Materials
+ASX:COB,Cobalt Blue Holdings Limited,Australian Securities Exchange,Materials
+ASX:ASV,Asset Vision Co Limited,Australian Securities Exchange,Technology
+ASX:BMR,Ballymore Resources Limited,Australian Securities Exchange,Materials
+ASX:GAP,Gale Pacific Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:VMT,Vmoto Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:TLM,Talisman Mining Limited,Australian Securities Exchange,Materials
+ASX:AXN,Alliance Nickel Limited,Australian Securities Exchange,Materials
+ASX:LEX,Lefroy Exploration Limited,Australian Securities Exchange,Materials
+ASX:BDX,BCAL Diagnostics Limited,Australian Securities Exchange,Healthcare
+ASX:POD,Podium Minerals Limited,Australian Securities Exchange,Materials
+ASX:JNS,Janus Electric Holdings Limited,Australian Securities Exchange,Utilities
+ASX:IAM,Income Asset Management Group Limited,Australian Securities Exchange,Financials
+ASX:G6M,Group 6 Metals Limited,Australian Securities Exchange,Materials
+ASX:STG,Straker Limited,Australian Securities Exchange,Industrials
+ASX:VRS,Veris Limited,Australian Securities Exchange,Industrials
+ASX:WCE,West Coast Silver Limited,Australian Securities Exchange,Materials
+ASX:GEN,Genmin Limited,Australian Securities Exchange,Materials
+ASX:IR1,IRIS Metals Limited,Australian Securities Exchange,Materials
+ASX:FHS,Freehill Mining Limited,Australian Securities Exchange,Materials
+ASX:SNS,SenSen Networks Limited,Australian Securities Exchange,Technology
+ASX:VMC,Venus Metals Corporation Limited,Australian Securities Exchange,Materials
+ASX:NXD,NextEd Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:JAL,Jameson Resources Limited,Australian Securities Exchange,Materials
+ASX:HIO,Hawsons Iron Limited,Australian Securities Exchange,Materials
+ASX:MPA,Mad Paws Holdings Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:CCG,Comms Group Limited,Australian Securities Exchange,Technology
+ASX:NUC,Nuchev Limited,Australian Securities Exchange,Consumer Staples
+ASX:DES,DeSoto Resources Limited,Australian Securities Exchange,Materials
+ASX:CRS,Caprice Resources Limited,Australian Securities Exchange,Materials
+ASX:LDX,Lumos Diagnostics Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:RNT,Rent.com.au Limited,Australian Securities Exchange,Communication Services
+ASX:FGH,Foresta Group Holding Limited,Australian Securities Exchange,Materials
+ASX:NNL,Nordic Resources Limited,Australian Securities Exchange,Materials
+ASX:AMX,Aerometrex Limited,Australian Securities Exchange,Technology
+ASX:ORD,Ordell Minerals Limited,Australian Securities Exchange,Materials
+ASX:CHL,Camplify Holdings Limited,Australian Securities Exchange,Communication Services
+ASX:CLA,Celsius Resources Limited,Australian Securities Exchange,Materials
+ASX:LMG,Latrobe Magnesium Limited,Australian Securities Exchange,Materials
+ASX:RTR,Rumble Resources Limited,Australian Securities Exchange,Materials
+ASX:VRC,Volt Resources Limited,Australian Securities Exchange,Materials
+ASX:ECP,ECP Emerging Growth Limited,Australian Securities Exchange,Financials
+ASX:PHO,PhosCo Ltd,Australian Securities Exchange,Materials
+ASX:FAL,Falcon Metals Limited,Australian Securities Exchange,Materials
+ASX:AUQ,Alara Resources Limited,Australian Securities Exchange,Materials
+ASX:ATX,Amplia Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:KRM,Kingsrose Mining Limited,Australian Securities Exchange,Materials
+ASX:RMY,RMA Global Limited,Australian Securities Exchange,Communication Services
+ASX:MOV,MOVE Logistics Group Limited,Australian Securities Exchange,Industrials
+ASX:FRS,Forrestania Resources Limited,Australian Securities Exchange,Materials
+ASX:AEV,Avenira Limited,Australian Securities Exchange,Materials
+ASX:AW1,American West Metals Limited,Australian Securities Exchange,Materials
+ASX:CWX,Carawine Resources Limited,Australian Securities Exchange,Materials
+ASX:GSN,Great Southern Mining Limited,Australian Securities Exchange,Materials
+ASX:KME,Kip McGrath Education Centres Limited,Australian Securities Exchange,Consumer Staples
+ASX:AGY,Argosy Minerals Limited,Australian Securities Exchange,Materials
+ASX:LEG,Legend Mining Limited,Australian Securities Exchange,Materials
+ASX:GRV,Greenvale Energy Ltd,Australian Securities Exchange,Energy
+ASX:LPE,Locality Planning Energy Holdings Limited,Australian Securities Exchange,Utilities
+ASX:FGR,First Graphene Limited,Australian Securities Exchange,Materials
+ASX:ROG,Red Sky Energy Limited,Australian Securities Exchange,Energy
+ASX:ADO,AnteoTech Limited,Australian Securities Exchange,Healthcare
+ASX:SWP,Swoop Holdings Limited,Australian Securities Exchange,Communication Services
+ASX:COD,Coda Minerals Limited,Australian Securities Exchange,Materials
+ASX:VBC,Verbrec Limited,Australian Securities Exchange,Industrials
+ASX:CAE,Cannindah Resources Limited,Australian Securities Exchange,Materials
+ASX:WGR,Western Gold Resources Limited,Australian Securities Exchange,Materials
+ASX:EXT,Excite Technology Services Limited,Australian Securities Exchange,Technology
+ASX:MVL,Marvel Gold Limited,Australian Securities Exchange,Materials
+ASX:RDG,Resource Development Group Limited,Australian Securities Exchange,Industrials
+ASX:SHN,Sunshine Metals Limited,Australian Securities Exchange,Materials
+ASX:XRG,xReality Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:HCL,HighCom Limited,Australian Securities Exchange,Industrials
+ASX:MBH,Maggie Beer Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:ICI,iCandy Interactive Limited,Australian Securities Exchange,Communication Services
+ASX:RLF,RLF AgTech Ltd,Australian Securities Exchange,Materials
+ASX:TOE,Toro Energy Limited,Australian Securities Exchange,Materials
+ASX:CXZ,Connexion Mobility Ltd,Australian Securities Exchange,Technology
+ASX:CBE,Cobre Limited,Australian Securities Exchange,Materials
+ASX:BLG,BluGlass Limited,Australian Securities Exchange,Technology
+ASX:LIT,Livium Ltd,Australian Securities Exchange,Industrials
+ASX:NTI,Neurotech International Limited,Australian Securities Exchange,Healthcare
+ASX:SUH,Southern Hemisphere Mining Limited,Australian Securities Exchange,Materials
+ASX:VPR,Volt Group Limited,Australian Securities Exchange,Utilities
+ASX:ASP,Aspermont Limited,Australian Securities Exchange,Communication Services
+ASX:IPT,Impact Minerals Limited,Australian Securities Exchange,Materials
+ASX:CCE,Carnegie Clean Energy Limited,Australian Securities Exchange,Utilities
+ASX:RHT,Resonance Health Limited,Australian Securities Exchange,Healthcare
+ASX:GDM,Great Divide Mining Ltd,Australian Securities Exchange,Materials
+ASX:AZ9,Asian Battery Metals PLC,Australian Securities Exchange,Materials
+ASX:NOX,Noxopharm Limited,Australian Securities Exchange,Healthcare
+ASX:TOU,Tlou Energy Limited,Australian Securities Exchange,Energy
+ASX:GBE,Globe Metals & Mining Limited,Australian Securities Exchange,Materials
+ASX:AR9,archTIS Limited,Australian Securities Exchange,Technology
+ASX:NXS,Next Science Limited,Australian Securities Exchange,Healthcare
+ASX:A3D,Aurora Labs Limited,Australian Securities Exchange,Industrials
+ASX:OEL,Otto Energy Limited,Australian Securities Exchange,Energy
+ASX:HVY,Heavy Minerals Limited,Australian Securities Exchange,Materials
+ASX:KZR,Kalamazoo Resources Limited,Australian Securities Exchange,Materials
+ASX:CG1,Carbonxt Group Limited,Australian Securities Exchange,Materials
+ASX:PXX,PolarX Limited,Australian Securities Exchange,Materials
+ASX:S66,Star Combo Pharma Limited,Australian Securities Exchange,Consumer Staples
+ASX:ODY,Odyssey Gold Limited,Australian Securities Exchange,Materials
+ASX:BNL,Blue Star Helium Limited,Australian Securities Exchange,Energy
+ASX:VN8,Vonex Limited,Australian Securities Exchange,Communication Services
+ASX:EVZ,EVZ Limited,Australian Securities Exchange,Industrials
+ASX:BNR,Bulletin Resources Limited,Australian Securities Exchange,Materials
+ASX:NIM,Nimy Resources Limited,Australian Securities Exchange,Materials
+ASX:ADX,ADX Energy Ltd,Australian Securities Exchange,Energy
+ASX:EMP,Emperor Energy Limited,Australian Securities Exchange,Energy
+ASX:LSA,Lachlan Star Limited,Australian Securities Exchange,Materials
+ASX:FRE,Firebrick Pharma Limited,Australian Securities Exchange,Healthcare
+ASX:EQX,Equatorial Resources Limited,Australian Securities Exchange,Materials
+ASX:SPN,Sparc Technologies Limited,Australian Securities Exchange,Materials
+ASX:EMB,Embelton Limited,Australian Securities Exchange,Industrials
+ASX:WNX,Wellnex Life Limited,Australian Securities Exchange,Consumer Staples
+ASX:CST,Castile Resources Limited,Australian Securities Exchange,Materials
+ASX:IME,ImExHS Limited,Australian Securities Exchange,Healthcare
+ASX:RCL,ReadCloud Limited,Australian Securities Exchange,Technology
+ASX:ZGL,Zicom Group Limited,Australian Securities Exchange,Industrials
+ASX:LLM,Loyal Metals Limited,Australian Securities Exchange,
+ASX:SHO,SportsHero Limited,Australian Securities Exchange,Communication Services
+ASX:KAL,Kalgoorlie Gold Mining Limited,Australian Securities Exchange,Materials
+ASX:NH3,NH3 Clean Energy Limited,Australian Securities Exchange,Materials
+ASX:ACP,Audalia Resources Limited,Australian Securities Exchange,Materials
+ASX:OEC,Orbital Corporation Limited,Australian Securities Exchange,Industrials
+ASX:RDN,Raiden Resources Limited,Australian Securities Exchange,Materials
+ASX:TAL,Talius Group Limited,Australian Securities Exchange,Technology
+ASX:EME,Energy Metals Limited,Australian Securities Exchange,Energy
+ASX:LPD,Lepidico Limited,Australian Securities Exchange,Materials
+ASX:WMG,Western Mines Group Ltd,Australian Securities Exchange,Materials
+ASX:IGN,Ignite Limited,Australian Securities Exchange,Industrials
+ASX:FNX,Finexia Financial Group Limited,Australian Securities Exchange,Financials
+ASX:TM1,Terra Metals Limited,Australian Securities Exchange,Materials
+ASX:AMD,Arrow Minerals Limited,Australian Securities Exchange,Materials
+ASX:FDR,Finder Energy Holdings Limited,Australian Securities Exchange,Energy
+ASX:RHY,Rhythm Biosciences Limited,Australian Securities Exchange,Healthcare
+ASX:FSG,Field Solutions Holdings Limited,Australian Securities Exchange,Communication Services
+ASX:FOS,FOS Capital Limited,Australian Securities Exchange,Industrials
+ASX:ENL,"Enlitic, Inc.",Australian Securities Exchange,Healthcare
+ASX:HHR,Hartshead Resources NL,Australian Securities Exchange,Energy
+ASX:HCT,Holista Colltech Limited,Australian Securities Exchange,Consumer Staples
+ASX:OZM,OzAurum Resources Limited,Australian Securities Exchange,Materials
+ASX:NC6,Nanollose Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:CYB,AUCyber Limited,Australian Securities Exchange,Technology
+ASX:FZR,Fitzroy River Corporation Limited,Australian Securities Exchange,Energy
+ASX:CDX,CardieX Limited,Australian Securities Exchange,Healthcare
+ASX:SLM,Solis Minerals Ltd.,Australian Securities Exchange,Materials
+ASX:AKG,Academies Australasia Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:RPM,RPM Automotive Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:TYX,Tyranna Resources Limited,Australian Securities Exchange,Materials
+ASX:HAW,Hawthorn Resources Limited,Australian Securities Exchange,Materials
+ASX:QFE,QuickFee Limited,Australian Securities Exchange,Technology
+ASX:CAV,Carnavale Resources Limited,Australian Securities Exchange,Materials
+ASX:TSL,Titanium Sands Limited,Australian Securities Exchange,Materials
+ASX:CMD,Cassius Mining Limited,Australian Securities Exchange,Materials
+ASX:AAP,Australian Agricultural Projects Ltd,Australian Securities Exchange,Consumer Staples
+ASX:IMC,Immuron Limited,Australian Securities Exchange,Healthcare
+ASX:GUL,Gullewa Limited,Australian Securities Exchange,Materials
+ASX:SOP,Synertec Corporation Limited,Australian Securities Exchange,Industrials
+ASX:NFM,New Frontier Minerals Limited,Australian Securities Exchange,Materials
+ASX:TZL,TZ Limited,Australian Securities Exchange,Industrials
+ASX:ACU,Acumentis Group Limited,Australian Securities Exchange,Real Estate
+ASX:ZNC,Zenith Minerals Limited,Australian Securities Exchange,Materials
+ASX:BEZ,Besra Gold Inc.,Australian Securities Exchange,Materials
+ASX:PVL,Powerhouse Ventures Limited,Australian Securities Exchange,Financials
+ASX:D3E,D3 Energy Limited,Australian Securities Exchange,
+ASX:BEO,Beonic Limited,Australian Securities Exchange,Technology
+ASX:RNV,ReNerve Limited,Australian Securities Exchange,
+ASX:RAU,Resouro Strategic Metals Inc.,Australian Securities Exchange,Materials
+ASX:PR2,Piche Resources Limited,Australian Securities Exchange,Materials
+ASX:QML,QMines Limited,Australian Securities Exchange,Materials
+ASX:CND,Condor Energy Limited,Australian Securities Exchange,Energy
+ASX:HOR,Horseshoe Metals Limited,Australian Securities Exchange,Materials
+ASX:TEE,Top End Energy Limited,Australian Securities Exchange,Energy
+ASX:CVR,Cavalier Resources Ltd,Australian Securities Exchange,Materials
+ASX:REE,RareX Limited,Australian Securities Exchange,Materials
+ASX:KAM,K2 Asset Management Holdings Ltd,Australian Securities Exchange,Financials
+ASX:ARV,Artemis Resources Limited,Australian Securities Exchange,Materials
+ASX:NSX,NSX Limited,Australian Securities Exchange,Financials
+ASX:SOR,Strategic Elements Ltd,Australian Securities Exchange,Financials
+ASX:BDG,Black Dragon Gold Corp.,Australian Securities Exchange,Materials
+ASX:AMO,Ambertech Limited,Australian Securities Exchange,Technology
+ASX:CXM,Centrex Limited,Australian Securities Exchange,Materials
+ASX:TIA,Tian An Australia Limited,Australian Securities Exchange,Real Estate
+ASX:SCP,Scalare Partners Holdings Limited,Australian Securities Exchange,Financials
+ASX:RMI,Resource Mining Corporation Limited,Australian Securities Exchange,Materials
+ASX:KPO,Kalina Power Limited,Australian Securities Exchange,Utilities
+ASX:G11,G11 Resources Limited,Australian Securities Exchange,Materials
+ASX:EAX,Energy Action Limited,Australian Securities Exchange,Industrials
+ASX:FME,Future Metals NL,Australian Securities Exchange,Materials
+ASX:HTG,Harvest Technology Group Limited,Australian Securities Exchange,Technology
+ASX:ASE,Astute Metals NL,Australian Securities Exchange,Materials
+ASX:MAG,Magmatic Resources Limited,Australian Securities Exchange,Materials
+ASX:MHI,Merchant House International Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:DXN,DXN Limited,Australian Securities Exchange,Technology
+ASX:EVR,EV Resources Limited,Australian Securities Exchange,Materials
+ASX:PGY,Pilot Energy Limited,Australian Securities Exchange,Energy
+ASX:BPP,Babylon Pump & Power Limited,Australian Securities Exchange,Industrials
+ASX:AXI,Axiom Properties Limited,Australian Securities Exchange,Real Estate
+ASX:EPX,EP&T Global Limited,Australian Securities Exchange,Technology
+ASX:AZI,Altamin Limited,Australian Securities Exchange,Materials
+ASX:AVM,Advance Metals Limited,Australian Securities Exchange,Materials
+ASX:DYM,Dynamic Metals Limited,Australian Securities Exchange,Materials
+ASX:PGM,Platina Resources Limited,Australian Securities Exchange,Materials
+ASX:NAG,Nagambie Resources Limited,Australian Securities Exchange,Materials
+ASX:LM1,Leeuwin Metals Ltd,Australian Securities Exchange,Materials
+ASX:NOV,Novatti Group Limited,Australian Securities Exchange,Technology
+ASX:RIL,Redivium Limited,Australian Securities Exchange,Materials
+ASX:AGH,Althea Group Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:BTE,Botala Energy Limited,Australian Securities Exchange,Utilities
+ASX:KRR,King River Resources Limited,Australian Securities Exchange,Materials
+ASX:EGY,Energy Technologies Limited,Australian Securities Exchange,Industrials
+ASX:G200,Betashares Wealth Builder Australia 200 Geared Fund (Hedge Fund),Australian Securities Exchange,
+ASX:AKA,Aureka Limited,Australian Securities Exchange,Materials
+ASX:AVD,AVADA Group Limited,Australian Securities Exchange,Industrials
+ASX:PGD,Peregrine Gold Limited,Australian Securities Exchange,Materials
+ASX:ICE,icetana Limited,Australian Securities Exchange,Technology
+ASX:HMG,Hamelin Gold Limited,Australian Securities Exchange,Materials
+ASX:MLS,Metals Australia Ltd,Australian Securities Exchange,Materials
+ASX:KCC,Kincora Copper Limited,Australian Securities Exchange,Materials
+ASX:BYH,Bryah Resources Limited,Australian Securities Exchange,Materials
+ASX:SKM,Skylark Minerals Limited,Australian Securities Exchange,Materials
+ASX:TSI,Top Shelf International Holdings Ltd,Australian Securities Exchange,Consumer Staples
+ASX:ECS,ECS Botanics Holdings Ltd,Australian Securities Exchange,Healthcare
+ASX:BLU,Blue Energy Limited,Australian Securities Exchange,Energy
+ASX:ODA,Orcoda Limited,Australian Securities Exchange,Industrials
+ASX:DKM,Duketon Mining Limited,Australian Securities Exchange,Materials
+ASX:SVG,Savannah Goldfields Limited,Australian Securities Exchange,Materials
+ASX:RWD,Reward Minerals Ltd,Australian Securities Exchange,Materials
+ASX:ZNO,Zoono Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:AVE,Avecho Biotechnology Limited,Australian Securities Exchange,Healthcare
+ASX:GML,Gateway Mining Limited,Australian Securities Exchange,Materials
+ASX:TGH,Terragen Holdings Limited,Australian Securities Exchange,Materials
+ASX:AUZ,Australian Mines Limited,Australian Securities Exchange,Materials
+ASX:CF1,Complii FinTech Solutions Ltd,Australian Securities Exchange,Technology
+ASX:AKO,AKORA Resources Limited,Australian Securities Exchange,Materials
+ASX:BCC,Beam Communications Holdings Limited,Australian Securities Exchange,Technology
+ASX:LKY,Locksley Resources Limited,Australian Securities Exchange,Materials
+ASX:AHN,Athena Resources Limited,Australian Securities Exchange,Materials
+ASX:NWM,Norwest Minerals Limited,Australian Securities Exchange,Materials
+ASX:NET,Netlinkz Limited,Australian Securities Exchange,Technology
+ASX:KM1,Kali Metals Limited,Australian Securities Exchange,Materials
+ASX:AR3,Australian Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:TNY,Tinybeans Group Limited,Australian Securities Exchange,Communication Services
+ASX:HPR,High Peak Royalties Limited,Australian Securities Exchange,Energy
+ASX:SNG,Siren Gold Limited,Australian Securities Exchange,Materials
+ASX:NC1,NICO Resources Limited,Australian Securities Exchange,Materials
+ASX:INV,InvestSMART Group Limited,Australian Securities Exchange,Financials
+ASX:SRR,Sarama Resources Ltd,Australian Securities Exchange,Materials
+ASX:5GG,Pentanet Limited,Australian Securities Exchange,Communication Services
+ASX:MGT,Magnetite Mines Limited,Australian Securities Exchange,Materials
+ASX:JAV,Javelin Minerals Limited,Australian Securities Exchange,Materials
+ASX:GTR,GTI Energy Limited,Australian Securities Exchange,Energy
+ASX:FBM,Future Battery Minerals Limited,Australian Securities Exchange,Materials
+ASX:MGL,Magontec Limited,Australian Securities Exchange,Materials
+ASX:MRR,MinRex Resources Limited,Australian Securities Exchange,Materials
+ASX:MAN,Mandrake Resources Limited,Australian Securities Exchange,Materials
+ASX:GT1,Green Technology Metals Limited,Australian Securities Exchange,Materials
+ASX:ROC,RocketBoots Limited,Australian Securities Exchange,Technology
+ASX:VML,Vital Metals Limited,Australian Securities Exchange,Materials
+ASX:EMD,Emyria Limited,Australian Securities Exchange,Healthcare
+ASX:CC9,Chariot Corporation Limited,Australian Securities Exchange,Materials
+ASX:KNI,Kuniko Limited,Australian Securities Exchange,Materials
+ASX:ILT,Iltani Resources Limited,Australian Securities Exchange,Materials
+ASX:DVL,dorsaVi Ltd,Australian Securities Exchange,Technology
+ASX:SPA,Spacetalk Limited,Australian Securities Exchange,Communication Services
+ASX:AT1,Atomo Diagnostics Limited,Australian Securities Exchange,Healthcare
+ASX:CP8,Canadian Phosphate Limited,Australian Securities Exchange,Materials
+ASX:1AE,Aurora Energy Metals Limited,Australian Securities Exchange,Energy
+ASX:SP8,StreamPlay Studio Limited,Australian Securities Exchange,Communication Services
+ASX:PER,Percheron Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:FRB,Firebird Metals Limited,Australian Securities Exchange,Materials
+ASX:TRU,TruScreen Group Limited,Australian Securities Exchange,Healthcare
+ASX:ENV,Enova Mining Limited,Australian Securities Exchange,Materials
+ASX:OSL,OncoSil Medical Limited,Australian Securities Exchange,Healthcare
+ASX:JCS,JCurve Solutions Limited,Australian Securities Exchange,Technology
+ASX:DWG,DataWorks Group Limited,Australian Securities Exchange,Technology
+ASX:CNQ,Clean TeQ Water Limited,Australian Securities Exchange,Utilities
+ASX:EQN,Equinox Resources Limited,Australian Securities Exchange,Materials
+ASX:CCM,Cadoux Limited,Australian Securities Exchange,Materials
+ASX:AJX,Alexium International Group Limited,Australian Securities Exchange,Materials
+ASX:UNT,Unith Ltd,Australian Securities Exchange,Technology
+ASX:IVX,Invion Limited,Australian Securities Exchange,Healthcare
+ASX:IG6,International Graphite Limited,Australian Securities Exchange,Materials
+ASX:WIN,WIN Metals Ltd,Australian Securities Exchange,Materials
+ASX:BUX,Buxton Resources Limited,Australian Securities Exchange,Materials
+ASX:PEC,Perpetual Resources Limited,Australian Securities Exchange,Materials
+ASX:WEC,White Energy Company Limited,Australian Securities Exchange,Energy
+ASX:TG6,TG Metals Limited,Australian Securities Exchange,Materials
+ASX:TRP,Tissue Repair Ltd,Australian Securities Exchange,Healthcare
+ASX:FFG,Fatfish Group Limited,Australian Securities Exchange,Financials
+ASX:NGX,NGX Limited,Australian Securities Exchange,Materials
+ASX:ABX,ABx Group Limited,Australian Securities Exchange,Materials
+ASX:SRK,Strike Resources Limited,Australian Securities Exchange,Materials
+ASX:H2G,Greenhy2 Limited,Australian Securities Exchange,Utilities
+ASX:HTM,High-Tech Metals Limited,Australian Securities Exchange,Materials
+ASX:UBIO,"Universal Biosensors, Inc.",Australian Securities Exchange,
+ASX:UBI,"Universal Biosensors, Inc.",Australian Securities Exchange,Healthcare
+ASX:WOA,Wide Open Agriculture Limited,Australian Securities Exchange,Consumer Staples
+ASX:CDT,Castle Minerals Limited,Australian Securities Exchange,Materials
+ASX:BCM,Brazilian Critical Minerals Limited,Australian Securities Exchange,Materials
+ASX:FG1,Flynn Gold Limited,Australian Securities Exchange,Materials
+ASX:W2V,Way 2 Vat Ltd,Australian Securities Exchange,Technology
+ASX:N1H,N1 Holdings Limited,Australian Securities Exchange,Financials
+ASX:AHK,Ark Mines Limited,Australian Securities Exchange,Materials
+ASX:TRM,Truscott Mining Corporation Limited,Australian Securities Exchange,Materials
+ASX:ADY,Admiralty Resources NL,Australian Securities Exchange,Materials
+ASX:CTO,Citigold Corporation Limited,Australian Securities Exchange,Materials
+ASX:CRR,Critical Resources Limited,Australian Securities Exchange,Materials
+ASX:ODE,Odessa Minerals Limited,Australian Securities Exchange,Materials
+ASX:ODEO,Odessa Minerals Limited,Australian Securities Exchange,
+ASX:HGL,Hudson Investment Group Limited,Australian Securities Exchange,Real Estate
+ASX:FLG,Flagship Minerals Limited,Australian Securities Exchange,Materials
+ASX:SKK,Stakk Limited,Australian Securities Exchange,
+ASX:BCA,Black Canyon Limited,Australian Securities Exchange,Materials
+ASX:MNC,Merino & Co. Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SGA,Sarytogan Graphite Limited,Australian Securities Exchange,Materials
+ASX:CBL,Control Bionics Limited,Australian Securities Exchange,Healthcare
+ASX:GMN,Gold Mountain Limited,Australian Securities Exchange,Materials
+ASX:CXU,Cauldron Energy Limited,Australian Securities Exchange,Materials
+ASX:DM1,Desert Metals Limited,Australian Securities Exchange,Materials
+ASX:PAT,Patriot Resources Limited,Australian Securities Exchange,Materials
+ASX:CHM,Chimeric Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:RKT,RocketDNA Ltd.,Australian Securities Exchange,Technology
+ASX:REM,RemSense Technologies Limited,Australian Securities Exchange,Technology
+ASX:AXP,AXP Energy Limited,Australian Securities Exchange,Energy
+ASX:FNR,Far Northern Resources Limited,Australian Securities Exchange,Materials
+ASX:SCN,Scorpion Minerals Limited,Australian Securities Exchange,Materials
+ASX:SCNO,Scorpion Minerals Limited,Australian Securities Exchange,
+ASX:RAG,Ragnar Metals Limited,Australian Securities Exchange,Materials
+ASX:THR,Thor Energy Plc,Australian Securities Exchange,Materials
+ASX:ATS,Australis Oil & Gas Limited,Australian Securities Exchange,Energy
+ASX:MXO,Motio Limited,Australian Securities Exchange,Communication Services
+ASX:BPH,BPH Energy Limited,Australian Securities Exchange,Financials
+ASX:COY,Coppermoly Limited,Australian Securities Exchange,Materials
+ASX:CTN,Catalina Resources Ltd,Australian Securities Exchange,Materials
+ASX:WHK,WhiteHawk Limited,Australian Securities Exchange,Technology
+ASX:GLE,GLG Corp Ltd,Australian Securities Exchange,Consumer Discretionary
+ASX:AEI,Aeris Environmental Ltd,Australian Securities Exchange,Industrials
+ASX:AFL,AF Legal Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SOC,SOCO Corporation Ltd,Australian Securities Exchange,Technology
+ASX:RML,Resolution Minerals Ltd,Australian Securities Exchange,Materials
+ASX:CUF,CuFe Ltd,Australian Securities Exchange,Materials
+ASX:1CG,One Click Group Limited,Australian Securities Exchange,Technology
+ASX:GAS,State Gas Limited,Australian Securities Exchange,Energy
+ASX:ACR,Acrux Limited,Australian Securities Exchange,Healthcare
+ASX:CGR,CGN Resources Limited,Australian Securities Exchange,Materials
+ASX:OCN,Oceana Lithium Limited,Australian Securities Exchange,Materials
+ASX:MPP,Metro Performance Glass Limited,Australian Securities Exchange,Industrials
+ASX:LML,Lincoln Minerals Limited,Australian Securities Exchange,Materials
+ASX:UWC,Underwood Capital Limited,Australian Securities Exchange,
+ASX:ADV,Ardiden Limited,Australian Securities Exchange,Materials
+ASX:BAS,Bass Oil Limited,Australian Securities Exchange,Energy
+ASX:TAT,Tartana Minerals Limited,Australian Securities Exchange,Materials
+ASX:SLA,Solara Minerals Ltd,Australian Securities Exchange,Materials
+ASX:PGO,Pacgold Limited,Australian Securities Exchange,Materials
+ASX:IPC,Imperial Pacific Limited,Australian Securities Exchange,Financials
+ASX:ZAG,Zuleika Gold Limited,Australian Securities Exchange,Materials
+ASX:SSH,SSH Group Limited,Australian Securities Exchange,Industrials
+ASX:SMM,Somerset Minerals Limited,Australian Securities Exchange,Materials
+ASX:IND,Industrial Minerals Ltd,Australian Securities Exchange,Materials
+ASX:NOR,Norwood Systems Limited,Australian Securities Exchange,Communication Services
+ASX:RRR,Revolver Resources Holdings Ltd,Australian Securities Exchange,Materials
+ASX:REZ,Resources & Energy Group Limited,Australian Securities Exchange,Materials
+ASX:NSM,North Stawell Minerals Limited,Australian Securities Exchange,Materials
+ASX:PTL,Prestal Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:SPQ,Superior Resources Limited,Australian Securities Exchange,Materials
+ASX:AAU,Antilles Gold Limited,Australian Securities Exchange,Materials
+ASX:ALR,Altair Minerals Limited,Australian Securities Exchange,Materials
+ASX:QEM,QEM Limited,Australian Securities Exchange,Energy
+ASX:BRX,Belararox Limited,Australian Securities Exchange,Materials
+ASX:AXL,Axel REE Limited,Australian Securities Exchange,Materials
+ASX:DAL,Dalaroo Metals Ltd,Australian Securities Exchange,Materials
+ASX:1AI,Algorae Pharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:FL1,First Lithium Limited,Australian Securities Exchange,Materials
+ASX:LCL,LCL Resources Limited,Australian Securities Exchange,Materials
+ASX:NME,Nex Metals Explorations Limited,Australian Securities Exchange,Materials
+ASX:VEN,Vintage Energy Limited,Australian Securities Exchange,Energy
+ASX:IRX,InhaleRx Limited,Australian Securities Exchange,Healthcare
+ASX:RFT,Rectifier Technologies Ltd,Australian Securities Exchange,Industrials
+ASX:AJL,AJ Lucas Group Limited,Australian Securities Exchange,Materials
+ASX:EDE,Eden Innovations Ltd,Australian Securities Exchange,Industrials
+ASX:GBZ,GBM Resources Limited,Australian Securities Exchange,Materials
+ASX:MRQ,MRG Metals Ltd,Australian Securities Exchange,Materials
+ASX:CML,Connected Minerals Limited,Australian Securities Exchange,Materials
+ASX:WSI,WestStar Industrial Limited,Australian Securities Exchange,Industrials
+ASX:NYM,Narryer Metals Limited,Australian Securities Exchange,Materials
+ASX:NSB,NeuroScientific Biopharmaceuticals Limited,Australian Securities Exchange,Healthcare
+ASX:CAN,Cann Group Limited,Australian Securities Exchange,Healthcare
+ASX:SW1,Swift Networks Group Limited,Australian Securities Exchange,Communication Services
+ASX:VKA,Viking Mines Limited,Australian Securities Exchange,Materials
+ASX:CMG,Critical Minerals Group Limited,Australian Securities Exchange,Materials
+ASX:HIQ,HITIQ Limited,Australian Securities Exchange,Healthcare
+ASX:OMX,Orange Minerals NL,Australian Securities Exchange,Materials
+ASX:NAE,New Age Exploration Limited,Australian Securities Exchange,Materials
+ASX:LPM,Lithium Plus Minerals Ltd,Australian Securities Exchange,Materials
+ASX:RLG,RooLife Group Ltd,Australian Securities Exchange,Technology
+ASX:VSR,Voltaic Strategic Resources Limited,Australian Securities Exchange,Energy
+ASX:ANX,Anax Metals Limited,Australian Securities Exchange,Materials
+ASX:ZMI,Zinc of Ireland NL,Australian Securities Exchange,Materials
+ASX:MEM,Memphasys Limited,Australian Securities Exchange,Healthcare
+ASX:ALB,Albion Resources Limited,Australian Securities Exchange,Materials
+ASX:BDT,BirdDog Technology Limited,Australian Securities Exchange,Technology
+ASX:EVG,Evion Group NL,Australian Securities Exchange,Materials
+ASX:VR8,Vanadium Resources Limited,Australian Securities Exchange,Materials
+ASX:ICG,Inca Minerals Limited,Australian Securities Exchange,Materials
+ASX:RON,Ronin Resources Ltd,Australian Securities Exchange,Materials
+ASX:HAR,Haranga Resources Limited,Australian Securities Exchange,Materials
+ASX:CDR,Codrus Minerals Limited,Australian Securities Exchange,Materials
+ASX:CAZ,Cazaly Resources Limited,Australian Securities Exchange,Materials
+ASX:TON,Triton Minerals Limited,Australian Securities Exchange,Materials
+ASX:GW1,Greenwing Resources Ltd,Australian Securities Exchange,Materials
+ASX:NRX,Noronex Limited,Australian Securities Exchange,Materials
+ASX:MKL,Mighty Kingdom Limited,Australian Securities Exchange,Communication Services
+ASX:AD1,AdNeo Limited,Australian Securities Exchange,Technology
+ASX:VRL,Verity Resources Limited,Australian Securities Exchange,Materials
+ASX:HRE,Heavy Rare Earths Limited,Australian Securities Exchange,Materials
+ASX:CCO,The Calmer Co International Limited,Australian Securities Exchange,Consumer Staples
+ASX:SVY,Stavely Minerals Limited,Australian Securities Exchange,Materials
+ASX:FRX,Flexiroam Limited,Australian Securities Exchange,Communication Services
+ASX:GLA,Gladiator Resources Limited,Australian Securities Exchange,Materials
+ASX:X2M,X2M Connect Limited,Australian Securities Exchange,Technology
+ASX:INF,Infinity Lithium Corporation Limited,Australian Securities Exchange,Materials
+ASX:AUK,AuMake Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:BMG,BMG Resources Limited,Australian Securities Exchange,Materials
+ASX:HMI,Hiremii Limited,Australian Securities Exchange,Industrials
+ASX:AU1,The Agency Group Australia Limited,Australian Securities Exchange,Real Estate
+ASX:KTA,Krakatoa Resources Limited,Australian Securities Exchange,Materials
+ASX:MMR,MEC Resources Limited,Australian Securities Exchange,Energy
+ASX:GGE,Grand Gulf Energy Limited,Australian Securities Exchange,Energy
+ASX:APL,Associate Global Partners Limited,Australian Securities Exchange,Financials
+ASX:EOF,Ecofibre Limited,Australian Securities Exchange,Healthcare
+ASX:SFG,Seafarms Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:I88,Infini Resources Limited,Australian Securities Exchange,Materials
+ASX:CR1,Constellation Resources Limited,Australian Securities Exchange,Materials
+ASX:OLL,OpenLearning Limited,Australian Securities Exchange,Technology
+ASX:M2M,Mt Malcolm Mines NL,Australian Securities Exchange,Materials
+ASX:BUS,Bubalus Resources Limited,Australian Securities Exchange,Materials
+ASX:KNO,Knosys Limited,Australian Securities Exchange,Technology
+ASX:XGL,Xamble Group Limited,Australian Securities Exchange,Communication Services
+ASX:SIV,SIV Capital Limited,Australian Securities Exchange,Industrials
+ASX:GIB,Gibb River Diamonds Limited,Australian Securities Exchange,Materials
+ASX:HMD,HeraMED Limited,Australian Securities Exchange,Healthcare
+ASX:RR1,Reach Resources Limited,Australian Securities Exchange,Materials
+ASX:CPN,Caspin Resources Limited,Australian Securities Exchange,Materials
+ASX:ADG,Adelong Gold Limited,Australian Securities Exchange,Materials
+ASX:PNN,Power Minerals Limited,Australian Securities Exchange,Materials
+ASX:R8R,Regener8 Resources NL,Australian Securities Exchange,Materials
+ASX:MDI,Middle Island Resources Limited,Australian Securities Exchange,Materials
+ASX:ORP,Orpheus Uranium Limited,Australian Securities Exchange,Materials
+ASX:PPY,Papyrus Australia Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:SRJ,SRJ Technologies Group Plc,Australian Securities Exchange,Energy
+ASX:EM2,Eagle Mountain Mining Limited,Australian Securities Exchange,Materials
+ASX:MHM,Mount Hope Mining Limited,Australian Securities Exchange,Materials
+ASX:LAT,Latitude 66 Limited,Australian Securities Exchange,
+ASX:VFX,Visionflex Group Limited,Australian Securities Exchange,Healthcare
+ASX:RGL,Riversgold Limited,Australian Securities Exchange,Materials
+ASX:HLX,Helix Resources Limited,Australian Securities Exchange,Materials
+ASX:DY6,DY6 Metals Ltd,Australian Securities Exchange,Materials
+ASX:CDE,Codeifai Limited,Australian Securities Exchange,
+ASX:LU7,Lithium Universe Limited,Australian Securities Exchange,Materials
+ASX:EG1,Evergreen Lithium Limited,Australian Securities Exchange,Materials
+ASX:PRS,Prospech Limited,Australian Securities Exchange,Materials
+ASX:MCO,Myeco Group Ltd,Australian Securities Exchange,
+ASX:1MC,Morella Corporation Limited,Australian Securities Exchange,Materials
+ASX:BM8,Battery Age Minerals Ltd,Australian Securities Exchange,Materials
+ASX:G88,Golden Mile Resources Limited,Australian Securities Exchange,Materials
+ASX:NES,Nelson Resources Limited,Australian Securities Exchange,Materials
+ASX:EEL,ENRG Elements Limited,Australian Securities Exchange,Materials
+ASX:RGT,Argent BioPharma Limited,Australian Securities Exchange,Healthcare
+ASX:BUR,Burley Minerals Ltd,Australian Securities Exchange,Materials
+ASX:LOM,Lucapa Diamond Company Limited,Australian Securities Exchange,Materials
+ASX:KGD,Kula Gold Limited,Australian Securities Exchange,Materials
+ASX:TAR,Taruga Minerals Limited,Australian Securities Exchange,Materials
+ASX:ZEU,Zeus Resources Limited,Australian Securities Exchange,Energy
+ASX:ECT,Environmental Clean Technologies Limited,Australian Securities Exchange,Industrials
+ASX:PVT,Pivotal Metals Limited,Australian Securities Exchange,Materials
+ASX:PRX,Prodigy Gold NL,Australian Securities Exchange,Materials
+ASX:KNG,Kingsland Minerals Ltd,Australian Securities Exchange,Materials
+ASX:AYT,Austin Metals Limited,Australian Securities Exchange,Materials
+ASX:PV1,Provaris Energy Ltd,Australian Securities Exchange,Energy
+ASX:NVQ,NoviqTech Limited,Australian Securities Exchange,Technology
+ASX:FAU,First Au Limited,Australian Securities Exchange,Materials
+ASX:MTL,Mantle Minerals Limited,Australian Securities Exchange,Materials
+ASX:PFE,Pantera Lithium Limited,Australian Securities Exchange,Materials
+ASX:LNU,Linius Technologies Limited,Australian Securities Exchange,Technology
+ASX:RPG,Raptis Group Limited,Australian Securities Exchange,Real Estate
+ASX:IXC,Invex Therapeutics Ltd,Australian Securities Exchange,Healthcare
+ASX:AMS,Atomos Limited,Australian Securities Exchange,Technology
+ASX:BTM,Breakthrough Minerals Limited,Australian Securities Exchange,Materials
+ASX:ALV,Alvo Minerals Limited,Australian Securities Exchange,Materials
+ASX:MBK,Metal Bank Limited,Australian Securities Exchange,Materials
+ASX:ERL,Empire Resources Limited,Australian Securities Exchange,Materials
+ASX:PSL,Paterson Resources Ltd,Australian Securities Exchange,Materials
+ASX:ARC,ARC Funds Limited,Australian Securities Exchange,Financials
+ASX:NHE,Noble Helium Limited,Australian Securities Exchange,Materials
+ASX:ALY,Alchemy Resources Limited,Australian Securities Exchange,Materials
+ASX:L1M,Lightning Minerals Ltd,Australian Securities Exchange,Materials
+ASX:SRI,Sipa Resources Limited,Australian Securities Exchange,Materials
+ASX:TMS,Tennant Minerals Limited,Australian Securities Exchange,Materials
+ASX:REY,Rey Resources Limited,Australian Securities Exchange,Energy
+ASX:KOB,Koba Resources Limited,Australian Securities Exchange,Materials
+ASX:MGA,MetalsGrove Mining Limited,Australian Securities Exchange,Materials
+ASX:PLN,Pioneer Lithium Limited,Australian Securities Exchange,Materials
+ASX:GTG,Genetic Technologies Limited,Australian Securities Exchange,Healthcare
+ASX:TMX,Terrain Minerals Limited,Australian Securities Exchange,Materials
+ASX:UVA,Uvre Limited,Australian Securities Exchange,Energy
+ASX:YAR,Yari Minerals Limited,Australian Securities Exchange,Materials
+ASX:AX8,Accelerate Resources Limited,Australian Securities Exchange,Materials
+ASX:AON,Apollo Minerals Limited,Australian Securities Exchange,Materials
+ASX:TRI,TrivarX Limited,Australian Securities Exchange,Healthcare
+ASX:ALM,Alma Metals Limited,Australian Securities Exchange,Materials
+ASX:ASR,Asra Minerals Limited,Australian Securities Exchange,Materials
+ASX:AYM,Australia United Mining Limited,Australian Securities Exchange,Materials
+ASX:PR1,Pure Resources Limited,Australian Securities Exchange,Materials
+ASX:PL3,Patagonia Lithium Limited,Australian Securities Exchange,Materials
+ASX:ATV,ActivePort Group Ltd,Australian Securities Exchange,Technology
+ASX:PFM,Platformo Ltd,Australian Securities Exchange,
+ASX:MEG,Megado Minerals Limited,Australian Securities Exchange,Materials
+ASX:ID8,Identitii Limited,Australian Securities Exchange,Technology
+ASX:ADS,Adslot Limited,Australian Securities Exchange,Technology
+ASX:C1X,Cosmos Exploration Limited,Australian Securities Exchange,Materials
+ASX:OVT,Ovanti Limited,Australian Securities Exchange,Technology
+ASX:CBY,Canterbury Resources Limited,Australian Securities Exchange,Materials
+ASX:SER,Strategic Energy Resources Limited,Australian Securities Exchange,Materials
+ASX:ZLD,Zelira Therapeutics Limited,Australian Securities Exchange,Healthcare
+ASX:ADR,Adherium Limited,Australian Securities Exchange,Healthcare
+ASX:EVE,EVE Health Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:LVE,Love Group Global Ltd,Australian Securities Exchange,Communication Services
+ASX:EAT,Entertainment Rewards Ltd,Australian Securities Exchange,Technology
+ASX:DGR,DGR Global Limited,Australian Securities Exchange,Materials
+ASX:T88,Taiton Resources Limited,Australian Securities Exchange,Materials
+ASX:MHC,Manhattan Corporation Limited,Australian Securities Exchange,Materials
+ASX:CMO,Cosmo Metals Limited,Australian Securities Exchange,Materials
+ASX:CR3,Core Energy Minerals Ltd,Australian Securities Exchange,Materials
+ASX:RNX,Renegade Exploration Limited,Australian Securities Exchange,Materials
+ASX:IEQ,International Equities Corporation Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:RB6,Rubix Resources Limited,Australian Securities Exchange,Materials
+ASX:AUG,Augustus Minerals Ltd,Australian Securities Exchange,Materials
+ASX:CAQ,CAQ Holdings Limited,Australian Securities Exchange,Real Estate
+ASX:UCM,Uscom Limited,Australian Securities Exchange,Healthcare
+ASX:AER,Aeeris Limited,Australian Securities Exchange,Technology
+ASX:ENX,Enegex Limited,Australian Securities Exchange,Materials
+ASX:GRE,GreenTech Metals Limited,Australian Securities Exchange,Materials
+ASX:14D,1414 Degrees Limited,Australian Securities Exchange,Utilities
+ASX:C29,C29 Metals Limited,Australian Securities Exchange,Materials
+ASX:DDT,DataDot Technology Limited,Australian Securities Exchange,Industrials
+ASX:OB1,Orbminco Limited,Australian Securities Exchange,Materials
+ASX:ITM,iTech Minerals Ltd,Australian Securities Exchange,Materials
+ASX:AFA,ASF Group Limited,Australian Securities Exchange,Financials
+ASX:SNX,Sierra Nevada Gold Inc.,Australian Securities Exchange,Materials
+ASX:EV1,Evolution Energy Minerals Limited,Australian Securities Exchange,Materials
+ASX:VAR,Variscan Mines Limited,Australian Securities Exchange,Materials
+ASX:GES,Genesis Resources Limited,Australian Securities Exchange,Materials
+ASX:BSA,BSA Limited,Australian Securities Exchange,Industrials
+ASX:SRN,Surefire Resources NL,Australian Securities Exchange,Materials
+ASX:OLH,Oldfields Holdings Limited,Australian Securities Exchange,Industrials
+ASX:HWK,Hawk Resources Limited,Australian Securities Exchange,Materials
+ASX:JNO,Juno Minerals Limited,Australian Securities Exchange,Materials
+ASX:HFY,Hubify Limited,Australian Securities Exchange,Communication Services
+ASX:RDS,Redstone Resources Limited,Australian Securities Exchange,Materials
+ASX:PIL,Peppermint Innovation Limited,Australian Securities Exchange,Technology
+ASX:GTE,Great Western Exploration Limited,Australian Securities Exchange,Materials
+ASX:PNT,Panther Metals Ltd,Australian Securities Exchange,Materials
+ASX:NFL,Norfolk Metals Limited,Australian Securities Exchange,Materials
+ASX:GRL,Godolphin Resources Limited,Australian Securities Exchange,Materials
+ASX:PUR,Pursuit Minerals Limited,Australian Securities Exchange,Materials
+ASX:TG1,TechGen Metals Ltd,Australian Securities Exchange,Materials
+ASX:CMB,Cambium Bio Limited,Australian Securities Exchange,Healthcare
+ASX:MQR,Marquee Resources Limited,Australian Securities Exchange,Materials
+ASX:REC,Recharge Metals Limited,Australian Securities Exchange,Materials
+ASX:BHD,Benjamin Hornigold Limited,Australian Securities Exchange,Financials
+ASX:GR8,Great Dirt Resources Ltd,Australian Securities Exchange,Materials
+ASX:OD6,OD6 Metals Limited,Australian Securities Exchange,Materials
+ASX:ACS,Accent Resources NL,Australian Securities Exchange,Materials
+ASX:IMI,Infinity Mining Limited,Australian Securities Exchange,Materials
+ASX:ASQ,Australian Silica Quartz Group Ltd.,Australian Securities Exchange,Materials
+ASX:KLI,Killi Resources Limited,Australian Securities Exchange,Materials
+ASX:SRH,Saferoads Holdings Limited,Australian Securities Exchange,Industrials
+ASX:RMX,Red Mountain Mining Limited,Australian Securities Exchange,Materials
+ASX:TEG,Triangle Energy (Global) Limited,Australian Securities Exchange,Energy
+ASX:EQS,Equity Story Group Ltd,Australian Securities Exchange,Financials
+ASX:ABE,Australian Bond Exchange Holdings Limited,Australian Securities Exchange,Financials
+ASX:LYK,Lykos Metals Limited,Australian Securities Exchange,Materials
+ASX:AUA,Audeara Limited,Australian Securities Exchange,Technology
+ASX:AUH,AustChina Holdings Limited,Australian Securities Exchange,Energy
+ASX:WC1O,West Cobar Metals Limited,Australian Securities Exchange,
+ASX:WC1,West Cobar Metals Limited,Australian Securities Exchange,Materials
+ASX:SHE,Stonehorse Energy Limited,Australian Securities Exchange,Energy
+ASX:FMR,FMR Resources Limited,Australian Securities Exchange,Communication Services
+ASX:SMS,Star Minerals Limited,Australian Securities Exchange,Materials
+ASX:TOY,"Toys""R""Us ANZ Limited",Australian Securities Exchange,Consumer Discretionary
+ASX:BIM,Bindi Metals Limited,Australian Securities Exchange,Materials
+ASX:GED,Golden Deeps Limited,Australian Securities Exchange,Materials
+ASX:LIO,Lion Energy Limited,Australian Securities Exchange,Energy
+ASX:CHR,Charger Metals NL,Australian Securities Exchange,Materials
+ASX:OPL,Opyl Limited,Australian Securities Exchange,Healthcare
+ASX:MGU,Magnum Mining and Exploration Limited,Australian Securities Exchange,Materials
+ASX:BGT,Bio-Gene Technology Limited,Australian Securities Exchange,Healthcare
+ASX:AKN,AuKing Mining Limited,Australian Securities Exchange,Materials
+ASX:FCG,Freedom Care Group Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:SP3,Spectur Limited,Australian Securities Exchange,Industrials
+ASX:A8G,Australasian Metals Limited,Australian Securities Exchange,Materials
+ASX:WYX,Western Yilgarn NL,Australian Securities Exchange,Materials
+ASX:MML,McLaren Minerals Limited,Australian Securities Exchange,Materials
+ASX:QXR,QX Resources Limited,Australian Securities Exchange,Materials
+ASX:BLZ,Blaze Minerals Limited,Australian Securities Exchange,Materials
+ASX:THB,Thunderbird Resources Limited,Australian Securities Exchange,Materials
+ASX:LMS,Litchfield Minerals Limited,Australian Securities Exchange,Materials
+ASX:GLH,Global Health Limited,Australian Securities Exchange,Healthcare
+ASX:ZMM,Zimi Limited,Australian Securities Exchange,Industrials
+ASX:8CO,8common Limited,Australian Securities Exchange,Technology
+ASX:E79,E79 Gold Mines Limited,Australian Securities Exchange,Materials
+ASX:BGE,Bridge SaaS Limited,Australian Securities Exchange,Technology
+ASX:EFE,Eastern Resources Limited,Australian Securities Exchange,Materials
+ASX:TTI,Traffic Technologies Limited,Australian Securities Exchange,Industrials
+ASX:EE1,Earths Energy Limited,Australian Securities Exchange,Materials
+ASX:BMM,Bayan Mining and Minerals Limited,Australian Securities Exchange,Materials
+ASX:AQX,Alice Queen Limited,Australian Securities Exchange,Materials
+ASX:RC1,Redcastle Resources Limited,Australian Securities Exchange,Materials
+ASX:TAS,Tasman Resources Ltd,Australian Securities Exchange,Materials
+ASX:PLC,Premier1 Lithium Limited,Australian Securities Exchange,Materials
+ASX:OMG,OMG Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:BCT,Bluechiip Limited,Australian Securities Exchange,Technology
+ASX:AM5,Antares Metals Limited,Australian Securities Exchange,Materials
+ASX:EMU,Emu NL,Australian Securities Exchange,Materials
+ASX:NPM,NewPeak Metals Limited,Australian Securities Exchange,Materials
+ASX:M24,Mamba Exploration Limited,Australian Securities Exchange,Materials
+ASX:SBR,Sabre Resources Limited,Australian Securities Exchange,Materials
+ASX:GLL,Galilee Energy Limited,Australian Securities Exchange,Energy
+ASX:RCR,Rincon Resources Limited,Australian Securities Exchange,Materials
+ASX:M2R,Miramar Resources Limited,Australian Securities Exchange,Materials
+ASX:CL8,CL8 Holdings Limited,Australian Securities Exchange,Industrials
+ASX:MRZ,Mont Royal Resources Limited,Australian Securities Exchange,Materials
+ASX:FIN,Fin Resources Limited,Australian Securities Exchange,Materials
+ASX:T92,Terra Uranium Limited,Australian Securities Exchange,Energy
+ASX:HPC,The Hydration Pharmaceuticals Company Limited,Australian Securities Exchange,Consumer Staples
+ASX:WBE,Whitebark Energy Limited,Australian Securities Exchange,Energy
+ASX:SLB,Stelar Metals Limited,Australian Securities Exchange,Materials
+ASX:ADD,Adavale Resources Limited,Australian Securities Exchange,Energy
+ASX:NGS,Nutritional Growth Solutions Ltd.,Australian Securities Exchange,Consumer Staples
+ASX:NRZ,NeuRizer Ltd.,Australian Securities Exchange,Materials
+ASX:CMX,ChemX Materials Limited,Australian Securities Exchange,Industrials
+ASX:EXL,Elixinol Wellness Limited,Australian Securities Exchange,Healthcare
+ASX:SHP,South Harz Potash Limited,Australian Securities Exchange,Materials
+ASX:TD1,TALi Digital Limited,Australian Securities Exchange,Healthcare
+ASX:HT8,Harris Technology Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:HYD,Hydrix Limited,Australian Securities Exchange,Technology
+ASX:XPN,XPON Technologies Group Limited,Australian Securities Exchange,Technology
+ASX:SIT,Site Group International Limited,Australian Securities Exchange,Consumer Staples
+ASX:OLI,Oliver's Real Food Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:PBL,Parabellum Resources Limited,Australian Securities Exchange,Materials
+ASX:RBX,Resource Base Limited,Australian Securities Exchange,Materials
+ASX:YOW,Yowie Group Limited,Australian Securities Exchange,Consumer Staples
+ASX:SMX,Strata Minerals Limited,Australian Securities Exchange,Technology
+ASX:TKL,Traka Resources Limited,Australian Securities Exchange,Materials
+ASX:SKN,Skin Elements Limited,Australian Securities Exchange,Consumer Staples
+ASX:8IH,8I Holdings Limited,Australian Securities Exchange,Consumer Staples
+ASX:DTI,DTI Group Limited,Australian Securities Exchange,Industrials
+ASX:BUY,Bounty Oil & Gas NL,Australian Securities Exchange,Energy
+ASX:RBR,RBR Group Limited,Australian Securities Exchange,Industrials
+ASX:TML,Timah Resources Limited,Australian Securities Exchange,Utilities
+ASX:SUMO,Summit Minerals Limited,Australian Securities Exchange,
+ASX:SUM,Summit Minerals Limited,Australian Securities Exchange,Materials
+ASX:PAB,Patrys Limited,Australian Securities Exchange,Healthcare
+ASX:PKD,PARKD Limited,Australian Securities Exchange,Industrials
+ASX:AOK,Australian Oil Company Limited,Australian Securities Exchange,
+ASX:ERG,Eneco Refresh Limited,Australian Securities Exchange,Consumer Staples
+ASX:CPO,Culpeo Minerals Limited,Australian Securities Exchange,Materials
+ASX:MOH,Moho Resources Limited,Australian Securities Exchange,Materials
+ASX:AN1,Anagenics Limited,Australian Securities Exchange,Consumer Staples
+ASX:PKO,Peako Limited,Australian Securities Exchange,Materials
+ASX:CZN,Corazon Mining Limited,Australian Securities Exchange,Materials
+ASX:CT1,Constellation Technologies Limited,Australian Securities Exchange,Technology
+ASX:ICR,Intelicare Holdings Limited,Australian Securities Exchange,Healthcare
+ASX:MEL,Metgasco Limited,Australian Securities Exchange,Energy
+ASX:PPG,Pro-Pac Packaging Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:AUR,Auris Minerals Limited,Australian Securities Exchange,Materials
+ASX:ADC,ACDC Metals Limited,Australian Securities Exchange,Materials
+ASX:HAL,Halo Technologies Holdings Limited,Australian Securities Exchange,Technology
+ASX:IPB,IPB Petroleum Limited,Australian Securities Exchange,Energy
+ASX:CUL,Cullen Resources Limited,Australian Securities Exchange,Materials
+ASX:SFM,Santa Fe Minerals Limited,Australian Securities Exchange,Materials
+ASX:CNJ,Conico Ltd,Australian Securities Exchange,Materials
+ASX:MPR,MPower Group Limited,Australian Securities Exchange,Technology
+ASX:CPM,Cooper Metals Limited,Australian Securities Exchange,Materials
+ASX:WEL,Winchester Energy Limited,Australian Securities Exchange,Energy
+ASX:TMB,Tambourah Metals Limited,Australian Securities Exchange,Materials
+ASX:ACM,Australian Critical Minerals Limited,Australian Securities Exchange,Materials
+ASX:BIT,Biotron Limited,Australian Securities Exchange,Healthcare
+ASX:OM1,Omnia Metals Group Ltd,Australian Securities Exchange,Materials
+ASX:CGO,CPT Global Limited,Australian Securities Exchange,Technology
+ASX:SIS,Simble Solutions Limited,Australian Securities Exchange,Technology
+ASX:KFM,Kingfisher Mining Limited,Australian Securities Exchange,Materials
+ASX:VBS,Vectus Biosystems Limited,Australian Securities Exchange,Healthcare
+ASX:OLY,Olympio Metals Limited,Australian Securities Exchange,Materials
+ASX:EMT,eMetals Limited,Australian Securities Exchange,Materials
+ASX:TEM,Tempest Minerals Limited,Australian Securities Exchange,Materials
+ASX:BMO,Bastion Minerals Limited,Australian Securities Exchange,Materials
+ASX:SQX,SQX Resources Limited,Australian Securities Exchange,Materials
+ASX:1AD,AdAlta Limited,Australian Securities Exchange,Healthcare
+ASX:AOA,Ausmon Resources Limited,Australian Securities Exchange,Materials
+ASX:RCM,Rapid Critical Metals Limited,Australian Securities Exchange,
+ASX:BOA,BOA Resources Limited,Australian Securities Exchange,Materials
+ASX:BSN,Basin Energy Limited,Australian Securities Exchange,Energy
+ASX:LNR,Lanthanein Resources Limited,Australian Securities Exchange,Materials
+ASX:PFT,Pure Foods Tasmania Limited,Australian Securities Exchange,Consumer Staples
+ASX:OSX,Osteopore Limited,Australian Securities Exchange,Healthcare
+ASX:AS2,Askari Metals Limited,Australian Securities Exchange,Materials
+ASX:NTM,NT Minerals Limited,Australian Securities Exchange,Materials
+ASX:PVW,PVW Resources Limited,Australian Securities Exchange,Materials
+ASX:WSR,Westar Resources Limited,Australian Securities Exchange,Materials
+ASX:CTQ,Careteq Limited,Australian Securities Exchange,Healthcare
+ASX:ENT,Enterprise Metals Limited,Australian Securities Exchange,Materials
+ASX:GNM,Great Northern Minerals Limited,Australian Securities Exchange,Materials
+ASX:DBO,Diablo Resources Limited,Australian Securities Exchange,Materials
+ASX:RAS,Ragusa Minerals Limited,Australian Securities Exchange,Materials
+ASX:BPM,BPM Minerals Limited,Australian Securities Exchange,Materials
+ASX:GSM,Golden State Mining Limited,Australian Securities Exchange,Materials
+ASX:LSR,Lodestar Minerals Limited,Australian Securities Exchange,Materials
+ASX:AAJ,Aruma Resources Limited,Australian Securities Exchange,Materials
+ASX:IBX,Imagion Biosystems Limited,Australian Securities Exchange,Healthcare
+ASX:TX3,Trinex Minerals Limited,Australian Securities Exchange,Materials
+ASX:GCR,Golden Cross Resources Limited,Australian Securities Exchange,Materials
+ASX:OEQ,Orion Equities Limited,Australian Securities Exchange,Financials
+ASX:HXL,Hexima Limited,Australian Securities Exchange,Financials
+ASX:HCD,Hydrocarbon Dynamics Limited,Australian Securities Exchange,Materials
+ASX:OCT,Octava Minerals Limited,Australian Securities Exchange,Materials
+ASX:AM7,Arcadia Minerals Limited,Australian Securities Exchange,Materials
+ASX:DAF,Discovery Alaska Limited,Australian Securities Exchange,Materials
+ASX:BP8,BPH Global Ltd,Australian Securities Exchange,Healthcare
+ASX:M3M,M3 Mining Limited,Australian Securities Exchange,Materials
+ASX:DTM,Dart Mining NL,Australian Securities Exchange,Materials
+ASX:CR9,Corella Resources Ltd,Australian Securities Exchange,Materials
+ASX:C7A,Clara Resources Australia Ltd,Australian Securities Exchange,Materials
+ASX:FTC,FinTech Chain Limited,Australian Securities Exchange,Technology
+ASX:MRD,Mount Ridley Mines Limited,Australian Securities Exchange,Materials
+ASX:OAK,Oakridge International Limited,Australian Securities Exchange,Healthcare
+ASX:DUN,Dundas Minerals Limited,Australian Securities Exchange,Materials
+ASX:CUS,Copper Search Limited,Australian Securities Exchange,Materials
+ASX:LRD,Lord Resources Limited,Australian Securities Exchange,Materials
+ASX:TFL,TasFoods Limited,Australian Securities Exchange,Consumer Staples
+ASX:MOM,Moab Minerals Limited,Australian Securities Exchange,Materials
+ASX:IFG,InFocus Group Holdings Limited,Australian Securities Exchange,
+ASX:CRB,Carbine Resources Limited,Australian Securities Exchange,Materials
+ASX:PIM,Pinnacle Minerals Limited,Australian Securities Exchange,Materials
+ASX:IS3,I Synergy Group Limited,Australian Securities Exchange,Communication Services
+ASX:DMG,Dragon Mountain Gold Limited,Australian Securities Exchange,Materials
+ASX:RIE,Riedel Resources Limited,Australian Securities Exchange,Materials
+ASX:CLZ,Classic Minerals Limited,Australian Securities Exchange,Materials
+ASX:AVW,Avira Resources Limited,Australian Securities Exchange,Materials
+ASX:JAY,Jayride Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:1TT,Thrive Tribe Technologies Limited,Australian Securities Exchange,Technology
+ASX:WNR,Wingara AG Limited,Australian Securities Exchange,Consumer Staples
+ASX:MTB,Mount Burgess Mining N.L.,Australian Securities Exchange,Materials
+ASX:BMH,Baumart Holdings Limited,Australian Securities Exchange,Materials
+ASX:AIV,ActivEX Limited,Australian Securities Exchange,Materials
+ASX:ANR,Anatara Lifesciences Ltd,Australian Securities Exchange,Healthcare
+ASX:OKJ,Oakajee Corporation Limited,Australian Securities Exchange,Materials
+ASX:PLG,Pearl Gull Iron Limited,Australian Securities Exchange,Materials
+ASX:PRM,Prominence Energy Ltd,Australian Securities Exchange,Energy
+ASX:RLC,Reedy Lagoon Corporation Limited,Australian Securities Exchange,Materials
+ASX:SLZO,Sultan Resources Limited,Australian Securities Exchange,
+ASX:SLZ,Sultan Resources Limited,Australian Securities Exchange,Materials
+ASX:EMS,Eastern Metals Limited,Australian Securities Exchange,Materials
+ASX:QUE,Queste Communications Ltd,Australian Securities Exchange,Financials
+ASX:APC,APC Minerals Limited,Australian Securities Exchange,Materials
+ASX:KEY,Key Petroleum Limited,Australian Securities Exchange,Energy
+ASX:RAN,Range International Limited,Australian Securities Exchange,Materials
+ASX:MIO,Macarthur Minerals Limited,Australian Securities Exchange,Materials
+ASX:CYQ,Cycliq Group Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:BEL,Bentley Capital Limited,Australian Securities Exchange,Financials
+ASX:T3D,333D Limited,Australian Securities Exchange,Technology
+ASX:MSG,MCS Services Limited,Australian Securities Exchange,Industrials
+ASX:IVT,Inventis Limited,Australian Securities Exchange,Consumer Discretionary
+ASX:MSI,Multistack International Limited,Australian Securities Exchange,Industrials
+ASX:ICU,Investor Centre Limited,Australian Securities Exchange,Financials
+ASX:PAXX,Platinum Asia Fund (Quoted Managed Hedge Fund),Australian Securities Exchange,Financials
+ASX:AME,Alto Metals Limited,Australian Securities Exchange,Materials
+ASX:VTI,"Visioneering Technologies, Inc.",Australian Securities Exchange,Healthcare

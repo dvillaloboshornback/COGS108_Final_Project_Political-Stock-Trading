@@ -1,0 +1,100 @@
+politician_name,committee,sectors
+Abigail Spanberger,"[""Agriculture"", ""Foreign Affairs""]","['Consumer Staples', 'Industrials']"
+April McClain Delaney,"[""Agriculture"", ""Science, Space, and Technology""]","['Consumer Staples', 'Technology']"
+Ashley Moody,"[""Health, Education, Labor, and Pensions"", ""Homeland Security and Governmental Affairs"", ""Judiciary""]","['Healthcare', 'Industrials']"
+August Pfluger,"[""Homeland Security"", ""Foreign Affairs"", ""Energy and Commerce""]","['Energy', 'Industrials']"
+Bill Keating,"[""Armed Services"", ""Foreign Affairs""]",['Industrials']
+Bob Latta,"[""Energy and Commerce""]",['Energy']
+Brad Knott,"[""Homeland Security"", ""the Judiciary"", ""Transportation and Infrastructure""]",['Industrials']
+Bruce Westerman,"[""Revenue And Taxation"", ""State Agencies And Governmental Affairs"", ""Insurance and Commerce""]","['Financials', 'Industrials']"
+Buddy Carter,"[""Energy and Commerce"", ""Budget""]","['Energy', 'Financials']"
+Byron Donalds,"[""Financial Services"", ""Oversight and Accountability""]","['Financials', 'Industrials']"
+Carol Miller,"[""Ways and Means""]",['Financials']
+Chip Roy,"[""Judiciary"", ""Veterans' Affairs"", ""Oversight and Reform"", ""Budget""]","['Financials', 'Healthcare', 'Industrials']"
+Chuck Fleischmann,"[""Appropriations"", ""Energy and Water Development, and Related Agencies"", ""Labor, Health and Human Services, Education and Related Agencies"", ""Defense"", ""Science, Space, and Technology""]","['Financials', 'Healthcare', 'Industrials', 'Technology', 'Utilities']"
+Cleo Fields,"[""Financial Services""]",['Financials']
+Daniel S. Goldman,"[""Judiciary"", ""Homeland Security""]",['Industrials']
+Dave McCormick,"[""Banking, Housing, and Urban Affairs"", ""Energy and Natural Resources"", ""Foreign Relations"", ""Special Aging"", ""Joint Economic""]","['Energy', 'Financials', 'Healthcare', 'Industrials']"
+Dave Min,"[""Natural Resources"", ""Oversight and Government Reform""]","['Industrials', 'Materials']"
+David Taylor,"[""Agriculture"", ""Transportation and Infrastructure""]","['Consumer Staples', 'Industrials']"
+Debbie Dingell,"[""Energy and Commerce"", ""Natural Resources""]","['Energy', 'Materials']"
+Debbie Wasserman Schultz,"[""Appropriations""]",['Financials']
+Doug Lamborn,"[""Veterans Affairs"", ""Appropriations""]","['Financials', 'Healthcare']"
+Dwight Evans,"[""Ways and Means"", ""Small Business""]","['Consumer Discretionary', 'Financials']"
+Earl Blumenauer,"[""Ways and Means""]",['Financials']
+Eleanor Holmes Norton,"[""Oversight and Accountability"", ""Transportation and Infrastructure""]",['Industrials']
+Emily Randall,"[""Natural Resources"", ""Oversight and Government Reform""]","['Industrials', 'Materials']"
+French Hill,"[""Financial Services"", ""Foreign Affairs"", ""Intelligence""]","['Financials', 'Industrials']"
+Gary Peters,"[""Appropriations"", ""Armed Services"", ""Commerce, Science, and Transportation"", ""Homeland Security and Governmental Affairs"", ""Joint Economic""]","['Financials', 'Industrials']"
+George  Whitesides,"[""Armed Services"", ""Science, Space, and Technology""]","['Industrials', 'Technology']"
+Gerry Connolly,"[""Foreign Affairs"", ""Oversight and Reform"", ""Budget""]","['Financials', 'Industrials']"
+Gil Cisneros,"[""Armed Services"", ""Small Business"", ""Veterans' Affairs""]","['Consumer Discretionary', 'Healthcare', 'Industrials']"
+Greg Landsman,"[""Energy and Commerce""]",['Energy']
+Greg Steube,"[""Ways and Means""]",['Financials']
+Gus Bilirakis,"[""Energy and Commerce""]",['Energy']
+Guy Reschenthaler,"[""Appropriations"", ""Rules"", ""Modernization of Congress""]","['Financials', 'Industrials']"
+Hal Rogers,"[""Appropriations""]",['Financials']
+Jake Auchincloss,"[""Energy and Commerce""]",['Energy']
+James Comer,"[""Education and the Workforce"", ""Oversight and Accountability""]",['Industrials']
+Jamie Raskin,"[""Oversight and Accountability""]",['Industrials']
+Jared Moskowitz,"[""Foreign Affairs"", ""Judiciary""]",['Industrials']
+Jefferson Shreve,"[""Foreign Affairs"", ""Transportation and Infrastructure""]",['Industrials']
+Jerry Moran,"[""Intelligence"", ""Appropriations"", ""Commerce, Science, and Transportation"", ""Veterans' Affairs"", ""Indian Affairs"", ""Environment and Public Works"", ""Health, Education, Labor and Pensions""]","['Financials', 'Healthcare', 'Industrials', 'Utilities']"
+Jim Banks,"[""Armed Services"", ""Education and the Workforce"", ""Strategic Competition""]",['Industrials']
+John Boozman,"[""Commission on Security and Cooperation in Europe"", ""Agriculture, Nutrition, and Forestry"", ""Appropriations"", ""Environment and Public Works"", ""Veterans' Affairs""]","['Consumer Staples', 'Financials', 'Healthcare', 'Industrials', 'Utilities']"
+John Delaney,"[""Financial Services"", ""Joint Economic""]",['Financials']
+John Hickenlooper,"[""Energy and Natural Resources"", ""Health, Education, Labor and Pensions"", ""Commerce, Science, and Transportation"", ""Small Business and Entrepreneurship""]","['Consumer Discretionary', 'Energy', 'Healthcare', 'Industrials']"
+John James,"[""Transportation and Infrastructure"", ""Foreign Affairs"", ""Education and the Workforce"", ""Energy and Commerce""]","['Energy', 'Industrials']"
+John Neely Kennedy,"[""Appropriations"", ""Banking, Housing, and Urban Affairs"", ""Budget"", ""Judiciary"", ""Small Business and Entrepreneurship""]","['Consumer Discretionary', 'Financials', 'Industrials']"
+Jonathan Jackson,"[""Agriculture"", ""Foreign Affairs""]","['Consumer Staples', 'Industrials']"
+Josh Gottheimer,"[""Financial Services"", ""Intelligence""]","['Financials', 'Industrials']"
+Julie Johnson,"[""Foreign Affairs"", ""Homeland Security""]",['Industrials']
+Kathy Castor,"[""Energy and Commerce"", ""Strategic Competition between the United States and the Chinese Communist Party ""]","['Energy', 'Industrials']"
+Kathy Manning,"[""Foreign Affairs"", ""Education and the Workforce""]",['Industrials']
+Katie Britt,"[""Appropriations"", ""Banking, Housing, and Urban Affairs"", ""Judiciary"", ""Rules and Administration""]","['Financials', 'Industrials']"
+Keith Self,"[""Foreign Affairs"", ""Veterans' Affairs""]","['Healthcare', 'Industrials']"
+Kelly Morrison,"[""Small Business"", ""Veterans' Affairs""]","['Consumer Discretionary', 'Healthcare']"
+Kevin Hern,"[""Ways and Means"", ""Small Business"", ""Natural Resources""]","['Consumer Discretionary', 'Financials', 'Materials']"
+Lance Gooden,"[""Financial Services""]",['Financials']
+Laurel Lee,"[""Homeland Security"", ""House Administration"", ""Judiciary""]",['Industrials']
+Lloyd Doggett,"[""Ways and Means"", ""Taxation"", ""House Budget""]",['Financials']
+Marco Rubio,"[""Appropriations"", ""Small Business and Entrepreneurship"", ""Intelligence"", ""Foreign Relations"", ""Aging""]","['Consumer Discretionary', 'Financials', 'Healthcare', 'Industrials']"
+Maria Elvira Salazar,"[""Foreign Affairs"", ""Small Business""]","['Consumer Discretionary', 'Industrials']"
+Marjorie Taylor Greene,"[""Homeland Security"", ""Oversight and Accountability""]",['Industrials']
+Mark Green,"[""Homeland Security"", ""Foreign Affairs""]",['Industrials']
+Markwayne Mullin,"[""Armed Services"", ""Environment and Public Works"", ""Health, Education, Labor, and Pension"", ""Indian Affairs""]","['Industrials', 'Utilities']"
+Michael Burgess,"[""Budget"", ""Rules"", ""Energy and Commerce""]","['Energy', 'Financials', 'Industrials']"
+Michael Collins,"[""Natural Resources"", ""Science, Space, and Technology"", ""Transportation and Infrastructure""]","['Industrials', 'Materials', 'Technology']"
+Michael Guest,"[""Appropriations"", ""Ethics"", ""Homeland Security""]","['Financials', 'Industrials']"
+Michael McCaul,"[""Foreign Affairs"", ""Homeland Security""]",['Industrials']
+Mike Kelly,"[""Ways and Means""]",['Financials']
+Mikie Sherrill,"[""Armed Services "", ""Strategic Competition between the United States and the Chinese Communist Party""]",['Industrials']
+Mitch McConnell,"[""Agriculture, Nutrition, and Forestry"", ""Appropriations"", ""Rules and Administration"", ""Intelligence""]","['Consumer Staples', 'Financials', 'Industrials']"
+Morgan McGarvey,"[""Budget"", ""Small Business"", ""Veterans' Affairs""]","['Consumer Discretionary', 'Financials', 'Healthcare']"
+Nancy Pelosi,"[""Appropriations"", ""Intelligence""]","['Financials', 'Industrials']"
+Neal Dunn,"[""Energy and Commerce"", ""Strategic Competition between the United States and the Chinese Communist Party""]","['Energy', 'Industrials']"
+Nicole Malliotakis,"[""Ways and Means"", ""Coronavirus Crisis""]","['Financials', 'Healthcare']"
+Pete Sessions,"[""Financial Services"", ""Oversight and Reform""]","['Financials', 'Industrials']"
+Richard Blumenthal,"[""Armed Services"", ""Homeland Security and Governmental Affairs"", ""Judiciary"", ""Veterans' Affairs"", ""Special Aging""]","['Healthcare', 'Industrials']"
+Rick Allen,"[""Education and the Workforce"", ""Energy and Commerce""]","['Energy', 'Industrials']"
+Rick Larsen,"[""Transportation and Infrastructure""]",['Industrials']
+Ro Khanna,"[""Armed Services"", ""Oversight and Accountability"", ""Strategic Competition between the United States and the Chinese Communist Party""]",['Industrials']
+Rob Bresnahan,"[""Agriculture"", ""Transportation and Infrastructure"", ""Small Business""]","['Consumer Discretionary', 'Consumer Staples', 'Industrials']"
+Ron Wyden,"[""Budget"", ""Energy and Natural Resources"", ""Finance"", ""Select Intelligence"", ""Taxation""]","['Energy', 'Financials', 'Industrials']"
+Scott Franklin,"[""Appropriations"", ""Science, Space, and Technology"", ""Veterans' Affairs""]","['Financials', 'Healthcare', 'Technology']"
+Sheldon Whitehouse,"[""Budget"", ""Environment and Public Works"", ""Finance"", ""Judiciary""]","['Financials', 'Industrials', 'Utilities']"
+Shelley Moore Capito,"[""Financial Services"", ""Transportation and Infrastructure""]","['Financials', 'Industrials']"
+Stephen Lynch,"[""Financial Services"", ""Oversight and Accountability""]","['Financials', 'Industrials']"
+Steve Cohen,"[""Judiciary"", ""Natural Resources"", ""Transportation and Infrastructure"", ""Commission on Security and Cooperation in Europe"", ""House Democratic Steering and Policy""]","['Industrials', 'Materials']"
+Susan Collins,"[""Appropriations"", ""Health, Education, Labor, and Pensions"", ""Intelligence""]","['Financials', 'Healthcare', 'Industrials']"
+Susie Lee,"[""Veterans Affairs"", ""Appropriations"", ""Natural Resources""]","['Financials', 'Healthcare', 'Materials']"
+Thomas Kean Jr,"[""Commerce"", ""Higher Education"", ""Legislative Oversight"", ""Legislative Services Commission""]","['Consumer Discretionary', 'Industrials']"
+Tim Moore,"[""Budget"", ""Financial Services""]",['Financials']
+Tina Smith,"[""Agriculture, Nutrition and Forestry"", ""Banking, Housing, and Urban Affairs"", ""Health, Education, Labor and Pensions"", ""Indian Affairs"", ""Energy and Natural Resources""]","['Consumer Staples', 'Energy', 'Financials', 'Healthcare', 'Industrials']"
+Tom Carper,"[""Environment and Public Works"", ""Finance"", ""Homeland Security and Governmental Affairs""]","['Financials', 'Industrials', 'Utilities']"
+Tom Suozzi,"[""Ways and Means""]",['Financials']
+Tommy Tuberville,"[""Agriculture, Nutrition, and Forestry"", ""Armed Services"", ""Health, Education, Labor and Pensions"", ""Veterans' Affairs""]","['Consumer Staples', 'Healthcare', 'Industrials']"
+Tony Wied,"[""Transportation and Infrastructure"", ""Agriculture"", ""Small Business""]","['Consumer Discretionary', 'Consumer Staples', 'Industrials']"
+Vicente Gonzalez,"[""Financial Services""]",['Financials']
+Victoria Spartz,"[""Judiciary""]",['Industrials']
+Virginia Foxx,"[""House Rules"", ""Education and Labor"", ""Oversight and Government Reform""]",['Industrials']
